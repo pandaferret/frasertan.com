@@ -24,7 +24,11 @@ const categories = [
 ];
 ---
 
-<BaseLayout title="Recipes" description="Browse all recipes">
+<BaseLayout
+  title="Recipes"
+  description="Browse all recipes"
+  breadcrumbs={[{ label: "Home", href: "/" }, { label: "Recipes" }]}
+>
   <h1 id="top">Recipes</h1>
 
   <Search />
