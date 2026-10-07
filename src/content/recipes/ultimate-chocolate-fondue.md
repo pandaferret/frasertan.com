@@ -7,7 +7,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - "New Year's Eve"
-  - Winter
 dietary:
   - GF
   - EF

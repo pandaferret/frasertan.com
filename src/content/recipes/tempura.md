@@ -9,7 +9,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - "New Year's Eve"
-  - Winter
 ---
 
 ## Ingredients
