@@ -4,7 +4,7 @@ description: "Less a recipe than a game plan: a spread of dips and dippers makes
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

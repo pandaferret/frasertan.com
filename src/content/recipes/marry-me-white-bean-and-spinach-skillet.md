@@ -4,6 +4,9 @@ description: "A one-pan vegetarian dinner winner, perfect for a quick, meatless 
 yield: "Serves 4"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian

@@ -4,7 +4,7 @@ description: "These take only a little foresight, and make a great main along wi
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

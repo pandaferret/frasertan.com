@@ -6,7 +6,8 @@ categories:
   - Main Dishes
 subcategories:
   - Slow Cooker Goodness
-  - Sundries
+  - Vegetarian
+  - Beans
 tags:
   - Seasonal Treats
   - Fall

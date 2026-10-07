@@ -4,7 +4,7 @@ description: "Deb's quick - and easy dahl goes well with other Indian dishes and
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

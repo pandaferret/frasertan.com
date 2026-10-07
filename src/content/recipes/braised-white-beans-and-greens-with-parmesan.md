@@ -4,6 +4,9 @@ description: "Inspired by the Italian dish of sautéed puntarelle and white bean
 yield: "Serves 4"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian

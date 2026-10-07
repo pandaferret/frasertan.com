@@ -4,7 +4,7 @@ description: "Deb's creation; yummy, healthy, all in one! May take a bit of prep
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Make Ahead
 dietary:

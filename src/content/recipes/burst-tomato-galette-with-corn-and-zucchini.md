@@ -4,7 +4,7 @@ description: "This is a gem of a recipe from Smitten Kitchen. It captures the es
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Seasonal Treats
   - Summer

@@ -4,7 +4,8 @@ description: "Use a light hand when seasoning with kosher salt, as the cheese it
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian

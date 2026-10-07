@@ -5,7 +5,8 @@ yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian

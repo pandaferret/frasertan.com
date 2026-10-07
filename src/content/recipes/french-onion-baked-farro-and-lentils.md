@@ -5,7 +5,7 @@ yield: "Serves 6-8. Time: 1 hr 45 min"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 source:
   url: "https://smittenkitchen.com/2024/01/french-onion-baked-lentils-and-farro/"
 cover: "/images/recipes/french-onion-baked-farro-and-lentils.jpg"

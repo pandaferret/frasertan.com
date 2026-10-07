@@ -4,7 +4,7 @@ description: "I will admit that I cheat here on weeknights and open up a can of 
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
 source:

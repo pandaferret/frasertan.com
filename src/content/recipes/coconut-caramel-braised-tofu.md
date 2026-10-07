@@ -4,6 +4,8 @@ description: "This came from a request for more tofu - and 'tis delicious! The o
 yield: "Serves 4"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

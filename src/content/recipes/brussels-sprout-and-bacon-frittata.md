@@ -4,6 +4,8 @@ description: "A dinner frittata with an absolute clutter of vegetables and a bit
 yield: "Serves 6"
 categories:
   - Main Dishes
+subcategories:
+  - Pork
 tags:
   - Weeknight Meals
   - Pork

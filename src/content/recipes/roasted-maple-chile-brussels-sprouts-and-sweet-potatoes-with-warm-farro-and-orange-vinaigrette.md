@@ -5,7 +5,7 @@ categories:
   - Main Dishes
   - Side Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 dietary:
   - V*
   - GF*

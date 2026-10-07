@@ -5,7 +5,8 @@ yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
+  - Beans
 dietary:
   - V
 source:

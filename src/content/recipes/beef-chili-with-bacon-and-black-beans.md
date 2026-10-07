@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+  - Beans
 dietary:
   - GF
   - DF

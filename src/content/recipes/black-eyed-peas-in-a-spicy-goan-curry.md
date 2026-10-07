@@ -4,7 +4,8 @@ description: "A vegetarian curry from 5 Spices, 50 Recipes. I like to mix up the
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
+  - Beans
 dietary:
   - V
   - GF
