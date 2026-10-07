@@ -4,6 +4,8 @@ description: "Despite the slightly cringe name, this is a delicious and easy wee
 yield: "Serves 4-6"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Chicken

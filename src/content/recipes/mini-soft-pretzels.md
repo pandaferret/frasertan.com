@@ -2,7 +2,7 @@
 title: "Mini Soft Pretzels"
 description: "Another Smitten Kitchen hit!"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 cover: "/images/recipes/mini-soft-pretzels.jpg"
 ---
 

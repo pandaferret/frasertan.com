@@ -4,6 +4,8 @@ description: "This is the LEGENDARY Peggy cake, staple and standard of the Seide
 yield: "Serves 12-16"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   name: "Peggy"
 ---

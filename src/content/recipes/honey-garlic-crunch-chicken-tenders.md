@@ -3,6 +3,8 @@ title: "Honey Garlic Crunch Chicken Tenders"
 description: "A great way to make fried chicken. We like the sauce served on the side rather than poured over the tenders."
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   url: "http://www.spendwithpennies.com/honey-garlic-crunch-chicken-tenders/"
 cover: "/images/recipes/honey-garlic-crunch-chicken-tenders.jpg"

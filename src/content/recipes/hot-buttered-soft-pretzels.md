@@ -3,7 +3,7 @@ title: "Hot Buttered Soft Pretzels"
 description: "These are quick and easy and - in a pro for our family - makes just a few pretzels! But, the recipe easily scales for a crowd."
 yield: "Makes 8 medium pretzels"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 source:
   url: "https://www.kingarthurbaking.com/recipes/hot-buttered-soft-pretzels-recipe"
 cover: "/images/recipes/hot-buttered-soft-pretzels.jpg"

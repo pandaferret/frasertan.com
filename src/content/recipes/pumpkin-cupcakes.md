@@ -3,6 +3,8 @@ title: "Pumpkin Cupcakes"
 description: "Fall: 'Tis the season - for eating, that is! Thanksgiving and Christmas are on their way, and of course we all just indulged in some luscious Halloween treats! Here is my contribution: pumpkin cupcakes! You can buy canned pumpkin at any grocery store - just make sure to get 100% pure pumpkin, not pumpkin pie mix (that already has sugar and spices in it)."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 tags:
   - Seasonal Treats
   - Fall

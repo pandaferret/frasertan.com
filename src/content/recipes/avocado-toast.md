@@ -2,7 +2,7 @@
 title: "Avocado Toast"
 description: "I kinda just made this one up, with inspiration from lots of different places. Because, come on, what kind of millennial would I be without an avocado toast recipe?"
 categories:
-  - Main Dishes
+  - Breakfast
 tags:
   - Weeknight Meals
   - Vegetarian

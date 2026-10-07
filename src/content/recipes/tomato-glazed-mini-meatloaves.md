@@ -3,6 +3,8 @@ title: "Tomato-Glazed Mini Meatloaves"
 description: "From Smitten Kitchen. Deb recommends serving these with mashed potatoes."
 categories:
   - Main Dishes
+subcategories:
+  - Beef
 source:
   name: "The Smitten Kitchen Cookbook, p. 187"
 ---

@@ -3,6 +3,8 @@ title: "Chocolate Mousse Cake with Raspberries"
 description: "This is a DOOZY of a cake - rich chocolate cake, tangy chocolate mousse filling, fresh raspberries all enrobed in rich chocolate buttercream. It's worth the time and effort to make the layer cake, but I bet it could also do well in cupcake or trifle mode."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   url: "https://www.kingarthurbaking.com/recipes/chocolate-mousse-cake-with-raspberries-recipe?fbclid=IwAR0931Vd1FBNGb8DKUxR3eWrJOMYlG4VjqVD9LqGtpt3dv4Q9-26hLJArJ0"
 cover: "/images/recipes/chocolate-mousse-cake-with-raspberries.jpg"

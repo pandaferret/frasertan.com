@@ -4,6 +4,8 @@ description: "This is the most delicious and easiest cheesecake ever...... oh my
 yield: "Serves 16"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 dietary:
   - EF
 source:

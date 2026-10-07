@@ -3,6 +3,8 @@ title: "Everyday Chocolate Cake"
 description: "Easy to make one bowl one pan chocolate cake! The only not-so-everyday ingredient is the buttermilk."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   name: "Smitten Kitchen"
   url: "http://smittenkitchen.com/blog/2010/08/everyday-chocolate-cake/"

@@ -3,6 +3,8 @@ title: "Chocolate Financiers"
 description: "These delicious treats are gluten free! Thanks Deb!"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 dietary:
   - GF
 source:

@@ -3,6 +3,8 @@ title: "Crispy Tortellini with Peas and Prosciutto"
 description: "Oh Deb you hit the trifecta here; quick, easy and delicious!"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Pork

@@ -4,6 +4,8 @@ description: "Delicious easy and fast!"
 yield: "Serves 4"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Owen fav

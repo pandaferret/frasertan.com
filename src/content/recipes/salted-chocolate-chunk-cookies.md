@@ -2,7 +2,9 @@
 title: "Salted Chocolate Chunk Cookies"
 description: "These are now my second favorite chocolate chip cookies (after Thin and Crispy Chocolate Chip Cookies). The salt adds a lovely tang, and if you can use it, the turbinado sugar makes for a great texture! A few notes from Deb: A couple recipe-specific notes: The version I originally made from the Not Without Salt site called for light brown sugar, says you can bake the dough right away and calls for 8 ounces of chocolate. The version in the (excellent) Date Night In book calls for dark brown sugar, says the dough is best after resting in the fridge for a day or two, and calls for only 6 ounces of chocolate. The good news: both versions work perfectly, but I must insist you use the full half-pound (8 ounces) of chocolate. You will not regret it. In both versions, like most baking recipes, the dry ingredients (salt, flour, baking soda) are to be mixed separately but I’m a lazy cook, and include my own hack below to skip this. Finally, yes, that’s 360, not 350 degrees as the baking temperature. Rodriguez says the extra 10 degrees makes for a better cookie, and I’m not one to argue with such clear mastery of the chocolate chip cookie arts."
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Cookies
 source:
   url: "https://smittenkitchen.com/2015/04/salted-chocolate-chunk-cookies/"
 cover: "/images/recipes/salted-chocolate-chunk-cookies.jpg"

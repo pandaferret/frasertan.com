@@ -3,6 +3,8 @@ title: "Unstuffed Shells with Butternut Squash and Leeks"
 description: "Cheesy jumbo stuffed shells have undeniable appeal, but preboiling and stuffing individual shells can be an ordeal. We set out to make an unstuffed version in which the pasta cooked directly in the sauce. We quickly found the right ratio of liquid to shells to ensure perfectly cooked noodles, but finding the ideal amount of vegetables proved trickier. Cooking butternut squash and leeks in a creamy sauce promised a hearty vegetarian meal, but if we used too much of either vegetable, the skillet was prone to overflowing; too little and the servings looked meager. We settled on 1½ pounds of squash and 1 pound of leeks. Cooking them briefly before adding the pasta and liquid deepened their flavors and ensured that the pasta and squash would finish cooking at the same time. Instead of stuffing the shells, we sprinkled a little Parmesan cheese and dolloped a rich lemon-ricotta mixture over everything before sliding the skillet back in the oven to brown and melt the cheesy toppings.Serves 4 to 6Total time: 1 hour 15 minutesYou can substitute large or medium shells, ziti, farfalle, campanelle, or orecchiette for the jumbo shells here. The skillet will be very full when you add the shells in step 3 (stir gently to start), but will become more manageable as the liquid evaporates and the shells become more malleable.You will need a 12-inch ovensafe nonstick skillet for this recipe."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Seasonal Treats

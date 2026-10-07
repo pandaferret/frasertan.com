@@ -3,6 +3,8 @@ title: "Chicken Piccata"
 description: "Cook's Illustrated wins again!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 ---
 
 ## Ingredients

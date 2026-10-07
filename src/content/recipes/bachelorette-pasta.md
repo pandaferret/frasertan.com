@@ -3,6 +3,8 @@ title: "Bachelor(ette) Pasta"
 description: "An invention independently come up with by both of us, this works well with little prep and a well stocked freezer, pantry and fridge."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Pork

@@ -2,6 +2,8 @@
 title: "Stuffed Shells with Lemon"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "http://www.101cookbooks.com/archives/stuffed-shells-recipe.html"
 ---

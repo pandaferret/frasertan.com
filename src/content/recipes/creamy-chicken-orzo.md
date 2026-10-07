@@ -4,6 +4,8 @@ description: "Easy and delicious on a weeknight!"
 yield: "Serves 6-8"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Eric-friendly

@@ -3,6 +3,8 @@ title: "Pumpkin Sage Pasta Bake"
 description: "Discovered on Oh My Veggies by Autumn and John when they had multitudes of pumpkins to use up! This being them, they added crisped pancetta and spinach."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "http://ohmyveggies.com/pumpkin-sage-baked-ziti/"
 cover: "/images/recipes/pumpkin-sage-pasta-bake.jpg"

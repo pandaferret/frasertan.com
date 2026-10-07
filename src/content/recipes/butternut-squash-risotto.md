@@ -2,6 +2,8 @@
 title: "Butternut Squash Risotto"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - VEG*
   - GF

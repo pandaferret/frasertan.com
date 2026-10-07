@@ -3,6 +3,8 @@ title: "Corn Bacon and Parmesan Pasta"
 description: "All my favorites in one easy quick dish - from Deb!"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Pork

@@ -2,7 +2,9 @@
 title: "Graham Crust"
 description: "Makes 2 cups."
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Pies and Tarts
 source:
   name: "Momofuku Milk Bar"
 ---

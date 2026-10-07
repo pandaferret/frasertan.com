@@ -1,7 +1,7 @@
 ---
 title: "Everything Bagel Mix"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 ---
 
 ## Ingredients

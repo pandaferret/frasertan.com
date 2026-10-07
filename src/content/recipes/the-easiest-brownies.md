@@ -3,6 +3,8 @@ title: "The Easiest Brownies"
 description: "Courtesy of Deb, these brownies are a cinch to make - one bowl only! Also toddler-friendly :)"
 categories:
   - Desserts
+subcategories:
+  - Crumbles, Cobblers, Buckles and Bars
 source:
   url: "https://smittenkitchen.com/2012/08/my-favorite-brownies/"
 cover: "/images/recipes/the-easiest-brownies.jpg"
