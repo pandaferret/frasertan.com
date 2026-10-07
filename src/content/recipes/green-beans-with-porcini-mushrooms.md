@@ -10,6 +10,7 @@ dietary:
 source:
   name: "Edible South Florida"
   url: "https://ediblesouthflorida.ediblecommunities.com/recipe/recipes-green-beans-porcini-mushrooms/"
+cover: "/images/recipes/green-beans-with-porcini-mushrooms.jpg"
 ---
 
 ## Ingredients

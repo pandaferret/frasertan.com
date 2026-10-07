@@ -6,6 +6,7 @@ categories:
   - Drinks
 source:
   url: "https://smittenkitchen.com/2014/12/fairytale-of-new-york/#:~:text=was%20the%20wiser.-,Winter%20Warmth%20Syrup,-1%201/2"
+cover: "/images/recipes/winter-warmth-syrup.jpg"
 ---
 
 ## Ingredients

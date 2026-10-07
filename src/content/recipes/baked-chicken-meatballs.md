@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2009/10/baked-chicken-meatballs/?fbclid=IwAR0DYbokPnZPavN-8SdqV-EzXG8sTJeBz5-_vOY03FQOUDNTEUZNXKiHSt0"
+cover: "/images/recipes/baked-chicken-meatballs.jpg"
 ---
 
 ## Ingredients

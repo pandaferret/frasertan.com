@@ -5,20 +5,29 @@ interface Props {
   title: string;
   slug: string;
   dietary?: string[];
+  cover?: string;
 }
 
-const { title, slug, dietary } = Astro.props;
+const { title, slug, dietary, cover } = Astro.props;
+const href = `/recipes/${slug}/`;
+// Cards use a smaller copy of the cover saved alongside it in cards/.
+const thumb = cover?.replace(/\/([^/]+)$/, "/cards/$1");
 ---
 
 <div class="recipe-card">
-  <h3><a href={`/recipes/${slug}/`}>{title}</a></h3>
-  {
-    dietary && dietary.length > 0 && (
-      <div class="badges">
-        {dietary.map((code) => (
-          <DietaryBadge code={code} />
-        ))}
-      </div>
-    )
-  }
+  <a class="recipe-card-cover" href={href} tabindex="-1" aria-hidden="true">
+    {thumb && <img src={thumb} alt="" loading="lazy" decoding="async" />}
+  </a>
+  <div class="recipe-card-body">
+    <h3><a href={href}>{title}</a></h3>
+    {
+      dietary && dietary.length > 0 && (
+        <div class="badges">
+          {dietary.map((code) => (
+            <DietaryBadge code={code} />
+          ))}
+        </div>
+      )
+    }
+  </div>
 </div>

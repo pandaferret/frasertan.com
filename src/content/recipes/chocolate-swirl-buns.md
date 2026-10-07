@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://smittenkitchen.com/2012/06/chocolate-swirl-buns/"
+cover: "/images/recipes/chocolate-swirl-buns.jpg"
 ---
 
 ## Ingredients

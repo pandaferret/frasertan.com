@@ -3,6 +3,7 @@ title: "Strawberry Cake"
 description: "Courtesy of Martha Stewart. This is a denser type of cake, more like a torte, and shows off the flavor of the berries quite nicely!"
 categories:
   - Desserts
+cover: "/images/recipes/strawberry-cake.jpg"
 ---
 
 ## Ingredients

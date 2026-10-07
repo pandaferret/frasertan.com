@@ -6,6 +6,7 @@ categories:
 source:
   name: "one 15 oz can of pineapple."
   url: "https://cooking.nytimes.com/recipes/1019259-hawaiian-buns"
+cover: "/images/recipes/hawaiian-buns.jpg"
 ---
 
 ## Ingredients

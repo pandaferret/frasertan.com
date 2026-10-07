@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://smittenkitchen.com/2016/05/crispy-tortellini-with-peas-and-prosciutto/"
+cover: "/images/recipes/crispy-tortellini-with-peas-and-prosciutto.jpg"
 ---
 
 ## Ingredients

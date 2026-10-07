@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "https://smittenkitchen.com/2015/08/corn-chowder-salad/"
+cover: "/images/recipes/corn-chowder-salad.jpg"
 ---
 
 ## Ingredients

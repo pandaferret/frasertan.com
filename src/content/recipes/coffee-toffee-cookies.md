@@ -7,6 +7,7 @@ subcategories:
   - Cookies
 source:
   url: "https://www.americastestkitchen.com/guides/the-perfect-cookie/coffee-toffee-cookies"
+cover: "/images/recipes/coffee-toffee-cookies.jpg"
 ---
 
 ## Ingredients

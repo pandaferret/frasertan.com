@@ -8,6 +8,7 @@ subcategories:
 source:
   name: "Deb mention that you can split this into two loaf pans."
   url: "https://www.cooksillustrated.com/recipes/9894-cider-glazed-apple-bundt-cake"
+cover: "/images/recipes/cider-glazed-apple-bundt-cake.jpg"
 ---
 
 ## Ingredients

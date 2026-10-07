@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2010/01/best-cocoa-brownies/"
+cover: "/images/recipes/dark-cocoa-brownies.jpg"
 ---
 
 ## Ingredients

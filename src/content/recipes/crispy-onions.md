@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "https://www.americastestkitchen.com/recipes/8036-crispy-onions"
+cover: "/images/recipes/crispy-onions.jpg"
 ---
 
 ## Ingredients

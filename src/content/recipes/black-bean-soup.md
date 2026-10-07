@@ -11,6 +11,7 @@ tags:
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/20-minute-black-bean-soup-11782626"
+cover: "/images/recipes/black-bean-soup.jpg"
 ---
 
 ## Ingredients

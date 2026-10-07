@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "https://www.cooksillustrated.com/recipes/1274-whole-wheat-pancakes"
+cover: "/images/recipes/whole-wheat-pancakes.jpg"
 ---
 
 ## Ingredients

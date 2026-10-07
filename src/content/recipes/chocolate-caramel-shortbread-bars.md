@@ -9,6 +9,7 @@ tags:
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/chocolate-caramel-shortbread-bars/"
+cover: "/images/recipes/chocolate-caramel-shortbread-bars.jpg"
 ---
 
 ## Ingredients

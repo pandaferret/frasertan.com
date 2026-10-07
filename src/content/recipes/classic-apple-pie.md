@@ -12,6 +12,7 @@ tags:
 source:
   name: "Cook's Illustrated"
   url: "https://www.americastestkitchen.com/recipes/1377-classic-apple-pie"
+cover: "/images/recipes/classic-apple-pie.jpg"
 ---
 
 ## Ingredients

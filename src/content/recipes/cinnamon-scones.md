@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2019/09/cinnamon-sugar-scones/?fbclid=IwAR3smdKH6-hwwN6bsaX4APtxvF9zrcxs8773qFpSmjlJu0qzeaeTIRQkR0o"
+cover: "/images/recipes/cinnamon-scones.jpg"
 ---
 
 ## Ingredients

@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 source:
   url: "https://www.kingarthurbaking.com/recipes/hot-buttered-soft-pretzels-recipe"
+cover: "/images/recipes/hot-buttered-soft-pretzels.jpg"
 ---
 
 ## Ingredients

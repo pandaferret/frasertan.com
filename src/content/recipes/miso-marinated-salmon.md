@@ -12,6 +12,7 @@ dietary:
   - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/8572-miso-marinated-salmon"
+cover: "/images/recipes/miso-marinated-salmon.jpg"
 ---
 
 ## Ingredients

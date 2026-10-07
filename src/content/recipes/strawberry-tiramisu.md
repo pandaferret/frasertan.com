@@ -11,6 +11,7 @@ tags:
 source:
   name: "Love and Lemons"
   url: "https://www.loveandlemons.com/strawberry-tiramisu/"
+cover: "/images/recipes/strawberry-tiramisu.jpg"
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ subcategories:
 source:
   name: "Cooking to Entertain"
   url: "https://cookingtoentertain.com/coffee-bean-cookies/"
+cover: "/images/recipes/coffee-bean-cookies.jpg"
 ---
 
 ## Ingredients

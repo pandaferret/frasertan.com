@@ -6,6 +6,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://joythebaker.com/2009/06/cream-cheese-cinnamon-rolls/"
+cover: "/images/recipes/cream-cheese-cinnamon-rolls.jpg"
 ---
 
 ## Ingredients

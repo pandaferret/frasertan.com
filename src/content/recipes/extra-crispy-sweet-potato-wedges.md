@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "http://bakerbynature.com/extra-crispy-sweet-potato-wedges/"
+cover: "/images/recipes/extra-crispy-sweet-potato-wedges.jpg"
 ---
 
 ## Ingredients

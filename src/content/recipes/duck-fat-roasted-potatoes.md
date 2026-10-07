@@ -4,6 +4,7 @@ categories:
   - Side Dishes
 source:
   url: "http://www.cooksillustrated.com/recipes/8342-duck-fat-roasted-potatoes"
+cover: "/images/recipes/duck-fat-roasted-potatoes.jpg"
 ---
 
 ## Ingredients

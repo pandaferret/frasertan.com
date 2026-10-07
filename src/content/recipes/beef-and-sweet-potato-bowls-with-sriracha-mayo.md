@@ -13,6 +13,7 @@ dietary:
   - GF*
 source:
   url: "https://www.youtube.com/watch?v=b5IfhdgJKEY"
+cover: "/images/recipes/beef-and-sweet-potato-bowls-with-sriracha-mayo.jpg"
 ---
 
 ## Ingredients

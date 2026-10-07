@@ -6,6 +6,7 @@ categories:
 source:
   name: "Cook's Illustrated"
   url: "https://www.cooksillustrated.com/recipes/7670-cheese-souffle?incode=MCSCD00L0&ref=new_search_experience_1"
+cover: "/images/recipes/classic-cheese-souffle.jpg"
 ---
 
 ## Ingredients

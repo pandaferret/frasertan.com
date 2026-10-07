@@ -6,6 +6,7 @@ categories:
 source:
   name: "Deb on Dutch vs natural cocoa powder:"
   url: "http://smittenkitchen.com/blog/2010/08/everyday-chocolate-cake/"
+cover: "/images/recipes/everyday-chocolate-cake.jpg"
 ---
 
 ## Ingredients

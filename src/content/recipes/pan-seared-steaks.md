@@ -11,6 +11,7 @@ dietary:
   - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/676-pan-seared-steaks"
+cover: "/images/recipes/pan-seared-steaks.jpg"
 ---
 
 ## Ingredients

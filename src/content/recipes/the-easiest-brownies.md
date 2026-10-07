@@ -5,6 +5,7 @@ categories:
   - Desserts
 source:
   url: "https://smittenkitchen.com/2012/08/my-favorite-brownies/"
+cover: "/images/recipes/the-easiest-brownies.jpg"
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ subcategories:
   - Cakes and Cupcakes
 source:
   url: "https://smittenkitchen.com/2012/01/apple-sharlotka/"
+cover: "/images/recipes/apple-sharlotka.jpg"
 ---
 
 ## Ingredients

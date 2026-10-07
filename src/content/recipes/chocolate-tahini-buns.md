@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://smittenkitchen.com/2017/09/chocolate-tahini-challah-buns/"
+cover: "/images/recipes/chocolate-tahini-buns.jpg"
 ---
 
 ## Ingredients

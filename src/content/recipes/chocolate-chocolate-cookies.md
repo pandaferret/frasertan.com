@@ -7,6 +7,7 @@ subcategories:
   - Cookies
 source:
   name: "Momofuku Milk Bar"
+cover: "/images/recipes/chocolate-chocolate-cookies.jpg"
 ---
 
 ## Ingredients

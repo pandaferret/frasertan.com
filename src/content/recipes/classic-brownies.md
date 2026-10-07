@@ -7,6 +7,7 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 source:
   url: "https://smittenkitchen.com/2006/10/and-then-i-went-shoe-shopping/"
+cover: "/images/recipes/classic-brownies.jpg"
 ---
 
 ## Ingredients

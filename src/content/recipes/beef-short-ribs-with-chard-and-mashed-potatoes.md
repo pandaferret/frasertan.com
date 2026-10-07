@@ -12,6 +12,7 @@ dietary:
   - DF
 source:
   url: "https://smittenkitchen.com/2008/12/braised-beef-short-ribs/"
+cover: "/images/recipes/beef-short-ribs-with-chard-and-mashed-potatoes.jpg"
 ---
 
 ## Ingredients

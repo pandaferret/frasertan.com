@@ -5,6 +5,7 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+cover: "/images/recipes/cornflake-chocolate-chip-marshmallow-cookies.jpg"
 ---
 
 ## Ingredients

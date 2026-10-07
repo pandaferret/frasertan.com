@@ -7,6 +7,7 @@ dietary:
   - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/13892-banana-walnut-muffins"
+cover: "/images/recipes/banana-pecan-muffins.jpg"
 ---
 
 ## Ingredients

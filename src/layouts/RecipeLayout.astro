@@ -11,6 +11,7 @@ interface Props {
   tags?: string[];
   dietary?: string[];
   source?: { name?: string; url?: string };
+  cover?: string;
 }
 
 const {
@@ -22,6 +23,7 @@ const {
   tags,
   dietary,
   source,
+  cover,
 } = Astro.props;
 
 // Friendly names for common recipe sites, used when a source has a URL but
@@ -69,6 +71,13 @@ const breadcrumbs = [
 ---
 
 <BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+  {
+    cover && (
+      <div class="recipe-cover" slot="banner">
+        <img src={cover} alt="" />
+      </div>
+    )
+  }
   <article data-pagefind-body>
     <div class="recipe-header">
       <h1>{title}</h1>

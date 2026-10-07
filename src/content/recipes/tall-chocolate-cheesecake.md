@@ -6,6 +6,7 @@ categories:
 source:
   name: "2"
   url: "https://lifemadesimplebakes.com/perfect-chocolate-cheesecake/"
+cover: "/images/recipes/tall-chocolate-cheesecake.jpg"
 ---
 
 ## Ingredients

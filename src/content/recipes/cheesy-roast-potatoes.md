@@ -11,6 +11,7 @@ dietary:
 source:
   name: "America's Test Kitchen"
   url: "https://www.americastestkitchen.com/recipes/11036-cheesy-ranch-potatoes"
+cover: "/images/recipes/cheesy-roast-potatoes.jpg"
 ---
 
 ## Ingredients

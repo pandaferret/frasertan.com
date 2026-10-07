@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake"
+cover: "/images/recipes/earl-grey-cardamom-crumb-cake.jpg"
 ---
 
 ## Ingredients

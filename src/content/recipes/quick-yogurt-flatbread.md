@@ -7,6 +7,7 @@ dietary:
   - EF
 source:
   url: "https://www.bonappetit.com/recipe/falafel-spiced-tomatoes-and-chickpeas-on-flatbread"
+cover: "/images/recipes/quick-yogurt-flatbread.jpg"
 ---
 
 ## Ingredients

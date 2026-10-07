@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "The Kitchen Whisperer"
   url: "https://www.thekitchenwhisperer.net/2014/09/17/best-ever-chocolate-lofthouse-cookies/"
+cover: "/images/recipes/chocolate-lofthouse-cookies-with-raspberry-buttercream.jpg"
 ---
 
 ## Ingredients

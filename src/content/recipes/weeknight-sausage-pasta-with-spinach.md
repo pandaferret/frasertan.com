@@ -10,6 +10,7 @@ tags:
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/sausage-pasta-recipe-23411736"
+cover: "/images/recipes/weeknight-sausage-pasta-with-spinach.jpg"
 ---
 
 ## Ingredients

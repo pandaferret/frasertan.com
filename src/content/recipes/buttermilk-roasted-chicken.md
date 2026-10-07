@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2012/01/buttermilk-roast-chicken/"
+cover: "/images/recipes/buttermilk-roasted-chicken.jpg"
 ---
 
 ## Ingredients

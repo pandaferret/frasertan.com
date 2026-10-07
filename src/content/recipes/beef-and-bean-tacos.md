@@ -12,6 +12,7 @@ dietary:
   - GF*
 source:
   url: "https://www.cookscountry.com/recipes/7346-beef-and-bean-burritos/print"
+cover: "/images/recipes/beef-and-bean-tacos.jpg"
 ---
 
 ## Ingredients

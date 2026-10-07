@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
 source:
   url: "http://joythebaker.com/2010/12/egg-salad-sandwiches/"
+cover: "/images/recipes/egg-salad-sandwiches.jpg"
 ---
 
 ## Ingredients

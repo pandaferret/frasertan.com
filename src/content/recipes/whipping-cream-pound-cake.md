@@ -5,6 +5,7 @@ categories:
   - Desserts
 source:
   url: "https://www.reddit.com/r/Old_Recipes/comments/n5doum/my_personal_favorite_whipping_cream_cake/"
+cover: "/images/recipes/whipping-cream-pound-cake.jpg"
 ---
 
 ## Ingredients

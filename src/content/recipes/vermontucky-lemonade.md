@@ -5,6 +5,7 @@ categories:
   - Drinks
 source:
   url: "https://smittenkitchen.com/2011/05/vermontucky-lemonade/"
+cover: "/images/recipes/vermontucky-lemonade.jpg"
 ---
 
 ## Ingredients

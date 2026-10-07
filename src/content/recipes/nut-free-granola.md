@@ -7,6 +7,7 @@ dietary:
   - GF
 source:
   url: "http://www.geniuskitchen.com/recipe/kid-safe-nut-free-granola-465337"
+cover: "/images/recipes/nut-free-granola.jpg"
 ---
 
 ## Ingredients

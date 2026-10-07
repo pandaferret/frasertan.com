@@ -8,6 +8,7 @@ subcategories:
   - Cookies
 source:
   name: "The Perfect Cookie (America's Test Kitchen), p. 139"
+cover: "/images/recipes/smores-blossom-cookies.jpg"
 ---
 
 ## Ingredients

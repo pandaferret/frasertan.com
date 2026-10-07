@@ -8,6 +8,7 @@ subcategories:
   - Pork
 source:
   url: "https://www.recipetineats.com/wprm_print/23404"
+cover: "/images/recipes/vietnamese-caramel-pork.jpg"
 ---
 
 ## Ingredients

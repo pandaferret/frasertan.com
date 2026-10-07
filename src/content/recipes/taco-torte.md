@@ -13,6 +13,7 @@ dietary:
   - GF*
 source:
   url: "https://smittenkitchen.com/2016/02/taco-torte/"
+cover: "/images/recipes/taco-torte.jpg"
 ---
 
 ## Ingredients

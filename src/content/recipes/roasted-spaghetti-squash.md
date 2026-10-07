@@ -9,6 +9,7 @@ dietary:
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/spaghetti-squash-recipe-23685583"
+cover: "/images/recipes/roasted-spaghetti-squash.jpg"
 ---
 
 ## Ingredients

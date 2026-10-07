@@ -11,6 +11,7 @@ dietary:
   - EF
 source:
   url: "https://smittenkitchen.com/2013/07/peach-and-pecan-sandy-crumble/"
+cover: "/images/recipes/peach-and-pecan-sandy-crumble.jpg"
 ---
 
 ## Ingredients

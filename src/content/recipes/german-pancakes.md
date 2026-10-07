@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "https://smittenkitchen.com/2006/12/loopy-breakfast-goodness/"
+cover: "/images/recipes/german-pancakes.jpg"
 ---
 
 ## Ingredients

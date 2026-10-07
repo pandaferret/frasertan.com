@@ -7,6 +7,7 @@ dietary:
   - GF
 source:
   url: "https://food52.com/recipes/77622-nigel-slater-s-raspberry-ripple-sandwich"
+cover: "/images/recipes/chocolate-cloud-cake-with-raspberry-ripple-cream.jpg"
 ---
 
 ## Ingredients

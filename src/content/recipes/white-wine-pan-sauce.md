@@ -5,6 +5,7 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/7794-white-wine-pan-sauce"
+cover: "/images/recipes/white-wine-pan-sauce.jpg"
 ---
 
 ## Ingredients

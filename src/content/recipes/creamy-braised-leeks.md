@@ -4,6 +4,7 @@ description: "A delicious find from Jeanne! This is a super forgiving recipe. It
 categories:
   - Starters
   - Side Dishes
+cover: "/images/recipes/creamy-braised-leeks.jpg"
 ---
 
 ## Ingredients

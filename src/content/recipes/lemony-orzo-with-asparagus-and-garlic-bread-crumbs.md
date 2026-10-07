@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
+cover: "/images/recipes/lemony-orzo-with-asparagus-and-garlic-bread-crumbs.jpg"
 ---
 
 ## Ingredients

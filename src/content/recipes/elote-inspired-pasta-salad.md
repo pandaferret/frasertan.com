@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
+cover: "/images/recipes/elote-inspired-pasta-salad.jpg"
 ---
 
 ## Ingredients

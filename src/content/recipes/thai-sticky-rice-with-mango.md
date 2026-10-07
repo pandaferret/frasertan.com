@@ -10,6 +10,7 @@ dietary:
   - EF
 source:
   url: "http://www.epicurious.com/recipes/food/views/sticky-rice-with-mango-12066"
+cover: "/images/recipes/thai-sticky-rice-with-mango.jpg"
 ---
 
 ## Ingredients

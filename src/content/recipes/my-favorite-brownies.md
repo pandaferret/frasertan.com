@@ -10,6 +10,7 @@ tags:
   - Make Ahead
 source:
   name: "100 Cookies by Sarah Kieffer"
+cover: "/images/recipes/my-favorite-brownies.jpg"
 ---
 
 ## Ingredients

@@ -6,6 +6,7 @@ subcategories:
   - Slow Cooker Goodness
 source:
   url: "http://www.food.com/recipe/hearty-lamb-and-lentil-stew-375190"
+cover: "/images/recipes/lamb-and-lentil-stew.jpg"
 ---
 
 ## Ingredients

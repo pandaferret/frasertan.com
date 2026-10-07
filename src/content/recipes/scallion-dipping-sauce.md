@@ -4,6 +4,7 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/2898-scallion-dipping-sauce"
+cover: "/images/recipes/scallion-dipping-sauce.jpg"
 ---
 
 ## Ingredients

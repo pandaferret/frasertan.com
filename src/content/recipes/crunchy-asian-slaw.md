@@ -6,6 +6,7 @@ categories:
   - Salads
 source:
   url: "https://www.feastingathome.com/asian-slaw/print/25058/"
+cover: "/images/recipes/crunchy-asian-slaw.jpg"
 ---
 
 ## Ingredients

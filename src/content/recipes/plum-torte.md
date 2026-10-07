@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
 source:
   url: "https://smittenkitchen.com/2013/10/purple-plum-torte/"
+cover: "/images/recipes/plum-torte.jpg"
 ---
 
 ## Ingredients

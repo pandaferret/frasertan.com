@@ -10,6 +10,7 @@ tags:
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1025319-honey-garlic-chicken"
+cover: "/images/recipes/honey-garlic-chicken-breasts.jpg"
 ---
 
 ## Ingredients

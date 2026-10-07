@@ -9,6 +9,7 @@ dietary:
   - GF
 source:
   url: "https://damndelicious.net/2014/12/31/lemon-butter-chicken/"
+cover: "/images/recipes/lemon-butter-chicken.jpg"
 ---
 
 ## Ingredients

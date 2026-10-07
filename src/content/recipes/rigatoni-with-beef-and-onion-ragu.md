@@ -4,6 +4,7 @@ categories:
   - Main Dishes
 source:
   url: "http://www.cooksillustrated.com/recipes/7484-rigatoni-with-beef-and-onion-ragu"
+cover: "/images/recipes/rigatoni-with-beef-and-onion-ragu.jpg"
 ---
 
 ## Ingredients

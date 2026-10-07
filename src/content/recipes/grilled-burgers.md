@@ -12,6 +12,7 @@ dietary:
   - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/585-gas-grilled-hamburgers?incode=MCSCD00L0&ref=new_search_experience_17"
+cover: "/images/recipes/grilled-burgers.jpg"
 ---
 
 ## Ingredients

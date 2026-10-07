@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://cooking.nytimes.com/recipes/1024063-salmon-with-garlic-butter-and-tomato-pasta"
+cover: "/images/recipes/salmon-with-garlic-butter-and-tomato-pasta.jpg"
 ---
 
 ## Ingredients

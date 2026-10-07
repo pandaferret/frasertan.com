@@ -8,6 +8,7 @@ subcategories:
 source:
   name: "Chocolate Creme Pie in a Jar"
   url: "https://www.americastestkitchen.com/recipes/13299-chocolate-cream-pie-in-a-jar"
+cover: "/images/recipes/chocolate-creme-pie.jpg"
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ subcategories:
   - Cookies
 source:
   url: "https://food52.com/recipes/81563-pan-banging-chocolate-chip-cookies-recipe-adaptation"
+cover: "/images/recipes/wrinkled-chocolate-chip-cookies.jpg"
 ---
 
 ## Ingredients

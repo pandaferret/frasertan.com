@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "NYT Cooking (Mark Bittman)"
   url: "https://cooking.nytimes.com/recipes/1013147-rhubarb-crisp"
+cover: "/images/recipes/rhubarb-crisp.jpg"
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ dietary:
   - EF
 source:
   url: "https://mommyshomecooking.com/best-eggless-banana-bread/"
+cover: "/images/recipes/banana-muffins-egg-free.jpg"
 ---
 
 ## Ingredients

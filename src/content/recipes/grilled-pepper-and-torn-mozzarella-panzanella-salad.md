@@ -5,6 +5,7 @@ categories:
   - Salads
 source:
   url: "https://smittenkitchen.com/2017/06/grilled-pepper-and-torn-mozzarella-panzanella/"
+cover: "/images/recipes/grilled-pepper-and-torn-mozzarella-panzanella-salad.jpg"
 ---
 
 ## Ingredients

@@ -5,6 +5,7 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+cover: "/images/recipes/jacques-torres-chocolate-chip-cookies.jpg"
 ---
 
 ## Ingredients

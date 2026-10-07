@@ -8,6 +8,7 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 source:
   name: "100 Cookies by Sarah Kieffer"
+cover: "/images/recipes/blondies.jpg"
 ---
 
 ## Ingredients

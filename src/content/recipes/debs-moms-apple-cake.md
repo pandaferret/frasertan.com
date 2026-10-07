@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
 source:
   url: "https://smittenkitchen.com/2008/09/moms-apple-cake/"
+cover: "/images/recipes/debs-moms-apple-cake.jpg"
 ---
 
 ## Ingredients

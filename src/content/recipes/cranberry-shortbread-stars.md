@@ -11,6 +11,7 @@ dietary:
   - EF
 source:
   url: "https://www.tasteofhome.com/recipes/cranberry-shortbread-stars/"
+cover: "/images/recipes/cranberry-shortbread-stars.jpg"
 ---
 
 ## Ingredients

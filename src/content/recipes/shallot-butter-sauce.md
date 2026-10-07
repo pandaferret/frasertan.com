@@ -5,6 +5,7 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/1887-shallot-butter-sauce"
+cover: "/images/recipes/shallot-butter-sauce.jpg"
 ---
 
 ## Ingredients

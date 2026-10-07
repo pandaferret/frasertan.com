@@ -4,6 +4,7 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/5862-lemon-and-chive-pan-sauce"
+cover: "/images/recipes/lemon-and-chive-pan-sauce.jpg"
 ---
 
 ## Ingredients

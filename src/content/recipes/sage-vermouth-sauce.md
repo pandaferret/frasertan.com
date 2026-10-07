@@ -6,6 +6,7 @@ categories:
 source:
   name: "."
   url: "http://www.cooksillustrated.com/recipes/39-pan-roasted-chicken-breasts-with-sage-vermouth-sauce"
+cover: "/images/recipes/sage-vermouth-sauce.jpg"
 ---
 
 ## Ingredients

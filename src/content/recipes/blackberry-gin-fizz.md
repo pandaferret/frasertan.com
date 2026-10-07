@@ -5,6 +5,7 @@ categories:
   - Drinks
 source:
   url: "https://smittenkitchen.com/2012/07/blackberry-gin-fizz/"
+cover: "/images/recipes/blackberry-gin-fizz.jpg"
 ---
 
 ## Ingredients

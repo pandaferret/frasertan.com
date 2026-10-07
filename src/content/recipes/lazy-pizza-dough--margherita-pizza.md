@@ -13,6 +13,7 @@ dietary:
 source:
   name: "Deb:"
   url: "https://smittenkitchen.com/2013/10/lazy-pizza-dough-favorite-margarita-pizza/"
+cover: "/images/recipes/lazy-pizza-dough--margherita-pizza.jpg"
 ---
 
 ## Ingredients

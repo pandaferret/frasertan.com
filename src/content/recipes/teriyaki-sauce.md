@@ -6,6 +6,7 @@ categories:
 source:
   name: "The Foodie Takes Flight"
   url: "https://thefoodietakesflight.com/homemade-teriyaki-sauce/"
+cover: "/images/recipes/teriyaki-sauce.jpg"
 ---
 
 ## Ingredients

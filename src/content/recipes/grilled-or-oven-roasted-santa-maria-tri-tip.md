@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "Santa Maria style rub"
   url: "https://cooking.nytimes.com/recipes/1016918-all-purpose-california-beef-rub"
+cover: "/images/recipes/grilled-or-oven-roasted-santa-maria-tri-tip.jpg"
 ---
 
 ## Ingredients

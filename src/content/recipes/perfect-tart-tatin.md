@@ -9,6 +9,7 @@ subcategories:
 source:
   name: "here"
   url: "https://smittenkitchen.com/2019/11/perfect-apple-tarte-tatin/?fbclid=IwAR2aBdJk-lOWmgGWhRv-rlwe3eFoEQtEhNqJSpfWLLtoOTzOqRFUrrNbWMA"
+cover: "/images/recipes/perfect-tart-tatin.jpg"
 ---
 
 ## Ingredients

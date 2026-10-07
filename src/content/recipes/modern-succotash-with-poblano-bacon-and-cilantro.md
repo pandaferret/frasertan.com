@@ -4,6 +4,7 @@ categories:
   - Side Dishes
 source:
   url: "http://www.cooksillustrated.com/recipes/8429-modern-succotash-with-poblano-bacon-and-cilantro"
+cover: "/images/recipes/modern-succotash-with-poblano-bacon-and-cilantro.jpg"
 ---
 
 ## Ingredients

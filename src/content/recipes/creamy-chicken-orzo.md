@@ -8,6 +8,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://bake-eat-repeat.com/lemon-orzo-chicken-parmesan-recipe/"
+cover: "/images/recipes/creamy-chicken-orzo.jpg"
 ---
 
 ## Ingredients

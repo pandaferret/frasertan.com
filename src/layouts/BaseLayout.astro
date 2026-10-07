@@ -30,6 +30,7 @@ const pageTitle =
   </head>
   <body>
     {!hideHeader && <Navigation />}
+    <slot name="banner" />
     <main class="container">
       {breadcrumbs && <Breadcrumbs items={breadcrumbs} />}
       <slot />

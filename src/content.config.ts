@@ -11,6 +11,7 @@ const recipes = defineCollection({
     subcategories: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),
     dietary: z.array(z.string()).optional(),
+    cover: z.string().optional(),
     source: z
       .object({
         name: z.string().optional(),

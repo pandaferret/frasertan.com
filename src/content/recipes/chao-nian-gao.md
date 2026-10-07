@@ -13,6 +13,7 @@ dietary:
 source:
   name: "America's Test Kitchen"
   url: "https://www.americastestkitchen.com/recipes/16633-chao-nian-gao-stir-fried-chinese-rice-cakes-with-napa-cabbage-and-pork"
+cover: "/images/recipes/chao-nian-gao.jpg"
 ---
 
 ## Ingredients

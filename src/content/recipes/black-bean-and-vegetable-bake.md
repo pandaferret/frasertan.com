@@ -12,6 +12,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2024/05/black-bean-and-vegetable-bake/"
+cover: "/images/recipes/black-bean-and-vegetable-bake.jpg"
 ---
 
 ## Ingredients

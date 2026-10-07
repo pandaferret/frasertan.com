@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://www.cookscountry.com/recipes/7603-skillet-chicken-fajitas?extcode=MCSKD10L0&ref=new_search_experience_16"
+cover: "/images/recipes/skillet-chicken-fajitas.jpg"
 ---
 
 ## Ingredients

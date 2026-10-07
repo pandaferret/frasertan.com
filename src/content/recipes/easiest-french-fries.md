@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "https://smittenkitchen.com/2017/03/easiest-french-fries/?fbclid=IwAR0g58ac3zc9mSBR1LVXlrf3GOKGBt_qKp941HoecCFhcG0x6vQyeYf5I4E"
+cover: "/images/recipes/easiest-french-fries.jpg"
 ---
 
 ## Ingredients

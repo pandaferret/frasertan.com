@@ -8,6 +8,7 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 source:
   url: "https://preppykitchen.com/smores-bars/"
+cover: "/images/recipes/smores-bars.jpg"
 ---
 
 ## Ingredients

@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
 source:
   url: "http://smittenkitchen.com/blog/2007/10/butternut-squash-and-caramelized-onion-galette/"
+cover: "/images/recipes/butternut-squash-and-caramelized-onion-galette.jpg"
 ---
 
 ## Ingredients

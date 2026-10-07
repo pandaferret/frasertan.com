@@ -9,6 +9,7 @@ dietary:
   - V
 source:
   url: "http://smittenkitchen.com/blog/2010/05/shaved-asparagus-pizza/"
+cover: "/images/recipes/shaved-asparagus-pizza.jpg"
 ---
 
 ## Ingredients

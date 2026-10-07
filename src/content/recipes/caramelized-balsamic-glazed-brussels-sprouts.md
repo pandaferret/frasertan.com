@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "http://www.simplyscratch.com/2013/01/caramelized-balsamic-glazed-brussels-sprouts.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+simplyscratch/wPkJ+(*simply+scratch*)"
+cover: "/images/recipes/caramelized-balsamic-glazed-brussels-sprouts.jpg"
 ---
 
 ## Ingredients

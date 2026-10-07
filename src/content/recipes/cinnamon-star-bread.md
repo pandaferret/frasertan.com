@@ -6,6 +6,7 @@ categories:
 source:
   name: "King Arthur recipe"
   url: "https://www.kingarthurflour.com/recipes/cinnamon-star-bread-recipe"
+cover: "/images/recipes/cinnamon-star-bread.jpg"
 ---
 
 ## Ingredients

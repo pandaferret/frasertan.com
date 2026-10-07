@@ -10,6 +10,7 @@ dietary:
   - EF
 source:
   url: "https://www.bonappetit.com/columns/cooking-without-recipes/article/kale-cabbage-sausage-weeknight-dinner"
+cover: "/images/recipes/sausages-and-greens.jpg"
 ---
 
 ## Ingredients
