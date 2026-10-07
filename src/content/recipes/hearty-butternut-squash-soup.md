@@ -13,7 +13,7 @@ source:
 
 Soup:
 
-- 1 2 to 2 1/2 lb butternut squash
+- 1 (2 to 2 1/2 lb) butternut squash
 - 4 cups chicken broth
 - 3 cups water
 - 4 tbsp unsalted butter

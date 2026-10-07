@@ -14,6 +14,12 @@ source:
 ## Ingredients
 
 - 1/2 cup coarsely ground coffee
+- 1 3/4 cups heavy cream
+- 1 1/4 cups whole milk
+- 1/2 cup plus 4 tablespoons sugar
+- 1/3 cup light corn syrup
+- 1/4 teaspoon salt
+- 6 large egg yolks
 
 ## Directions
 

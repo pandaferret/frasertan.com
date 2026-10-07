@@ -18,11 +18,11 @@ source:
 - 2 tablespoons olive oil
 - 1/2 cup chopped shallots
 - 1/2 cup chopped sun-dried tomatoes
-- Garlic, minced
+- 4 cloves garlic, minced
 - 1/2 teaspoon salt
 - 1/2 cup white wine
 - 2 (5-ounce) packages baby spinach
-- Canned white beans, rinsed
+- 2 (15-ounce) cans no-salt-added cannellini beans, rinsed
 - 1/2 cup broth
 - 1/2 cup heavy cream
 - 1/3 cup plus 2 tablespoons plus 2 teaspoons grated Parmesan, divided

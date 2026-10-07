@@ -33,7 +33,7 @@ Sunset Slaw:
 - 2 scallions, thinly sliced
 - dollop of mayo, sour cream or greek yogurt
 - dash of hot sauce (optional)
-- 1/4 rough chopped cilantro or parsley
+- 1/4 cup rough chopped cilantro or parsley
 
 To Serve:
 

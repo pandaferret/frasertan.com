@@ -14,6 +14,13 @@ dietary:
 ## Ingredients
 
 - 6-7 small stone fruit (pluot size or smaller)
+- 1 c plain breadcrumbs
+- 1-2 tsp sugar (or to taste)
+- 6 oz farmer's cheese
+- 100 g semolina flour
+- 1 egg
+- 2 (or a bit more) tbsp butter, melted
+- All-purpose flour as needed to keep the dough from sticking
 
 ## Directions
 

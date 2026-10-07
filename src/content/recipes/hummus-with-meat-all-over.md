@@ -14,14 +14,17 @@ source:
 
 ## Ingredients
 
-- Hummus
+Hummus:
+
 - 2 cans chickpeas, drained and rinsed
 - 1/4 tsp salt
 - 1 tablespoon lemon juice
 - 1/2 cup tahini
 - 2 cloves garlic, optional
 - 1/4 cup cold water
-- Meat Topping
+
+Meat Topping:
+
 - 2 tablespoons flavorless oil
 - 1 large onion, finely chopped
 - Kosher salt
@@ -35,8 +38,11 @@ source:
 - 1/4 cup toasted pine nuts
 - 1/4 cup pomegranate seeds
 - Chopped fresh parsley, for garnish
-- Eat with
-- pita/bread
+
+Garnish:
+
+- Zhoug
+- Pita bread
 
 ## Equipment
 

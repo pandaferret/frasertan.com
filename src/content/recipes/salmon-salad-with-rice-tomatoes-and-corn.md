@@ -21,7 +21,7 @@ source:
 - 1 ear yellow corn
 - 1/3 English cucumber, cut into 1/4" slices, roughly 1 cup
 - 1 vine-ripened tomato, cut into 1/4" dice (1 cup)
-- 2 tbsp chives or green onions, 1/2 lengths
+- 2 tbsp chives or green onions, 1/2-inch lengths
 - 2 cups small lettuce varietals (like Little Gems)
 - 1/2 lb wild salmon fillets (2" thick), deboned
 - black pepper

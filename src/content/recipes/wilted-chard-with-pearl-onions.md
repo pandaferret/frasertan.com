@@ -10,6 +10,8 @@ source:
 ## Ingredients
 
 - 3 dozen small pearl onions
+- 5 tablespoons olive oil, divided
+- 1 teaspoon thyme
 - 2 bunches Swiss chard, cleaned, center ribs removed
 - Kosher salt and freshly ground black pepper
 

@@ -38,7 +38,7 @@ Filling:
 
 Frosting:
 
-- 16 tablespoons (2 sticks/113g) unsalted butter, at room temperature
+- 16 tablespoons (2 sticks/227g) unsalted butter, at room temperature
 - 1/4 teaspoon salt
 - 4 cups (454g) confectioners' sugar, sifted
 - 1/2 cup (43g) unsweetened cocoa, natural or Dutch-process

@@ -10,7 +10,7 @@ categories:
 - 1 butternut squash
 - 0.25 c butter
 - 3 large cloves of garlic, peeled
-- 0.24 cups bread crumbs
+- 1/4 cup bread crumbs
 - 0.33 cups grated Parmesan
 - salt and pepper to taste
 - chopped fresh parsley
