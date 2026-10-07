@@ -5,10 +5,6 @@ categories:
   - Desserts
 subcategories:
   - Cookies
-tags:
-  - Seasonal Treats
-  - Christmas
-  - Winter
 source:
   url: "https://smittenkitchen.com/2018/02/chocolate-peanut-butter-cup-cookies/"
 cover: "/images/recipes/chocolate-peanut-butter-cup-cookies.jpg"
