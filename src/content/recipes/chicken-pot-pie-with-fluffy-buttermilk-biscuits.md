@@ -41,11 +41,15 @@ Filling:
 
 ## Directions
 
-Biscuits: 1. Pulse dry ingredients together in a food processor fitted with a metal blade. Add the butter and pulse until the mixture resembles coarse cornmeal with a few slightly larger lumps.
+Biscuits:
+
+1. Pulse dry ingredients together in a food processor fitted with a metal blade. Add the butter and pulse until the mixture resembles coarse cornmeal with a few slightly larger lumps.
 
 2. Transfer the mixture to a medium bowl and add the buttermilk. Stir with a fork until the dough gathers into moist clumps, adding more buttermilk if needed. Transfer the dough to a lightly floured surface and roll out until it is 1/2" thick. Using a 2.5 to 3" pastry cutter, stamp out 8 rounds of dough. Refrigerate dough rounds covered in plastic wrap until needed, up to 2 hours.
 
-Filling: 1. Adjust oven rack to middle position and heat to 400 degrees.
+Filling:
+
+1. Adjust oven rack to middle position and heat to 400 degrees.
 
 2. Put the chicken broth in a small pot. Add the chicken (make sure it's covered by the liquid), cover and bring to a simmer. Simmer until the chicken is just done, 8 to 10 minutes. Transfer chicken to a large bowl, reserving 2 cups of the broth in a measuring cup.
 
@@ -53,7 +57,9 @@ Filling: 1. Adjust oven rack to middle position and heat to 400 degrees.
 
 4. In the same pan, heat butter over medium heat until the foaming subsides. Whisk in flour and cook for about 1 minute. Add the reserved chicken broth, the milk, any chicken juices and the thyme. Bring to a simmer and cook, stirring, until the sauce fully thickens, a few minutes. Season with salt and pepper and stir in sherry. Pour sauce into bowl with vegetables and chicken and stir to mix. Add parsley and peas, stir to combine. Adjust the seasonings to taste.
 
-Assembly and Baking: 5. Pour the mixture into a 9" by 13" baking dish. Top with the biscuits. Bake until the pastry is golden brown and the filling is bubbling, about 30 minutes.
+Assembly and Baking:
+
+5. Pour the mixture into a 9" by 13" baking dish. Top with the biscuits. Bake until the pastry is golden brown and the filling is bubbling, about 30 minutes.
 
 ## Notes
 

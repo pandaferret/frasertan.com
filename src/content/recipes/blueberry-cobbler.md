@@ -33,7 +33,7 @@ Filling:
 
 ## Directions
 
-Directions: 1. Thaw frozen blueberries in a colander set over a bowl to catch juices. Transfer juices (roughly 1 cup) to a small saucepan and simmer over medium heat until syrupy and thick enough to coat the back of a spoon, about 10 minutes.
+1. Thaw frozen blueberries in a colander set over a bowl to catch juices. Transfer juices (roughly 1 cup) to a small saucepan and simmer over medium heat until syrupy and thick enough to coat the back of a spoon, about 10 minutes.
 
 2. Adjust oven rack to lower-middle position and preheat oven to 375°.
 
