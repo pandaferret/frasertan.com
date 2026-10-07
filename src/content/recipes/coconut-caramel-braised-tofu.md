@@ -7,6 +7,7 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Vegan
 dietary:
   - V
   - DF

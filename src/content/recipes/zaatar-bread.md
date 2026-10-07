@@ -3,6 +3,8 @@ title: "Za'atar Bread"
 description: "This bread is easy, all you need is a bit of time (at least 24 hours). I plan to try additional toppings - but the za'atar was delicious!"
 categories:
   - Breads and Baked Goods
+tags:
+  - Vegan
 dietary:
   - EF
   - DF

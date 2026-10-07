@@ -8,6 +8,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Vegan
 source:
   url: "http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon"
 cover: "/images/recipes/red-lentil-soup-with-lemon.jpg"

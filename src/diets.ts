@@ -3,9 +3,10 @@ import type { CollectionEntry } from "astro:content";
 // Buttons on the Special Diets tag page, in order. Drawn from each recipe's
 // dietary badges (GF, DF, EF, V; a trailing * means "with a swap"), which
 // mirror the Diet field in Fraser's Notion recipe database, plus the
-// Vegetarian tag.
+// Vegetarian and Vegan tags.
 export const DIETS = [
   "Vegetarian",
+  "Vegan",
   "Gluten-Free",
   "Can Be Gluten-Free",
   "Dairy-Free",
@@ -24,6 +25,9 @@ export function dietsOf(recipe: CollectionEntry<"recipes">): string[] {
   const diets = new Set(
     (recipe.data.dietary ?? []).map((code) => byCode[code]).filter(Boolean),
   );
-  if (recipe.data.tags?.includes("Vegetarian")) diets.add("Vegetarian");
+  for (const tag of ["Vegetarian", "Vegan"])
+    if (recipe.data.tags?.includes(tag)) diets.add(tag);
+  // Anything vegan is vegetarian too.
+  if (diets.has("Vegan")) diets.add("Vegetarian");
   return DIETS.filter((d) => diets.has(d));
 }
