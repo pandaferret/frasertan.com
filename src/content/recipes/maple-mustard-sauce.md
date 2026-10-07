@@ -6,6 +6,8 @@ categories:
 source:
   url: "http://www.cooksillustrated.com/recipes/3143-maple-mustard-sauce"
 cover: "/images/recipes/maple-mustard-sauce.jpg"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

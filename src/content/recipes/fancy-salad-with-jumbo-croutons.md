@@ -3,6 +3,8 @@ title: "Fancy Salad with Jumbo Croutons"
 description: "I shamelessly stole* this recipe from Jeanne, just like her house color."
 categories:
   - Salads
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

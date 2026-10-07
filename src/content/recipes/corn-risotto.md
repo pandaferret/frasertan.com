@@ -3,6 +3,7 @@ title: "Corn Risotto"
 categories:
   - Main Dishes
 dietary:
+  - VEG*
   - GF
 source:
   url: "http://cooking.nytimes.com/recipes/1016753-corn-risotto"

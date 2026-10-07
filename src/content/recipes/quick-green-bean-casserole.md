@@ -7,6 +7,8 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

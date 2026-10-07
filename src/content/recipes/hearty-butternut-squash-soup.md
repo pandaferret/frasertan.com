@@ -7,6 +7,8 @@ subcategories:
   - Soups
 source:
   name: "Cook's Illustrated, November & December 2016"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

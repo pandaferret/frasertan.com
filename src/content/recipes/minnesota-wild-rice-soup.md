@@ -9,6 +9,8 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Pork
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

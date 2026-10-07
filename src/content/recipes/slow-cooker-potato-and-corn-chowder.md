@@ -4,6 +4,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

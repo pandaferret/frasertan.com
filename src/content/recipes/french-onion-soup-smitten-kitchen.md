@@ -8,6 +8,8 @@ subcategories:
 source:
   url: "http://smittenkitchen.com/blog/2011/04/french-onion-soup/"
 cover: "/images/recipes/french-onion-soup-smitten-kitchen.jpg"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

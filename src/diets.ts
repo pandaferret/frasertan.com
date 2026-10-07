@@ -17,6 +17,7 @@ const byCode: Record<string, string> = {
   V: "Vegan",
   "V*": "Vegan",
   VEG: "Vegetarian",
+  "VEG*": "Vegetarian",
   GF: "Gluten-Free",
   "GF*": "Can Be Gluten-Free",
   DF: "Dairy-Free",

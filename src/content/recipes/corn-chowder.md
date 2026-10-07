@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

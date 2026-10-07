@@ -6,6 +6,8 @@ categories:
 source:
   url: "http://www.cooksillustrated.com/recipes/4657-garlic-and-thyme-pan-sauce"
 cover: "/images/recipes/garlic-and-thyme-pan-sauce.jpg"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

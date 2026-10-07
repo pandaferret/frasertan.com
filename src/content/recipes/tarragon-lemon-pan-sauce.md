@@ -4,6 +4,8 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/6700-tarragon-lemon-pan-sauce"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients
