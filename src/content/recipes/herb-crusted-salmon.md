@@ -1,6 +1,5 @@
 ---
 title: "Herb-Crusted Salmon"
-description: "Salt and pepper 4 (6- to 8-ounce) skin-on salmon fillets 2 tablespoons unsalted butter 1/2 cup panko bread crumbs 2 tablespoons beaten egg 2 teaspoons minced fresh thyme 1/4 cup chopped fresh..."
 categories:
   - Main Dishes
 subcategories:

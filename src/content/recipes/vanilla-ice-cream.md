@@ -1,6 +1,5 @@
 ---
 title: "Vanilla Ice Cream"
-description: "For vanilla ice cream, please see Coffee Crunch Ice Cream . Prepare with the following changes: Omit the coffee grounds Add only 1/4 cup sugar to the egg yolks omit the additional 2 tbsp sugar Add..."
 categories:
   - Desserts
 subcategories:
