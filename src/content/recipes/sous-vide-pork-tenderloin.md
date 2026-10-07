@@ -7,7 +7,6 @@ subcategories:
   - Pork
 dietary:
   - GF
-  - DF
   - EF
 source:
   url: "https://www.seriouseats.com/recipes/2016/07/sous-vide-pork-tenderloin-recipe.html"

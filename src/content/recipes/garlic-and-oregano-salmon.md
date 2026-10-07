@@ -10,7 +10,6 @@ tags:
   - Fish
 dietary:
   - GF
-  - DF
   - EF
 source:
   url: "https://www.allrecipes.com/recipe/189058/super-simple-salmon/"

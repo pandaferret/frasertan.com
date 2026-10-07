@@ -12,7 +12,6 @@ tags:
 dietary:
   - VEG
   - GF
-  - EF
 source:
   url: "https://www.americastestkitchen.com/recipes/10977-meringue-christmas-trees/print"
 cover: "/images/recipes/christmas-tree-meringues.jpg"

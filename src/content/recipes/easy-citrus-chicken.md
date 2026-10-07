@@ -11,7 +11,6 @@ tags:
   - Winter
   - Chicken
 dietary:
-  - DF
   - EF
 source:
   url: "https://cooking.nytimes.com/recipes/12240-citrus-chicken?action=click&module=Collection+Page+Recipe+Card&region=Ridiculously+Easy+Recipes+for+When+You%27ve+Lost+an+Hour%E2%80%99s+Sleep+&pgType=collection&rank=21"

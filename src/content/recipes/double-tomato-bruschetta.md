@@ -8,7 +8,6 @@ tags:
   - Summer
 dietary:
   - V*
-  - DF
   - EF
 ---
 

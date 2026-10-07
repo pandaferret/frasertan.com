@@ -5,7 +5,6 @@ categories:
   - Breads and Baked Goods
 dietary:
   - V*
-  - EF
   - DF
 source:
   url: "https://mynameisyeh.com/mynameisyeh/2016/7/scallion-pull-apart-bread"
