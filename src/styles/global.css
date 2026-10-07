@@ -325,7 +325,8 @@ main {
   margin: 0.75rem 0 0.25rem;
 }
 
-.recipe-body .ingredients p {
+.recipe-body .ingredients p,
+.recipe-body .directions p.subheading {
   font-weight: 600;
   color: var(--color-heading);
 }
