@@ -1,5 +1,5 @@
 ---
-title: '"Normal" dinner salad'
+title: '"Normal" Dinner Salad'
 description: "This is my staple salad, the only one I really made for many years. Since then, I've been exploring alternate salads, but this is the one I started with."
 categories:
   - Salads
@@ -7,10 +7,10 @@ categories:
 
 ## Ingredients
 
-- 1 head read leaf lettuce
+- 1 head red leaf lettuce
 - 2 apples
 - 2 bell peppers (not green)
-- 8 oz fresh mozzarella balls (ciliegene)
+- 8 oz fresh mozzarella balls (ciliegine)
 - Balsamic Vinaigrette
 
 ## Directions

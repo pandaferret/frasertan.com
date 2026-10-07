@@ -1,6 +1,6 @@
 ---
 title: "Bourbon Peach Smash"
-description: "Turns out I'm a bourbon gal - in mixed drinks at least. This is another summer drink from Deb.Don't be afraid of the vinegar - it adds depth and complexity to this refreshing drink."
+description: "Turns out I'm a bourbon gal - in mixed drinks at least. This is another summer drink from Deb. Don't be afraid of the vinegar - it adds depth and complexity to this refreshing drink."
 categories:
   - Drinks
 tags:

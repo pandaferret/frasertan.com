@@ -16,7 +16,7 @@ dietary:
 - 1/2 lb matzoh
 - 1/2 cup butter (1 stick)
 - 1 cup brown sugar
-- 8 oz chocolate chipes
+- 8 oz chocolate chips
 
 ## Directions
 

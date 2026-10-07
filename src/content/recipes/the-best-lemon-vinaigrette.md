@@ -1,6 +1,6 @@
 ---
 title: "The Best Lemon Vinaigrette"
-description: "from Jeanne!"
+description: "From Jeanne!"
 categories:
   - Salads
 source:

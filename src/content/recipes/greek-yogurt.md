@@ -15,7 +15,7 @@ source:
 
 ## Directions
 
-1. Throughly clean your Instant Pot insert, and also clean the gasket, but pouring in boiling water. Discard the water and dry the pot.
+1. Thoroughly clean your Instant Pot insert, and also clean the gasket, by pouring in boiling water. Discard the water and dry the pot.
 2. Add the milk to the Instant Pot. Close and lock the lid, but leave the vent open. Press the Yogurt button until the BOIL setting is selected. The Instant Pot will beep when it kicks off.
 3. After about an hour, when the Instant Pot beeps again, remove the lid and check the temperature of the milk; it should be pretty close to 180°. Let it sit in the Instant Pot for 5 minutes, then remove to the countertop to let it cool. You want the milk to reach between 105-115°, which takes about an hour. Stir occasionally and skim off any skin that forms. You can speed this up to about 15 minutes by placing the insert in an ice bath.
 4. Put the insert full of milk back in the Instant Pot. Stir in the yogurt starter, then press the yogurt button and select 8 hours at Normal pressure. Close the lid, leaving the vent open, and go play.

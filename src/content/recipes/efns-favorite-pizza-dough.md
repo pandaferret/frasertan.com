@@ -17,7 +17,7 @@ subcategories:
 
 ## Directions
 
-1. Combine the water, sugar, and yeast packet in a large (large!) bowl. Allow the yeast to "proof" (show that it is alive) by letting it sit for 10 minutes. If you see a tan-colored foam foam at the top, you're in business. If not, go back to the store and buy some fresh yeast... there is no point in continuing.
+1. Combine the water, sugar, and yeast packet in a large (large!) bowl. Allow the yeast to "proof" (show that it is alive) by letting it sit for 10 minutes. If you see a tan-colored foam at the top, you're in business. If not, go back to the store and buy some fresh yeast... there is no point in continuing.
 2. Now, add the salt and the olive oil. Next, add one cup of flour at a time, using a whisk, large fork, or hard spatula to thoroughly combine the mixture.
 3. After you have added all 4 cups of flour, the kneading begins. To knead, use your hands to fold the dough ball in half over and over. Use your palm to smash the ball together, then fold it in half and smash it together again. If the ball becomes sticky, add a little more flour. The ball should not stick to the side of the bowl, but it should not be dry and cracking, either.
 4. Once you have kneaded the dough for about 5 minutes, drizzle a little oil over it and place it in a new, clean bowl. Spread the oil over it by using your hands. Cover this bowl with plastic wrap or a wet towel, and place it in a warm place (such as an unlit oven or sunny countertop). The dough will now rise as the yeast produces carbon dioxide; this and the alcohols produced by the yeast will improve the texture, flavor, and elasticity of the dough. You will need to leave the dough in this place until it nearly doubles in size, which should be about 40 minutes to an hour.

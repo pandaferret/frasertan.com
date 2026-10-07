@@ -1,6 +1,6 @@
 ---
 title: "No-Bake Chocolate Cheesecake"
-description: "This is the most delicious and easiest cheesecake ever...... on my god so good. But so rich - so very very rich."
+description: "This is the most delicious and easiest cheesecake ever...... oh my god so good. But so rich - so very very rich."
 yield: "Serves 16"
 categories:
   - Desserts

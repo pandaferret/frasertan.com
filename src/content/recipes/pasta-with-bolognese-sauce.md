@@ -9,7 +9,7 @@ categories:
 
 - 1/2 ounce dried porcini mushrooms
 - 1/2 cup water
-- 1 1/4 cups sweet white wine (a Reisling or a Gewurztraminer)
+- 1 1/4 cups sweet white wine (a Riesling or a Gewurztraminer)
 - 1/2 small carrot, chopped into 1/4" pieces
 - 1/2 small onion, chopped into rough 1/4" pieces
 - 3 ounces pancetta, cut into 1" pieces

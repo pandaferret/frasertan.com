@@ -1,7 +1,7 @@
 ---
 title: "Blondies"
 description: "I always thought I was a pure chocoholic, but these blondies came pretty close to changing my mind. They're like a giant chocolate chip cookie!"
-yield: 'Make a 9" x 13" pan'
+yield: 'Makes a 9" x 13" pan'
 categories:
   - Desserts
 subcategories:
@@ -31,7 +31,7 @@ source:
 
 1. Set oven rack to middle position and preheat oven to 350°. Grease a 9" x 13" baking pan, line with parchment to form a sling, and grease parchment.
 2. In a medium bowl, whisk together flour and baking powder.
-3. In a medium-sized saucepan, melt the butter sugar and salt together over medium heat: stir until smooth. Off heat, stir in the vanilla. Let mixture cool to room temperature.
+3. In a medium-sized saucepan, melt the butter, sugar and salt together over medium heat: stir until smooth. Off heat, stir in the vanilla. Let mixture cool to room temperature.
 4. Add the egg and whisk until combined. Add the flour mixture and stir until just combined. Add in the pecans and chocolate chips and stir gently.
 5. Press the batter into the pan, patting into a thin even layer across the bottom of the pan.
 6. Bake for 18 to 24 minutes, until the blondies are set on the edge, the top is golden brown and the top is just beginning to crack. A toothpick inserted into the center should come out with a few crumbs.

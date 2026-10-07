@@ -29,5 +29,5 @@ source:
 ## Notes
 
 - Deb notes that you can adjust the amount of sugar all the way down to none if you like. The first time I made these, I used 1 tbsp sugar, and the cakes came out veeeery dark and rich. I think I would have liked the full 2 tbsp.
-- Do NOT skimp on the extra whisking! I found it took even more than 20-30 strokes, but give your arm a good workout until the misture thickens up nicely.
-- Den notes that you can make the batter and fill the prepared cups, then refrigerate until you want to bake them. They can go into the oven directly from the fridge, but will need to bake 1 to 2 minutes longer. When I did this, it worked great!
+- Do NOT skimp on the extra whisking! I found it took even more than 20-30 strokes, but give your arm a good workout until the mixture thickens up nicely.
+- Deb notes that you can make the batter and fill the prepared cups, then refrigerate until you want to bake them. They can go into the oven directly from the fridge, but will need to bake 1 to 2 minutes longer. When I did this, it worked great!

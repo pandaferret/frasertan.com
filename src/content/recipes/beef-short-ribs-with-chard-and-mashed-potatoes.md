@@ -42,17 +42,17 @@ Serve with:
 1. The night before, season the short ribs with 1 tablespoon thyme and the cracked black pepper. Use your hands to coat the meat well. Cover, and refrigerate overnight.
 2. Take the short ribs out of the refrigerator an hour before cooking, to come to room temperature. After 30 minutes, season them generously on all sides with salt.
 3. When it's time to cook the short ribs, heat a large Dutch oven over high heat for 3 minutes. Pour in 3 tablespoons olive oil, and wait a minute or two, until the pan is very hot and almost smoking. Place the short ribs in the pan, and sear until they are nicely browned on all three meaty sides. Depending on the size of your pan, you might have to sear the meat in batches. Do not crowd the meat or get lazy or rushed at this step! I found that 3 minutes per side got the meat nice and crispy. When the ribs are nicely browned, transfer them to a plate to rest.
-4. Set a large Dutch oven or oven-safe stock pot (that can hold ribs + braising liquid) over medium heat and add 1-2 tablespoons olive oil. Add the onion, carrot, celery, thyme springs, and bay leaves. Cook 6 to 8 minutes, until the vegetables just begin to caramelize. Add the balsamic vinegar, port, and red wine. Turn the heat up to high, and reduce the liquid by half.
+4. Set a large Dutch oven or oven-safe stock pot (that can hold ribs + braising liquid) over medium heat and add 1-2 tablespoons olive oil. Add the onion, carrot, celery, thyme sprigs, and bay leaves. Cook 6 to 8 minutes, until the vegetables just begin to caramelize. Add the balsamic vinegar, port, and red wine. Turn the heat up to high, and reduce the liquid by half.
 5. While this is simmering, preheat your oven to 325°F.
-6. Add the stock and bring to a boil. Arrange ribs in the pot, lieing flat, bones standing up, in one layer. Scrape any vegetables that have fallen on the ribs back into the liquid. The stock mixture should almost cover the ribs. Tuck the parsley sprigs in and around the meat. Cover tightly with aluminum foil and a tight-fitting lid if you have one.
+6. Add the stock and bring to a boil. Arrange ribs in the pot, lying flat, bones standing up, in one layer. Scrape any vegetables that have fallen on the ribs back into the liquid. The stock mixture should almost cover the ribs. Tuck the parsley sprigs in and around the meat. Cover tightly with aluminum foil and a tight-fitting lid if you have one.
 7. Braise in the oven for about 3 hours.
-8. To check the meat for doneness, remove the lid and foil, being careful of the escaping steam, and piece a short rib with a paring knife. When the meat is done, it will yield easily to a knife, and even fall off the bone entirely. Taste a piece if you are not sure.
+8. To check the meat for doneness, remove the lid and foil, being careful of the escaping steam, and pierce a short rib with a paring knife. When the meat is done, it will yield easily to a knife, and even fall off the bone entirely. Taste a piece if you are not sure.
 9. If you would like to cook these a day ahead, this is where you can pause. The next day, you can remove the fat easily from the pot — it will have solidified at the top — bring these back to a simmer on the stove or in an oven, and continue.
 10. Let the ribs rest 10 minutes in their juices, and then transfer them to a baking sheet.
 11. Turn the oven up to 400 degrees F.
 12. Place the short ribs in the oven for 10 to 15 minutes to brown.
 13. Strain the broth into a saucepan, pressing down on the vegetables with a ladle to extract all the juices. Skim the fat from the sauce (if you made these the day before, you will have already skimmed them) and, if the broth seems thin, reduce it over medium-high heat to thicken slightly. Taste for seasoning.
-14. Serve the ribs over a bed of Wilted Chard with Pearl Onions , pouring lots of braising liquid over both. Serve with Creamy Mashed Potatoes and horseradish cream .
+14. Serve the ribs over a bed of Wilted Chard with Pearl Onions, pouring lots of braising liquid over both. Serve with Creamy Mashed Potatoes and horseradish cream.
 
 ## Notes
 

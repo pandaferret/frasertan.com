@@ -1,5 +1,5 @@
 ---
-title: "Oven-roasted cabbage and chard"
+title: "Oven-Roasted Cabbage and Chard"
 description: "Ok, I get it - the name of this dish alone makes you grimace. But in my quest to eat healthier and find cabbage recipes for the hubby, this one turned out amazingly delicious!"
 categories:
   - Side Dishes

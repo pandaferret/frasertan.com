@@ -11,7 +11,7 @@ source:
 ## Ingredients
 
 - Slaw
-- 1 lb shredded red cabbage, -roughly 6-7 cups
+- 1 lb shredded red cabbage, roughly 6-7 cups
 - 3 scallions, sliced
 - 1 cup cilantro, chopped (or sub Italian Parsley)
 - any additional things you like - ex: shredded carrots, peanuts, etc
@@ -23,10 +23,10 @@ Dressing:
 - 1/4 cup rice wine vinegar
 - 3 tablespoons honey (for vegan-substitute maple syrup or agave)
 - 1 tablespoon soy sauce (or GF alternative like Braggs or Coconut Amino Acids)
-- 1 garlic clove, finely minced ( use a garlic press)
+- 1 garlic clove, finely minced (use a garlic press)
 - 1 tablespoon ginger, finely chopped
 - 1/2 teaspoon salt
-- 1/2 teaspoon chili flakes or chili paste ( optional)
+- 1/2 teaspoon chili flakes or chili paste (optional)
 
 ## Directions
 

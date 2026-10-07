@@ -1,5 +1,5 @@
 ---
-title: "Strawberry chocolate chip cake"
+title: "Strawberry Chocolate Chip Cake"
 description: "Because strawberries tend to make any dessert very moist, this cake is best kept refrigerated. It actually tastes pretty good when cold right out of refrigerator, but if you want softer and meltier chocolate, you can also microwave the refrigerated cake or let it sit out on the kitchen counter for a couple of hours before serving. This cake keeps very well refrigerated for 1 week and tastes just as fresh as if just baked! It also freezes really well! To freeze it, cool the cake completely. Tightly wrap the cake in plastic wrap, make sure it’s airtight. Freeze for up to 1 month."
 categories:
   - Desserts

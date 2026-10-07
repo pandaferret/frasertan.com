@@ -9,11 +9,11 @@ source:
 
 ## Ingredients
 
-- 3/4 cup créme fraîche
+- 3/4 cup crème fraîche
 - 1 tablespoon prepared horseradish
 - Kosher salt and freshly ground black pepper
 
 ## Directions
 
-1. Combine the créme fraîche and horseradish in a small bowl.
+1. Combine the crème fraîche and horseradish in a small bowl.
 2. Season with 1/4 teaspoon salt and pepper. Taste for balance and seasoning.

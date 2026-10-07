@@ -12,21 +12,21 @@ source:
 
 ## Ingredients
 
-- 3largechicken breastsboneless and skinless, sliced lengthwise into thin cutlets
-- ½teaspoonsalt
-- ¼teaspoonground black pepper
-- 6tablespoons(50grams)all-purpose flour
-- 2tablespoons(30ml)olive oil
-- 2tablespoons(28grams)unsalted butter
-- 3clovesgarlicminced
-- 1cup(240ml)chicken stock
-- 1cup(240ml)heavy cream(double cream in the UK)
-- ½cup(43grams)parmesan cheesegrated
-- 1teaspoonchili flakes
-- ¼teaspoonoregano
-- ¼teaspoonthyme
-- ⅓cupsundried tomatoeschopped
-- 1tablespoonfresh basil leaves
+- 3 large chicken breasts, boneless and skinless, sliced lengthwise into thin cutlets
+- ½ teaspoon salt
+- ¼ teaspoon ground black pepper
+- 6 tablespoons (50 grams) all-purpose flour
+- 2 tablespoons (30 ml) olive oil
+- 2 tablespoons (28 grams) unsalted butter
+- 3 cloves garlic, minced
+- 1 cup (240 ml) chicken stock
+- 1 cup (240 ml) heavy cream (double cream in the UK)
+- ½ cup (43 grams) parmesan cheese, grated
+- 1 teaspoon chili flakes
+- ¼ teaspoon oregano
+- ¼ teaspoon thyme
+- ⅓ cup sundried tomatoes, chopped
+- 1 tablespoon fresh basil leaves
 
 ## Directions
 

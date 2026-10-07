@@ -1,5 +1,5 @@
 ---
-title: "crispy crumbled potatoes"
+title: "Crispy Crumbled Potatoes"
 description: "A lot of frying, but soooo worth it! Do take note that you have to parboil the potatoes the day before you want to fry them."
 yield: "Serves 4"
 categories:

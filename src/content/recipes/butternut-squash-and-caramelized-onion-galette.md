@@ -1,5 +1,5 @@
 ---
-title: "butternut squash and caramelized onion galette"
+title: "Butternut Squash and Caramelized Onion Galette"
 description: "from Smitten Kitchen"
 categories:
   - Main Dishes
@@ -17,8 +17,7 @@ For the pastry:
 
 - 1 1/4 cups all-purpose flour
 - 1/4 teaspoon salt
-- 8 tablespoons (1 stick) unsalted butter, cut into
-- pieces
+- 8 tablespoons (1 stick) unsalted butter, cut into pieces
 - 1/4 cup sour cream
 - 2 teaspoons fresh lemon juice
 - 1/4 cup ice water

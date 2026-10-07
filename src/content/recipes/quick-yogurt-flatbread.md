@@ -1,5 +1,5 @@
 ---
-title: "Quick yogurt flatbread"
+title: "Quick Yogurt Flatbread"
 description: "These are quick and have a lovely tang!"
 categories:
   - Breads and Baked Goods
@@ -27,4 +27,4 @@ source:
 ## Notes
 
 - On the hexclads, don't use oil! Otherwise you get fried bread instead of a more naan-like browning.
-- To use Greek yogurt, reduce the amount to 2/3 yogurt and add 1/3 cup water.
+- To use Greek yogurt, reduce the amount to 2/3 cup yogurt and add 1/3 cup water.

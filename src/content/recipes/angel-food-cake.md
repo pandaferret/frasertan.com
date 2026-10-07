@@ -22,7 +22,7 @@ source:
 
 1. Adjust oven rack to lower-middle position and heat oven to 325 degrees.
 2. Whisk flour and salt together in a bowl.
-3. Process sugar in the food processor until fine and powder, about 1 minute. Reserve half (6.125 oz) of sugar. Add flour mixture to food processor with remaining sugar and process until aerated, about 1 minute.
+3. Process sugar in the food processor until fine and powdery, about 1 minute. Reserve half (6.125 oz) of sugar. Add flour mixture to food processor with remaining sugar and process until aerated, about 1 minute.
 4. Using stand mixer fitted with a whisk, whip the egg whites and cream of tartar on medium-low speed (speed 4) until foamy, about 1 minute. Increase speed to medium high (speed 8-10), slowly add reserved sugar, and whip until soft peaks form, about 6 minutes. Add vanilla and mix until incorporated.
 5. Sift flour and sugar mixture over egg whites in three additions, folding gently with rubber spatula after each addition until incorporated. Scrape mixture into ungreased 12-cup tube pan.
 6. Bake until skewer inserted in center comes out clean and cracks in the cake appear dry, 40 to 45 minutes. Rotate cake halfway through baking.

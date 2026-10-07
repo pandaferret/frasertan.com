@@ -13,7 +13,7 @@ source:
 
 - 6 cups of large chunks of watermelon
 - 100g feta, sliced or crumbled into chunks
-- a handful of basil leaves, schiffonaded
+- a handful of basil leaves, chiffonaded
 - 1 small shallot, sliced very thinly
 - generous drizzle of olive oil
 - dash of coarse sea salt

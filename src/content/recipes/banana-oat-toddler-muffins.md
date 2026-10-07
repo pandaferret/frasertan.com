@@ -30,6 +30,6 @@ source:
 ## Notes
 
 - You can change out the puree for pumpkin or another fruit puree.
-- If you want to make these vegan, try these egg substitutes.replace the 2 eggs with 1/2 cup of unsweetened applesauce
+- If you want to make these vegan, try these egg substitutes. Replace the 2 eggs with 1/2 cup of unsweetened applesauce
 - Since coconut oil isn't super healthy for you, you can replace it with a similar amount of melted butter.
 - I've also replaced the maple syrup with sucanat, to hopefully reduce the sugar just a bit.

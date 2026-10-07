@@ -23,10 +23,10 @@ tags:
 ## Directions
 
 1. Heat oven to 375°F.
-2. On the stovetop, heat a oven-safe skillet (preferably cast iron) over medium heat and melt the butter. Cook, swirling, until the foaming subsides and the butter turns a deep brown and smells nutty. (Do not let it burn.)
-3. Pour browned butter into a large bowl. Do not wipe out the skillet. Whisk the maple syrup into the butter, then whisk in the buttermilk. Ensure that this mixture is cool, and then whisk in the eggs. Then whisk in teh dry ingredients.
+2. On the stovetop, heat an oven-safe skillet (preferably cast iron) over medium heat and melt the butter. Cook, swirling, until the foaming subsides and the butter turns a deep brown and smells nutty. (Do not let it burn.)
+3. Pour browned butter into a large bowl. Do not wipe out the skillet. Whisk the maple syrup into the butter, then whisk in the buttermilk. Ensure that this mixture is cool, and then whisk in the eggs. Then whisk in the dry ingredients.
 4. Pour batter into the still-hot skillet, and then bake until the top is golden brown and a tester inserted comes out clean, 30 to 40 minutes. Cool for 10 minutes before slicing and serving.
 
 ## Notes
 
-- You can use either medium ground or fine ground cornbread. I've used the medium grind and I do find a few gritty bits, but they don't really bother me. If you don't have or don't like whole wheat flour, you can substitute in all-purpose.
+- You can use either medium ground or fine ground cornmeal. I've used the medium grind and I do find a few gritty bits, but they don't really bother me. If you don't have or don't like whole wheat flour, you can substitute in all-purpose.

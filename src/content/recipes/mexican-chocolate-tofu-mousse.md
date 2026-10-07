@@ -1,6 +1,6 @@
 ---
 title: "Mexican Chocolate Tofu Mousse"
-description: 'Don''t be put off by the tofu! This mousse is smooth and sweet and not too rich! it''s got less fat and sugar than "real" chocolate mousse and cinnamon and cayenne spice things up! From the New York Times'' Mark Bittman.'
+description: 'Don''t be put off by the tofu! This mousse is smooth and sweet and not too rich! It''s got less fat and sugar than "real" chocolate mousse and cinnamon and cayenne spice things up! From the New York Times'' Mark Bittman.'
 categories:
   - Desserts
 subcategories:
@@ -22,6 +22,6 @@ dietary:
 
 ## Directions
 
-1. In a small saucepan set over medium heat, combine the sugar with 3/4 cup water and heat until al the sugar is dissolved. Let cool slightly.
+1. In a small saucepan set over medium heat, combine the sugar with 3/4 cup water and heat until all the sugar is dissolved. Let cool slightly.
 2. Combine everything in a blender and blend until smooth. Divide into 6-8 ramekins and let cool in the fridge until set, roughly 30 minutes.
 3. Serve with whipped cream and/or chocolate shavings.

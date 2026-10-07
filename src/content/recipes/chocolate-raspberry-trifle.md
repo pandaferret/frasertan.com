@@ -82,7 +82,7 @@ To assemble:
 1. Trim 1/4" off each side of cake: discard (or eat!) trimmings. Cut cake into 24 equal squares, each roughly 2 1/2" square.
 2. Briefly whisk custard until smooth.
 3. Spoon 1/2 cup of the raspberry compote into the bottom of the trifle bowl and spread over the bottom.
-4. Tear 1 cake square into 4 pieces and pile in center of bowl. Shingle 10 cake squares, fallen domino-style, around the bottom of the trifle, placing edges again the bowl wall. Tear another cake square into pieces and fill in the center. (Optional: drizzle 3 tablespoons of rum over the cake pieces.) Spoon half of the custard over the cake and spread evenly.
+4. Tear 1 cake square into 4 pieces and pile in center of bowl. Shingle 10 cake squares, fallen domino-style, around the bottom of the trifle, placing edges against the bowl wall. Tear another cake square into pieces and fill in the center. (Optional: drizzle 3 tablespoons of rum over the cake pieces.) Spoon half of the custard over the cake and spread evenly.
 5. Spoon the whipped cream evenly over the custard.
 6. Gently spoon the rest of the raspberry mixture over the cream and spread evenly. (Tip: start with small dollops along the edge of the bowl to make sure you get clean layers.)
 7. Repeat layering with remaining 12 cake squares, pressing firmly but gently on the cake to remove any gaps in layers. (Optional: sprinkle with remaining 3 tablespoons rum.) Spread remaining custard over the cake.
@@ -92,5 +92,5 @@ To assemble:
 ## Notes
 
 - So, my family of 10 ravenous adults only managed to get through half of this, with seconds! Next time I may halve this.
-- If you lack a trifle bowl, you can assemble this in a 4 qqart clear glass/pyrex bowl - it won't look nearly as pretty but who care's, it's delicious!
+- If you lack a trifle bowl, you can assemble this in a 4 quart clear glass/pyrex bowl - it won't look nearly as pretty but who cares, it's delicious!
 - You can also use cups/glasses and assemble individual trifles.

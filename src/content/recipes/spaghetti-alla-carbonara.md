@@ -1,6 +1,6 @@
 ---
 title: "Spaghetti alla Carbonara"
-description: "from the all-knowing always perfect Bible of cooking - America's Test Kitchen's New Best Recipes. this recipe is delicious, but not at all good for you :)"
+description: "From the all-knowing always perfect Bible of cooking - America's Test Kitchen's New Best Recipes. This recipe is delicious, but not at all good for you :)"
 categories:
   - Main Dishes
 subcategories:

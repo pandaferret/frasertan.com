@@ -1,5 +1,5 @@
 ---
-title: "French toast"
+title: "French Toast"
 description: "Yeah, pretty much everyone can make French toast by throwing together some beaten egg and toast in a pan. But, like all good things, even a basic recipe will yield better, more consistent results!"
 categories:
   - Breakfast
@@ -21,6 +21,6 @@ source:
 
 ## Directions
 
-1. In a small bowl, combine, cinnamon, nutmeg, and sugar and set aside briefly.
+1. In a small bowl, combine cinnamon, nutmeg, and sugar and set aside briefly.
 2. In a 10-inch or 12-inch skillet, melt butter over medium heat. Whisk together cinnamon mixture, eggs, milk, and vanilla and pour into a shallow container such as a pie plate. Dip bread in egg mixture. Fry slices until golden brown, then flip to cook the other side.
 3. Serve with syrup.

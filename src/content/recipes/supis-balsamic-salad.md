@@ -1,6 +1,6 @@
 ---
 title: "Supi's Balsamic Salad"
-description: "Inspired by a delicious salad SuPi brought for Christmas Day!While I was raised to make my own salad dressings, if that is what is standing between you and eating more salad, then by all means go find some excellent bottled ones! The one featured in this salad is one of my favorites."
+description: "Inspired by a delicious salad SuPi brought for Christmas Day! While I was raised to make my own salad dressings, if that is what is standing between you and eating more salad, then by all means go find some excellent bottled ones! The one featured in this salad is one of my favorites."
 categories:
   - Salads
 tags:

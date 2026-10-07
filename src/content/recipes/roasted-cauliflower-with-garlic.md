@@ -17,4 +17,4 @@ categories:
 
 1. Preheat the oven to 425°.
 2. Core the cauliflower and separate into florets. Toss with minced garlic, whole garlic cloves, salt and a generous dollop of oil.
-3. Pour cauliflower onto a baking a sheet and roast until browned on the outside and tender inside, about 25 to 30 minutes.
+3. Pour cauliflower onto a baking sheet and roast until browned on the outside and tender inside, about 25 to 30 minutes.

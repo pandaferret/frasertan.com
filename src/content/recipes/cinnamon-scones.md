@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon scones"
+title: "Cinnamon Scones"
 description: "The best parts of cinnamon rolls, without the muss and fuss! And so pretty! Thanks Deb!"
 categories:
   - Main Dishes

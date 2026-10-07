@@ -1,6 +1,6 @@
 ---
 title: "Balsamic Vinaigrette"
-description: "Adapted from my mother's off the cuff recipe. there's never any reason to buy salad dressing - none can match home-made!"
+description: "Adapted from my mother's off the cuff recipe. There's never any reason to buy salad dressing - none can match home-made!"
 categories:
   - Salads
 ---

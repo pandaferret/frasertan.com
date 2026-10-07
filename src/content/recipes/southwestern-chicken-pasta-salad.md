@@ -7,7 +7,7 @@ categories:
 subcategories:
   - Pastas and Grains
 source:
-  name: "Peggy SeidelNotes:"
+  name: "Peggy Seidel"
 ---
 
 ## Ingredients
@@ -26,7 +26,7 @@ Dressing:
 
 Salad:
 
-- 4 medium green onions, cut unto 1/4" pieces
+- 4 medium green onions, cut into 1/4" pieces
 - 1 small can sliced black olives
 - 2 avocados, pitted, cut into cubes
 - 2 whole chicken breasts, poached and shredded

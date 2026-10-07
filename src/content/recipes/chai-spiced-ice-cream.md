@@ -23,7 +23,7 @@ dietary:
 - 1 star anise pod
 - 1 tsp black peppercorns
 - 2 cinnamon sticks
-- 1 3" pice of ginger, peeled and cut into coins
+- 1 3" piece of ginger, peeled and cut into coins
 - 5 egg yolks
 
 ## Directions

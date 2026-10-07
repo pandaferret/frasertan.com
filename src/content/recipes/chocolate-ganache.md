@@ -11,7 +11,7 @@ dietary:
 
 ## Ingredients
 
-- 6 oz bittersweet or semisweet chocolate, finely copped
+- 6 oz bittersweet or semisweet chocolate, finely chopped
 - 2 tbsp butter, cut into chunks
 - 1/2 cup heavy cream
 

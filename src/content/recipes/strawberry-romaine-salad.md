@@ -28,4 +28,4 @@ categories:
 
 ## Notes
 
-- This make a lot of dressing! You can probably halve that part easily.
+- This makes a lot of dressing! You can probably halve that part easily.

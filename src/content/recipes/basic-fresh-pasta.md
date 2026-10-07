@@ -20,6 +20,6 @@ subcategories:
 
 2. Dump out and pack into a cohesive dry dough.
 
-3. Pinch off a small portion and flatten into a small disk. Roll through Number 1 on the pasta machine, then fold it in half. Repeat up to 4 times. Roll once through up through each number (go up to 7 for fettucine, 6 for lasagna noodles). If using, roll through fettucine cutter. Hang on pasta stand to dry.
+3. Pinch off a small portion and flatten into a small disk. Roll through Number 1 on the pasta machine, then fold it in half. Repeat up to 4 times. Roll once through up through each number (go up to 7 for fettuccine, 6 for lasagna noodles). If using, roll through fettuccine cutter. Hang on pasta stand to dry.
 
 4. Salt and boil water. Add fresh pasta to water and cook (it won't take long!). Serve with sauce.

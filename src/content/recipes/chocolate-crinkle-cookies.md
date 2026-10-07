@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Crinkle Cookies"
-description: "These cookies have a rich, dense chocolate flavor and look great!From Cook's Illustrated."
+description: "These cookies have a rich, dense chocolate flavor and look great! From Cook's Illustrated."
 categories:
   - Desserts
 subcategories:
@@ -21,7 +21,7 @@ tags:
 - 4 tsp instant espresso powder
 - 1 tsp vanilla extract
 - 4 oz unsweetened chocolate
-- 4 tsbp unsalted butter
+- 4 tbsp unsalted butter
 - 0.5 c (3.5 oz) granulated sugar
 - 0.5 c (2 oz) confectioner's sugar
 
@@ -30,7 +30,7 @@ tags:
 1. Set oven rack to middle position and preheat oven to 325°F. Line two baking sheets with Silpat.
 2. Whisk together flour, cocoa, baking powder, baking soda and salt together in a bowl.
 3. Whisk together brown sugar, eggs, espresso powder and vanilla together in another bowl.
-4. Melt the butter and chocolate together in the microwave at 50 percent power, stirring ocassionally, for 2 to 3 minutes until melted.
+4. Melt the butter and chocolate together in the microwave at 50 percent power, stirring occasionally, for 2 to 3 minutes until melted.
 5. Whisk chocolate mixture into egg mixture until combined. Fold in flour mixture until no streaks remain. Let the dough sit at room temperature for 10 minutes.
 6. Place both sugars in shallow dishes or bowls.
 7. Using a 2 tbsp scoop, roll into balls. Roll each ball first in granulated sugar and then in confectioner's sugar. Evenly space dough balls on cookie sheets, 11 to a sheet.

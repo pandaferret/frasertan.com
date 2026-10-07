@@ -42,4 +42,4 @@ Items:
 
 6. Cool until solid and cool to the touch.
 
-7. Remove caramel block from the pan using the parchemnt sling. Cut the caramel into 1 inch squares using a lightly oiled knife, or, as I've found to be totally useful, a lightly oiled plastic pizza wheel and a bench scraper. Wrap each piece in a 4"x4" piece of parchment paper and store in a sealed container.
+7. Remove caramel block from the pan using the parchment sling. Cut the caramel into 1 inch squares using a lightly oiled knife, or, as I've found to be totally useful, a lightly oiled plastic pizza wheel and a bench scraper. Wrap each piece in a 4"x4" piece of parchment paper and store in a sealed container.

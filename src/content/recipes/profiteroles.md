@@ -1,6 +1,6 @@
 ---
 title: "Profiteroles (Choux à la crème)"
-description: "I was inspired to try these after watching the contestants on the Great British Baking Show make religieuse. Cream puffs (as they are known in the US) are made of a light, airy but crunchy pastry (pâte à choux) filled with crème pâtissière, whipped cream or other filling (ice cream!), sometimes topped with a chocolate ganache or caramel sauce. (Thanks Wikipedia!)These are a classic combination of flavors; vanilla crème pâtissière with a rich chocolate ganache."
+description: "I was inspired to try these after watching the contestants on the Great British Baking Show make religieuse. Cream puffs (as they are known in the US) are made of a light, airy but crunchy pastry (pâte à choux) filled with crème pâtissière, whipped cream or other filling (ice cream!), sometimes topped with a chocolate ganache or caramel sauce. (Thanks Wikipedia!) These are a classic combination of flavors; vanilla crème pâtissière with a rich chocolate ganache."
 categories:
   - Desserts
 subcategories:

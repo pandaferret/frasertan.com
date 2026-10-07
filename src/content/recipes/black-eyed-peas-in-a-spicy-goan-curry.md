@@ -34,6 +34,6 @@ dietary:
 
 1. In a large saucepan, heat the oil over medium-low heat and saute the onion until it turns dark brown, about 8 minutes. Add the coriander, garlic, ginger, turmeric, cayenne and cumin and stir for 2 minutes. Add the tomato and stir over low heat until it disintegrates.
 
-2. Add the peas and mix well. Pout in the water, add salt and sugar, and bring to a boil. Turn the heat down to love, over, and simmer until the peas are cooked through, about 10 minutes. Stir in the coconut milk and simmer uncovered for another 8 to 10 minutes.
+2. Add the peas and mix well. Pour in the water, add salt and sugar, and bring to a boil. Turn the heat down to low, cover, and simmer until the peas are cooked through, about 10 minutes. Stir in the coconut milk and simmer uncovered for another 8 to 10 minutes.
 
 3. Add the cilantro and lemon juice, simmer for about 1 minute more and remove from heat. Serve hot alone or over rice.

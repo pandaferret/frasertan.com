@@ -10,12 +10,12 @@ source:
 
 ## Ingredients
 
-- 1 cupwhole milk
-- 2 cupsbrewed black tea
-- ⅔ cupBatavia Arrack
-- ⅔ cupruby port
-- ⅓ cupplus 4 teaspoons (3 ounces) sugar
-- ⅓ cuplemon juice
+- 1 cup whole milk
+- 2 cups brewed black tea
+- ⅔ cup Batavia Arrack
+- ⅔ cup ruby port
+- ⅓ cup plus 4 teaspoons (3 ounces) sugar
+- ⅓ cup lemon juice
 
 ## Directions
 

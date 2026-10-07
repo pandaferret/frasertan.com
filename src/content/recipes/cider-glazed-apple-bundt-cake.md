@@ -1,6 +1,6 @@
 ---
 title: "Cider-Glazed Apple Bundt Cake"
-description: "From Cook's Illustrated: A Bundt pan is a practical vessel for baking a moist cake, such as our Cider-Glazed Apple Bundt Cake, because the central hole allows heat to quickly reach the center of the batter, which would remain dense and underbaked by the time the exterior was cooked through if baked in a conventional round cake pan. We also wanted more apple flavor in our cake, but simply adding extra apples made the crumb soggy and dense. We limited the apples to 1 1/2 pounds and bolstered their flavor with a reduction of apple cider mixed into the batter, brushed onto the warm exterior of the baked cake, and stirred into an icing. Minimizing the amount of spices allowed the apple flavor to shine.For the sake of efficiency, begin boiling the cider before assembling the rest of the ingredients. Reducing the cider to exactly 1 cup is important; if you accidentally overreduce it, make up the difference with water. To ensure that the icing has the proper consistency, we recommend weighing the confectioners’ sugar. We like the tartness of Granny Smith apples in this recipe, but any variety of apple will work. You can shred the apples with the shredding disk of a food processor or on the large holes of a paddle or box grater (see related content)."
+description: "From Cook's Illustrated: A Bundt pan is a practical vessel for baking a moist cake, such as our Cider-Glazed Apple Bundt Cake, because the central hole allows heat to quickly reach the center of the batter, which would remain dense and underbaked by the time the exterior was cooked through if baked in a conventional round cake pan. We also wanted more apple flavor in our cake, but simply adding extra apples made the crumb soggy and dense. We limited the apples to 1 1/2 pounds and bolstered their flavor with a reduction of apple cider mixed into the batter, brushed onto the warm exterior of the baked cake, and stirred into an icing. Minimizing the amount of spices allowed the apple flavor to shine. For the sake of efficiency, begin boiling the cider before assembling the rest of the ingredients. Reducing the cider to exactly 1 cup is important; if you accidentally overreduce it, make up the difference with water. To ensure that the icing has the proper consistency, we recommend weighing the confectioners’ sugar. We like the tartness of Granny Smith apples in this recipe, but any variety of apple will work. You can shred the apples with the shredding disk of a food processor or on the large holes of a paddle or box grater (see related content)."
 categories:
   - Desserts
 subcategories:
@@ -12,19 +12,19 @@ source:
 
 ## Ingredients
 
-- 4cups apple cider
-- 3 ¾cups (18 3/4 ounces) all-purpose flour
-- 1 ½teaspoons salt
-- 1 ½teaspoons baking powder
-- ½teaspoon baking soda
-- ¾teaspoon ground cinnamon
-- ¼teaspoon ground allspice
-- ¾cup (3 ounces) confectioners' sugar
-- 16tablespoons unsalted butter, melted
-- 1 ½cups packed (10 1/2 ounces) dark brown sugar
-- 3large eggs
-- 2teaspoons vanilla extract
-- 1 ½pounds Granny Smith apples, peeled, cored, and shredded (3 cups)
+- 4 cups apple cider
+- 3 ¾ cups (18 3/4 ounces) all-purpose flour
+- 1 ½ teaspoons salt
+- 1 ½ teaspoons baking powder
+- ½ teaspoon baking soda
+- ¾ teaspoon ground cinnamon
+- ¼ teaspoon ground allspice
+- ¾ cup (3 ounces) confectioners' sugar
+- 16 tablespoons unsalted butter, melted
+- 1 ½ cups packed (10 1/2 ounces) dark brown sugar
+- 3 large eggs
+- 2 teaspoons vanilla extract
+- 1 ½ pounds Granny Smith apples, peeled, cored, and shredded (3 cups)
 
 ## Directions
 

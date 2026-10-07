@@ -10,7 +10,7 @@ source:
 
 ## Ingredients
 
-- 3/4 cup cocoa powder, preferabley Dutch processed
+- 3/4 cup cocoa powder, preferably Dutch processed
 - 1 1/4 cups unbleached all purpose flour
 - 1/4 tsp salt
 - 8 ounces semisweet chocolate, chopped

@@ -26,7 +26,7 @@ source:
 - 1 tablespoon Dijon mustard
 - 2 tablespoons fresh lemon juice (about 1 lemon)
 - ¾ cup sour cream (or coconut cream)
-- 9 ounces gluten free taglietelle pasta
+- 9 ounces gluten free tagliatelle pasta
 - Chopped fresh parsley, for garnish
 
 ## Directions
@@ -41,5 +41,5 @@ source:
 ## Notes
 
 - The original recipe goes gluten-free by using GF flours as thickeners. I just replaced those with regular AP flour; it thickened up the sauce considerably.
-- Cassy Joy Garcia notes " If you can't find steak tips, you can easily substitute sirloin or beef tenderloin here instead. Since we'll be quickly cooking the beef, you'll want to stay away from tougher cuts like chuck roast because they won't have time to break down and become tender, and you don't want chewy beef!"
+- Cassy Joy Garcia notes "If you can't find steak tips, you can easily substitute sirloin or beef tenderloin here instead. Since we'll be quickly cooking the beef, you'll want to stay away from tougher cuts like chuck roast because they won't have time to break down and become tender, and you don't want chewy beef!"
 - I have seen coconut aminos consistently at Whole Foods, in the Asian food section near the soy sauce. I am not entirely sure of the distinction between the two, but as both are meant to provide a big umami boost, I suspect you can substitute (gluten-containing) soy sauce for coconut aminos.

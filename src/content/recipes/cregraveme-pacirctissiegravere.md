@@ -28,5 +28,5 @@ source:
 
 ## Notes
 
-- Since this caused some confusion for the hubby; first measure out 1/4 cup cornstarch, then sift it into the egg mixture.
+- Since this caused some confusion for the hubby: first measure out 1/4 cup cornstarch, then sift it into the egg mixture.
 - To ensure that pastry cream does not thin out, do not whisk once it has set.

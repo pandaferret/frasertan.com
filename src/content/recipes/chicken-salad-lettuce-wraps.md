@@ -36,4 +36,4 @@ source:
 ## Notes
 
 - I took out the basil since I'm not a huge fan, but other fresh herbs would be great on these!
-- A tip; pick over the chicken carcass the night before to save time.
+- A tip: pick over the chicken carcass the night before to save time.

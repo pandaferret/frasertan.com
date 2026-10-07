@@ -1,5 +1,5 @@
 ---
-title: "Miso soup"
+title: "Miso Soup"
 description: "Quick, easy and delicious - a good soup for warming you up on a rainy night!"
 categories:
   - Soups and Stews

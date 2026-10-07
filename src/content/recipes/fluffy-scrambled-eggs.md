@@ -25,5 +25,5 @@ dietary:
 ## Notes
 
 - Add fresh herbs like parsley or rosemary or sage (mmmm sage....)
-- Omit the salt and pepper and use seasoning blends like Penzey's Shallot Pepper or Lowry's Seasoning salt
+- Omit the salt and pepper and use seasoning blends like Penzey's Shallot Pepper or Lawry's Seasoning salt
 - Add in chopped veggies, such as peppers, tomatoes or spinach

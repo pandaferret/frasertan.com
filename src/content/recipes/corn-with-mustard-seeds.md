@@ -19,6 +19,6 @@ categories:
 
 1. Slice kernels off the corn cobs; you should have about 4 cups of kernels.
 
-2. Make the tadka: Heat oil in a medium wok or saute pan over high heat. When the oil begins to smoke, add the mustard seeds, covering the wok with a lid of spatter screen. When the seeds have stopped sputtering, add the chile and give a quick stir to toast. Lower the heat to medium, add the turmeric, stir, and add the corn kernels and salt to taste. Toss well, turn the heat to low, cover and cook until the corn is soft and tender, about 5 minutes.
+2. Make the tadka: Heat oil in a medium wok or saute pan over high heat. When the oil begins to smoke, add the mustard seeds, covering the wok with a lid or spatter screen. When the seeds have stopped sputtering, add the chile and give a quick stir to toast. Lower the heat to medium, add the turmeric, stir, and add the corn kernels and salt to taste. Toss well, turn the heat to low, cover and cook until the corn is soft and tender, about 5 minutes.
 
 3. Stir in the cilantro and serve.

@@ -1,6 +1,6 @@
 ---
 title: "Baked Pasta with Brocolli Rabe and Sausage"
-description: "This delicious recipe comes to me courtesy of Smitten Kitchen. I added a few spices I like (courtesy of John and Autumn), and the results is a wonderful (and healthier!) version of one of my favorite comfort foods, mac 'n' cheese."
+description: "This delicious recipe comes to me courtesy of Smitten Kitchen. I added a few spices I like (courtesy of John and Autumn), and the result is a wonderful (and healthier!) version of one of my favorite comfort foods, mac 'n' cheese."
 categories:
   - Main Dishes
 subcategories:
@@ -10,7 +10,7 @@ subcategories:
 ## Ingredients
 
 - 1 lb chunky pasta
-- 1 bundle brocolli rabe (also called rapini), chopped into 1" pieces
+- 1 bundle broccoli rabe (also called rapini), chopped into 1" pieces
 - 1 lb Italian sausage, casings removed
 - 2/3 cup grated Parmesan
 - 12-16 oz mozzarella, cut into small cubes (or pearlini)
@@ -25,9 +25,9 @@ subcategories:
 
 ## Directions
 
-Preheat over to 400°. Butter a 9" x 13" baking dish.
+Preheat oven to 400°. Butter a 9" x 13" baking dish.
 
-1. Bring water to a boil. Cook pasta as directed until just about al dente. Five minutes before pasta is done, add brocolli rabe to pot. Drain together into a large bowl.
+1. Bring water to a boil. Cook pasta as directed until just about al dente. Five minutes before pasta is done, add broccoli rabe to pot. Drain together into a large bowl.
 
 2. Meanwhile, heat 1 to 2 tablespoons of olive oil in a 12" skillet over medium heat. Add the sausage, breaking it up into pieces with a wooden spoon. Cook until the sausage starts to brown, about 5 to 7 minutes. Remove to the pasta holding bowl. Leave rendered fat in pan.
 

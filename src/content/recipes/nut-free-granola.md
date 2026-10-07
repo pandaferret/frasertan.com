@@ -1,5 +1,5 @@
 ---
-title: "Nut-free granola"
+title: "Nut-Free Granola"
 description: "This is a great snack for the little ones - especially since it's nut-free! The rice krispies add a nice crunch, and overall it's not too sweet. This is a looser granola, not clumpy. It goes great on yogurt!"
 categories:
   - Breakfast

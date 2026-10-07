@@ -1,5 +1,5 @@
 ---
-title: "Chicken Picatta"
+title: "Chicken Piccata"
 description: "Cook's Illustrated wins again!"
 categories:
   - Main Dishes

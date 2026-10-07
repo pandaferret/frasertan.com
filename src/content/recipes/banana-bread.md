@@ -28,6 +28,6 @@ categories:
 ## Notes
 
 - For bite-sized pieces, use a medium cookie scoop (1.5 tbsp) and add batter to a greased mini muffin tin. This recipe will fill a tin and a half (36 bites). Bake for 25-27 minutes. These will have little muffin tops; if you want them even smaller, try using just a tablespoon of batter.
-- For muffins, line 1-2 regular 12-muffin muffin pans with liners. I recommend going on the small side with these and only using 4 tbsp per muffin; when i did the usual 1/3 cup (5.3 tbsp scoop) the muffins overflowed and stuck to the rim of the pan and tore :( Plus, you get more than 12 muffins if you use 4 tbsp only :) Bake these at 350°F for roughly 30 minutes.
+- For muffins, line 1-2 regular 12-muffin muffin pans with liners. I recommend going on the small side with these and only using 4 tbsp per muffin; when I did the usual 1/3 cup (5.3 tbsp scoop) the muffins overflowed and stuck to the rim of the pan and tore :( Plus, you get more than 12 muffins if you use 4 tbsp only :) Bake these at 350°F for roughly 30 minutes.
 - You can substitute whole fat plain Greek yogurt for the sour cream.
 - (I like brandy and LOTS of cinnamon. One friend insists on chocolate chips in his banana bread.)

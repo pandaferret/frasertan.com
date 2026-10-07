@@ -1,7 +1,7 @@
 ---
 title: "ATK's Cream Cheese Frosting"
 description: "For pairing with ATK's various carrot cake incarnations"
-yield: "Makes 5 cups(enough for a 2-layer cake)"
+yield: "Makes 5 cups (enough for a 2-layer cake)"
 categories:
   - Desserts
 subcategories:
@@ -22,7 +22,7 @@ source:
 ## Directions
 
 1. In a stand mixer fitted with the paddle attachment, beat cream cheese, butter, sour cream, vanilla and salt on medium speed until smooth, about 2 minutes. Reduce speed to slow, slowly add the sugar, and beat until incorporated, about 4 minutes.
-2. Increase speed ot medium-high and beat until soft and fluffy, about 4 minutes.
+2. Increase speed to medium-high and beat until soft and fluffy, about 4 minutes.
 
 ## Notes
 

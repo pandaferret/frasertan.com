@@ -18,12 +18,12 @@ dietary:
 - 1 cup water
 - 1/3 cup oil
 - 1 t vanilla
-- 1T vinegar ( I use red wine because it gives it a nice reddish undertone, but any will do)
+- 1 T vinegar (I use red wine because it gives it a nice reddish undertone, but any will do)
 
 ## Directions
 
 1. Set oven to 350°.
 2. \*blend dry ingredients
 3. \*pour in wet ingredients and whisk until smooth
-4. Pour in to greased, floured 9 inch round cake pan. ( I use a cheesecake pan)
+4. Pour into greased, floured 9 inch round cake pan. (I use a cheesecake pan)
 5. Bake for 35 min at 350˚

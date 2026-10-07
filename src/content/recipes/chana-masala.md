@@ -32,11 +32,11 @@ source:
 
 1. Heat oil in a large skillet. Add onion, garlic, ginger and pepper and sauté over medium heat until browned, about 5 minutes.
 2. Turn heat down to medium-low and add the coriander, cumin, cayenne, turmeric, cumin seeds, amchoor (if using it), paprika and garam masala.
-3. Cook onion mixture with spiced for a minute or two, then add the tomatoes and any accumulated juices, scraping up any bits that have stuck to the pan.
+3. Cook onion mixture with spices for a minute or two, then add the tomatoes and any accumulated juices, scraping up any bits that have stuck to the pan.
 4. Add the water and chickpeas. Simmer uncovered for 10 minutes, then stir in salt and lemon juice.
-5. Eat up or put a lid on it and reheat it when needed. Curries such as this reheat very well, later or or in the days that follow, should it last that long.
+5. Eat up or put a lid on it and reheat it when needed. Curries such as this reheat very well, later or in the days that follow, should it last that long.
 
 ## Notes
 
-- You can swamp the amchoor powder for the juice of 1 lemon.
-- I removed the various chiles, in favor of my tender palette.
+- You can swap the amchoor powder for the juice of 1 lemon.
+- I removed the various chiles, in favor of my tender palate.

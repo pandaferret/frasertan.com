@@ -31,7 +31,7 @@ Preheat sous vide water bath to the desired temperature:
 3. 150°F: medium well
 4. 160°F: well done
 5. Season pork well with salt and pepper. Place in ziploc bags along with half of the herbs, garlic and shallots. Seal and place in sous vide bath for 1 to 4 hours.
-6. To finish: Turn on your vents and open windows and doors. Remove pork from bag; reserve liquid is using to make the pan sauce below. Pat pork dry with paper towels. Add oil to a cast iron skillet and preheat over your hottest burner until oil starts to lightly smoke. Sear pork in skillet until mostly browned on all sides, about 2 minutes total. Add butter and the reserved half of the herbs garlic and shallots and tilt the pan to baste the pork until well browned, about 30 seconds.
+6. To finish: Turn on your vents and open windows and doors. Remove pork from bag; reserve liquid if using to make the pan sauce below. Pat pork dry with paper towels. Add oil to a cast iron skillet and preheat over your hottest burner until oil starts to lightly smoke. Sear pork in skillet until mostly browned on all sides, about 2 minutes total. Add butter and the reserved half of the herbs, garlic and shallots and tilt the pan to baste the pork until well browned, about 30 seconds.
 7. Transfer pork to a rack set in a rimmed baking sheet and pour drippings over it. Let rest 1-2 minutes, then serve.
 
 ## Notes

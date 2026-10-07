@@ -44,7 +44,7 @@ Tools:
 7. Transfer the pan to a cooling rack and cover with a layer or two of lightly dampened paper towels. Let cool for 10 minutes, then remove the towels (a few bits of cake may come with).
 8. Run a knife around the edges of the cake. Sift 1 tbsp of cocoa powder evenly over the cake, then lay a clean tea towel over the top. Place the back of a baking sheet over the towel, then invert the whole thing on top of the back of the baking sheet. Remove the jelly roll pan.
 9. Peel off the parchment paper from the cake, then repeat the sifting of cocoa powder. Using the tea towel to help, roll up the cake with the tea towel inside. Let cool completely.
-10. When cool, beat the heavy cream, powdered sugar and flavoring until the hold stiff but not firm peaks. Get your serving plate ready!
+10. When cool, beat the heavy cream, powdered sugar and flavoring until they hold stiff but not firm peaks. Get your serving plate ready!
 11. GENTLY unroll the cake from the tea towel. Spread the whipped cream filling evenly over the interior surface of the cake then GENTLY reroll the cake. Transfer to serving platter, slice and eat!
 
 ## Notes

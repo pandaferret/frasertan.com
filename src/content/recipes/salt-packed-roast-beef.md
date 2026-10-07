@@ -1,5 +1,5 @@
 ---
-title: "Salt-packed Roast Beef"
+title: "Salt-Packed Roast Beef"
 description: "This technique made an amazing roast!"
 categories:
   - Main Dishes

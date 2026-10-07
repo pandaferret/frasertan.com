@@ -1,5 +1,5 @@
 ---
-title: "Corn cookies"
+title: "Corn Cookies"
 description: "From Momofuku Milk Bar"
 categories:
   - Desserts
@@ -26,4 +26,4 @@ subcategories:
 3. Using a 2 3/4-ounce ice cream scoop (or a 1/3-cup measure), portion out the dough onto a parchment-lined cookie sheet. Pat the tops of the cookie dough domes flat. Wrap the sheet tightly in plastic wrap and refrigerate for at least 1 hour, or up to 1 week. Do not bake the cookies from room temperature - they will not hold their shape.
 4. Heat the oven to 350°F.
 5. Arrange the chilled dough a minimum of 4 inches apart on parchment- or silpat-lined sheet pans. Bake for 18 minutes. The cookies will puff, crackle and spread. After 18 minutes, they should be faintly browned on the edges yet still bright yellow in the center. Give them an extra minute or so if that's not the case.
-6. Cool the cookies completely on the sheet pans before transferring to a plate of an airtight container for storage. At room temp, the cookies will keep fresh for 5 days; in the freezer they will keep for up to a month.
+6. Cool the cookies completely on the sheet pans before transferring to a plate or an airtight container for storage. At room temp, the cookies will keep fresh for 5 days; in the freezer they will keep for up to a month.

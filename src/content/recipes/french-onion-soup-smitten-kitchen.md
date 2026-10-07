@@ -1,5 +1,5 @@
 ---
-title: "French Onion Soup (smitten kitchen)"
+title: "French Onion Soup (Smitten Kitchen)"
 description: "Smitten Kitchen's version of French Onion soup turned out, well, superbly. Nothing less from Deb!"
 categories:
   - Soups and Stews

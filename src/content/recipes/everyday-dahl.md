@@ -41,7 +41,7 @@ source:
 
 ## Notes
 
-- I've never been able to find split yellow peas, but I'm successfully substituted red lentils (no soaking). I tried green split peas once, and it turned into a bit of a mush... though it still tasted delicious!
+- I've never been able to find split yellow peas, but I've successfully substituted red lentils (no soaking). I tried green split peas once, and it turned into a bit of a mush... though it still tasted delicious!
 - Railway Potatoes
 - Sauteed Beets with Mustard and Lemon Juice
 - Instant Pot Indian Veggie Curry

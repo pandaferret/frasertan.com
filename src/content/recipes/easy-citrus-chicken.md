@@ -35,4 +35,4 @@ source:
 ## Notes
 
 - I routinely halve my chicken breasts horizontally to get two thinner pieces. I cooked these for 4 minutes per side.
-- Adding the segments wasn't worth it in my mind; i mostly juiced them getting them out of the rind anyway.
+- Adding the segments wasn't worth it in my mind; I mostly juiced them getting them out of the rind anyway.

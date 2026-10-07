@@ -1,5 +1,5 @@
 ---
-title: "sweet potato and sausage soup"
+title: "Sweet Potato and Sausage Soup"
 description: "This is a great hearty soup from Deb (smitten kitchen). You can play with the various ingredients to suit your tastes!"
 categories:
   - Soups and Stews

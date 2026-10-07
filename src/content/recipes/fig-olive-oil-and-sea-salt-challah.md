@@ -1,5 +1,5 @@
 ---
-title: "fig, olive oil and sea salt challah"
+title: "Fig, Olive Oil and Sea Salt Challah"
 description: "from Smitten Kitchen"
 categories:
   - Breads and Baked Goods
@@ -42,6 +42,6 @@ Egg wash:
 3. Meanwhile, make fig paste: In a small saucepan, combine the figs, zest, water, juice, salt, and a few grinds of black pepper. Bring to a simmer over medium heat, and cook, stirring occasionally, until the figs are soft and tender, about 10 minutes. Season with salt and pepper to taste. Remove from heat, and let cool to lukewarm. Process fig mixture in a food processor until it resembles a fine paste, scraping down the sides of the bowl as necessary. Set aside to cool.
 4. Insert figs: After your dough has risen, turn it out onto a floured counter and divide it in half. Roll the first half of the dough into a wide and totally imperfect rectangle (really, the shape doesn’t matter). Spread half the fig filling evenly over the dough, stopping short of the edge. Roll the dough into a long, tight log, trapping the filling within. Then gently stretch the log as wide as feels comfortable (I take mine to my max counter width, a pathetic three feet), and divide it in half. Repeat with remaining dough and fig filling.
 5. Weave your challah: Arrange two ropes in each direction, perpendicular to each other, like a tight tic-tac-toe board. Weave them so that one side is over, and the other is under, where they meet. So, now you’ve got an eight-legged woven-headed octopus. Take the four legs that come from underneath the center and move the leg to their right — i.e., jumping it. Take the legs that were on the right and, again, jump each over the leg before, this time to the left. If you have extra length in your ropes, you can repeat these left-right jumps until you run out of rope. Tuck the corners or odd bumps under the dough with the sides of your hands to form a round.
-6. Transfer the dough to a parchment-cover heavy baking sheet, or, if you’ll be using a bread stone, a baker’s peel. Beat egg until smooth, and brush over challah. Let challah rise for another hour, but 45 minutes into this rise, preheat your oven to 375°F.
+6. Transfer the dough to a parchment-covered heavy baking sheet, or, if you’ll be using a bread stone, a baker’s peel. Beat egg until smooth, and brush over challah. Let challah rise for another hour, but 45 minutes into this rise, preheat your oven to 375°F.
 7. Bake your loaf: Before baking, brush loaf one more time with egg wash and sprinkle with sea salt. Bake in middle of oven for 35 to 40 minutes. It should be beautifully bronzed; if yours starts getting too dark too quickly, cover it with foil for the remainder of the baking time. The very best way to check for doneness is with an instant-read thermometer — the center of the loaf should be 195 degrees.
 8. Cool loaf on a rack before serving. Or, well, good luck with that.

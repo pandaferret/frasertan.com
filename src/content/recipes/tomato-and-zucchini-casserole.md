@@ -12,7 +12,7 @@ source:
 - 2 tbsp olive oil
 - 2 lb medium zucchini, halved lengthwise and cut into 1/2" slices
 - 1/2 tsp salt
-- /4 tsp pepper
+- 1/4 tsp pepper
 - 2 tsp minced garlic
 - 1 cup grape tomatoes, halved
 - 1 cup shredded Italian cheese blend

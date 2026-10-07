@@ -17,7 +17,7 @@ source:
 - 1/4 teaspoon baking powder
 - 1/4 teaspoon salt
 - 1 1/2 cups sugar
-- 1/2 cup plus 2 tablespoons (1 1/4 sticks) room- temperature, unsalted butter
+- 1/2 cup plus 2 tablespoons (1 1/4 sticks) room-temperature, unsalted butter
 - 1 large egg
 
 ## Directions

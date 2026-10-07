@@ -19,7 +19,7 @@ source:
 
 ## Directions
 
-1. Prick the eggplants all over, then roast in a 350° over for 2-2.5 hours, until soft.
+1. Prick the eggplants all over, then roast in a 350° oven for 2-2.5 hours, until soft.
 2. Slice open and scoop out the hot insides into a colander set in a bowl; let sit for 5ish minutes to drain excess water.
 3. Scoop flesh into a bowl; add garlic powder to taste, onion powder to taste, olive oil, salt, pepper and mayo to taste. Mix well with a steak knife to get a nice consistency.
 4. Eat on challah :)

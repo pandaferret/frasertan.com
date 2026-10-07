@@ -1,6 +1,6 @@
 ---
 title: "Braised Short Ribs with White Wine and Garlic"
-description: "From Cooks' Country, cousin to Cook's Illustrated. This pairs well with buttered egg noodles or mashed potatoes."
+description: "From Cook's Country, cousin to Cook's Illustrated. This pairs well with buttered egg noodles or mashed potatoes."
 yield: "Serves 4-5"
 categories:
   - Main Dishes

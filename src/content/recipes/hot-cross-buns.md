@@ -31,7 +31,7 @@ For the Glaze:
 ## Directions
 
 1. In a small bowl, combine 1/2 cup raisins/craisins with 1 cup boiling hot water. Let sit 10 min then drain well and set aside. In a large measuring cup, combine 1/4 cup very warm milk with 1/2 tsp sugar and sprinkle 3/4 Tbsp yeast over the top. Stir and let sit at room temp until bubbly and doubled in volume (10 min).
-2. In a large mixing bowl (I use my KitchenAid mixer ), combine 1/2 cup very warm milk with 1/2 cup sugar, 4 Tbsp softened butter and 1/2 tsp salt. Stir until butter is melted. Add 2 well beaten eggs and proofed yeast mixture. Stir in 1/4 tsp ground cinnamon and pinch of ground nutmeg.
+2. In a large mixing bowl (I use my KitchenAid mixer), combine 1/2 cup very warm milk with 1/2 cup sugar, 4 Tbsp softened butter and 1/2 tsp salt. Stir until butter is melted. Add 2 well beaten eggs and proofed yeast mixture. Stir in 1/4 tsp ground cinnamon and pinch of ground nutmeg.
 3. Using the dough hook attachment mix in 3 1/2 cups flour, 1 cup at a time until soft dough forms. Knead 8-12 min or until smooth and elastic. Dough will still stick a little to the bowl but not to your fingers.
 4. Add drained raisins/craisins (pat them dry with paper towels if they still seem too wet) and transfer dough to a large buttered bowl, turning it to bring the buttered side-up. Cover with a tea towel and let rise in a warm, draft-free room 1 1/2 hours or until doubled in volume (you can also proof in a warm 100˚F oven).
 5. Turn dough out onto a lightly floured surface and cut in half then continue cutting dough until you have 12 equal sized pieces. Roll dough into balls and transfer to a buttered 9×13″ baking pan. Cover with a tea towel and let them sit in a warm, draft-free room 30 min until puffed

@@ -1,6 +1,6 @@
 ---
 title: "Skillet Gingerbread Cake with Apple Butter"
-description: "gSo, I thought nothing could top the Gramercy Tavern Gingerbread Cake - and really, nothin can, when you're looking for that punch-in-the-face kind of flavor. But, that's not always everyone's thing, and for all those people, there's this cake. It's moist, it's decadent, it's gingery and spicy and molasses-y, but it's not too much."
+description: "So, I thought nothing could top the Gramercy Tavern Gingerbread Cake - and really, nothing can, when you're looking for that punch-in-the-face kind of flavor. But, that's not always everyone's thing, and for all those people, there's this cake. It's moist, it's decadent, it's gingery and spicy and molasses-y, but it's not too much."
 yield: "Serves 12"
 categories:
   - Desserts

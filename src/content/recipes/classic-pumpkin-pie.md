@@ -1,6 +1,6 @@
 ---
 title: "Classic Pumpkin Pie"
-description: "Not gonna lie, I just straight up copied this from the Libby's website. If it ain't broke, don't fix it!Also, don't sub sweetened condensed milk for evaporated milk - that does not work!"
+description: "Not gonna lie, I just straight up copied this from the Libby's website. If it ain't broke, don't fix it! Also, don't sub sweetened condensed milk for evaporated milk - that does not work!"
 categories:
   - Desserts
 subcategories:

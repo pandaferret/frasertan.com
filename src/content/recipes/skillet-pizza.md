@@ -40,9 +40,9 @@ Sauce and Toppings:
 3. For the sauce and toppings: Process tomatoes, 1 tbsp oil, garlic, vinegar, oregano, salt and pepper in a clean dry workbowl of your food processor until smooth, about 30 seconds. Transfer mixture to a 2-cup measuring cup and add reserved tomato juice until sauce measures 2 cups. Reserve 1 cup of sauce; save the other cup for another use.
 4. To cook: Set oven rack to upper-middle position and heat oven to 500 degrees. Grease a 12-inch ovensafe skillet with 2 tbsp oil.
 5. Transfer dough to a lightly floured counter, divide in half, and cover one half with greased plastic. Press and roll the remaining piece into a round 11" in diameter.
-6. Tansfer dough to prepared skillet, reshaping as needed. Spread 1/2 cup of suace over the dough, leaving a 1/2" border. Top with half of the mozzarella.
+6. Transfer dough to prepared skillet, reshaping as needed. Spread 1/2 cup of sauce over the dough, leaving a 1/2" border. Top with half of the mozzarella.
 7. Set the skillet over high heat and cook until the outside edge of the dough is set, pizza is slightly puffy and bottom of the crust looks spotty brown when lifted with a spatula, about 3 minutes.
-8. Transfer skillet to oven and bake pizza until edges are brown adn cheese is melted and spotty brown, 7 to 10 minutes. Using potholders, remove skillet from oven and slide pizza onto wire rack: let cool slightly. Sprinkle with 1 tablespoon basil, cut into wedges and serve.
+8. Transfer skillet to oven and bake pizza until edges are brown and cheese is melted and spotty brown, 7 to 10 minutes. Using potholders, remove skillet from oven and slide pizza onto wire rack: let cool slightly. Sprinkle with 1 tablespoon basil, cut into wedges and serve.
 9. Repeat with next round of dough, being mindful of the hot skillet.
 
 ## Notes

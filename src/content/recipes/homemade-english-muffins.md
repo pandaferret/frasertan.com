@@ -38,4 +38,4 @@ For the English muffin dough:
 ## Notes
 
 - You can also let the dough rise at room temperature until doubled in bulk, 1 1/2 to 2 hours, and then make the muffins immediately. These muffins will have a milder flavor.
-- Each muffin contains approximatley 1g of sugar.
+- Each muffin contains approximately 1g of sugar.

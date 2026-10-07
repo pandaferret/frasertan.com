@@ -1,6 +1,6 @@
 ---
 title: "Bacon and Egg Pan-Fried Steam Buns (Shenjian Bao)"
-description: "This is from a great blog called My Name is Yeh. She likes to combine Asian and Jewish flavors together, and, as a native New Yorker, I can but approve!This dough by itself is also delicious - it's the perfect sweet steamed bread that I remember growing up!"
+description: "This is from a great blog called My Name is Yeh. She likes to combine Asian and Jewish flavors together, and, as a native New Yorker, I can but approve! This dough by itself is also delicious - it's the perfect sweet steamed bread that I remember growing up!"
 categories:
   - Starters
 source:

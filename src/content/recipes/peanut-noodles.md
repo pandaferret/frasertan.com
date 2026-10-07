@@ -20,7 +20,7 @@ subcategories:
 - garlic powder
 - onion powder
 - ginger powder
-- cilanto
+- cilantro
 - peanuts
 
 ## Directions

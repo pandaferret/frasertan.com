@@ -1,6 +1,6 @@
 ---
 title: "Liege Waffles (from Allrecipes)"
-description: "While Smitten Kitchen's recipe is great, it does take a bit of planning. These come together the same morning as you want them (well, if you wake up with the sun like I do thanks for a very cheerful four-year-old) and are deeeeeeeelicous!"
+description: "While Smitten Kitchen's recipe is great, it does take a bit of planning. These come together the same morning as you want them (well, if you wake up with the sun like I do thanks to a very cheerful four-year-old) and are deeeeeeeelicous!"
 categories:
   - Breakfast
 source:
@@ -24,7 +24,7 @@ source:
 1. Add the milk to a medium bowl. Mix in the sugar and the yeast. Let sit for 15 minutes to activate the yeast.
 2. Meanwhile, melt and cool the butter.
 3. Whisk the eggs, melted and cooled butter and vanilla into the yeast mixture.
-4. In a large bowl, stir together then flour and salt. Stir in the liquid ingredients and stir together until a wet dough forms. Let rise in a warm spot until doubled, about 30 minutes. Gently mix in the pearl sugar.
+4. In a large bowl, stir together the flour and salt. Stir in the liquid ingredients and stir together until a wet dough forms. Let rise in a warm spot until doubled, about 30 minutes. Gently mix in the pearl sugar.
 5. Preheat your waffle iron for 10 minutes. Place a baseball sized ball of dough in the middle of the iron and cook until golden, roughly 2-3 minutes.
 
 ## Notes

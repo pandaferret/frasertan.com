@@ -5,7 +5,7 @@ yield: "Serves 12-15"
 categories:
   - Desserts
 source:
-  name: "ATK's The Perfect Cake p. 110Notes:"
+  name: "ATK's The Perfect Cake p. 110"
 ---
 
 ## Ingredients
@@ -31,7 +31,7 @@ source:
 
 ## Directions
 
-1. Adjust oven rack to middle level and preheat oven to 350°F. Grease and flour a 9 x 13 baking pan. If you intend to remove the cake for serving, after greasing and flouring, add a parchment sling, then crease and flour the parchment.
+1. Adjust oven rack to middle level and preheat oven to 350°F. Grease and flour a 9 x 13 baking pan. If you intend to remove the cake for serving, after greasing and flouring, add a parchment sling, then grease and flour the parchment.
 2. In a medium sized bowl, whisk together the flour, cinnamon, baking powder, baking soda, salt, nutmeg and cloves.
 3. In a large bowl, whisk together the eggs and both sugars, until sugars are mostly dissolved and the mixture is frothy. While continuously whisking, slowly pour in the oil in a slow drizzle until thoroughly combined and emulsified.
 4. Whisk in flour mixture until just incorporated. Switch to a rubber scraper to fold in carrots and nuts, if using.

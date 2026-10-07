@@ -16,23 +16,23 @@ source:
 
 ## Ingredients
 
-- 3tablespoons vegetable oil
-- 2onions, chopped fine
+- 3 tablespoons vegetable oil
+- 2 onions, chopped fine
 - Salt and pepper
-- 4teaspoon curry powder
-- 1 ½teaspoon garam masala
-- 3garlic clove, minced
-- 1serrano chile, stemmed, seeded, and minced
-- 1tablespoon grated fresh ginger
-- 1tablespoon tomato paste
-- 2cups chicken or vegetable broth, plus extra as needed
-- ½head cauliflower (1 pound), cored and cut into 1-inch florets
-- 12ounces sweet potatoes, peeled and cut into 3/4-inch pieces
-- 1(15-ounce) can chickpeas, rinsed
-- 1(14.5-ounce) can diced tomatoes
-- 8ounces green beans, trimmed and cut into 1-inch lengths
-- 1cup canned coconut milk
-- ⅓cup minced fresh cilantro
+- 4 teaspoon curry powder
+- 1 ½ teaspoon garam masala
+- 3 garlic clove, minced
+- 1 serrano chile, stemmed, seeded, and minced
+- 1 tablespoon grated fresh ginger
+- 1 tablespoon tomato paste
+- 2 cups chicken or vegetable broth, plus extra as needed
+- ½ head cauliflower (1 pound), cored and cut into 1-inch florets
+- 12 ounces sweet potatoes, peeled and cut into 3/4-inch pieces
+- 1 (15-ounce) can chickpeas, rinsed
+- 1 (14.5-ounce) can diced tomatoes
+- 8 ounces green beans, trimmed and cut into 1-inch lengths
+- 1 cup canned coconut milk
+- ⅓ cup minced fresh cilantro
 
 ## Directions
 

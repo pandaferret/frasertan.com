@@ -1,6 +1,6 @@
 ---
-title: "Jesse's crack pasta sauce"
-description: 'This amazing deliciousness is less of a recipe and more of a state of being. What I have here is transcribed word for word from Jesse, so feel free to play around with things to make this exactly how you want it!Note: Eric has dubbed this "death by pasta sauce" :)'
+title: "Jesse's Crack Pasta Sauce"
+description: 'This amazing deliciousness is less of a recipe and more of a state of being. What I have here is transcribed word for word from Jesse, so feel free to play around with things to make this exactly how you want it! Note: Eric has dubbed this "death by pasta sauce" :)'
 yield: "Serves 6"
 categories:
   - Main Dishes
@@ -19,7 +19,7 @@ categories:
 
 ## Directions
 
-1. In a broad pan and in stream of consciousness: brown garlic in olive oil, cook uncased Italian sausage and crumble it with a wooden spoon, add onion/salt/pepper/re pepper and saute until soft and a little caramelized.
+1. In a broad pan and in stream of consciousness: brown garlic in olive oil, cook uncased Italian sausage and crumble it with a wooden spoon, add onion/salt/pepper/red pepper and saute until soft and a little caramelized.
 2. Add half a bottle of wine of your choice (I prefer cabs or malbecs) and drink the other half, simmer until thick.
 3. Add diced tomatoes or a large can of diced tomatoes, simmer until cooked down.
 4. You could stop there, but the recipe then calls for a cup of grated parmesan and then a cup of heavy cream. Both are optional, but wonderful. If you don't do the parmesan, be sure to add enough salt to cut the acidity of the tomatoes.
@@ -33,4 +33,4 @@ categories:
 - I think I let it go for more than an hour, and I kept stirring occasionally so the bottom wouldn't burn (I have a hot stove).
 - Jesse says the cheese and cream are optional, I think they are required.
 - Drinking the other half of the bottle is definitely optional.
-- I want to try this with a sweeter white like a Reisling or a Sauternes, based on Pasta with Bolognese Sauce
+- I want to try this with a sweeter white like a Riesling or a Sauternes, based on Pasta with Bolognese Sauce

@@ -1,5 +1,5 @@
 ---
-title: "chicken rice with buttered onions"
+title: "Chicken Rice with Buttered Onions"
 description: "Another yummy one from Smitten Kitchen!"
 yield: "Serves 4 to 6"
 categories:

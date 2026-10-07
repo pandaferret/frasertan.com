@@ -1,6 +1,6 @@
 ---
 title: "Black Pepper Mashed Potatoes"
-description: "Christina Tosi of Momomfuku Milk Bar is known for her confections, but also brings the same weirdness and creativity to savory dishes as well. This is a pretty tame recipe by her standards, but still delicious!"
+description: "Christina Tosi of Momofuku Milk Bar is known for her confections, but also brings the same weirdness and creativity to savory dishes as well. This is a pretty tame recipe by her standards, but still delicious!"
 categories:
   - Side Dishes
 tags:
@@ -14,11 +14,11 @@ tags:
 - 2 tbsp whole milk
 - 1 tbsp sugar
 - 2 tsp ground black pepper
-- 1.5 tsp kocher salt
+- 1.5 tsp kosher salt
 
 ## Directions
 
-1. Cut the potoatoes into 1 inch chunks and place in a large saucepan. Cover with water plus one inch, then bring to a boil. Let boil until tender, about 15 minutes.
+1. Cut the potatoes into 1 inch chunks and place in a large saucepan. Cover with water plus one inch, then bring to a boil. Let boil until tender, about 15 minutes.
 2. Drain from the water and add potatoes to a bowl. Immediately add the butter and mash. Using a spoon or spatula, stir in remaining ingredients to taste.
 3. Serve warm.
 

@@ -16,7 +16,7 @@ source:
 ## Directions
 
 1. Cover your largest baking sheet with paper towels or paper bags for draining.
-2. Scrub potatoes and dab them dry, then cut into 1/4-inch batons. Place in a 4 to 5-quart heavy, deep frying pan or Dutch oven and add oil; it will barely cover the potatoes. Turn burner to high and bring oil to a boil, which will take about 5 minutes. Cook potatoes for another 15 minutes; do not stir; they’ll just break. At this 20 minute mark, you can use tongs or a thin spatula to gently scrape loose any potatoes that have stuck to the pan. Continue to cook, stirring only if absolutely necessary, for 5 to 10 minutes longer, or until crisp and as golden as you like them. Use a large slotted spoon or spider to scoop potatoes from and spread them on prepared tray drain, tossing immediately with salt as you do.
+2. Scrub potatoes and dab them dry, then cut into 1/4-inch batons. Place in a 4 to 5-quart heavy, deep frying pan or Dutch oven and add oil; it will barely cover the potatoes. Turn burner to high and bring oil to a boil, which will take about 5 minutes. Cook potatoes for another 15 minutes; do not stir; they’ll just break. At this 20 minute mark, you can use tongs or a thin spatula to gently scrape loose any potatoes that have stuck to the pan. Continue to cook, stirring only if absolutely necessary, for 5 to 10 minutes longer, or until crisp and as golden as you like them. Use a large slotted spoon or spider to scoop potatoes from the oil and spread them on prepared tray to drain, tossing immediately with salt as you do.
 3. You can keep fries warm in a 200 degree oven but the texture is really best right from the fryer.
 
 ## Notes

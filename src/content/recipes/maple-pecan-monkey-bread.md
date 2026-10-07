@@ -30,6 +30,6 @@ source:
 
 ## Notes
 
-- The original recipe notes that you can assemble the bread, wrap tightly and refrigerate for up to 12 hours. I found that this made the balls merge together too much, and they weren't as separate from each other. Instead, I let the dough sit overnight after the first rise. If I start first thing when I wake up, I can form the balls and assemble the bread, let is rise and bake it in the morning.
+- The original recipe notes that you can assemble the bread, wrap tightly and refrigerate for up to 12 hours. I found that this made the balls merge together too much, and they weren't as separate from each other. Instead, I let the dough sit overnight after the first rise. If I start first thing when I wake up, I can form the balls and assemble the bread, let it rise and bake it in the morning.
 - I also layer the pecans AND the sauce between the layers of balls, rather than adding the sauce just at the end. I felt like more balls got sauce this way.
 - From NYT: After the first rise, the dough can be deflated, covered tightly, and refrigerated for up to 24 hours. The assembled monkey bread can be covered tightly and refrigerated for up to 12 hours. Bring to room temperature before baking. The brown butter syrup can be refrigerated for up to 1 week. Warm to room temperature, whisking to emulsify, before using.

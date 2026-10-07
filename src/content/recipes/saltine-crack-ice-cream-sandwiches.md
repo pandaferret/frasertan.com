@@ -1,5 +1,5 @@
 ---
-title: "saltine crack ice cream sandwiches"
+title: "Saltine Crack Ice Cream Sandwiches"
 description: "Made with Jess. The saltine crack is amazing! It was a bit hard to cut - might have needed to be more frozen to achieve clean cuts."
 categories:
   - Desserts
@@ -33,7 +33,7 @@ source:
 5. Chill crackers: Transfer pan(s) to freezer until absolutely cold and solid, about 15 to 30 minutes. Using the foil to lift toffee sheet, carefully transfer the candy to a cutting board and remove the foil. If you’ve made this in one pan, cut your sheet evenly in half with a serrated knife.
 6. Assemble ice cream sandwich block: Line the bottoms and sides of your baking pan (now foil-free) with a piece of plastic wrap. Place your first sheet of candy chocolate side down in the bottom of your pan. Scoop your desired amount of ice cream over the sheet and spread it into an even layer. Place second sheet of candy, chocolate side up, on top, pressing it onto the ice cream. Return to freezer for several hours, at least 4 but probably 8 is best to get the block of sandwiches solid enough to cut without being completely aggravating.
 7. Cut block into individual sandwiches: When sandwich block is frozen solid, transfer to a cutting board (you can also freeze your cutting surface for 10 minutes before using, to give you more time before things get too melty) and use a sharp serrated knife to very, very carefully saw your block into ice cream sandwich squares. I cut my 8×8-inch blocks into 16 2-inch sandwiches. This is definitely the peskiest part. If things warm and melt too fast, just place the whole thing back in the freezer for 10 minutes before continuing.
-8. Once cut, return sandwiches to freezer to let them firm up again, before transferring them to a container or freezer bag for store, or, you know, your mouth for near-immediate gratification.
+8. Once cut, return sandwiches to freezer to let them firm up again, before transferring them to a container or freezer bag for storage, or, you know, your mouth for near-immediate gratification.
 
 ## Notes
 
