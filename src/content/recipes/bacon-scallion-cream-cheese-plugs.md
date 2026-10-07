@@ -1,7 +1,7 @@
 ---
 title: "Bacon, Scallion, Cream Cheese Plugs"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 ---
 
 ## Ingredients

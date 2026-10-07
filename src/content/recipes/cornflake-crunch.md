@@ -1,7 +1,9 @@
 ---
 title: "Cornflake Crunch"
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Sweets and Sundries
 source:
   name: "Momofuku Milk Bar"
 ---

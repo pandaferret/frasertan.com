@@ -28,9 +28,31 @@ const inCategory = recipes
   .filter((r) => r.data.categories.includes(categoryName))
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
 
-const subcategories = [
-  ...new Set(inCategory.flatMap((r) => r.data.subcategories ?? [])),
-].sort((a, b) => a.localeCompare(b));
+// Subcategories aren't tied to a category in the frontmatter, so a recipe in
+// two categories would otherwise carry its chips onto both pages. List the
+// chips each category page shows; categories not listed get no chips.
+const SUBCATEGORIES: Record<string, string[]> = {
+  "Main Dishes": [
+    "Beef",
+    "Fish",
+    "Pastas and Grains",
+    "Pizzas",
+    "Pork",
+    "Poultry",
+    "Slow Cooker Goodness",
+    "Sundries",
+  ],
+  Desserts: [
+    "Cakes and Cupcakes",
+    "Cookies",
+    "Crumbles, Cobblers, Buckles and Bars",
+    "Frostings and Sauces",
+    "Pies and Tarts",
+    "Sweets and Sundries",
+  ],
+  "Soups and Stews": ["Slow Cooker Goodness", "Soups"],
+};
+const subcategories = SUBCATEGORIES[categoryName] ?? [];
 ---
 
 <BaseLayout

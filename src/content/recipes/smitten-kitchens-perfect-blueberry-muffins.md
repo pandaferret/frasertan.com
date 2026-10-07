@@ -3,7 +3,7 @@ title: "Smitten Kitchen's Perfect Blueberry Muffins"
 description: "These are an easy, quick and delicious way to use up all those blueberries you bought 'cause your kid snarfed a gallon of them last week but then you had to freeze when that selfsame kiddo decided blueberries were so last week mom, come on...."
 yield: "Serves 9"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 source:
   url: "https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/"
 cover: "/images/recipes/smitten-kitchens-perfect-blueberry-muffins.jpg"

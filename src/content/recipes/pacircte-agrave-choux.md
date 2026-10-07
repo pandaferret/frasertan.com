@@ -2,7 +2,9 @@
 title: "Pâte à choux"
 description: "Choux pastry is used for several different desserts that encase a soft tasty filling in a light but crunchy shell, such as profiteroles and eclairs."
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Sweets and Sundries
 source:
   url: "http://www.cooksillustrated.com/recipes/142-pate-a-choux-cream-puff-paste?ref=new_search_experience_1&incode=MCSCD00L0"
 ---
