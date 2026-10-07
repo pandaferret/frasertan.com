@@ -9,6 +9,7 @@ subcategories:
   - Beans
 tags:
   - Weeknight Meals
+  - Beans
   - Eric-friendly
   - Owen fav
   - Beef
