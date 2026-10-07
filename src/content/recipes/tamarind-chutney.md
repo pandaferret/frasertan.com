@@ -16,4 +16,5 @@ categories:
 
 ## Directions
 
-1. Combine ingredients in a small saucepan. Simmer until fragrant and thickened, about 10 minutes. Season with salt to taste.
+1. Combine ingredients in a small saucepan. Simmer until fragrant and thickened, about 10 minutes.
+2. Season with salt to taste.

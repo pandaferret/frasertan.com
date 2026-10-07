@@ -27,4 +27,13 @@ source:
 
 ## Directions
 
-1. Heat oil in a deep sauce pan over medium heat for one minute. Add ginger, garlic, onion, green chile, and let sizzle for one minute. Add the tomato sauce, salt and remaining spices and cook for an additional five minutes, stirring frequently. Add red kidney beans plus 2 additional cups of water, and tomatoes. Bring it to a boil, then reduce to medium heat and let cook uncovered for 10 minutes. Remove from heat. Garnish with cilantro. Serve over rice or with naan. A dollop of plain yogurt (if not keeping the dish vegan) on top is heavenly.
+1. Heat oil in a deep sauce pan over medium heat for one minute.
+2. Add ginger, garlic, onion, green chile, and let sizzle for one minute.
+3. Add the tomato sauce, salt and remaining spices and cook for an additional five minutes, stirring frequently.
+4. Add red kidney beans plus 2 additional cups of water, and tomatoes.
+5. Bring it to a boil, then reduce to medium heat and let cook uncovered for 10 minutes. Remove from heat.
+6. Garnish with cilantro. Serve over rice or with naan.
+
+## Notes
+
+- A dollop of plain yogurt (if not keeping the dish vegan) on top is heavenly.

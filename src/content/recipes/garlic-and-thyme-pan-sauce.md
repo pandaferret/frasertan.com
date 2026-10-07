@@ -20,4 +20,8 @@ source:
 
 ## Directions
 
-1. Pour off all but 1 teaspoon oil from pan used to cook chops and return pan to medium heat. Add shallot and garlic and cook, stirring constantly, until softened, about 1 minute. Add wine and broth, scraping pan bottom to loosen browned bits. Simmer until reduced to 1/2 cup, 6 to 7 minutes. Off heat, stir in thyme and vinegar, then whisk in butter, 1 tablespoon at a time. Season with salt and pepper and serve with chops.
+1. Pour off all but 1 teaspoon oil from pan used to cook chops and return pan to medium heat.
+2. Add shallot and garlic and cook, stirring constantly, until softened, about 1 minute.
+3. Add wine and broth, scraping pan bottom to loosen browned bits. Simmer until reduced to 1/2 cup, 6 to 7 minutes.
+4. Off heat, stir in thyme and vinegar, then whisk in butter, 1 tablespoon at a time.
+5. Season with salt and pepper and serve with chops.

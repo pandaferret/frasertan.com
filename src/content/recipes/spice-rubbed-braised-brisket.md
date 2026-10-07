@@ -37,7 +37,8 @@ FOR SERVING:
 
 ## Directions
 
-1. Make the brisket: Heat oven to 300 degrees. In a small bowl, combine the coffee, smoked paprika, coriander, garlic powder, cinnamon, pepper and 2 teaspoons salt. Mix well and rub all over the brisket.
+1. Make the brisket: Heat oven to 300 degrees.
+2. In a small bowl, combine the coffee, smoked paprika, coriander, garlic powder, cinnamon, pepper and 2 teaspoons salt. Mix well and rub all over the brisket.
 
 ## Notes
 

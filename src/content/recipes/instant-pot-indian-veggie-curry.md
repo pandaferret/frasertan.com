@@ -36,14 +36,17 @@ source:
 
 ## Directions
 
-If you prepare this recipe using the pressure cook setting, it will take 45 minutes. If you prepare this recipe using the slow cook setting, it will take 5 hours 30 minutes. 1. Using highest sauté or browning function, heat oil in multicooker until shimmering. Add onions and teaspoon salt and cook until onions are softened, 3 to 5 minutes. Stir in curry powder, garam masala, garlic, serrano, ginger, and tomato paste and cook until fragrant, about 1 minute. Stir in broth, scraping up any browned bits, then stir in cauliflower, potatoes, chickpeas, and tomatoes and their juice.
-
-2A TO PRESSURE COOK: Lock lid in place and close pressure release valve. Select high pressure cook function and cook for 2 minutes. Turn off multicooker and quick-release pressure. Carefully remove lid, allowing steam to escape away from you.
-
-2B TO SLOW COOK: Lock lid in place and open pressure release valve. Select low slow cook function and cook until vegetables are tender, 4 to 5 hours. (If using Instant Pot, select high slow cook function and increase cooking range to 6 to 7 hours.) Carefully remove lid, allowing steam to escape away from you.
-
-3. Gently stir green beans into curry and cook using highest sauté or browning function until crisp-tender, 6 to 8 minutes. Turn off multicooker. Stir in coconut milk and adjust consistency with extra hot broth as needed. Stir in cilantro and season with salt and pepper to taste. Serve.
+1. Using highest sauté or browning function, heat oil in multicooker until shimmering.
+2. Add onions and teaspoon salt and cook until onions are softened, 3 to 5 minutes.
+3. Stir in curry powder, garam masala, garlic, serrano, ginger, and tomato paste and cook until fragrant, about 1 minute.
+4. Stir in broth, scraping up any browned bits, then stir in cauliflower, potatoes, chickpeas, and tomatoes and their juice.
+5. To pressure cook: Lock lid in place and close pressure release valve. Select high pressure cook function and cook for 2 minutes. Turn off multicooker and quick-release pressure. Carefully remove lid, allowing steam to escape away from you.
+6. To slow cook: Lock lid in place and open pressure release valve. Select low slow cook function and cook until vegetables are tender, 4 to 5 hours. (If using Instant Pot, select high slow cook function and increase cooking range to 6 to 7 hours.) Carefully remove lid, allowing steam to escape away from you.
+7. Gently stir green beans into curry and cook using highest sauté or browning function until crisp-tender, 6 to 8 minutes. Turn off multicooker.
+8. Stir in coconut milk and adjust consistency with extra hot broth as needed.
+9. Stir in cilantro and season with salt and pepper to taste. Serve.
 
 ## Notes
 
+- If you prepare this recipe using the pressure cook setting, it will take 45 minutes. If you prepare this recipe using the slow cook setting, it will take 5 hours 30 minutes.
 - I found the original recipe's 1/2 cup coconut milk to be a little thin, so I added another half cup. It could have used even more if you like thick silky curries.

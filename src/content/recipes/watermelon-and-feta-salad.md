@@ -21,4 +21,5 @@ source:
 
 ## Directions
 
-1. On a large platter, arrange the watermelon chunks, feta, shallot and basil. Immediately before serving, drizzle olive oil over the salad, and sprinkle a pinch of coarse sea salt and a pinch of coarse ground black pepper.
+1. On a large platter, arrange the watermelon chunks, feta, shallot and basil.
+2. Immediately before serving, drizzle olive oil over the salad, and sprinkle a pinch of coarse sea salt and a pinch of coarse ground black pepper.

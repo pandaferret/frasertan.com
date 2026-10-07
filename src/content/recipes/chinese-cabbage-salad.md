@@ -27,4 +27,11 @@ Dressing:
 
 ## Directions
 
-1. Shred cabbage to desired coarseness. Crumble ramen noodles with your fingers and add to cabbage. Toast sunflower seeds in a sauté pan and cool before adding to the cabbage mixture. Add chopped green onions and sliced almonds. Mix together the other ingredients, including the seasoning package from the ramen noodles. When well mixed, add to cabbage mixture. Can serve immediately or cool, as desired. This salad lasts several days in the refrigerator, but the dry noodles will soften over time.
+1. Shred cabbage to desired coarseness. Crumble ramen noodles with your fingers and add to cabbage.
+2. Toast sunflower seeds in a sauté pan and cool before adding to the cabbage mixture. Add chopped green onions and sliced almonds.
+3. Mix together the other ingredients, including the seasoning package from the ramen noodles. When well mixed, add to cabbage mixture.
+4. Can serve immediately or cool, as desired.
+
+## Notes
+
+- This salad lasts several days in the refrigerator, but the dry noodles will soften over time.

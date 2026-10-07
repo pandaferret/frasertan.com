@@ -17,4 +17,6 @@ categories:
 
 ## Directions
 
-1. Cut butter into 1-tablespoon pieces and place in bowl of standing mixer; let stand at room temperature 20 to 30 minutes to soften slightly (butter should reach no more than 60 degrees). Using dinner fork, beat eggs, egg yolks, and vanilla in liquid measuring cup until combined. Let egg mixture stand at room temperature until ready to use.
+1. Cut butter into 1-tablespoon pieces and place in bowl of standing mixer; let stand at room temperature 20 to 30 minutes to soften slightly (butter should reach no more than 60 degrees).
+2. Using dinner fork, beat eggs, egg yolks, and vanilla in liquid measuring cup until combined.
+3. Let egg mixture stand at room temperature until ready to use.

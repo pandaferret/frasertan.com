@@ -15,4 +15,5 @@ source:
 
 ## Directions
 
-1. Combine the créme fraîche and horseradish in a small bowl. Season with 1/4 teaspoon salt and pepper. Taste for balance and seasoning.
+1. Combine the créme fraîche and horseradish in a small bowl.
+2. Season with 1/4 teaspoon salt and pepper. Taste for balance and seasoning.

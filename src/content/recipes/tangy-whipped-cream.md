@@ -21,4 +21,5 @@ source:
 
 ## Directions
 
-1. Whip all ingredients together on medium-low until foamy. Increase speed to medium-high and whip until soft peaks form.
+1. Whip all ingredients together on medium-low until foamy.
+2. Increase speed to medium-high and whip until soft peaks form.
