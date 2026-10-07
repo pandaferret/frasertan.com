@@ -7,6 +7,7 @@ subcategories:
   - Cookies
 tags:
   - Seasonal Treats
+  - Christmas
   - Winter
 ---
 
