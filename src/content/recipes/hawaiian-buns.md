@@ -4,7 +4,7 @@ description: "A delicious recipe inspired by a lovely place!"
 categories:
   - Breads and Baked Goods
 source:
-  name: "one 15 oz can of pineapple."
+  name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1019259-hawaiian-buns"
 cover: "/images/recipes/hawaiian-buns.jpg"
 ---

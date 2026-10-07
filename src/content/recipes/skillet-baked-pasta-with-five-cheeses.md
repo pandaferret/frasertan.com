@@ -11,7 +11,7 @@ cover: "/images/recipes/skillet-baked-pasta-with-five-cheeses.jpg"
 ## Ingredients
 
 - 1 tablespoon olive oil
-- 1 pound small-medium pasta shells (mine were 1 inch when dried, I used these)
+- 1 pound small-medium pasta shells (mine were 1 inch when dried)
 - 1/2 cup (about 3 ounces) ricotta
 - 1 cup coarsely grated fontina (about 3 ounces)
 - 1 cup coarsely grated mozzarella (about 3 ounces)

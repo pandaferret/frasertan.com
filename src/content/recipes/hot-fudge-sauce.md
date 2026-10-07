@@ -9,7 +9,7 @@ dietary:
   - GF
   - EF
 source:
-  name: "your nearest market :)"
+  name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2017/06/best-hot-fudge-sauce/"
 cover: "/images/recipes/hot-fudge-sauce.jpg"
 ---

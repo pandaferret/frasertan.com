@@ -6,7 +6,7 @@ categories:
 tags:
   - Seasonal Treats
 source:
-  name: "a less than ripe one."
+  name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2018/07/bourbon-peach-smash/"
 cover: "/images/recipes/bourbon-peach-smash.jpg"
 ---

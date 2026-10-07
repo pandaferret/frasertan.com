@@ -4,7 +4,7 @@ description: "Easy peasy Greek yogurt in your Instant Pot! All it takes is a lit
 categories:
   - Breakfast
 source:
-  name: "whatever I last made."
+  name: "A Mind Full Mom"
   url: "https://amindfullmom.com/instant-pot-yogurt/"
 ---
 

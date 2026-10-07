@@ -4,7 +4,7 @@ description: "Easy to make one bowl one pan chocolate cake! The only not-so-ever
 categories:
   - Desserts
 source:
-  name: "Deb on Dutch vs natural cocoa powder:"
+  name: "Smitten Kitchen"
   url: "http://smittenkitchen.com/blog/2010/08/everyday-chocolate-cake/"
 cover: "/images/recipes/everyday-chocolate-cake.jpg"
 ---

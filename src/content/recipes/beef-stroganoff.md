@@ -6,9 +6,6 @@ categories:
   - Main Dishes
 dietary:
   - GF*
-source:
-  name: "coconut aminos"
-  url: "https://www.healthline.com/nutrition/coconut-aminos"
 ---
 
 ## Ingredients
@@ -22,7 +19,7 @@ source:
 - 8 ounces mushrooms, cleaned and thinly sliced
 - 2 tablespoons all-purpose flour
 - 1½ cups beef broth
-- 1 tablespoon coconut aminos
+- 1 tablespoon [coconut aminos](https://www.healthline.com/nutrition/coconut-aminos)
 - 1 tablespoon Dijon mustard
 - 2 tablespoons fresh lemon juice (about 1 lemon)
 - ¾ cup sour cream (or coconut cream)

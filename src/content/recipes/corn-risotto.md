@@ -16,7 +16,7 @@ For the corn stock (optional):
 - 1 onion, cut into quarters
 - 1 carrot, cut into 1-inch pieces
 - 1 celery rib, cut crosswise into 1-inch pieces
-- 1 leek, Dark green leaves from - (reserve white and light green parts for risotto)
+- 1 leek, dark green leaves only (reserve white and light green parts for risotto)
 - 2 cloves garlic, smashed
 - 1 teaspoon salt
 - 1 teaspoon whole black peppercorns

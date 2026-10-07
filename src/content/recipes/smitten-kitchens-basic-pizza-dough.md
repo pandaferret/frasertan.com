@@ -5,7 +5,7 @@ categories:
 subcategories:
   - Pizzas
 source:
-  name: "."
+  name: "Smitten Kitchen"
   url: "http://smittenkitchen.com/blog/2007/09/pizza-even-sweeter/"
 cover: "/images/recipes/smitten-kitchens-basic-pizza-dough.jpg"
 ---
