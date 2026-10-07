@@ -1,6 +1,9 @@
 ---
 title: "Glazed Carrots"
-description: "From Cook's Illustrated: For a glazed carrot recipe resulting in well-seasoned carrots with a glossy, clingy, yet modest glaze, we started with bagged carrots sliced on the bias, steaming them directly in the skillet with chicken broth for fuller flavor. To complete our glazed carrot recipe, we let the cooking liquid reduce and added butter and sugar, finishing with a sprinkle of fresh lemon juice and a bit of black pepper to give the dish sparkle."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    For a glazed carrot recipe resulting in well-seasoned carrots with a glossy, clingy, yet modest glaze, we started with bagged carrots sliced on the bias, steaming them directly in the skillet with chicken broth for fuller flavor. To complete our glazed carrot recipe, we let the cooking liquid reduce and added butter and sugar, finishing with a sprinkle of fresh lemon juice and a bit of black pepper to give the dish sparkle.
 categories:
   - Side Dishes
 source:

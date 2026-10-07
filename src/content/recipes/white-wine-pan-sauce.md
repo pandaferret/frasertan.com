@@ -1,6 +1,9 @@
 ---
 title: "White Wine Pan Sauce"
-description: "From Cook's Illustrated: A white wine pan sauce is a quick and easy way to make normal seared chicken breasts or pork tenderloin something special. One key is to incorporate the cooked-on juices and browned bits (called fond) left in the pan after searing; this will give the sauce a deep savory flavor. It’s also important to reduce the wine separately from the broth. This allows more alcohol to burn off from the wine, concentrating the wine’s flavor compounds and making the sauce taste richer and more complex."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    A white wine pan sauce is a quick and easy way to make normal seared chicken breasts or pork tenderloin something special. One key is to incorporate the cooked-on juices and browned bits (called fond) left in the pan after searing; this will give the sauce a deep savory flavor. It’s also important to reduce the wine separately from the broth. This allows more alcohol to burn off from the wine, concentrating the wine’s flavor compounds and making the sauce taste richer and more complex.
 categories:
   - Sauces and Dips
 source:

@@ -1,6 +1,9 @@
 ---
 title: "Miso-Marinated Salmon"
-description: "From Cook's Illustrated: Miso-glazed salmon promises firm, flavorful fish with a glazed, lacquer-like exterior but takes 3 days to prepare. We wanted to make a dish that pulled back on the traditional approach (and shortened the process) but still achieved the depth of sweet-savory flavor that this dish is known for. And instead of a firm, chewy interior, we wanted fish that was silky and moist, contrasting with the texture of the crust. By reducing the marinade time to between 6 and 24 hours, we found a window that allows you to achieve such a goal. A marinade composed of miso, sugar, mirin, and sake allows for flavor penetration, moisture retention, and better browning by drying the fish’s surface. Broiling the fish at a distance from the heating element allows for the fish to caramelize and cook evenly at the same time."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    Miso-glazed salmon promises firm, flavorful fish with a glazed, lacquer-like exterior but takes 3 days to prepare. We wanted to make a dish that pulled back on the traditional approach (and shortened the process) but still achieved the depth of sweet-savory flavor that this dish is known for. And instead of a firm, chewy interior, we wanted fish that was silky and moist, contrasting with the texture of the crust. By reducing the marinade time to between 6 and 24 hours, we found a window that allows you to achieve such a goal. A marinade composed of miso, sugar, mirin, and sake allows for flavor penetration, moisture retention, and better browning by drying the fish’s surface. Broiling the fish at a distance from the heating element allows for the fish to caramelize and cook evenly at the same time.
 categories:
   - Main Dishes
 subcategories:
