@@ -51,7 +51,15 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
 );
 ---
 
-<BaseLayout title={categoryName}>
+<BaseLayout
+  title={categoryName}
+  breadcrumbs={[
+    { label: "Home", href: "/" },
+    { label: "Recipes", href: "/recipes/" },
+    { label: "Categories", href: "/categories/" },
+    { label: categoryName },
+  ]}
+>
   <h1 id="top">{categoryName}</h1>
   <p>{inCategory.length} recipes</p>
 

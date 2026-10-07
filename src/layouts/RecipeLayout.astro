@@ -23,9 +23,27 @@ const {
   dietary,
   source,
 } = Astro.props;
+
+const category = categories[0];
+const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
+const subcategory = subcategories?.[0];
+const breadcrumbs = [
+  { label: "Home", href: "/" },
+  { label: "Recipes", href: "/recipes/" },
+  { label: category, href: categoryHref },
+  ...(subcategory
+    ? [
+        {
+          label: subcategory,
+          href: `${categoryHref}#sub-${subcategory.toLowerCase().replace(/ /g, "-")}`,
+        },
+      ]
+    : []),
+  { label: title },
+];
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
   <article data-pagefind-body>
     <div class="recipe-header">
       <h1>{title}</h1>

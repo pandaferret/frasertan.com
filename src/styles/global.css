@@ -361,3 +361,24 @@ main {
   background: var(--color-bg-alt);
   text-decoration: none;
 }
+
+/* Breadcrumbs */
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.breadcrumbs li + li::before {
+  content: "›";
+  margin: 0 0.5rem;
+  color: #bbb;
+}
+
+.breadcrumbs [aria-current="page"] {
+  color: var(--color-text);
+}

@@ -2,7 +2,10 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<BaseLayout title="Curriculum Vitae">
+<BaseLayout
+  title="Curriculum Vitae"
+  breadcrumbs={[{ label: "Home", href: "/" }, { label: "Curriculum Vitae" }]}
+>
   <h1>Curriculum Vitae</h1>
 
   <section class="cv-section">
