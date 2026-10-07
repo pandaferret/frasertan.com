@@ -11,20 +11,6 @@ export function getStaticPaths() {
   }));
 }
 
-// Tag pages have no subcategories, so their tabs are recipe categories.
-const categories = [
-  "Starters",
-  "Salads",
-  "Soups and Stews",
-  "Main Dishes",
-  "Sauces and Dips",
-  "Side Dishes",
-  "Breads and Baked Goods",
-  "Desserts",
-  "Breakfast",
-  "Drinks",
-];
-
 const { tagName } = Astro.props;
 const recipes = await getCollection("recipes");
 const tagged = recipes
@@ -43,8 +29,8 @@ const tagged = recipes
   <h1>{tagName}</h1>
   <RecipeBrowser
     recipes={tagged}
-    groups={categories}
-    groupsOf={(r) => r.data.categories}
+    groups={[]}
+    groupsOf={() => []}
     filter={{ name: "tag", value: tagName }}
     searchLabel={`Search ${tagName.toLowerCase()}`}
   />
