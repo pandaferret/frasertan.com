@@ -4,6 +4,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Beans
   - Eric-friendly
   - Vegetarian
 source:
