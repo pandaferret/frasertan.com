@@ -160,7 +160,7 @@ main {
 
 .recipe-card {
   border: 1px solid var(--color-border);
-  border-radius: 4px;
+  border-radius: 16px;
   padding: 1rem;
   transition: box-shadow 0.15s;
 }
@@ -357,7 +357,7 @@ main {
   margin-bottom: 2rem;
 }
 
-.subcategory-group h3 {
+.subcategory-group > h3 {
   border-bottom: 1px solid var(--color-border);
   padding-bottom: 0.25rem;
 }
