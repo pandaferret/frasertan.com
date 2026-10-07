@@ -1,15 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import RecipeCard from "../../components/RecipeCard.astro";
 import Search from "../../components/Search.astro";
 import { getCollection } from "astro:content";
 
 const recipes = await getCollection("recipes");
-const sorted = recipes.sort((a, b) => a.data.title.localeCompare(b.data.title));
-
-const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-const usedLetters = new Set(sorted.map((r) => r.data.title[0].toUpperCase()));
-
 const categories = [
   "Starters",
   "Salads",
@@ -31,7 +25,7 @@ const tags = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
   description="Browse all recipes"
   breadcrumbs={[{ label: "Home", href: "/" }, { label: "Recipes" }]}
 >
-  <h1 id="top">Recipes</h1>
+  <h1>Recipes</h1>
 
   <Search />
 
@@ -72,114 +66,4 @@ const tags = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
       })
     }
   </ul>
-
-  <h2>All Recipes</h2>
-  <div class="sticky-sentinel"></div>
-  <nav class="alpha-nav">
-    <a href="#top" class="alpha-top">&uarr; Top</a>
-    {
-      letters.map((letter) =>
-        usedLetters.has(letter) ? (
-          <a href={`#letter-${letter}`}>{letter}</a>
-        ) : (
-          <span class="alpha-disabled">{letter}</span>
-        ),
-      )
-    }
-  </nav>
-  {
-    letters
-      .filter((letter) => usedLetters.has(letter))
-      .map((letter) => {
-        const group = sorted.filter(
-          (r) => r.data.title[0].toUpperCase() === letter,
-        );
-        return (
-          <>
-            <h3 id={`letter-${letter}`} class="letter-heading">
-              {letter}
-            </h3>
-            <div class="recipe-grid">
-              {group.map((recipe) => (
-                <RecipeCard
-                  title={recipe.data.title}
-                  slug={recipe.id}
-                  description={recipe.data.description}
-                  dietary={recipe.data.dietary}
-                />
-              ))}
-            </div>
-          </>
-        );
-      })
-  }
 </BaseLayout>
-
-<style>
-  .alpha-nav {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: var(--color-bg);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0;
-    margin-bottom: 1.5rem;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid var(--color-border);
-  }
-  .alpha-nav a,
-  .alpha-nav .alpha-disabled {
-    display: inline-block;
-    width: 1.6rem;
-    text-align: center;
-    padding: 0.25rem 0;
-    font-size: 0.9rem;
-    font-weight: 600;
-    border-radius: 3px;
-  }
-  .alpha-nav a:hover {
-    background: var(--color-bg-alt);
-    text-decoration: none;
-  }
-  .alpha-nav .alpha-disabled {
-    color: var(--color-border);
-  }
-  .alpha-nav .alpha-top {
-    width: auto;
-    padding: 0.25rem 0.5rem;
-    margin-right: 0.25rem;
-    font-size: 0.75rem;
-    display: none;
-  }
-  .alpha-nav.is-stuck .alpha-top {
-    display: inline-block;
-  }
-  .letter-heading {
-    font-size: 1.3rem;
-    border-bottom: 1px solid var(--color-border);
-    padding-bottom: 0.25rem;
-    margin-top: 2rem;
-    scroll-margin-top: 1rem;
-  }
-  .sticky-sentinel {
-    height: 0;
-    margin: 0;
-  }
-</style>
-
-<script>
-  document.addEventListener("astro:page-load", () => {
-    const sentinel = document.querySelector(".sticky-sentinel");
-    const nav = document.querySelector(".alpha-nav");
-    if (sentinel && nav) {
-      const observer = new IntersectionObserver(
-        ([entry]) => {
-          nav.classList.toggle("is-stuck", !entry.isIntersecting);
-        },
-        { threshold: 0 },
-      );
-      observer.observe(sentinel);
-    }
-  });
-</script>
