@@ -22,7 +22,10 @@ source:
 
 ## Directions
 
-1. Place the shallot in a fine-mesh strainer, and quickly rinse with cold water. Allow to drain, then place in a medium bowl, and add vinegar and warm water. Allow to sit for 2 minutes, then whisk in oil, mustards, honey, thyme, garlic and a large pinch of salt. Taste, and adjust salt and vinegar as needed.
+1. Place the shallot in a fine-mesh strainer, and quickly rinse with cold water.
+2. Allow to drain, then place in a medium bowl, and add vinegar and warm water.
+3. Allow to sit for 2 minutes, then whisk in oil, mustards, honey, thyme, garlic and a large pinch of salt.
+4. Taste, and adjust salt and vinegar as needed.
 
 ## Notes
 

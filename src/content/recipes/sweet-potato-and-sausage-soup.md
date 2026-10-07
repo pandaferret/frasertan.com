@@ -24,4 +24,11 @@ source:
 
 ## Directions
 
-1. Heat 2 tablespoons oil in heavy large pot over medium-high heat. Add sausage; cook until brown, stirring often, about 8 minutes. Transfer sausage to paper towels to drain. (I poured off some of the oil in the pot at this point, but the original recipe doesn’t think this is needed.) Add onions and garlic to pot and cook until translucent, stirring often, about 5 minutes. Add all potatoes and cook until beginning to soften, stirring often, about 12 minutes. Add broth; bring to boil, scraping up browned bits. Reduce heat to medium-low, cover, and simmer until potatoes are soft, stirring occasionally, about 20 minutes. Using potato masher, mash some of potatoes in pot. Add browned sausage to soup. Stir in spinach and simmer just until wilted, about 5 minutes. Stir in remaining 1 tablespoon oil. Season with salt and pepper. Divide among bowls and serve.
+1. Heat 2 tablespoons oil in heavy large pot over medium-high heat.
+2. Add sausage; cook until brown, stirring often, about 8 minutes. Transfer sausage to paper towels to drain. (I poured off some of the oil in the pot at this point, but the original recipe doesn’t think this is needed.)
+3. Add onions and garlic to pot and cook until translucent, stirring often, about 5 minutes.
+4. Add all potatoes and cook until beginning to soften, stirring often, about 12 minutes.
+5. Add broth; bring to boil, scraping up browned bits. Reduce heat to medium-low, cover, and simmer until potatoes are soft, stirring occasionally, about 20 minutes.
+6. Using potato masher, mash some of potatoes in pot. Add browned sausage to soup.
+7. Stir in spinach and simmer just until wilted, about 5 minutes. Stir in remaining 1 tablespoon oil. Season with salt and pepper.
+8. Divide among bowls and serve.

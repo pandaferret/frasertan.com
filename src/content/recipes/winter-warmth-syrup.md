@@ -25,7 +25,10 @@ source:
 
 ## Directions
 
-1. Combine all ingredients in a saucepan over medium heat. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes. Remove from the heat and cool. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks.
+1. Combine all ingredients in a saucepan over medium heat.
+2. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes.
+3. Remove from the heat and cool.
+4. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks.
 
 ## Notes
 

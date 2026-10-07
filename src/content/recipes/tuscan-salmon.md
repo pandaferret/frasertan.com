@@ -29,7 +29,13 @@ source:
 
 ## Directions
 
-1. In a large skillet over medium-high heat, heat oil. Season salmon all over with salt and pepper. Add salmon skin side up and cook until deeply golden, about 6 minutes. Flip over and cook 2 minutes more. Transfer to a plate. Reduce heat to medium and add butter. When butter has melted, stir in garlic and cook until fragrant, about 1 minute. Add cherry tomatoes and season with salt and pepper. Cook until tomatoes are beginning to burst, then add spinach. Cook until spinach is beginning to wilt. Stir in heavy cream, Parmesan, and herbs and bring mixture to a simmer. Reduce heat to low and simmer until sauce is slightly reduced, about 3 minutes. Return salmon back to skillet and spoon over sauce. Simmer until salmon is cooked through, about 3 minutes more. Garnish with more herbs
+1. In a large skillet over medium-high heat, heat oil. Season salmon all over with salt and pepper.
+2. Add salmon skin side up and cook until deeply golden, about 6 minutes. Flip over and cook 2 minutes more. Transfer to a plate.
+3. Reduce heat to medium and add butter. When butter has melted, stir in garlic and cook until fragrant, about 1 minute.
+4. Add cherry tomatoes and season with salt and pepper. Cook until tomatoes are beginning to burst, then add spinach. Cook until spinach is beginning to wilt.
+5. Stir in heavy cream, Parmesan, and herbs and bring mixture to a simmer. Reduce heat to low and simmer until sauce is slightly reduced, about 3 minutes.
+6. Return salmon back to skillet and spoon over sauce. Simmer until salmon is cooked through, about 3 minutes more.
+7. Garnish with more herbs
 
 ## Notes
 

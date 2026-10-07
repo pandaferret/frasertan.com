@@ -18,4 +18,8 @@ dietary:
 
 ## Directions
 
-1. Season pork with salt and pepper. Heat oil in 12-inch skillet over medium-high heat until shimmering. Add pork cut side down and cook, without moving pieces, until well-browned, 3 to 5 minutes. Turn pork and brown on second side, 3 to 5 minutes more. Reduce heat to medium. Using tongs, stand each piece on its side and cook, turning pieces as necessary, until sides are well browned and internal temperature registers 145 to 150 degrees on instant-read thermometer, 8 to 12 minutes. Transfer pork to platter and tent lightly with foil; let rest while making pan sauce, then serve.
+1. Season pork with salt and pepper.
+2. Heat oil in 12-inch skillet over medium-high heat until shimmering.
+3. Add pork cut side down and cook, without moving pieces, until well-browned, 3 to 5 minutes. Turn pork and brown on second side, 3 to 5 minutes more.
+4. Reduce heat to medium. Using tongs, stand each piece on its side and cook, turning pieces as necessary, until sides are well browned and internal temperature registers 145 to 150 degrees on instant-read thermometer, 8 to 12 minutes.
+5. Transfer pork to platter and tent lightly with foil; let rest while making pan sauce, then serve.
