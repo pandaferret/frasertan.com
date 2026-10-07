@@ -6,6 +6,7 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Pork
 source:
   url: "https://smittenkitchen.com/2012/11/spinach-salad-with-warm-bacon-vinaigrette/"
 cover: "/images/recipes/warm-spinach-salad-with-bacon-onions-and-egg.jpg"

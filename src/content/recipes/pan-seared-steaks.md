@@ -6,6 +6,7 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Beef
 dietary:
   - GF
   - DF

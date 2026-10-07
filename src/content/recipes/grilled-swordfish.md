@@ -9,6 +9,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Owen fav
+  - Fish
 dietary:
   - GF*
 source:

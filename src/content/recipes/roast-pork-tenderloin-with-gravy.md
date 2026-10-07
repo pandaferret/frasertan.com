@@ -8,6 +8,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Pork
 source:
   name: "Peggy"
 ---

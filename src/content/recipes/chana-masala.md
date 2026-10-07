@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   url: "https://smittenkitchen.com/2010/02/chana-masala/"
 cover: "/images/recipes/chana-masala.jpg"

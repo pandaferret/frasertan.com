@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Owen fav
+  - Beef
 source:
   name: "My Name is Yeh's Molly on the Range cookbook"
 ---

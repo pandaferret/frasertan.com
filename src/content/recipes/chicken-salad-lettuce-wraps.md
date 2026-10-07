@@ -7,6 +7,7 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Chicken
 dietary:
   - GF
 source:

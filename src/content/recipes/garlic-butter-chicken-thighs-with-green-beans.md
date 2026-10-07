@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Chicken
 dietary:
   - GF
 source:

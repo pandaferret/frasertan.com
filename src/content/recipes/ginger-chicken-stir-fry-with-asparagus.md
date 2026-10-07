@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
   - Eric-friendly
   - Owen fav
+  - Chicken
 dietary:
   - GF
   - DF

@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
   - Make Ahead
   - Owen fav
+  - Beef
 dietary:
   - EF
   - GF*

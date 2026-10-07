@@ -8,6 +8,7 @@ subcategories:
   - Pastas and Grains
 tags:
   - Weeknight Meals
+  - Pork
 ---
 
 ## Ingredients

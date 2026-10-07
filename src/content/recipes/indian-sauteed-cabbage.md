@@ -6,6 +6,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   url: "https://www.centercutcook.com/indian-fried-cabbage/#wprm-recipe-container-13387"
 ---

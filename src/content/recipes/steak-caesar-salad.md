@@ -6,6 +6,7 @@ categories:
   - Salads
 tags:
   - Weeknight Meals
+  - Beef
 source:
   name: "Cook's Illustrated"
 cover: "/images/recipes/steak-caesar-salad.jpg"

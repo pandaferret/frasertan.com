@@ -8,6 +8,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Eric-friendly
+  - Pork
 ---
 
 ## Ingredients

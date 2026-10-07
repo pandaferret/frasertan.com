@@ -7,6 +7,7 @@ subcategories:
   - Poultry
 tags:
   - Weeknight Meals
+  - Chicken
 ---
 
 ## Ingredients

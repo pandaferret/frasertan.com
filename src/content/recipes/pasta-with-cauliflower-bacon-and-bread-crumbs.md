@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Pork
 dietary:
   - DF
 source:

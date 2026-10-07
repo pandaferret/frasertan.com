@@ -9,6 +9,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Fish
 source:
   url: "https://www.reddit.com/r/food/comments/vz1ud8/homemade_tuscan_butter_salmon/"
 ---

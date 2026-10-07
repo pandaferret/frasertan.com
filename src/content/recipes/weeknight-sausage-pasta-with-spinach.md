@@ -7,6 +7,7 @@ subcategories:
   - Pastas and Grains
 tags:
   - Weeknight Meals
+  - Pork
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/sausage-pasta-recipe-23411736"

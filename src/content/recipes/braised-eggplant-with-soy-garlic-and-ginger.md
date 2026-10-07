@@ -6,6 +6,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 dietary:
   - V
   - EF

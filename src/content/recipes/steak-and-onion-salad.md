@@ -5,6 +5,7 @@ categories:
   - Salads
 tags:
   - Weeknight Meals
+  - Beef
 ---
 
 ## Ingredients

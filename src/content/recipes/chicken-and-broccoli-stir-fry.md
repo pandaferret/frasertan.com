@@ -8,6 +8,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Owen fav
+  - Chicken
 dietary:
   - GF
   - DF

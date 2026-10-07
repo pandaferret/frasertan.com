@@ -7,6 +7,7 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Beef
 dietary:
   - V
   - EF

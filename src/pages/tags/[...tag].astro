@@ -12,9 +12,17 @@ export function getStaticPaths() {
 }
 
 // Each tag page's buttons, drawn from these extra tags on its recipes
-// (they mirror tags in Fraser's Notion recipe database).
+// (they mirror tags and diets in Fraser's Notion recipe database).
 const subtags: Record<string, string[]> = {
-  "Weeknight Meals": ["Eric-friendly", "Owen fav"],
+  "Weeknight Meals": [
+    "Eric-friendly",
+    "Owen fav",
+    "Beef",
+    "Chicken",
+    "Pork",
+    "Fish",
+    "Vegetarian",
+  ],
 };
 
 const { tagName } = Astro.props;

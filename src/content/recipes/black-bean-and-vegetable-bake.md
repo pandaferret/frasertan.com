@@ -7,6 +7,7 @@ categories:
 tags:
   - Weeknight Meals
   - Make Ahead
+  - Vegetarian
 dietary:
   - GF
 source:

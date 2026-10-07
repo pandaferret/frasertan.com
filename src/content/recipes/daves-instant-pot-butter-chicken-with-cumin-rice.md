@@ -8,6 +8,7 @@ subcategories:
   - Poultry
 tags:
   - Weeknight Meals
+  - Chicken
 source:
   name: "Dave"
 ---

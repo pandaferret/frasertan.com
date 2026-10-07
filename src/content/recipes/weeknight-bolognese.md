@@ -6,6 +6,7 @@ categories:
 tags:
   - Weeknight Meals
   - Owen fav
+  - Beef
 dietary:
   - GF
   - DF

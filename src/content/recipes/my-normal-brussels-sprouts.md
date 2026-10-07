@@ -6,6 +6,7 @@ categories:
 tags:
   - Weeknight Meals
   - Eric-friendly
+  - Vegetarian
 ---
 
 ## Ingredients
