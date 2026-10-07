@@ -7,7 +7,7 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
-  - Summer
+  - Christmas
 dietary:
   - EF*
 source:
