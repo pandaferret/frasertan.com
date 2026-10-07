@@ -4,6 +4,8 @@ categories:
   - Side Dishes
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 source:
   url: "http://www.saveur.com/article/Recipes/Classic-Colcannon"
 ---

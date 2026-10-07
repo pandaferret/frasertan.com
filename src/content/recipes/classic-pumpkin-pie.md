@@ -5,6 +5,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+tags:
+  - Seasonal Treats
+  - Thanksgiving
 source:
   url: "https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/"
 cover: "/images/recipes/classic-pumpkin-pie.jpg"

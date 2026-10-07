@@ -9,6 +9,8 @@ subcategories:
   - Sundries
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 dietary:
   - GF
   - DF

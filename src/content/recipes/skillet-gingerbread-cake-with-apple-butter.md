@@ -6,6 +6,7 @@ categories:
   - Desserts
 tags:
   - Seasonal Treats
+  - Christmas
 source:
   url: "https://cooking.nytimes.com/recipes/1023729-skillet-gingerbread-cake-with-apple-butter"
 cover: "/images/recipes/skillet-gingerbread-cake-with-apple-butter.jpg"

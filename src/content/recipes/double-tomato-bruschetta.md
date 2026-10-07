@@ -5,6 +5,7 @@ categories:
   - Starters
 tags:
   - Seasonal Treats
+  - Summer
 dietary:
   - V
   - DF

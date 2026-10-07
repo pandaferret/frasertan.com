@@ -5,6 +5,7 @@ categories:
   - Salads
 tags:
   - Seasonal Treats
+  - Summer
 source:
   url: "http://www.theworktop.com/breakfast-brunch-recipes/watermelon-salad/"
 cover: "/images/recipes/watermelon-and-feta-salad.jpg"

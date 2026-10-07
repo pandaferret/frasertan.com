@@ -7,6 +7,7 @@ subcategories:
   - Beef
 tags:
   - Seasonal Treats
+  - Christmas
 dietary:
   - GF
   - DF

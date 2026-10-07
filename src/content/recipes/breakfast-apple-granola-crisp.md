@@ -5,6 +5,7 @@ categories:
   - Breakfast
 tags:
   - Seasonal Treats
+  - Fall
 dietary:
   - EF
 source:

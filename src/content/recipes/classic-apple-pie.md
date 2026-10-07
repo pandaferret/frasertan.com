@@ -8,6 +8,8 @@ subcategories:
   - Pies and Tarts
 tags:
   - Seasonal Treats
+  - Christmas
+  - Thanksgiving
   - Make Ahead
 source:
   name: "Cook's Illustrated"

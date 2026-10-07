@@ -5,6 +5,7 @@ categories:
   - Salads
 tags:
   - Seasonal Treats
+  - Summer
 source:
   name: "Peggy"
 ---

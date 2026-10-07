@@ -7,6 +7,7 @@ subcategories:
   - Sundries
 tags:
   - Seasonal Treats
+  - Christmas
 ---
 
 ## Ingredients

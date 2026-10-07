@@ -7,6 +7,10 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
+  - Spring
+  - Summer
+  - Fall
+  - Winter
 source:
   url: "https://www.cooksillustrated.com/recipes/3917-tiramisu"
 cover: "/images/recipes/tiramisu.jpg"

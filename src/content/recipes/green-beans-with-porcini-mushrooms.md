@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 tags:
   - Seasonal Treats
+  - Thanksgiving
 dietary:
   - GF*
 source:

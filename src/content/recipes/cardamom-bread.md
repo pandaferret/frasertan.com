@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 tags:
   - Seasonal Treats
+  - Christmas
   - Eric-friendly
 source:
   name: "guide"

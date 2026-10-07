@@ -7,6 +7,8 @@ subcategories:
   - Sundries
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 source:
   name: "America's Test Kitchen The Best International Recipes"
 ---

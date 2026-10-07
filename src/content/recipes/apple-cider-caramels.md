@@ -7,6 +7,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 dietary:
   - GF
   - EF

@@ -8,6 +8,7 @@ subcategories:
   - Cookies
 tags:
   - Seasonal Treats
+  - Christmas
 dietary:
   - GF
   - EF

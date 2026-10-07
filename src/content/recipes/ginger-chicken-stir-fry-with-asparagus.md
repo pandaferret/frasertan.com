@@ -5,6 +5,7 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Spring
   - Eric-friendly
   - Owen fav
   - Chicken

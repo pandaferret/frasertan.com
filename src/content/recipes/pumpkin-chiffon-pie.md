@@ -7,6 +7,7 @@ subcategories:
   - Pies and Tarts
 tags:
   - Seasonal Treats
+  - Thanksgiving
 ---
 
 ## Ingredients

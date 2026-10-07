@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 tags:
   - Seasonal Treats
+  - Thanksgiving
 dietary:
   - EF
 ---

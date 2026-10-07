@@ -4,6 +4,9 @@ description: "Not a lick of cream of mushroom soup in sight for this Thanksgivin
 yield: "Serves 8"
 categories:
   - Side Dishes
+tags:
+  - Seasonal Treats
+  - Thanksgiving
 ---
 
 ## Ingredients

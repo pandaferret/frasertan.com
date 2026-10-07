@@ -8,6 +8,7 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
+  - Christmas
 source:
   name: "Peggy"
 ---

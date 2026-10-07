@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 cover: "/images/recipes/brown-butter-skillet-cornbread.jpg"
 ---
 

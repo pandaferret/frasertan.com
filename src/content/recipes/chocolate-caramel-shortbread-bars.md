@@ -6,6 +6,7 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
   - Seasonal Treats
+  - Christmas
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/chocolate-caramel-shortbread-bars/"
