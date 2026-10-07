@@ -10,6 +10,9 @@ interface Props {
 
 const { items } = Astro.props;
 
+// The last item is the current page, which the page title already shows.
+const trail = items.slice(0, -1);
+
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -25,13 +28,9 @@ const jsonLd = {
 <nav class="breadcrumbs" aria-label="Breadcrumb">
   <ol>
     {
-      items.map((item, i) => (
+      trail.map((item) => (
         <li>
-          {item.href && i < items.length - 1 ? (
-            <a href={item.href}>{item.label}</a>
-          ) : (
-            <span aria-current="page">{item.label}</span>
-          )}
+          <a href={item.href}>{item.label}</a>
         </li>
       ))
     }

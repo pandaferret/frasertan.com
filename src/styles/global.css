@@ -378,7 +378,3 @@ main {
   margin: 0 0.5rem;
   color: #bbb;
 }
-
-.breadcrumbs [aria-current="page"] {
-  color: var(--color-text);
-}
