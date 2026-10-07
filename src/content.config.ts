@@ -12,6 +12,12 @@ const recipes = defineCollection({
     tags: z.array(z.string()).optional(),
     dietary: z.array(z.string()).optional(),
     cover: z.string().optional(),
+    quote: z
+      .object({
+        text: z.string().min(1),
+        author: z.string().min(1),
+      })
+      .optional(),
     source: z
       .object({
         name: z.string().optional(),

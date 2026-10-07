@@ -12,6 +12,7 @@ interface Props {
   dietary?: string[];
   source?: { name?: string; url?: string };
   cover?: string;
+  quote?: { text: string; author: string };
 }
 
 const {
@@ -24,6 +25,7 @@ const {
   dietary,
   source,
   cover,
+  quote,
 } = Astro.props;
 
 // Friendly names for common recipe sites, used when a source has a URL but
@@ -82,6 +84,18 @@ const breadcrumbs = [
     <div class="recipe-header">
       <h1>{title}</h1>
       {description && <p class="recipe-description">{description}</p>}
+      {
+        quote && (
+          <figure class="recipe-quote">
+            <blockquote>
+              {quote.text.split(/\n\s*\n/).map((para) => (
+                <p>{para.trim()}</p>
+              ))}
+            </blockquote>
+            <figcaption>{quote.author}</figcaption>
+          </figure>
+        )
+      }
       <div class="recipe-meta">
         {recipeYield && <span>{recipeYield}</span>}
         {
