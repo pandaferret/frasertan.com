@@ -86,9 +86,16 @@ const breadcrumbs = [
         {recipeYield && <span>{recipeYield}</span>}
         {
           dietary && dietary.length > 0 && (
-            <span class="badges" data-pagefind-filter="dietary">
+            <span class="badges">
               {dietary.map((code) => (
-                <DietaryBadge code={code} />
+                <>
+                  {" "}
+                  <DietaryBadge code={code} searchable />
+                  <meta
+                    data-pagefind-filter="dietary[content]"
+                    content={code}
+                  />
+                </>
               ))}
             </span>
           )

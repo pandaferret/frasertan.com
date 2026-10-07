@@ -1,9 +1,11 @@
 ---
 interface Props {
   code: string;
+  // Index the full name ("Gluten-Free") for site search, on recipe pages.
+  searchable?: boolean;
 }
 
-const { code } = Astro.props;
+const { code, searchable = false } = Astro.props;
 const base = code.replace(/\*$/, "").toUpperCase();
 const labels: Record<string, string> = {
   GF: "Gluten-Free",
@@ -19,4 +21,8 @@ const label = labels[base]
 const cssClass = `badge badge-${base.toLowerCase()}`;
 ---
 
-<span class={cssClass} title={label}>{code}</span>
+<span
+  class={cssClass}
+  title={label}
+  data-pagefind-index-attrs={searchable ? "title" : undefined}>{code}</span
+>
