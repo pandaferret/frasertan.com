@@ -1,13 +1,13 @@
 ---
 title: "Galette Dough"
-description: "Jess and I made one of these Apple Honey galettes together and it was amazing - this is going in my Thanksgiving rotation! This all-butter dough is the book's \"A Good Crust\", and it works for any galette."
+description: 'Jess and I made one of these Apple Honey galettes together and it was amazing - this is going in my Thanksgiving rotation! This all-butter dough is the book''s "A Good Crust", and it works for any galette.'
 yield: "Makes 2 standard disks or 1 XL disk"
 categories:
   - Desserts
 subcategories:
   - Pies and Tarts
 source:
-  name: "Galette! by Rebecca Firkser, p. 27 (\"A Good Crust\")"
+  name: 'Galette! by Rebecca Firkser, p. 27 ("A Good Crust")'
 ---
 
 ## Ingredients
