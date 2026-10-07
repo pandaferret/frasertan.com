@@ -3,6 +3,8 @@ title: "Rishia Zimmern’s Chicken With Shallots"
 description: "Easy and delicious :) What more do you need to know?"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   url: "https://cooking.nytimes.com/recipes/1016135-rishia-zimmerns-chicken-with-shallots?action=click&module=Collection+Page+Recipe+Card&region=Ridiculously+Easy+Recipes+for+When+You%27ve+Lost+an+Hour%E2%80%99s+Sleep+&pgType=collection&rank=12"
 ---

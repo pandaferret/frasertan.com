@@ -4,6 +4,8 @@ description: "So, I thought nothing could top the Gramercy Tavern Gingerbread Ca
 yield: "Serves 12"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 tags:
   - Seasonal Treats
   - Christmas

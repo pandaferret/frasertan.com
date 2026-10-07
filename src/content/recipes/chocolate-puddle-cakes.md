@@ -3,6 +3,8 @@ title: "Chocolate Puddle Cakes"
 description: "These are another take on molten chocolate lava cakes, but this time gluten free!"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 dietary:
   - GF
 source:

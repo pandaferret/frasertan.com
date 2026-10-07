@@ -3,6 +3,8 @@ title: "SweetFire Chicken a la Panda Express"
 description: "This is a great recipe from Damn Delicious that recreates Panda Express's SweetFire chicken!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   url: "http://damndelicious.net/2014/08/02/panda-express-sweet-fire-chicken-copycat/"
 ---

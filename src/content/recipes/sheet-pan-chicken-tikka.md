@@ -3,6 +3,8 @@ title: "Sheet Pan Chicken Tikka"
 description: "Now, I love all in one sheet pan meals since they are easy and quick. Here's a great take on a classic Indian dish from Smitten Kitchen."
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Chicken

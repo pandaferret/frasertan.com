@@ -3,6 +3,8 @@ title: "Creamy One-Pot Pasta with Sausage and Squash"
 description: "This was easy and really delicious! The sage and butternut squash combination always does it for me. I did reduce the salt a bit, and it was plenty salted enough."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Pork

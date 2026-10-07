@@ -4,6 +4,8 @@ description: "Every spoonful of this pasta has a happy jumble of lemony orzo, gr
 yield: "Serves 4"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
 cover: "/images/recipes/lemony-orzo-with-asparagus-and-garlic-bread-crumbs.jpg"

@@ -3,6 +3,8 @@ title: "Everyday Meatballs"
 description: "These are easy and delicious - they're already a staple in our meal rotation!! Thanks as always, Deb!"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Beef

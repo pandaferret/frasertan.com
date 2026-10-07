@@ -4,6 +4,8 @@ description: "While I'm not normally a mushroom fan, I do like them in a strogan
 yield: "Serves 4-6"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - GF*
 ---

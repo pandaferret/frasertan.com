@@ -3,6 +3,8 @@ title: "Chicken in a Cashew Nut Sauce"
 description: "A delicious chicken recipe from 5 Spices, 50 Recipes."
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 ---
 
 ## Ingredients

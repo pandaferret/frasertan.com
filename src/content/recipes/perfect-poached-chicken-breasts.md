@@ -2,6 +2,8 @@
 title: "Perfect Poached Chicken Breasts"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 dietary:
   - GF
   - DF

@@ -3,6 +3,8 @@ title: "Lasagna Bolognese"
 description: "This is a decadent and delicious lasagna made with a hearty meat sauce and a bechamel - no mozzarella or ricotta. From Cook's Illustrated."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Make Ahead
 ---

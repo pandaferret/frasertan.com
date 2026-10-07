@@ -3,6 +3,8 @@ title: "Skillet Chicken Fajitas"
 description: "Quick easy and delicious!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Chicken

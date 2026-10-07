@@ -2,6 +2,8 @@
 title: "Baked Chicken with Orange Sauce"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   name: "The Joy of Cooking"
 ---

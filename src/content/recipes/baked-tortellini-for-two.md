@@ -3,6 +3,8 @@ title: "Baked Tortellini for Two"
 description: "From Cook's Illustrated. So yummy! and lovingly sized for two, or for one with leftovers! The sauce would also stand well on its own."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 ---
 
 ## Ingredients

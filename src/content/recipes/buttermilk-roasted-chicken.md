@@ -3,6 +3,8 @@ title: "Buttermilk Roasted Chicken"
 description: "This is a super easy dish, especially if you prep the chicken the night before!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   url: "https://smittenkitchen.com/2012/01/buttermilk-roast-chicken/"
 cover: "/images/recipes/buttermilk-roasted-chicken.jpg"

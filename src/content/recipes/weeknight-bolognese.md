@@ -3,6 +3,8 @@ title: "Weeknight Bolognese"
 description: "This recipe is a little less of a recipe and more of a guideline. It cheats in the best way possible, to make sure you have something yummy and delicious on the table for a hungry family."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Owen fav

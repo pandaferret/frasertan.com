@@ -2,6 +2,8 @@
 title: "Fresh Tomato Sauce"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - GF
   - DF

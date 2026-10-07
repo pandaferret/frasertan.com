@@ -4,6 +4,8 @@ description: "A winner from ATK as always! Carrot cake is a favorite of both my 
 yield: "Serves 12-15"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   name: "ATK's The Perfect Cake p. 110"
 ---

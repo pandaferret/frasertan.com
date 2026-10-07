@@ -3,6 +3,8 @@ title: "Chocolate Guinness Cake"
 description: "A staple for St Patrick’s Day! Frost only the top of the cake so it resembles a head of Guinness."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   url: "http://cooking.nytimes.com/recipes/1875-chocolate-guinness-cake"
 cover: "/images/recipes/chocolate-guinness-cake.jpg"

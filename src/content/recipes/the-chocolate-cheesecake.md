@@ -3,6 +3,8 @@ title: "The Chocolate Cheesecake"
 description: 'This recipe has become my "signature" dessert, but it''s so easy, it would be criminal not to share it!'
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 ---
 
 ## Ingredients

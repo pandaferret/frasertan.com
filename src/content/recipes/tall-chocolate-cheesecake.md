@@ -3,6 +3,8 @@ title: "Tall Chocolate Cheesecake"
 description: "My friend Jeanne made a toweringly tall New York cheesecake, and I remembered its gloriousness when this article popped up in my newsfeed. Me being me, I bought the special pan made for the sole purpose of making tall cheesecake....... but I really wanted a chocolate cheesecake! A bit of research turned up this recipe, so I decided to combine elements of the two, along with the crust from here. I've baked my other cheesecake without a waterbath, so I tried the same here."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   name: "Life Made Simple"
   url: "https://lifemadesimplebakes.com/perfect-chocolate-cheesecake/"

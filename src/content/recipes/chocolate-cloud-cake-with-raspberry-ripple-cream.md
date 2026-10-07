@@ -3,6 +3,8 @@ title: "Chocolate Cloud Cake with Raspberry Ripple Cream"
 description: "So light, so fluffy, and nary a speck of flour in sight! Unlike other flourless chocolate cakes, this one ends up light due to the whipped egg whites."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 dietary:
   - GF
 source:

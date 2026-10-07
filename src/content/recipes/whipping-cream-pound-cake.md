@@ -3,6 +3,8 @@ title: "Whipping Cream Pound Cake"
 description: "OK, yes, I admit, I have a FOURTH pound cake recipe. The base recipes are all slightly different, though I suspect in all honesty I could fuse them all. This one benefits from the addition of some cream - and it's also the least fussy of them all - no separating eggs or need for cake flour."
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   url: "https://www.reddit.com/r/Old_Recipes/comments/n5doum/my_personal_favorite_whipping_cream_cake/"
 cover: "/images/recipes/whipping-cream-pound-cake.jpg"

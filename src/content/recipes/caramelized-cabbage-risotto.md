@@ -3,6 +3,8 @@ title: "Caramelized Cabbage Risotto"
 description: "Another diamond found in my search for delicious cabbage recipes! Thanks Deb!"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - GF
 source:

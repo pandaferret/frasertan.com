@@ -3,6 +3,8 @@ title: "Pasta with Cauliflower, Bacon, and Bread Crumbs"
 description: "This makes for an easy delicious weeknight meal - especially for a little kid who loves cauliflower :)"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Pork

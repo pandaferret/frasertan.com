@@ -4,6 +4,8 @@ description: "Delish and quick - especially when you put the fresh ricotta on to
 yield: "Serves 6-8"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "https://smittenkitchen.com/2015/10/my-old-school-baked-ziti/"
 cover: "/images/recipes/smitten-kitchens-old-school-baked-ziti.jpg"

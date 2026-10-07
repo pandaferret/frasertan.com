@@ -3,6 +3,8 @@ title: "Ciambellone (Italian Lemon Tea Cake)"
 description: "Another great find from Deb! The set glaze is amazing!"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   url: "https://smittenkitchen.com/2018/06/ciambellone-an-italian-tea-cake/"
 cover: "/images/recipes/ciambellone-italian-lemon-tea-cake.jpg"

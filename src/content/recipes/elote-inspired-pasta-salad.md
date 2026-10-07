@@ -3,6 +3,8 @@ title: "Elote-Inspired Pasta Salad"
 yield: "Serves 6"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
 cover: "/images/recipes/elote-inspired-pasta-salad.jpg"
