@@ -9,8 +9,6 @@ tags:
   - Seasonal Treats
   - Christmas
   - Thanksgiving
-  - Fall
-  - Winter
 ---
 
 ## Ingredients

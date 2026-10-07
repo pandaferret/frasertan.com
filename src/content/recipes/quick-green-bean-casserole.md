@@ -7,7 +7,6 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
-  - Fall
   - Winter
 ---
 

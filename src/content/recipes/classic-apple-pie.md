@@ -10,8 +10,6 @@ tags:
   - Seasonal Treats
   - Christmas
   - Thanksgiving
-  - Fall
-  - Winter
   - Make Ahead
 source:
   name: "Cook's Illustrated"

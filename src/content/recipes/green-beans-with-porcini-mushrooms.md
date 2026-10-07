@@ -6,7 +6,6 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
-  - Fall
 dietary:
   - GF*
 source:

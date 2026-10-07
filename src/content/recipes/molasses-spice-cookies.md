@@ -9,7 +9,6 @@ tags:
   - Seasonal Treats
   - Christmas
   - Fall
-  - Winter
 source:
   url: "https://www.cooksillustrated.com/recipes/172-molasses-spice-cookies-with-dark-rum-glaze/print"
 cover: "/images/recipes/molasses-spice-cookies.jpg"

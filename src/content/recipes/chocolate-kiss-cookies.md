@@ -9,7 +9,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Winter
 source:
   name: "Two Peas & Their Pod"
   url: "https://www.twopeasandtheirpod.com/chocolate-kiss-cookies/"

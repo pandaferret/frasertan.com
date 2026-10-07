@@ -6,7 +6,6 @@ categories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Winter
 dietary:
   - EF
   - GF

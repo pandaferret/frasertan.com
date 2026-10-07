@@ -7,7 +7,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Winter
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/chocolate-caramel-shortbread-bars/"
