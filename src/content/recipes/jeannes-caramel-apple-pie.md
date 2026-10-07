@@ -34,7 +34,9 @@ Filling:
 
 ## Directions
 
-Crust: 1. Blend the flour, salt and sugar in a food processor. Add the butter and shortening, and blend until the mixture resembles coarse meal. Drizzle 4 tablespoons of ice water over the mixture and process just until moist clumps form. Add more ice water a tablespoon at a time if necessary. Gather the dough into a coherent ball and cut in half. Flatten each half into a 4"-ish disk. Wrap tightly in plastic wrap and refrigerate for an hour.
+Crust:
+
+1. Blend the flour, salt and sugar in a food processor. Add the butter and shortening, and blend until the mixture resembles coarse meal. Drizzle 4 tablespoons of ice water over the mixture and process just until moist clumps form. Add more ice water a tablespoon at a time if necessary. Gather the dough into a coherent ball and cut in half. Flatten each half into a 4"-ish disk. Wrap tightly in plastic wrap and refrigerate for an hour.
 
 2. Meanwhile, peel, core and slice apples. Preheat oven to 350°.
 

@@ -30,7 +30,9 @@ Filling:
 
 ## Directions
 
-For the crust: 1. Process 1.5 cups flour, 2 tbsp sugar and salt in food processor until combined, about 5 seconds. Scatter butter and shortening over top and process until incorporated and mixture begins to form uneven clumps with no floury bits remaining, about 15 seconds.
+For the crust:
+
+1. Process 1.5 cups flour, 2 tbsp sugar and salt in food processor until combined, about 5 seconds. Scatter butter and shortening over top and process until incorporated and mixture begins to form uneven clumps with no floury bits remaining, about 15 seconds.
 
 2. Scrape down sides of bowl and redistribute dough evenly around the processor blade. Sprinkle remaining 1 cup flour over the dough and pulse until mixture has broken into pieces and is evenly distributed around bowl, 4 to 6 pulses.
 
@@ -42,7 +44,9 @@ At this point, I actually dump the whole mess out onto the countertop and use my
 
 Wrapped dough can be refrigerated for up to 2 days or frozen for up to a month. If frozen, let thaw completely on counter before rolling.
 
-For the filling: 5. While dough chills, prepare the strawberries and rhubarb. Trim the ends of each stalk of rhubarb. Then, using a paring knife, peel off the outer red fibrous layer. Chop each stalk into 0.5" pieces. Combine rhubarb and sugar in a large bowl and microwave on high for 1.5 minutes. Stir and continue to microwave until the sugar is mostly dissolved, about 1 minute. Stir in 1 cup of strawberries and set aside for 30 minutes, stirring once halfway through.
+For the filling:
+
+5. While dough chills, prepare the strawberries and rhubarb. Trim the ends of each stalk of rhubarb. Then, using a paring knife, peel off the outer red fibrous layer. Chop each stalk into 0.5" pieces. Combine rhubarb and sugar in a large bowl and microwave on high for 1.5 minutes. Stir and continue to microwave until the sugar is mostly dissolved, about 1 minute. Stir in 1 cup of strawberries and set aside for 30 minutes, stirring once halfway through.
 
 6. Drain rhubarb mixture through a fine-mesh strainer over a saucepan. Return drained rhubarb to bowl and set aside. Add remaining strawberries to saucepan with rhubarb liquid and cook over medium-high heat until strawberries are very soft and mixture is reduced to 1.5 cups, about 10 to 15 minutes. Add strawberry mixture and tapioca to the rhubarb and stir to combine. Set aside.
 

@@ -35,7 +35,9 @@ Champagne Vanilla Sauce:
 
 3. Remove gently with a slotted spoon and serve with Champagne vanilla sauce.
 
-Champagne Vanilla Sauce: 1. In a medium saucepan, combine the shallots and Champagne. Scrape the vanilla seeds into the pot, then add the beans. Bring to a boil and reduce until almost all liquid is evaporated, about 6 minutes.
+Champagne Vanilla Sauce:
+
+1. In a medium saucepan, combine the shallots and Champagne. Scrape the vanilla seeds into the pot, then add the beans. Bring to a boil and reduce until almost all liquid is evaporated, about 6 minutes.
 
 2. Add the cream, bring to a boil and simmer until cream thickens and coats the back of a spoon and is reduced by half, about 3 minutes.
 
