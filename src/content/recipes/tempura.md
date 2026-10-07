@@ -9,6 +9,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - "New Year's Eve"
+dietary:
+  - VEG*
+  - DF
 ---
 
 ## Ingredients

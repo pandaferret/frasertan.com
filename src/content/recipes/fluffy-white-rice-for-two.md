@@ -8,6 +8,7 @@ tags:
   - Vegetarian
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

@@ -4,6 +4,7 @@ description: "from Smitten Kitchen"
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - DF
 source:
   url: "http://smittenkitchen.com/blog/2012/09/fig-olive-oil-and-sea-salt-challah-book-tour/"

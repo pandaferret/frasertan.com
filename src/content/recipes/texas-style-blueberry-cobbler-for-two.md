@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 dietary:
+  - VEG
   - EF
 ---
 

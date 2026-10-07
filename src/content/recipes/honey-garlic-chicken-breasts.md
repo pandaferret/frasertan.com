@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Chicken
+dietary:
+  - EF
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1025319-honey-garlic-chicken"

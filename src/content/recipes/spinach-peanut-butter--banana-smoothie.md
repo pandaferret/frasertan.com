@@ -3,6 +3,9 @@ title: "Spinach, Peanut Butter & Banana Smoothie"
 yield: "Makes 16 oz"
 categories:
   - Drinks
+dietary:
+  - V*
+  - EF
 ---
 
 ## Ingredients

@@ -2,6 +2,9 @@
 title: "Creamy Mashed Potatoes"
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "https://smittenkitchen.com/2008/12/braised-beef-short-ribs/"
 ---

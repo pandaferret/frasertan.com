@@ -13,6 +13,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2017/09/pizza-beans-cookbook-preview/"

@@ -7,6 +7,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+dietary:
+  - VEG
+  - EF
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/chocolate-caramel-shortbread-bars/"

@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2007/05/my-kingdom-for-a-glass-of-milk/"
 cover: "/images/recipes/debs-homemade-oreos.jpg"

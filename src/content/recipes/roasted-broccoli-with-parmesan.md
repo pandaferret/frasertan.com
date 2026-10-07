@@ -10,6 +10,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "Simply Recipes"
   url: "https://www.simplyrecipes.com/recipes/roasted_broccoli/"

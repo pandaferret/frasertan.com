@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+dietary:
+  - VEG
 ---
 
 ## Ingredients

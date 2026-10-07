@@ -15,6 +15,7 @@ source:
 cover: "/images/recipes/rigatoni-alla-vodka.jpg"
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

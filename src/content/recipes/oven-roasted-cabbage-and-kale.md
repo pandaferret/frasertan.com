@@ -10,6 +10,8 @@ source:
 cover: "/images/recipes/oven-roasted-cabbage-and-kale.jpg"
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 dietary:
+  - VEG
   - GF
 source:
   url: "https://smittenkitchen.com/2011/04/heavenly-chocolate-cake-roll/"

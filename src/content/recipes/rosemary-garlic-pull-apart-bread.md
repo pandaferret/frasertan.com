@@ -4,6 +4,8 @@ description: "This came out so well! Beautiful presentation, and glorious string
 yield: "Makes 1 9x5 loaf"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://sallysbakingaddiction.com/rosemary-garlic-pull-apart-bread/"
 ---

@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2018/02/chocolate-peanut-butter-cup-cookies/"
 cover: "/images/recipes/chocolate-peanut-butter-cup-cookies.jpg"

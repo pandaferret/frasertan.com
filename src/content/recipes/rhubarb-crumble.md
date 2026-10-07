@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+dietary:
+  - VEG
+  - EF
 source:
   url: "https://cooking.nytimes.com/recipes/1023092-rhubarb-crumble"
 ---

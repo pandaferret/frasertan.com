@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   url: "http://cooking.nytimes.com/recipes/1875-chocolate-guinness-cake"
 cover: "/images/recipes/chocolate-guinness-cake.jpg"

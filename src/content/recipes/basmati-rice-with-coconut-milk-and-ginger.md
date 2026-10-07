@@ -7,6 +7,8 @@ source:
   url: "https://cooking.nytimes.com/recipes/8910-basmati-rice-with-coconut-milk-and-ginger"
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

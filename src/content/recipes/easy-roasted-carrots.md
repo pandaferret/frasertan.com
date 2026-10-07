@@ -10,6 +10,8 @@ tags:
 dietary:
   - V
   - GF
+  - EF
+  - DF
 source:
   name: "Spend With Pennies"
   url: "https://www.spendwithpennies.com/roasted-carrots/"

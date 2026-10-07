@@ -14,6 +14,8 @@ source:
 cover: "/images/recipes/chana-masala.jpg"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

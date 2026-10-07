@@ -4,6 +4,9 @@ description: "From Peggy."
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+dietary:
+  - VEG
+  - EF
 source:
   name: "Peggy"
 ---

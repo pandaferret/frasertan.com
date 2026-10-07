@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 ---
 
 ## Ingredients

@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
 source:
   name: "Chocolate Creme Pie in a Jar"
   url: "https://www.americastestkitchen.com/recipes/13299-chocolate-cream-pie-in-a-jar"

@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "Smitten Kitchen"
   url: "http://smittenkitchen.com/blog/2010/08/everyday-chocolate-cake/"

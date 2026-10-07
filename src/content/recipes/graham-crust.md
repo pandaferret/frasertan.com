@@ -5,6 +5,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
+  - EF
 source:
   name: "Momofuku Milk Bar"
 ---

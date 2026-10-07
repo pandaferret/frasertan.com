@@ -8,6 +8,7 @@ source:
 cover: "/images/recipes/garlic-and-thyme-pan-sauce.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

@@ -10,6 +10,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1026846-miso-parmesan-asparagus"

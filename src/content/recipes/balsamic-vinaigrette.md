@@ -3,6 +3,10 @@ title: "Balsamic Vinaigrette"
 description: "Adapted from my mother's off the cuff recipe. There's never any reason to buy salad dressing - none can match home-made!"
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -11,6 +11,7 @@ tags:
   - Winter
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

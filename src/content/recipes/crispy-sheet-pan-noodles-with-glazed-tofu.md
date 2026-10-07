@@ -11,6 +11,8 @@ tags:
   - Vegetarian
 dietary:
   - V
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1022637-crispy-sheet-pan-noodles-with-glazed-tofu"
 cover: "/images/recipes/crispy-sheet-pan-noodles-with-glazed-tofu.jpg"

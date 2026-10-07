@@ -11,6 +11,7 @@ source:
 cover: "/images/recipes/modern-succotash.jpg"
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

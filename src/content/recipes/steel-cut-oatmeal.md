@@ -4,6 +4,7 @@ description: "Rolled oats never did it for me; I just couldn't get past the mush
 categories:
   - Breakfast
 dietary:
+  - V*
   - GF
   - DF
   - EF

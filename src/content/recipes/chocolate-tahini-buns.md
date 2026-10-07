@@ -3,6 +3,8 @@ title: "Chocolate Tahini Buns"
 description: "Soft buttery challah meets deep chocolate flavor combined with the mild nuttiness of tahini. These are easy to make and easy to share!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2017/09/chocolate-tahini-challah-buns/"
 cover: "/images/recipes/chocolate-tahini-buns.jpg"

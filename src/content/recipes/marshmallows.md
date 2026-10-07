@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+dietary:
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1019101-marshmallows"
 ---

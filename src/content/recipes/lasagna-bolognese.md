@@ -7,6 +7,8 @@ subcategories:
   - Pastas and Grains
 tags:
   - Make Ahead
+dietary:
+  - EF
 ---
 
 ## Ingredients

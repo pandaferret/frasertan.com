@@ -5,7 +5,10 @@ yield: "Serves 2-4"
 categories:
   - Side Dishes
 dietary:
+  - V
   - GF
+  - EF
+  - DF
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/spaghetti-squash-recipe-23685583"

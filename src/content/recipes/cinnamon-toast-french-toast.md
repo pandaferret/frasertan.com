@@ -3,6 +3,8 @@ title: "Cinnamon Toast French Toast"
 description: 'A casserole style French toast recipe from Deb! This recipe avoids the dreaded "I''m standing in the kitchen making French toast while my guests are all somewhere else" brunch phenomenon. Easily made ahead in the evening, all you have to do is pop it in the oven in the morning!'
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "http://smittenkitchen.com/blog/2012/04/cinnamon-toast-french-toast-cookbook-preview/"
 cover: "/images/recipes/cinnamon-toast-french-toast.jpg"

@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
   - Fall
 dietary:
+  - V*
   - EF
 source:
   url: "https://smittenkitchen.com/2009/10/breakfast-apple-granola-crisp/"

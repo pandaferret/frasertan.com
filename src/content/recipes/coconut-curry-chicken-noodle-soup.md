@@ -5,6 +5,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+dietary:
+  - EF
 source:
   url: "https://cooking.nytimes.com/recipes/1012383-coconut-curry-chicken-noodle-soup"
 ---

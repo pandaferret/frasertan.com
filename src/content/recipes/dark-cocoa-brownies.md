@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+dietary:
+  - VEG
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2010/01/best-cocoa-brownies/"

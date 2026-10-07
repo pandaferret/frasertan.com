@@ -6,6 +6,10 @@ categories:
 tags:
   - Seasonal Treats
   - Winter
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1015771-port-toddy?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=9"
 ---

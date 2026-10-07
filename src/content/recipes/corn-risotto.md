@@ -7,6 +7,7 @@ subcategories:
 dietary:
   - VEG*
   - GF
+  - EF
 source:
   url: "http://cooking.nytimes.com/recipes/1016753-corn-risotto"
 ---

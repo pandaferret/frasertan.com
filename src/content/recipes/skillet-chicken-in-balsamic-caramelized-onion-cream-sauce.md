@@ -10,6 +10,7 @@ tags:
   - Chicken
 dietary:
   - GF
+  - EF
 source:
   url: "https://littlespicejar.com/skillet-chicken-balsamic-caramelized-onion-cream-sauce/"
 cover: "/images/recipes/skillet-chicken-in-balsamic-caramelized-onion-cream-sauce.jpg"

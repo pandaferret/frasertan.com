@@ -11,6 +11,8 @@ source:
   url: "http://www.cooksillustrated.com/how_tos/5536-the-best-way-to-cook-broccoli"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

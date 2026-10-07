@@ -3,6 +3,8 @@ title: "Better Chocolate Babka"
 description: "Chocolate babkas are amazing - well, any babka is amazing. This recipe from Deb helps streamline a few of the more finicky steps, but the time and effort is worth it!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2014/10/better-chocolate-babka/"
 cover: "/images/recipes/better-chocolate-babka.jpg"

@@ -9,6 +9,7 @@ tags:
 dietary:
   - V*
   - DF
+  - EF
 ---
 
 ## Ingredients

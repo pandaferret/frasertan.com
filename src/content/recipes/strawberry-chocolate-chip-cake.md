@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   url: "http://juliasalbum.com/2014/06/strawberry-chocolate-chip-cake/"
 cover: "/images/recipes/strawberry-chocolate-chip-cake.jpg"

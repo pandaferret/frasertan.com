@@ -5,6 +5,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+dietary:
+  - EF
 source:
   url: "https://smittenkitchen.com/2013/01/lentil-soup-with-sausage-chard-and-garlic/?fbclid=IwAR11igEe47YO75AucnxssqNvhE5O8VDGXH8VYghxG9UkaoN4gxmXW0JdhZg"
 cover: "/images/recipes/lentil-soup-with-sausage-chard-and-garlic.jpg"

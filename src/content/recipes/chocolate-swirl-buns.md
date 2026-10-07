@@ -3,6 +3,8 @@ title: "Chocolate Swirl Buns"
 description: "This is smitten kitchen's easier take on a chocolate babka. Having tried a full on babka, I can say that yes, this is easier!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2012/06/chocolate-swirl-buns/"
 cover: "/images/recipes/chocolate-swirl-buns.jpg"

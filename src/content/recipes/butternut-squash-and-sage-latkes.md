@@ -3,6 +3,8 @@ title: "Butternut Squash and Sage Latkes"
 description: "I love butternut squash and I love sage, so these latkes are doubly delicious! Make sure to squeeze out as much juice as possible from the onion before adding it to the other ingredients."
 categories:
   - Side Dishes
+dietary:
+  - VEG
 ---
 
 ## Ingredients

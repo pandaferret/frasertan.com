@@ -7,6 +7,8 @@ tags:
   - Make Ahead
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

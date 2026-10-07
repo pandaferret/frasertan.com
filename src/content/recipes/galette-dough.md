@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
+  - EF
 source:
   name: 'Galette! by Rebecca Firkser, p. 27 ("A Good Crust")'
 ---

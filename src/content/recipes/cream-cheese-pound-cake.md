@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "Cook's Country"
 ---

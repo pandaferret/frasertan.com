@@ -4,7 +4,10 @@ description: "This is a great snack for the little ones - especially since it's 
 categories:
   - Breakfast
 dietary:
+  - V*
   - GF
+  - EF
+  - DF
 source:
   url: "http://www.geniuskitchen.com/recipe/kid-safe-nut-free-granola-465337"
 cover: "/images/recipes/nut-free-granola.jpg"

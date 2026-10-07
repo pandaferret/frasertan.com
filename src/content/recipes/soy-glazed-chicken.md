@@ -11,6 +11,8 @@ tags:
   - Chicken
 dietary:
   - GF*
+  - EF
+  - DF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2021/05/soy-glazed-chicken/"

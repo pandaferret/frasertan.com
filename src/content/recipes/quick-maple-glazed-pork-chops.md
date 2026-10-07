@@ -7,6 +7,7 @@ subcategories:
   - Pork
 dietary:
   - GF
+  - EF
 source:
   name: "America's Test Kitchen: The Best 30-Minute Recipes"
 ---

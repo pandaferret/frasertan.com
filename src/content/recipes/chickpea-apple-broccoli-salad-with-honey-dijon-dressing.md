@@ -18,6 +18,8 @@ source:
 cover: "/images/recipes/chickpea-apple-broccoli-salad-with-honey-dijon-dressing.jpg"
 dietary:
   - V*
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ source:
 cover: "/images/recipes/honey-mustard-and-tarragon-pan-sauce.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

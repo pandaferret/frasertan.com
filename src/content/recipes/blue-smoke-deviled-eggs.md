@@ -6,6 +6,7 @@ categories:
 dietary:
   - VEG
   - GF
+  - DF
 ---
 
 ## Ingredients

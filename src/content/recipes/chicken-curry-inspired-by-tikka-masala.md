@@ -7,6 +7,7 @@ subcategories:
   - Poultry
 dietary:
   - GF
+  - EF
 source:
   url: "https://smittenkitchen.com/2019/10/chicken-curry/"
 cover: "/images/recipes/chicken-curry-inspired-by-tikka-masala.jpg"

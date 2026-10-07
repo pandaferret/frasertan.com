@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated:"
   url: "https://www.americastestkitchen.com/recipes/9242-cast-iron-skillet-chocolate-chip-cookie"

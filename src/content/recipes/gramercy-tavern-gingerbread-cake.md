@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Christmas
 dietary:
+  - VEG
   - DF
 source:
   url: "https://smittenkitchen.com/2008/12/gramercy-taverns-gingerbread/"

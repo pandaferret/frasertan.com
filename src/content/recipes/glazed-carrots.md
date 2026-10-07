@@ -8,6 +8,7 @@ source:
 cover: "/images/recipes/glazed-carrots.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

@@ -3,6 +3,10 @@ title: "Couscous Salad"
 yield: "Serves 10"
 categories:
   - Salads
+dietary:
+  - V
+  - EF
+  - DF
 source:
   name: "from Peggy"
 ---

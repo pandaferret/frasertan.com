@@ -3,6 +3,8 @@ title: "French Toast"
 description: "Yeah, pretty much everyone can make French toast by throwing together some beaten egg and toast in a pan. But, like all good things, even a basic recipe will yield better, more consistent results!"
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://www.foodnetwork.com/recipes/robert-irvine/french-toast-recipe-1951408"
 ---

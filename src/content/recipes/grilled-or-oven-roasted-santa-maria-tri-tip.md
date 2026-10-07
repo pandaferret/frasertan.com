@@ -6,6 +6,9 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+dietary:
+  - EF
+  - DF
 source:
   name: "Santa Maria style rub"
   url: "https://cooking.nytimes.com/recipes/1016918-all-purpose-california-beef-rub"

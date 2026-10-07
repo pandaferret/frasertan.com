@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 dietary:
+  - VEG
   - EF
 source:
   url: "https://cooking.nytimes.com/recipes/1019316-no-bake-chocolate-mousse-bars"

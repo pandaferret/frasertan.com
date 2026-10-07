@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "The Perfect Cookie (America's Test Kitchen), p. 139"
 cover: "/images/recipes/smores-blossom-cookies.jpg"

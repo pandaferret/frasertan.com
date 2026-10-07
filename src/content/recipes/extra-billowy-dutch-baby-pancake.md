@@ -4,6 +4,8 @@ description: "This is a super easy thing to make for a sweet or savory breakfast
 yield: "Serves 3-4"
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2019/03/extra-billowy-dutch-baby-pancake/"

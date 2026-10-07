@@ -3,6 +3,10 @@ title: "Fairy Tale of New York"
 yield: "Serves XX"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

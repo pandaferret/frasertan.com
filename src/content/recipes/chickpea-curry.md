@@ -13,6 +13,8 @@ tags:
 dietary:
   - V
   - GF
+  - EF
+  - DF
 source:
   url: "https://www.americastestkitchen.com/recipes/11291-chickpea-curry"
 cover: "/images/recipes/chickpea-curry.jpg"

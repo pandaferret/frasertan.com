@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2009/10/apple-cider-doughnuts/"
 cover: "/images/recipes/apple-cider-donuts.jpg"

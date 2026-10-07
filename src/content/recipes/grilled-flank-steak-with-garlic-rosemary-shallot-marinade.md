@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+dietary:
+  - EF
+  - DF
 ---
 
 ## Ingredients

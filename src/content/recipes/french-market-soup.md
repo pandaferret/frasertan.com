@@ -10,6 +10,9 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - EF
+  - DF
 source:
   name: "Peggy"
 ---

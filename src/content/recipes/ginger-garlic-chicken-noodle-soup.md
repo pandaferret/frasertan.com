@@ -6,6 +6,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+dietary:
+  - EF
+  - DF
 source:
   name: "Smitten Kitchen Keepers p. 71"
 ---

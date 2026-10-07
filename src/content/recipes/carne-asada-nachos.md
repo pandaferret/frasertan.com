@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Beef
+dietary:
+  - EF
 source:
   url: "https://damndelicious.net/2020/01/21/carne-asada-nachos/"
 ---

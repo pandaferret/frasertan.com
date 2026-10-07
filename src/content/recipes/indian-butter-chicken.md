@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - EF
 source:
   url: "https://www.americastestkitchen.com/recipes/11519-indian-butter-chicken-murgh-makhani/print"
 cover: "/images/recipes/indian-butter-chicken.jpg"

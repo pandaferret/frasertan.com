@@ -8,6 +8,7 @@ tags:
   - Seasonal Treats
   - "New Year's Eve"
 dietary:
+  - VEG
   - GF
   - EF
 source:

@@ -7,6 +7,7 @@ dietary:
   - V*
   - GF
   - DF
+  - EF
 ---
 
 ## Directions

@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pork
+dietary:
+  - EF
+  - DF
 ---
 
 ## Ingredients

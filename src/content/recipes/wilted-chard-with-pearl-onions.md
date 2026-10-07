@@ -3,6 +3,10 @@ title: "Wilted Chard with Pearl Onions"
 description: "If making these the same day as the short ribs, cook the onions while the beef ribs are coming up to room temperature."
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://smittenkitchen.com/2008/12/braised-beef-short-ribs/"
 ---

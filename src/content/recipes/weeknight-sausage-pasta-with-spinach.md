@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+dietary:
+  - EF
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/sausage-pasta-recipe-23411736"

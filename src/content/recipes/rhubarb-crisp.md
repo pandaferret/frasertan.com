@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+dietary:
+  - VEG
+  - EF
 source:
   name: "NYT Cooking (Mark Bittman)"
   url: "https://cooking.nytimes.com/recipes/1013147-rhubarb-crisp"

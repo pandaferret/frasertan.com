@@ -7,6 +7,9 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
+dietary:
+  - VEG
+  - DF
 source:
   url: "http://joythebaker.com/2010/12/egg-salad-sandwiches/"
 cover: "/images/recipes/egg-salad-sandwiches.jpg"

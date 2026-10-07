@@ -6,7 +6,9 @@ categories:
 subcategories:
   - Pastas and Grains
 dietary:
+  - VEG*
   - GF
+  - EF
 source:
   name: "Smitten Kitchen Every Day"
 ---

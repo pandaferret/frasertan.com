@@ -11,6 +11,7 @@ tags:
   - Pork
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

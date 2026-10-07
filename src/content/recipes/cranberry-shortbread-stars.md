@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Christmas
 dietary:
+  - VEG
   - EF
 source:
   url: "https://www.tasteofhome.com/recipes/cranberry-shortbread-stars/"

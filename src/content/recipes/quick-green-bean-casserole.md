@@ -9,6 +9,7 @@ tags:
   - Thanksgiving
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

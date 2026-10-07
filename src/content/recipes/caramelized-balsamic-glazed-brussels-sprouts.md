@@ -8,6 +8,7 @@ source:
 cover: "/images/recipes/caramelized-balsamic-glazed-brussels-sprouts.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

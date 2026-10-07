@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+dietary:
+  - EF
+  - DF
 source:
   url: "http://cooking.nytimes.com/recipes/1016865-vietnamese-lemon-grass-beef-and-noodle-salad"
 ---

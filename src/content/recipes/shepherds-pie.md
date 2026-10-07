@@ -9,6 +9,8 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - EF
 source:
   name: "America's Test Kitchen The Best International Recipes"
 ---

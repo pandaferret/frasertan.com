@@ -9,6 +9,8 @@ tags:
 dietary:
   - V
   - GF*
+  - EF
+  - DF
 source:
   name: "The Roasted Root"
   url: "https://www.theroastedroot.net/edamame-salad/"

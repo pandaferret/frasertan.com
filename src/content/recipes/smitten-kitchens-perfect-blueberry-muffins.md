@@ -4,6 +4,8 @@ description: "These are an easy, quick and delicious way to use up all those blu
 yield: "Serves 9"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/"
 cover: "/images/recipes/smitten-kitchens-perfect-blueberry-muffins.jpg"

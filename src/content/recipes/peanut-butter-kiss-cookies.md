@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Christmas
 dietary:
+  - VEG
   - GF
   - DF*
 cover: "/images/recipes/peanut-butter-kiss-cookies.jpg"

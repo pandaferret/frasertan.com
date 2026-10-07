@@ -8,6 +8,8 @@ tags:
   - Make Ahead
 dietary:
   - GF
+  - EF
+  - DF
 ---
 
 ## Ingredients

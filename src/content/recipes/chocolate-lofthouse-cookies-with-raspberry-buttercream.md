@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "The Kitchen Whisperer"
   url: "https://www.thekitchenwhisperer.net/2014/09/17/best-ever-chocolate-lofthouse-cookies/"

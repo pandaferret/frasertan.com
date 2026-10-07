@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 cover: "/images/recipes/cornflake-chocolate-chip-marshmallow-cookies.jpg"
 ---
 

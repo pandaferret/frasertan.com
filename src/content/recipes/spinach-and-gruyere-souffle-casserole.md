@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Vegetarian
+dietary:
+  - VEG
 ---
 
 ## Ingredients

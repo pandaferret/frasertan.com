@@ -3,6 +3,8 @@ title: "Cinnamon Star Bread"
 description: "This recipe is a bit of a mishmash, so the ratio of filling to dough may be a little off."
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   name: "King Arthur recipe"
   url: "https://www.kingarthurflour.com/recipes/cinnamon-star-bread-recipe"

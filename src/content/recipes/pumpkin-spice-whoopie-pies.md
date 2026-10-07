@@ -9,6 +9,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+dietary:
+  - VEG
 source:
   url: "https://www.americastestkitchen.com/recipes/10981-mini-pumpkin-whoopie-pies"
 cover: "/images/recipes/pumpkin-spice-whoopie-pies.jpg"

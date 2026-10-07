@@ -6,6 +6,8 @@ categories:
 tags:
   - Weeknight Meals
   - Pork
+dietary:
+  - EF
 ---
 
 ## Ingredients

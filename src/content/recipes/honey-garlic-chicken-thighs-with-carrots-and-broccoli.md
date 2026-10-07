@@ -11,6 +11,8 @@ tags:
   - Chicken
 dietary:
   - GF*
+  - EF
+  - DF
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/recipe/276817/honey-garlic-chicken-thighs-with-carrots-broccoli/"

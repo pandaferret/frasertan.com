@@ -4,6 +4,7 @@ description: "From Molly Yeh, these oil-based rolls keep quite well for several 
 categories:
   - Breads and Baked Goods
 dietary:
+  - V*
   - EF
   - DF
 source:

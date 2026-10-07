@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 cover: "/images/recipes/jacques-torres-chocolate-chip-cookies.jpg"
 ---
 

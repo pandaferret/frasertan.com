@@ -11,7 +11,10 @@ tags:
   - Make Ahead
   - Owen fav
 dietary:
+  - V
   - GF*
+  - EF
+  - DF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2014/04/three-bean-chili/"

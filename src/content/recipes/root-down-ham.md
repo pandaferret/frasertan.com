@@ -7,6 +7,8 @@ subcategories:
   - Pork
 dietary:
   - GF
+  - EF
+  - DF
 source:
   name: "Adapted from Serious Eats (J. Kenji López-Alt)"
   url: "https://www.seriouseats.com/sous-vide-city-ham-with-balsamic-brown-sugar-glaze-recipe"

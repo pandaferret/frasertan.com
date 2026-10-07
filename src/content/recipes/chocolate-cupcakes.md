@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "Wilton"
   url: "http://www.wilton.com/store/site/department.cfm?id=3E305008-475A-BAC0-50998F2253BBBC1F&fid=7816D930-475A-BAC0-5CB6ADF25218B917"

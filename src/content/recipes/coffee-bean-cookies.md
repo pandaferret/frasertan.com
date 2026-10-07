@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "Cooking to Entertain"
   url: "https://cookingtoentertain.com/coffee-bean-cookies/"

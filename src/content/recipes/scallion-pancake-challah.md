@@ -4,6 +4,7 @@ description: "The filling makes this a nicely savory challah. I had to use a lot
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - DF
 source:
   url: "http://www.myjewishlearning.com/jewish-and/challah-with-a-chinese-twist/"

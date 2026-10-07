@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2021/10/big-apple-crumb-cake/"
 cover: "/images/recipes/big-apple-crumb-cake.jpg"

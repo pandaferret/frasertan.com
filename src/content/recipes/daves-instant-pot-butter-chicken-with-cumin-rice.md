@@ -9,6 +9,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Chicken
+dietary:
+  - EF
 source:
   name: "Dave"
 ---

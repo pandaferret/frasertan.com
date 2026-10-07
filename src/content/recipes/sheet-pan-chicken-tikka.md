@@ -11,6 +11,7 @@ tags:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://smittenkitchen.com/blog/2016/04/sheet-pan-chicken-tikka/"
 cover: "/images/recipes/sheet-pan-chicken-tikka.jpg"

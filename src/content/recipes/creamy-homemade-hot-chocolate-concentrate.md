@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
   - Christmas
 dietary:
+  - VEG
   - EF
   - GF
 source:

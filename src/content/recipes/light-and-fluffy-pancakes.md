@@ -3,6 +3,8 @@ title: "Light and Fluffy Pancakes"
 description: "These are the very best pancakes, courtesy of Cook's Illustrated's New Best Recipes (aka The Bible). The secret to the fluffiness is not to overmix the batter! That, and wait til the last minute before cooking to combine the dry and wet ingredients."
 categories:
   - Breakfast
+dietary:
+  - VEG
 ---
 
 ## Ingredients

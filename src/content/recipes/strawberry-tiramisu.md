@@ -8,6 +8,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
+dietary:
+  - VEG
 source:
   name: "Love and Lemons"
   url: "https://www.loveandlemons.com/strawberry-tiramisu/"

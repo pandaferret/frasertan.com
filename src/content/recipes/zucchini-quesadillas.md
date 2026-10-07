@@ -13,6 +13,7 @@ source:
 cover: "/images/recipes/zucchini-quesadillas.jpg"
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

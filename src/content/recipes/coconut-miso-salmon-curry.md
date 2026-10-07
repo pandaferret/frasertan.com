@@ -5,6 +5,9 @@ tags:
   - Owen fav
   - Weeknight Meals
   - Fish
+dietary:
+  - EF
+  - DF
 yield: "Serves 4. Time: 25 minutes"
 categories:
   - Main Dishes

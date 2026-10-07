@@ -7,6 +7,8 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - VEG
 cover: "/images/recipes/brown-butter-skillet-cornbread.jpg"
 ---
 

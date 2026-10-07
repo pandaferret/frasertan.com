@@ -13,6 +13,7 @@ dietary:
   - V
   - EF
   - GF
+  - DF
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1026876-baked-tofu"

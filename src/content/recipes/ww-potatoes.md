@@ -3,6 +3,9 @@ title: "Mom's Weight Watcher Potatoes"
 description: "Easy and delicious!"
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   name: "Peggy Seidel"
 ---

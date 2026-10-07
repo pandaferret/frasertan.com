@@ -11,6 +11,8 @@ source:
   url: "https://www.centercutcook.com/indian-fried-cabbage/#wprm-recipe-container-13387"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

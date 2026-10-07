@@ -9,6 +9,7 @@ subcategories:
 tags:
   - Make Ahead
 dietary:
+  - VEG
   - EF
 source:
   name: "Chew Out Loud"

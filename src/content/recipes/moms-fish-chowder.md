@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Fish
+dietary:
+  - EF
 source:
   name: "Peggy"
 ---

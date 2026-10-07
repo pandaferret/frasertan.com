@@ -11,6 +11,7 @@ tags:
   - Owen fav
 dietary:
   - GF
+  - EF
 source:
   name: "Serious Eats"
   url: "https://www.seriouseats.com/pan-seared-duck-breast"

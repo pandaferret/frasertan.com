@@ -10,6 +10,7 @@ tags:
 dietary:
   - V
   - EF
+  - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/11902-braised-eggplant-with-soy-garlic-and-ginger"
 cover: "/images/recipes/braised-eggplant-with-soy-garlic-and-ginger.jpg"

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "https://www.cooksillustrated.com/recipes/3910-easy-roast-turkey-breast"
 cover: "/images/recipes/easy-roast-turkey-breast.jpg"

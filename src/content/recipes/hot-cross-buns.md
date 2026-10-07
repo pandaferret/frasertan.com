@@ -3,6 +3,8 @@ title: "Hot Cross Buns"
 description: "A sweet bun with the most amazing pillowy texture. Definitely need to make these more often than just for Easter!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "http://natashaskitchen.com/2015/04/03/hot-cross-buns-recipe/"
 cover: "/images/recipes/hot-cross-buns.jpg"

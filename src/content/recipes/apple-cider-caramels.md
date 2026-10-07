@@ -10,6 +10,7 @@ tags:
   - Fall
   - Winter
 dietary:
+  - VEG
   - GF
   - EF
 source:

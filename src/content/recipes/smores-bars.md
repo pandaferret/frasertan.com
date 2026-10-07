@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+dietary:
+  - VEG
 source:
   url: "https://preppykitchen.com/smores-bars/"
 cover: "/images/recipes/smores-bars.jpg"

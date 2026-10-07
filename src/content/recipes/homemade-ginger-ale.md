@@ -3,6 +3,10 @@ title: "Homemade Ginger Ale"
 description: "A delicious and refreshing recipe from Crumpets and Cakes! You can make it the slow way and wait for a few days, or use a shortcut to make it for day-of drinking. For make-ahead ginger ale: 1c..."
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

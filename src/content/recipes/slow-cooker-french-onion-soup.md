@@ -5,6 +5,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+dietary:
+  - EF
 source:
   url: "http://www.cookscountry.com/recipes/5893-slow-cooker-french-onion-soup"
 cover: "/images/recipes/slow-cooker-french-onion-soup.jpg"

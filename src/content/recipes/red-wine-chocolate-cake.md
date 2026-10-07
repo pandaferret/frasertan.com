@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2011/09/red-wine-chocolate-cake/"
 cover: "/images/recipes/red-wine-chocolate-cake.jpg"

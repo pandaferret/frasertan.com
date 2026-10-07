@@ -10,6 +10,7 @@ dietary:
   - V
   - GF
   - DF
+  - EF
 source:
   url: "https://www.americastestkitchen.com/recipes/10975-multicooker-indian-vegetable-curry?sqn=axmbnRh%2BG5xociC8StA9cXEL%2Fkm8g%2BTrxt4yu6Q9vLE%3D%0A&extcode=NSAKH27FB&utm_source=facebook&utm_medium=photo&utm_content=vegcurry&utm_campaign=atkfacebook"
 cover: "/images/recipes/instant-pot-indian-veggie-curry.jpg"

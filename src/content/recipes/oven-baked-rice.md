@@ -3,6 +3,9 @@ title: "Oven Baked Rice"
 description: "Making rice on the stovetop can feel a bit finicky, and not everyone has (or wants to use) a rice cooker. But, if you've got the oven free, this is an easy way to make rice for dinner."
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   name: "NYTimes recipe"
   url: "https://cooking.nytimes.com/recipes/1016673-cant-miss-rice?action=click&module=Collection%20Band%20Recipe%20Card&region=Sam%20Sifton%27s%20Suggestions&pgType=supercollection&rank=13"

@@ -14,6 +14,7 @@ tags:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://www.cookingclassy.com/2014/04/ginger-chicken-stir-fry-asparagus/"
 ---

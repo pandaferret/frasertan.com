@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2024/05/perfect-blueberry-muffin-loaf/"

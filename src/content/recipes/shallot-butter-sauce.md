@@ -3,6 +3,9 @@ title: "Shallot Butter Sauce"
 description: "Pairs with Sauteed Chicken Breast Cutlets and Pan Seared Steaks"
 categories:
   - Sauces and Dips
+dietary:
+  - VEG*
+  - EF
 source:
   url: "http://www.cooksillustrated.com/recipes/1887-shallot-butter-sauce"
 cover: "/images/recipes/shallot-butter-sauce.jpg"

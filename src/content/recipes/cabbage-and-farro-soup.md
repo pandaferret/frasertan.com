@@ -5,6 +5,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+dietary:
+  - VEG*
+  - EF
 source:
   url: "https://smittenkitchen.com/2019/01/cozy-cabbage-and-farro-soup/"
 cover: "/images/recipes/cabbage-and-farro-soup.jpg"

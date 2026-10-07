@@ -6,7 +6,9 @@ categories:
 subcategories:
   - Cookies
 dietary:
+  - VEG
   - GF
+  - DF
 ---
 
 ## Ingredients

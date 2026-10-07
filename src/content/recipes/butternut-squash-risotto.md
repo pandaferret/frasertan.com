@@ -7,6 +7,7 @@ subcategories:
 dietary:
   - VEG*
   - GF
+  - EF
 ---
 
 ## Ingredients

@@ -12,6 +12,7 @@ tags:
 dietary:
   - EF
   - GF
+  - DF
 ---
 
 ## Ingredients

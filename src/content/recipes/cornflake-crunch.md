@@ -4,6 +4,9 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+dietary:
+  - VEG
+  - EF
 source:
   name: "Momofuku Milk Bar"
 ---

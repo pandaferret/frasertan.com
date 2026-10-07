@@ -10,6 +10,7 @@ tags:
   - Chicken
 dietary:
   - GF
+  - EF
 source:
   url: "https://smittenkitchen.com/2011/01/roast-chicken-with-dijon-sauce/"
 cover: "/images/recipes/roast-chicken-with-dijon-sauce.jpg"

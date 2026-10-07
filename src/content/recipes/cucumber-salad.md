@@ -3,6 +3,10 @@ title: "Cucumber Salad"
 description: "from the internet!"
 categories:
   - Salads
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

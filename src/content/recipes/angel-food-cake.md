@@ -9,6 +9,9 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
+dietary:
+  - VEG
+  - DF
 source:
   name: "Cook's Illustrated Baking Book"
 ---

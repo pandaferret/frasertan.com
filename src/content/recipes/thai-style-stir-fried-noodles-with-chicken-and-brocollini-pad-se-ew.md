@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - DF
 source:
   name: "Cook's Illustrated"
 ---

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://www.saveur.com/article/Recipes/Sausages-with-French-Green-Lentils"
 ---

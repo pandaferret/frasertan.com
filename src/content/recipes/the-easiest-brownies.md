@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2012/08/my-favorite-brownies/"
 cover: "/images/recipes/the-easiest-brownies.jpg"

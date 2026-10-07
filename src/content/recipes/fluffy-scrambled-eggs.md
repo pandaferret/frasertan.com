@@ -4,6 +4,7 @@ description: "Scrambled eggs are probably the easiest thing in the world, but wh
 categories:
   - Breakfast
 dietary:
+  - VEG
   - GF
 ---
 

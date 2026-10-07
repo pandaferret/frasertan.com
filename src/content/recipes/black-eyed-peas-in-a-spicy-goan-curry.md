@@ -10,6 +10,7 @@ dietary:
   - V
   - GF
   - DF
+  - EF
 ---
 
 ## Ingredients

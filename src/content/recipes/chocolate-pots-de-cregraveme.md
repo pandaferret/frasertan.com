@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Sweets and Sundries
 dietary:
+  - VEG
   - GF
 source:
   url: "http://www.cooksillustrated.com/recipes/3196-chocolate-pots-de-creme"

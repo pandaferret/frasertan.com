@@ -5,6 +5,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+dietary:
+  - VEG*
+  - EF
 ---
 
 ## Ingredients

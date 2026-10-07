@@ -7,6 +7,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://www.cooksillustrated.com/recipes/7763-perfect-poached-chicken-breasts"
 cover: "/images/recipes/perfect-poached-chicken-breasts.jpg"

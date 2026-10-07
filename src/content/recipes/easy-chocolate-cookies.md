@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2006/07/good-enough-for-me/"
 cover: "/images/recipes/easy-chocolate-cookies.jpg"

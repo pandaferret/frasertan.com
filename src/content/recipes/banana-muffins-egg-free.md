@@ -4,6 +4,7 @@ description: "The crunchy streusel topping is a great contrast to the moist muff
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - EF
 source:
   url: "https://mommyshomecooking.com/best-eggless-banana-bread/"

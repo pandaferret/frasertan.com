@@ -3,6 +3,9 @@ title: "Roasted Maple Carrots with Browned Butter"
 description: "Inspect your bag of baby carrots carefully for pockets of water. Carrots taken from the top of the supermarket's carrot pile are often waterlogged. This not only makes carrots mealy, it also dashes any hopes of caramelization in the oven."
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "http://www.cooksillustrated.com/recipes/195-roasted-maple-carrots-with-browned-butter?ref=new_search_experience_2&incode=MCSCD00L0"
 ---

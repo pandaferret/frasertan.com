@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
+  - EF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2019/11/perfect-apple-tarte-tatin/"

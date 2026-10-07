@@ -8,6 +8,10 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
+dietary:
+  - V*
+  - EF
+  - DF
 source:
   name: "PCC Community Markets"
   url: "https://www.pccmarkets.com/recipe/pcc-nut-and-honey-clusters/"

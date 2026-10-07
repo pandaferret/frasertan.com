@@ -4,6 +4,7 @@ description: "These delicious bites are made with tapioca flour, making them nat
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - GF
 ---
 

@@ -7,6 +7,8 @@ subcategories:
   - Pastas and Grains
 dietary:
   - GF
+  - EF
+  - DF
 source:
   url: "http://mynameisyeh.com/mynameisyeh/2013/10/recipe-creamy-pumpkin-risotto-with-bacon-and-leeks"
 ---

@@ -4,6 +4,7 @@ description: "Modified from an excellent Cook's Illustrated recipe!"
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/13892-banana-walnut-muffins"

@@ -10,6 +10,7 @@ tags:
   - Christmas
   - Make Ahead
 dietary:
+  - VEG
   - EF
 source:
   name: "Smitten Kitchen"

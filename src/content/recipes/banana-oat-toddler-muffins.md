@@ -3,6 +3,8 @@ title: "Banana Oat Toddler Muffins"
 description: "Make these full sized for Mom and Dad, or in mini muffin tins for the little one!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 ---
 
 ## Ingredients

@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - VEG
+  - EF
 source:
   url: "http://ohmyveggies.com/pumpkin-sage-baked-ziti/"
 cover: "/images/recipes/pumpkin-sage-pasta-bake.jpg"

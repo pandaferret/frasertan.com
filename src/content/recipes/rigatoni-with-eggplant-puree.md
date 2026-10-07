@@ -14,6 +14,7 @@ source:
 cover: "/images/recipes/rigatoni-with-eggplant-puree.jpg"
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

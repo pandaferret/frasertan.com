@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "Life Made Simple"
   url: "https://lifemadesimplebakes.com/perfect-chocolate-cheesecake/"

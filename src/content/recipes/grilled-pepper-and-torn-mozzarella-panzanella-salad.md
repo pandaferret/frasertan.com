@@ -3,6 +3,9 @@ title: "Grilled Pepper and Torn Mozzarella Panzanella Salad"
 description: "While grilling then skinning the peppers takes some time and patience, the results are well worth the wait!"
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
 source:
   url: "https://smittenkitchen.com/2017/06/grilled-pepper-and-torn-mozzarella-panzanella/"
 cover: "/images/recipes/grilled-pepper-and-torn-mozzarella-panzanella-salad.jpg"

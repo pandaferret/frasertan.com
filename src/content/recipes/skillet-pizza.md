@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Pizzas
 dietary:
+  - V*
   - EF
 source:
   name: "Bread Illustrated from America's Test Kitchen"

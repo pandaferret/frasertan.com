@@ -5,6 +5,7 @@ categories:
   - Salads
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

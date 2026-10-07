@@ -11,6 +11,8 @@ tags:
   - Summer
   - Fall
   - Winter
+dietary:
+  - VEG
 source:
   url: "https://www.cooksillustrated.com/recipes/3917-tiramisu"
 cover: "/images/recipes/tiramisu.jpg"

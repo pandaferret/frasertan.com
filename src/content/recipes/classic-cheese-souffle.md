@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Vegetarian
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated"
   url: "https://www.cooksillustrated.com/recipes/7670-cheese-souffle?incode=MCSCD00L0&ref=new_search_experience_1"

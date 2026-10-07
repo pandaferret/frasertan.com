@@ -6,6 +6,8 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+dietary:
+  - EF
 source:
   url: "https://www.cookscountry.com/recipes/10533-wine-braised-short-ribs/print"
 cover: "/images/recipes/braised-short-ribs-with-white-wine-and-garlic.jpg"

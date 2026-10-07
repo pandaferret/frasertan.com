@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Summer
 dietary:
+  - VEG
   - EF
 source:
   url: "https://smittenkitchen.com/2013/07/peach-and-pecan-sandy-crumble/"

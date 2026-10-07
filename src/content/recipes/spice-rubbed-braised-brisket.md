@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+dietary:
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1021690-spice-rubbed-braised-brisket"
 ---
