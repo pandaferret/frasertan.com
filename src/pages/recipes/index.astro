@@ -22,6 +22,8 @@ const categories = [
   "Breakfast",
   "Drinks",
 ];
+
+const tags = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
 ---
 
 <BaseLayout
@@ -45,6 +47,24 @@ const categories = [
           <li>
             <a href={`/categories/${slug}/`}>
               {cat}
+              <span class="count">{count} recipes</span>
+            </a>
+          </li>
+        );
+      })
+    }
+  </ul>
+
+  <h2>Tags</h2>
+  <ul class="category-list">
+    {
+      tags.map((tag) => {
+        const slug = tag.toLowerCase().replace(/ /g, "-");
+        const count = recipes.filter((r) => r.data.tags?.includes(tag)).length;
+        return (
+          <li>
+            <a href={`/tags/${slug}/`}>
+              {tag}
               <span class="count">{count} recipes</span>
             </a>
           </li>
