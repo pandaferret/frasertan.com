@@ -198,7 +198,12 @@ main {
   flex-wrap: wrap;
 }
 
-/* Dietary badges */
+/* Dietary badges. Spaces between them in the markup keep site search from
+   reading "GF EF" as one word; flex hides those spaces on the page. */
+.recipe-meta .badges {
+  display: inline-flex;
+}
+
 .badge {
   display: inline-block;
   font-size: 0.7rem;
