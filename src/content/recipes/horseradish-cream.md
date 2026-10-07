@@ -1,6 +1,5 @@
 ---
 title: "Horseradish Cream"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Sauces and Dips
 source:
