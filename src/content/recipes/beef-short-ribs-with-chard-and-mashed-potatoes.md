@@ -1,6 +1,6 @@
 ---
 title: "Beef short ribs (with chard and mashed potatoes)"
-description: "This was the masterpiece piece de la resistance of Christmas 2017! These take all day to make and are worth *every* moment. Start the day early, take your time and enjoy the art as well as the work of making these meltingly delicious short ribs. Hats off to Deb of smitten kitchen!"
+description: "This was the pièce de résistance of Christmas 2017! These take all day to make and are worth *every* moment. Start the day early, take your time and enjoy the art as well as the work of making these meltingly delicious short ribs. Hats off to Deb of smitten kitchen!"
 categories:
   - Main Dishes
 subcategories:

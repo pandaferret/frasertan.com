@@ -1,6 +1,6 @@
 ---
 title: "Gramercy Tavern Gingerbread Cake"
-description: "This is Smitten Kitchen's adaptation of the Gramercy Tavern gingerbread cake. It is intense!!! Deeply flavored and strongly spiced, this is nothing like blank gingerbread you find in stores. Caution; it's addictive!"
+description: "This is Smitten Kitchen's adaptation of the Gramercy Tavern gingerbread cake. It is intense!!! Deeply flavored and strongly spiced, this is nothing like bland gingerbread you find in stores. Caution; it's addictive!"
 categories:
   - Desserts
 tags:

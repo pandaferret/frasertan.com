@@ -25,5 +25,5 @@ source:
 
 ## Notes
 
-- If you go through a lot of yogurt, this recipe may save you money; we've found that it costs about half as much to buy the gallon of milk to make this than it does to buy the equivalent amount of our favorite yogurt, Strauss Organic Whole Milk Greek yogurt. But, your mileage may vary!
+- If you go through a lot of yogurt, this recipe may save you money; we've found that it costs about half as much to buy the gallon of milk to make this than it does to buy the equivalent amount of our favorite yogurt, Straus Organic Whole Milk Greek yogurt. But, your mileage may vary!
 - I reserve a gasket for yogurt making only, so it doesn't pick up any flavors from whatever I last made.
