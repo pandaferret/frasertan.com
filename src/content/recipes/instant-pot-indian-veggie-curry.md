@@ -37,7 +37,7 @@ source:
 ## Directions
 
 1. Using highest sauté or browning function, heat oil in multicooker until shimmering.
-2. Add onions and teaspoon salt and cook until onions are softened, 3 to 5 minutes.
+2. Add onions and 1 teaspoon salt and cook until onions are softened, 3 to 5 minutes.
 3. Stir in curry powder, garam masala, garlic, serrano, ginger, and tomato paste and cook until fragrant, about 1 minute.
 4. Stir in broth, scraping up any browned bits, then stir in cauliflower, potatoes, chickpeas, and tomatoes and their juice.
 5. To pressure cook: Lock lid in place and close pressure release valve. Select high pressure cook function and cook for 2 minutes. Turn off multicooker and quick-release pressure. Carefully remove lid, allowing steam to escape away from you.

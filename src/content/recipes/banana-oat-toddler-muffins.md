@@ -25,7 +25,7 @@ source:
 ## Directions
 
 1. Preheat oven to 325 degrees. Grease 2 24-cup minimuffin tins well and set aside.
-2. In a medium bowl, add the melted coconut oil, pure maple syrup, egg, pumpkin puree, milk and vanilla. Whisk to combine well. In a large bowl, add the soda, salt, cinnamon, flour, and oats. Stir to combine. Add the wet ingredients to the dry ingredients and stir until just combined. Don’t over mix here. Divide the batter among the minimuffin cup (about a tablespoon per cup). Sprinkle with additional oats. Bake for 12 minutes, or until a toothpick inserted into the center comes out clean and the muffins spring back when lightly touched. Let the muffins cool for 5 minutes in the pan and then remove and allow them to cool on a wire rack. Enjoy warm or at room temperature.
+2. In a medium bowl, add the melted coconut oil, pure maple syrup, eggs, banana puree, milk and vanilla. Whisk to combine well. In a large bowl, add the soda, salt, cinnamon, flour, and oats. Stir to combine. Add the wet ingredients to the dry ingredients and stir until just combined. Don’t over mix here. Divide the batter among the minimuffin cup (about a tablespoon per cup). Sprinkle with additional oats. Bake for 12 minutes, or until a toothpick inserted into the center comes out clean and the muffins spring back when lightly touched. Let the muffins cool for 5 minutes in the pan and then remove and allow them to cool on a wire rack. Enjoy warm or at room temperature.
 
 ## Notes
 

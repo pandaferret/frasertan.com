@@ -32,12 +32,46 @@ dietary:
 
 ## Notes
 
+To make larger batches:
+
+Double Batch:
+
+- Butter: 4 tbsp
+- Onion: 1/2 cup
+- Carrot: 1/2 cup
+- Celery: 1/2 cup
+- Meatloaf mix: 2 lbs
+- Whole Milk: 2.25 cups
+- Wine: 2.25 cups
+- Diced tomatoes: 3 28 ounce cans
+- Reserved juices: 2.5 cups
+
+Double Batch directions:
+
 - Increase the cooking time for the vegetables to 8 to 10 minutes
 - Increase the meat cooking time to 4 to 6 minutes
 - Increase the simmer time for the milk and the wine to 45 minutes
 - Increase the final sauce simmer time to 4 to 4.5 hours.
+
+Triple Batch:
+
+- Butter: 5 tbsp
+- Onion: 3/4 cup
+- Carrot: 3/4 cup
+- Celery: 3/4 cup
+- Meatloaf mix: 3 lbs
+- Whole Milk: 3 cups
+- Wine: 1 bottle (750 mLs)
+- Diced tomatoes: 4 28 ounce cans
+- Reserved juices: 3.5 cups
+
+Triple Batch directions:
+
 - Increase the cooking time for the vegetables to 10 to 12 minutes
 - Increase the meat cooking time to 6 to 8 minutes
 - Increase the simmer time for the milk and the wine to 1 hour
 - Increase the final sauce simmer time to 5 to 5.5 hours.
+
+Notes:
+
 - The original recipe calls for a dry white wine, but I've found I prefer the flavor of a sweeter wine, like a Gewurztraminer or even a Riesling.

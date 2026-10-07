@@ -24,7 +24,7 @@ source:
 - 1/2 cup flour
 - 2 cups rolled oats
 - 1/2 cup chopped toasted pecans
-- 1/2 cups rice krispies
+- 1/2 cup rice krispies
 
 ## Directions
 

@@ -230,8 +230,7 @@ export const redirects = {
   "/creamy-mashed-potatoes.html": "/recipes/creamy-mashed-potatoes/",
   "/creamy-one-pot-pasta-with-sausage-and-squash.html":
     "/recipes/creamy-one-pot-pasta-with-sausage-and-squash/",
-  "/creamy-weeknight-mac-n-cheese.html":
-    "/recipes/creamy-weeknight-mac-n-cheese/",
+  "/creamy-weeknight-mac-n-cheese.html": "/recipes/",
   "/cregraveme-pacirctissiegravere.html":
     "/recipes/cregraveme-pacirctissiegravere/",
   "/crispy-crumbled-potatoes.html": "/recipes/crispy-crumbled-potatoes/",

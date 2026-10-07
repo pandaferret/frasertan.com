@@ -9,7 +9,7 @@ dietary:
 ## Ingredients
 
 - 2 tablespoons olive oil
-- 1 butternut squash (medium, about 2 pounds), peeled, seeded (fibers and seeds reserved), and cut into 1/2-inch cubes (about 3 1/
+- 1 butternut squash (medium, about 2 pounds), peeled, seeded (fibers and seeds reserved), and cut into 1/2-inch cubes (about 3 1/2 cups)
 - 3/4 teaspoon table salt
 - 3/4 teaspoon ground black pepper
 - 4 cups low-sodium chicken broth

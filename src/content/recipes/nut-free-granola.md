@@ -23,8 +23,8 @@ source:
 ## Directions
 
 1. Preheat oven to 350°. Spray a rimmed baking sheet with oil.
-2. Mix the oats, rice cereal and flax seed in a large bowl.
-3. Combine the maple syrup, honey, oil and salt in a small saucepan. Heat over medium heat until the mixture homogenizes. Add the vanilla and stir to incorporate.
+2. Mix the oats and rice cereal in a large bowl.
+3. Combine the maple syrup, honey, oil, brown sugar and salt in a small saucepan. Heat over medium heat until the mixture homogenizes. Add the vanilla and stir to incorporate.
 4. Pour the mixture over the oats and stir to combine. Make sure the mixture is homogenously mixed; it will still look a little dry.
 5. Spread out on the baking sheet.
 6. Bake for 20-25 minutes, stirring every 5 minutes to brown the mixture evenly and prevent burning.

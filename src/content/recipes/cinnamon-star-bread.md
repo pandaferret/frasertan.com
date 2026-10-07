@@ -15,7 +15,7 @@ Dough (Cook's Illustrated):
 - 3/4 cup milk at 110°
 - 2 1/4 tsp yeast
 - 3 large eggs, room temperature
-- 4 1/2 - 4 1/2 cups (21 1/4 - 22 1/2 ounces) all-purpose flour
+- 4 1/4 - 4 1/2 cups (21 1/4 - 22 1/2 ounces) all-purpose flour
 - 1/2 cup cornstarch
 - 1/2 cup (3 1/2 ounces) granulated sugar
 - 1 1/2 tsp salt
