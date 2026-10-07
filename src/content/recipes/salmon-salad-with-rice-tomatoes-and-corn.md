@@ -1,6 +1,6 @@
 ---
 title: "Salmon Salad with Rice, Tomatoes and Corn"
-description: "from the SF Chronicle"
+description: "From the SF Chronicle"
 yield: "Serves 4"
 categories:
   - Main Dishes
@@ -33,7 +33,7 @@ source:
 
 1. Cook the rice with a bit of salt. Fluff with fork, let rest 5 minutes.
 2. Steam corn 3-5 minutes. Remove kernels with a sharp knife. Place in bowl with tomato, cucumber, chives, lettuce and rice.
-3. Season salmon well with salt and pepper. Heat 1 tbsp olive oil in a nonstick pan over medium-high heat until hot. Add the salmon flesh side down adn sear for 4 minutes per side. Let rest 5 minutes.
+3. Season salmon well with salt and pepper. Heat 1 tbsp olive oil in a nonstick pan over medium-high heat until hot. Add the salmon flesh side down and sear for 4 minutes per side. Let rest 5 minutes.
 4. Place vinegar in a small bowl and whisk with salt, pepper and honey. Whisk oil into vinegar mix. Toss rice and veggies with dressing. Flake salmon into pieces and add, gently tossing. Serve.
 
 ## Notes

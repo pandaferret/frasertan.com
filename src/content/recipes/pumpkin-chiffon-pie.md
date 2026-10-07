@@ -25,7 +25,7 @@ tags:
 
 ## Directions
 
-1. In a medium bowl, mix together gelatin, dark brown sugar and spices. mix in egg yolks, milk, water and pumpkin.
+1. In a medium bowl, mix together gelatin, dark brown sugar and spices. Mix in egg yolks, milk, water and pumpkin.
 
 2. Set over a pot with 2-3" of boiling water and cook, stirring mediumly frequently, until gelatin dissolves and mixture is heated through, roughly 10 minutes. Remove from heat and chill until thickened, and mounds when dropped from a spoon.
 

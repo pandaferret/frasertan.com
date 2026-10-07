@@ -12,15 +12,15 @@ source:
 
 ## Ingredients
 
-- 12tablespoons unsalted butter
-- ¾cup packed (5 1/4 ounces) dark brown sugar
-- ½cup (3 1/2 ounces) granulated sugar
-- 2teaspoons vanilla extract
-- 1teaspoon salt
-- 1large egg plus 1 large yolk
-- 1 ¾cups (8 3/4 ounces) all-purpose flour
-- ½teaspoon baking soda
-- 1cup (6 ounces) semisweet chocolate chips
+- 12 tablespoons unsalted butter
+- ¾ cup packed (5 1/4 ounces) dark brown sugar
+- ½ cup (3 1/2 ounces) granulated sugar
+- 2 teaspoons vanilla extract
+- 1 teaspoon salt
+- 1 large egg plus 1 large yolk
+- 1 ¾ cups (8 3/4 ounces) all-purpose flour
+- ½ teaspoon baking soda
+- 1 cup (6 ounces) semisweet chocolate chips
 
 ## Directions
 

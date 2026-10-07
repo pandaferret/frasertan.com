@@ -20,7 +20,7 @@ FOR THE NOODLES:
 
 - 3 blocks instant ramen noodles (about 9 ounces), flavor packets discarded
 - 2 tablespoons sesame oil
-- 2 tablespoon neutral oil, such as grapeseed or vegetable
+- 2 tablespoons neutral oil, such as grapeseed or vegetable
 - 2 tablespoons soy sauce
 - Kosher salt
 - 1 14-ounce package extra-firm tofu, patted dry and cut into 1/4-inch thick slices

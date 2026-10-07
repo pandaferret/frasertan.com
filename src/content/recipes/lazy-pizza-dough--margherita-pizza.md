@@ -1,6 +1,6 @@
 ---
 title: "Lazy Pizza Dough + Margherita Pizza"
-description: "From Deb at Smitten Kitchen!This recipe can be made 24, 12 or 6 hours before you need. Of course, more time means more flavor!"
+description: "From Deb at Smitten Kitchen! This recipe can be made 24, 12 or 6 hours before you need. Of course, more time means more flavor!"
 categories:
   - Main Dishes
 subcategories:
@@ -45,5 +45,5 @@ For the pizza:
 3. For the margherita pizza: Drain the tomatoes in a colander, giving them a squeeze to release more of the juices. Let them sit for 30 minutes.
 4. Preheat oven to its highest setting - 450° or 500°.
 5. Add garlic, salt, red pepper flakes and sugar (if needed), and blend in a blender until smooth.
-6. Add 1/3 cup sauce to dough and spead it out evenly. (You can save the remaining sauce in the fridge or freezer.) Tear or crumble the mozzarella into small pieces and scatter over the sauce. Drizzle with a smidge of olive oil.
+6. Add 1/3 cup sauce to dough and spread it out evenly. (You can save the remaining sauce in the fridge or freezer.) Tear or crumble the mozzarella into small pieces and scatter over the sauce. Drizzle with a smidge of olive oil.
 7. Bake for 10 to 15 minutes until the top is slightly charred and the crust is golden. Out of the oven, top with Parmesan and basil.

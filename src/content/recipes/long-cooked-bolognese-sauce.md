@@ -26,7 +26,7 @@ dietary:
 3. Stir in the ground meats, stirring to break up chunks, until no longer pink, about 3 minutes.
 4. Add the milk and stir. Bring to a simmer and cook until the milk has evaporated and only clear fat remains, about 25 minutes. The meat will start to sizzle again.
 5. Stir in the wine, bring to a simmer and cook until the wine has evaporated, about 25 minutes.
-6. Meanwhile, pulse the tomatoes in a food processor until slightly chunky, about 8 1 second pulses.
+6. Meanwhile, pulse the tomatoes in a food processor until slightly chunky, about 8 1-second pulses.
 7. After the wine has done simmering, add the tomatoes and the reserved juice. Bring to a bare simmer (use a heat diffuser) and cook gently until the liquid has evaporated, 3 to 3.5 hours.
 8. To store: Let the sauce cool at room temperature for 45 minutes. Transfer to airtight containers and then freeze when cooled.
 
@@ -40,4 +40,4 @@ dietary:
 - Increase the meat cooking time to 6 to 8 minutes
 - Increase the simmer time for the milk and the wine to 1 hour
 - Increase the final sauce simmer time to 5 to 5.5 hours.
-- The original recipe calls for a dry white wine, but I've found I prefer the flavor of a sweeter wine, like a Gewurztraminer or even a Reisling.
+- The original recipe calls for a dry white wine, but I've found I prefer the flavor of a sweeter wine, like a Gewurztraminer or even a Riesling.

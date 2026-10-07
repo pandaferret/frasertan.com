@@ -5,7 +5,7 @@ yield: "Serves 12-16"
 categories:
   - Desserts
 source:
-  name: "Peggy!Notes:also makes delicious cupcakes!"
+  name: "Peggy"
 ---
 
 ## Ingredients

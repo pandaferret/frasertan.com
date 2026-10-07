@@ -1,6 +1,6 @@
 ---
 title: "Strawberry-Rhubarb Pie"
-description: "This is the Best. Pie. Ever. Of course, it comes from Cook's Illustrated. You should always always do what Cook's Illustrated says. The first time I made this pie, I tweaked a few things and it was brilliant. But a little watery. So, round two, I upped the thickener. Bad idea. Awesome, but not brilliant. Third time, I tweaked nothing and the pie was mind-blowing. Yes, yes, I made this pie three times in a row. It's that good.Now shoo, off to the kitchen with you! P.S. Transcribed word for word, with some of my own commentary inserted."
+description: "This is the Best. Pie. Ever. Of course, it comes from Cook's Illustrated. You should always always do what Cook's Illustrated says. The first time I made this pie, I tweaked a few things and it was brilliant. But a little watery. So, round two, I upped the thickener. Bad idea. Awesome, but not brilliant. Third time, I tweaked nothing and the pie was mind-blowing. Yes, yes, I made this pie three times in a row. It's that good. Now shoo, off to the kitchen with you! P.S. Transcribed word for word, with some of my own commentary inserted."
 categories:
   - Desserts
 subcategories:
@@ -36,7 +36,7 @@ For the crust: 1. Process 1.5 cups flour, 2 tbsp sugar and salt in food processo
 
 3. Transfer mixture to large bowl. Sprinkle vodka and water over mixture. Using rubber spatula, stir and press dough together until it sticks together.
 
-At this point, I actually dump the whole mess out onto the countertop and use my hands to much the dough together into a cohesive mass. I then knead it about 4 to 5 times to bring it together into a supple ball.
+At this point, I actually dump the whole mess out onto the countertop and use my hands to mush the dough together into a cohesive mass. I then knead it about 4 to 5 times to bring it together into a supple ball.
 
 4. Divide dough in half. Turn each half onto a sheet of plastic wrap and form 4" disks. Wrap tightly in plastic wrap and refrigerate for at least an hour. Let chilled dough sit on countertop to soften slightly, about 10 minutes, before rolling.
 
@@ -44,7 +44,7 @@ Wrapped dough can be refrigerated for up to 2 days or frozen for up to a month. 
 
 For the filling: 5. While dough chills, prepare the strawberries and rhubarb. Trim the ends of each stalk of rhubarb. Then, using a paring knife, peel off the outer red fibrous layer. Chop each stalk into 0.5" pieces. Combine rhubarb and sugar in a large bowl and microwave on high for 1.5 minutes. Stir and continue to microwave until the sugar is mostly dissolved, about 1 minute. Stir in 1 cup of strawberries and set aside for 30 minutes, stirring once halfway through.
 
-6. Drain rhubarb mixture through a fine-mesh strainer over a saucepan. Returned drained rhubarb to bowl and set aside. Add remaining strawberries to saucepan with rhubarb liquid and cook over medium-high heat until strawberries are very soft and mixture is reduced to 1.5 cups, about 10 to 15 minutes. Add strawberry mixture and tapioca to the rhubarb and stir to combine. Set aside.
+6. Drain rhubarb mixture through a fine-mesh strainer over a saucepan. Return drained rhubarb to bowl and set aside. Add remaining strawberries to saucepan with rhubarb liquid and cook over medium-high heat until strawberries are very soft and mixture is reduced to 1.5 cups, about 10 to 15 minutes. Add strawberry mixture and tapioca to the rhubarb and stir to combine. Set aside.
 
 I like to reduce the mixture even more, almost until it is like jam in its consistency. This takes about 5 more minutes.
 
@@ -52,7 +52,7 @@ I like to reduce the mixture even more, almost until it is like jam in its consi
 
 8. Roll the other disk of dough into a 12" circle on a well-floured counter, then transfer to a parchment lined baking sheet; cover with plastic wrap and refrigerate for 30 minutes. Adjust oven rack to middle position and preheat oven to 425°F.
 
-9. Transfer filling to chilled dough-lined pie plate and spread into an even layer. Loosely roll remaining dough round around the rolling pin and gently unroll it onto the filling. Trim overhand to 1/2" beyond the lip of the plate. Pinch edges of bottom and top crust together firmly. Tuck overhang under itself; folded edge should be flush with the plate. Crimp dough evenly around the edge of the plate using your fingers or a butter knife. Brush the surface of the pie thoroughly with water. Sprinkle 3 tbsp of sugar on top. Cut 8 2" slits in the top crust.
+9. Transfer filling to chilled dough-lined pie plate and spread into an even layer. Loosely roll remaining dough round around the rolling pin and gently unroll it onto the filling. Trim overhang to 1/2" beyond the lip of the plate. Pinch edges of bottom and top crust together firmly. Tuck overhang under itself; folded edge should be flush with the plate. Crimp dough evenly around the edge of the plate using your fingers or a butter knife. Brush the surface of the pie thoroughly with water. Sprinkle 3 tbsp of sugar on top. Cut 8 2" slits in the top crust.
 
 10. Place pie on parchment lined rimmed baking sheet and bake until crust is set and begins to brown, about 25 minutes. Rotate pie and reduce heat to 375°F. Continue to bake until the crust is a deep golden brown and the filling is bubbling, about 30 to 40 minutes. Let pie cool on a wire rack for 2.5 hours before serving.
 

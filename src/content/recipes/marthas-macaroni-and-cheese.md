@@ -1,6 +1,6 @@
 ---
 title: "Martha's Macaroni and Cheese"
-description: "via Smitten Kitchen: Now, please be warned, this makes a ton-a mac-and-cheese. Not interested in going on an all-mac, all-the-time diet this week, but wishing to try the recipe at last, I halved it and guess what? We still had three dinner’s worth of mac-and-cheese, or a full six servings. Which is, of course, what the recipe said it would make if halved, but I was in denial.This is particularly delicious with a big, crunchy salad and a steamed vegetable, like green beans or broccoli.Serves 12"
+description: "via Smitten Kitchen: Now, please be warned, this makes a ton-a mac-and-cheese. Not interested in going on an all-mac, all-the-time diet this week, but wishing to try the recipe at last, I halved it and guess what? We still had three dinner’s worth of mac-and-cheese, or a full six servings. Which is, of course, what the recipe said it would make if halved, but I was in denial. This is particularly delicious with a big, crunchy salad and a steamed vegetable, like green beans or broccoli. Serves 12"
 categories:
   - Main Dishes
 tags:
@@ -12,7 +12,7 @@ source:
 ## Ingredients
 
 - 8 tablespoons (1 stick) unsalted butter, plus more for casserole
-- 6 slices white bread, crusts removed, torn into 1/4- to l/2-inch pieces
+- 6 slices white bread, crusts removed, torn into 1/4- to 1/2-inch pieces
 - 5 1/2 cups milk
 - 1/2 cup all-purpose flour
 - 2 teaspoons coarse salt, plus more for water

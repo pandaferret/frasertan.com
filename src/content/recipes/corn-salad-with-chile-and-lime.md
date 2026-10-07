@@ -1,5 +1,5 @@
 ---
-title: "corn salad with chile and lime"
+title: "Corn Salad with Chile and Lime"
 description: "A delicious riff on Mexican street corn from Smitten Kitchen!"
 categories:
   - Side Dishes
@@ -26,7 +26,7 @@ source:
 ## Directions
 
 1. Combine the red onions, red wine vinegar, 2 tablespoons water, sugar and salt in a small bowl and refrigerate.
-2. Combine sour cream, mayo and cotjia and set aside.
-3. Grill the corn on all sides until kernels are well charred. Let cool slightly, then cut the kernels off the cobb.
+2. Combine sour cream, mayo and cotija and set aside.
+3. Grill the corn on all sides until kernels are well charred. Let cool slightly, then cut the kernels off the cob.
 4. Spread the cotija mixture over the bottom of your serving plate. Top with corn kernels. Squeeze half the lime over the corn, then dust with chile powder and salt to taste. Top with pickled onions and cilantro.
 5. Serve immediately.

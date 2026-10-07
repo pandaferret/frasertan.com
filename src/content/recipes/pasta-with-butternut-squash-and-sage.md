@@ -1,6 +1,6 @@
 ---
 title: "Pasta with Butternut Squash and Sage"
-description: "Continuing my obsession with butternut squash and sage. Thus comes together pretty quickly and is delicious! OM NOM NOM!From Cook's Illustrated."
+description: "Continuing my obsession with butternut squash and sage. This comes together pretty quickly and is delicious! OM NOM NOM! From Cook's Illustrated."
 categories:
   - Main Dishes
 subcategories:

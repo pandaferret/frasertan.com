@@ -1,6 +1,6 @@
 ---
 title: "Ally Wraps"
-description: "This is less a recipe and more an outline, from my sister in law Ally. She made this for us on a visit and i swear I ate probably 7 or 8 wraps. It's super simply, easily varied, uses up lots of veggies and is delicious!"
+description: "This is less a recipe and more an outline, from my sister in law Ally. She made this for us on a visit and I swear I ate probably 7 or 8 wraps. It's super simple, easily varied, uses up lots of veggies and is delicious!"
 categories:
   - Main Dishes
 subcategories:
@@ -32,7 +32,7 @@ A bunch of your favorite veggies, chopped:
 
 ## Directions
 
-1. In a large Dutch oven, heat oil over medium until shimmers. Add onions and sautee until translucent. Add the broccoli, squash and other veggies and sautee for a while until soft. Add spices generously (we use our friend Dave's spice mix.)
+1. In a large Dutch oven, heat oil over medium until shimmers. Add onions and saute until translucent. Add the broccoli, squash and other veggies and saute for a while until soft. Add spices generously (we use our friend Dave's spice mix.)
 2. Add sausage. Break up with a wooden spoon, then cover and let cook for 5-10 minutes. Cover and keep warm until needed.
 3. Meanwhile, chop tomatoes and place in a bowl.
 4. Heat a small skillet over medium high heat. Warm each tortilla for roughly 20 seconds per side, and place inside a folded clean kitchen towel to keep warm.

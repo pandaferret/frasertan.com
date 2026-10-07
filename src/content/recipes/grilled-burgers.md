@@ -1,6 +1,6 @@
 ---
 title: "Grilled Burgers"
-description: "Easy and delicious! For a moist, juicy hamburger recipe with a tender and cohesive texture, we preferred chuck ground to order, with a ratio of fat to lean of 20 percent fat:80 percent lean. We formed the meat into 6-ounce patties with a depression in the middle (to 1/2 inch) to keep the burgers from puffing up when they cooked.Weighing the meat on a kitchen scale is the most accurate way to portion it. If you don’t own a scale, do your best to divide the meat evenly into quarters. Eighty percent lean ground chuck is our favorite for flavor, but 85 percent lean works, too. If you start with a chuck roast or steak, ask the butcher to grind it twice and expect some weight loss - 2 to 3 percent in our experience - to the grinder. Toasting the buns is an easy extra flourish; just split them open and lay the halves cut-side down on the grill rack for the last 45 to 60 seconds of the hamburgers’ cooking time."
+description: "Easy and delicious! For a moist, juicy hamburger recipe with a tender and cohesive texture, we preferred chuck ground to order, with a ratio of fat to lean of 20 percent fat:80 percent lean. We formed the meat into 6-ounce patties with a depression in the middle (to 1/2 inch) to keep the burgers from puffing up when they cooked. Weighing the meat on a kitchen scale is the most accurate way to portion it. If you don’t own a scale, do your best to divide the meat evenly into quarters. Eighty percent lean ground chuck is our favorite for flavor, but 85 percent lean works, too. If you start with a chuck roast or steak, ask the butcher to grind it twice and expect some weight loss - 2 to 3 percent in our experience - to the grinder. Toasting the buns is an easy extra flourish; just split them open and lay the halves cut-side down on the grill rack for the last 45 to 60 seconds of the hamburgers’ cooking time."
 categories:
   - Main Dishes
 subcategories:
@@ -20,7 +20,7 @@ source:
 - 1 teaspoon table salt
 - ½ teaspoon ground black pepper
 - vegetable oil for oiling grill rack
-- 4 buns and desired topppings
+- 4 buns and desired toppings
 
 ## Directions
 

@@ -1,5 +1,5 @@
 ---
-title: "Zucchini quesadillas"
+title: "Zucchini Quesadillas"
 description: "Deb from Smitten Kitchen continues to fuel my easy weeknight recipe search!"
 categories:
   - Main Dishes
@@ -17,7 +17,7 @@ source:
 - 1 1/2 pounds zucchini or other slim summer squash, halved and thinly sliced
 - Kosher salt
 - 1 lime, halved
-- 6 ounces grated monterey jack cheese
+- 6 ounces grated Monterey Jack cheese
 - 12 6-inch corn tortillas
 - Sliced avocado, chopped fresh cilantro, additional lime, and thinly sliced jalapeno to finish
 

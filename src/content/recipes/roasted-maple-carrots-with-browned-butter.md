@@ -10,7 +10,7 @@ source:
 ## Ingredients
 
 - 2 pounds baby carrots (two 16-ounce bags)
-- 1 ½teaspoons olive oil
+- 1 ½ teaspoons olive oil
 - ½ teaspoon table salt
 - 1 tablespoon butter
 - 1 tablespoon maple syrup

@@ -23,7 +23,7 @@ dietary:
 
 ## Directions
 
-1. Preheat oven to 350°. Grease a 9 x 13 inch pan and line with parchment paper. 2. Whisk together rice flour, sugar and baking power. In a separate bowl, mix water, coconut milk and vanilla extract. Blend the rice flour mixture into the coconut milk mixture. Pour into prepared pan.
+1. Preheat oven to 350°. Grease a 9 x 13 inch pan and line with parchment paper. Whisk together rice flour, sugar and baking powder. In a separate bowl, mix water, coconut milk and vanilla extract. Blend the rice flour mixture into the coconut milk mixture. Pour into prepared pan.
 
 2. Tightly cover the pan with aluminum foil and bake for 1 hour. Allow to cool completely (usually overnight).
 

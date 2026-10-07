@@ -1,5 +1,5 @@
 ---
-title: "Oven-fried Bacon"
+title: "Oven-Fried Bacon"
 description: "Perfect bacon every time, courtesy of Cook's Illustrated!"
 categories:
   - Breakfast

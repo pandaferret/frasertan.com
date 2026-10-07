@@ -13,21 +13,21 @@ source:
 
 ## Ingredients
 
-- 2tablespoonsreduced sodium soy sauce
-- 2tablespoonsfreshly squeezed lime juice
-- 3clovesgarlic, minced
-- 2teaspoonschili powder
-- 1teaspoonground cumin
-- 1teaspoondried oregano
-- 1tablespooncanola oil
-- 1 ½poundsskirt steak, cut into 1/2-inch pieces
-- 12ouncestortilla chips
-- 8ouncesextra-sharp cheddar cheese, grated
-- ¾cuppico de gallo, homemade or store-bought
-- 1avocado, halved, peeled, seeded and diced
-- 1jalapeno, thinly sliced
-- ½cupqueso blanco, homemade or store-bought
-- ½cupchopped fresh cilantro leaves
+- 2 tablespoons reduced sodium soy sauce
+- 2 tablespoons freshly squeezed lime juice
+- 3 cloves garlic, minced
+- 2 teaspoons chili powder
+- 1 teaspoon ground cumin
+- 1 teaspoon dried oregano
+- 1 tablespoon canola oil
+- 1 ½ pounds skirt steak, cut into 1/2-inch pieces
+- 12 ounces tortilla chips
+- 8 ounces extra-sharp cheddar cheese, grated
+- ¾ cup pico de gallo, homemade or store-bought
+- 1 avocado, halved, peeled, seeded and diced
+- 1 jalapeno, thinly sliced
+- ½ cup queso blanco, homemade or store-bought
+- ½ cup chopped fresh cilantro leaves
 
 ## Directions
 

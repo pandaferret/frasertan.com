@@ -15,9 +15,9 @@ subcategories:
 - 2 medium celery ribs, chopped
 - salt
 - 8 cups water
-- 3 tsp Better than Bouillon chicken stock concentrate
+- 3 tsp Better Than Bouillon chicken stock concentrate
 - 1 lb green split peas (2.5 c), picked over and rinsed
-- 2 medium smocked ham hocks
+- 2 medium smoked ham hocks
 - 3 bay leaves
 - 1 tbsp fresh thyme or 1 tsp dried thyme
 - 0.25 tsp red pepper flakes
@@ -27,7 +27,7 @@ subcategories:
 ## Directions
 
 1. Heat oil in a non-stick 12" skillet over medium heat until shimmering but not smoking. Add onion, carrot, celery and 0.25 tsp salt. Cook until softened and slightly browned, about 10 to 15 minutes.
-2. Transfer vegetables to the slow cooker. Add water, boullion base, split peas, ham hocks, bay leaves, thyme and pepper flakes.
+2. Transfer vegetables to the slow cooker. Add water, bouillon base, split peas, ham hocks, bay leaves, thyme and pepper flakes.
 3. Cover and cook until thickened and peas are tender; 11-12 hours on low, 6-7 hours on high.
 4. Remove and discard the bay leaves. Remove the ham hocks, shred the meat from the bone and return the meat to the soup.
 5. Stir in lemon juice, season with salt and pepper, and serve.

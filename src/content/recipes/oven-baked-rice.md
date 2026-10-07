@@ -1,6 +1,6 @@
 ---
 title: "Oven Baked Rice"
-description: "Make rice on the stovetop can feel a bit finicky, and not everyone has (or wants to use) a rice cooker. But, if you've got the oven free, this is an easy way to make rice for dinner."
+description: "Making rice on the stovetop can feel a bit finicky, and not everyone has (or wants to use) a rice cooker. But, if you've got the oven free, this is an easy way to make rice for dinner."
 categories:
   - Side Dishes
 source:

@@ -1,5 +1,5 @@
 ---
-title: "Make-your-own Boursin"
+title: "Make-Your-Own Boursin"
 categories:
   - Starters
 dietary:

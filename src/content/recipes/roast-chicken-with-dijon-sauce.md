@@ -30,4 +30,4 @@ source:
 
 ## Notes
 
-- At Deb's suggestion, I made this into an easy weeknight meal. I tossed some mini potatoes with olive oil and seasonings in a small casserole dish and popped it in the same time as the chicken. I let them continue to roast while I made the sauce, for a total of about 20-25 minutes. I also got some pre-cut (!!!! so worth it) green beans, steamed those in the microwave adn tossed with a bit of butter and seasonings. All in all, a great meal with relatively little effort in an acceptable amount of time.
+- At Deb's suggestion, I made this into an easy weeknight meal. I tossed some mini potatoes with olive oil and seasonings in a small casserole dish and popped it in the same time as the chicken. I let them continue to roast while I made the sauce, for a total of about 20-25 minutes. I also got some pre-cut (!!!! so worth it) green beans, steamed those in the microwave and tossed with a bit of butter and seasonings. All in all, a great meal with relatively little effort in an acceptable amount of time.

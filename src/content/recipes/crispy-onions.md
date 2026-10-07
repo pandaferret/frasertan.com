@@ -1,6 +1,6 @@
 ---
 title: "Crispy Onions"
-description: "Easy peasy and so delicious! This is the best part of mudajarra, but could be great with anything."
+description: "Easy peasy and so delicious! This is the best part of mujaddara, but could be great with anything."
 categories:
   - Side Dishes
 source:
@@ -20,6 +20,6 @@ source:
 
 ## Notes
 
-- The original recipe calls for removing a bunch of moisture from the onions by microwaving them, however many commenters found this extra step unneccesary.
+- The original recipe calls for removing a bunch of moisture from the onions by microwaving them, however many commenters found this extra step unnecessary.
 - You can use more oil if you like, but the onions will collapse down a lot, so 1 1/2 to 2 cups should suffice.
 - SAVE THE OIL!!! It is amazing and delicious - use it in all sorts of other dishes. It keeps in the refrigerator for up to 4 weeks.

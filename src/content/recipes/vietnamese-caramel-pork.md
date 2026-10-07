@@ -16,8 +16,8 @@ source:
 - 1 tbsp water
 - 1 kg / 2 lb pork shoulder (butt) or boneless skinless pork belly, cut into 3 cm / 1.2" pieces (Note 1a)
 - 1.5 cups / 375 ml coconut water (Note 1b)
-- 1 eschallot / shallot , very finely sliced (Note 2)
-- 2 garlic cloves , minced
+- 1 eschallot / shallot, very finely sliced (Note 2)
+- 2 garlic cloves, minced
 - 1 1/2 tbsp fish sauce
 - 1/4 tsp white pepper
 
@@ -34,7 +34,7 @@ source:
 
 - This recipe easily doubles or even triples - just make sure to use several pans to keep the pork in a single layer
 - BIL notes that if the pork is not yet tender once all the coconut water has boiled away, you can add more (1/2 cup at a time) to keep simmering the pork until tender.
-- Notes from the author: 1b. Other proteins/cuts: This recipe is suitable for slow cooking cuts of pork like shoulder/butt and belly. Please don't try this with tenderloin or loin - it will be too dry, there is not enough fat in those cuts. This recipe will also work great with beef - use slow cooking cuts like chuck, gravy beef and brisket. I don't think the flavours will work with lamb. And I've now shared the chicken version - Vietnamese Coconut Caramel Chicken (it's stickier / saucier).
+- Notes from the author: 1a. Other proteins/cuts: This recipe is suitable for slow cooking cuts of pork like shoulder/butt and belly. Please don't try this with tenderloin or loin - it will be too dry, there is not enough fat in those cuts. This recipe will also work great with beef - use slow cooking cuts like chuck, gravy beef and brisket. I don't think the flavours will work with lamb. And I've now shared the chicken version - Vietnamese Coconut Caramel Chicken (it's stickier / saucier).
 - 1b. Coconut water is different from coconut milk. It's more like a whitish water, and it tastes salty / sweet, and not really of coconut at all. It's sold at supermarkets here in Australia in the drinks aisle - it's popular for "healthy" smoothies and the like, and costs $2 - $3 (Asian stores are cheaper). This recipe does actually work great with coconut milk as well, and I've since shared a coconut milk version using chicken - Vietnamese Coconut Caramel Chicken.
 - 2. Eschallots are also known as French shallots / French onions and look like small onions. Don't get too hung up on this - you can even use normal onions, finely chop 1/4 cup.
 - 3. PORK TENDERNESS: The variable in this recipe is the time it takes for the liquid to reduce down vs pork being tender. If your pork is not quite tender enough by the time the braising liquid is almost evaporated, just add 1/2 cup water and keep cooking.

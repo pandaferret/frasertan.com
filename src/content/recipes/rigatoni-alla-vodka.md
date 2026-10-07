@@ -30,9 +30,9 @@ source:
 3. Add the entire 4.5 oz tube of tomato paste and the red pepper flakes. Continue to cook until the paste turns dark red and is starting to brown on the bottom of the pot.
 4. Add the vodka and scrape to deglaze the bottom of the pot. Reduce the heat to low.
 5. Thin the cream with 1/4 cup of the water from the rigatoni. Slowly add the warmed cream to the pot and stir to incorporate. Stir constantly until a smooth sauce forms. Remove from the heat.
-6. Add in the rigatoni; use a spider skimmer to pull the rigatoni directly from the pot, along with any remaining water, and add directly to the sauce. Add 1/2 cup of the pasta water to the sauce, along with half the Parmesan cheese and stir to combine. If the sauce is too thick, thin with additional past water.
+6. Add in the rigatoni; use a spider skimmer to pull the rigatoni directly from the pot, along with any remaining water, and add directly to the sauce. Add 1/2 cup of the pasta water to the sauce, along with half the Parmesan cheese and stir to combine. If the sauce is too thick, thin with additional pasta water.
 7. Season with salt and pepper to taste. To serve, drizzle with a little olive oil and top with remaining Parmesan and basil, if desired.
 
 ## Notes
 
-- Sometimes I don't need to add any pasta water to think the sauce (I like a thicker sauce). I also like to add all of the Parmesan to the pasta, while providing extra at the table for sprinkling.
+- Sometimes I don't need to add any pasta water to thin the sauce (I like a thicker sauce). I also like to add all of the Parmesan to the pasta, while providing extra at the table for sprinkling.

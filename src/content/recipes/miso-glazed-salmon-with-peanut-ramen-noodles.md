@@ -46,7 +46,7 @@ For homemade dressing:
 
 ## Notes
 
-- The original recipe adds 3/4 cup chicken broth to the peanut sauce, but I found this made a very watery sauce. It may depend on the type of peanut butter you use? IF your sauce is too thick, try adding a bit of broth to loosen it.
+- The original recipe adds 3/4 cup chicken broth to the peanut sauce, but I found this made a very watery sauce. It may depend on the type of peanut butter you use? If your sauce is too thick, try adding a bit of broth to loosen it.
 - I found that there was about twice as much miso marinade as I needed, so I halved that.
 - The peanut sauce is delicious! Try using it other places!
 - The Asian dressing would probably be amazing on salads.

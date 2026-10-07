@@ -1,5 +1,5 @@
 ---
-title: "lentil soup with sausage, chard and garlic"
+title: "Lentil Soup with Sausage, Chard and Garlic"
 description: "OMG this is delicious stop reading this intro and go make this soup now"
 categories:
   - Soups and Stews

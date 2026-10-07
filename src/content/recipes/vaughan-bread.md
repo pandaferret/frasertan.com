@@ -1,5 +1,5 @@
 ---
-title: "Vaughan bread"
+title: "Vaughan Bread"
 description: "Classic bread made by Eric's mom, good for toast, sandwiches, everything. Deeeeelish!"
 categories:
   - Breads and Baked Goods

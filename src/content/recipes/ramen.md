@@ -19,7 +19,7 @@ Broth:
 
 Suggested toppings:
 
-- chinese BBQ pork (char siu)
+- Chinese BBQ pork (char siu)
 - hard boiled egg
 - wilted spinach
 - corn (not frozen)
@@ -37,7 +37,7 @@ Suggested toppings:
 2. Fill your soup bowls with clean boiling water to warm them. Let sit until needed.
 3. Heat the water/vegetable broth and the dashi over medium high heat until boiling. Reduce heat to medium-low. Add shiro miso and stir to dissolve the miso paste. Keep warm but do not let boil.
 4. Meanwhile, cook noodles until al dente, about 3 minutes in boiling water. Drain and wash several times in cold water to stop them cooking. Hold submerged in cold water until needed.
-5. To assemble; Pour water out of bowls. Add a handul of the noodles, then cover the noodles with broth. Add toppings on top.
+5. To assemble: Pour water out of bowls. Add a handful of the noodles, then cover the noodles with broth. Add toppings on top.
 6. Enjoy!
 
 ## Notes

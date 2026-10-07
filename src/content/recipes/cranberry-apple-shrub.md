@@ -30,4 +30,4 @@ source:
 ## Notes
 
 - Shrub should keep well for up to 1 year.
-- Unlike my store bought vinegars, it seems to take a lot more of this homemade shurb to make a balance i like: I used 6 tbsp in 12 oz San Pellegrino.
+- Unlike my store bought vinegars, it seems to take a lot more of this homemade shrub to make a balance I like: I used 6 tbsp in 12 oz San Pellegrino.

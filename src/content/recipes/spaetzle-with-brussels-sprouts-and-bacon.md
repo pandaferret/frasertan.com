@@ -32,15 +32,15 @@ source:
 
 ## Directions
 
-Make the spaeztle:
+Make the spaetzle:
 
 1. In a medium bowl, whisk together the flour, nutmeg, a few turns of black pepper and 1/2 teaspoon salt. In a separate bowl, whisk together the eggs and milk. Whisk the milk mixture into the flour mixture and stir to combine. Cover and refrigerate for 30 minutes.
 2. Meanwhile, bring a large pot of salted water to a boil. Working in batches, press the dough through a greased spaetzle maker or a greased slotted spoon (the holes should be on the larger side, 1/4 to 1/2 inch) using a rubber spatula and into the boiling water. Cook until the spaetzle float to the top, 2 to 3 minutes, then remove with a slotted spoon and transfer to a medium oiled bowl.
 
 Assemble the dish:
 
-1. While the dough is resting, cook the bacon in a large skillet over medium heat until crispy, about 10 minutes. Transfer the bacon to a paper towel. Pour off all but 1/4 cup of the bacon fat. Chop the bacon into 1/2 inch peices and set aside.
-2. Head the bacon fat in the pan over medium heat and add the Brussels sprouts and a good pinch of salt. Cook, stirring occasionally, until the sprouts are browned and tender, 4 to 6 minutes.
+1. While the dough is resting, cook the bacon in a large skillet over medium heat until crispy, about 10 minutes. Transfer the bacon to a paper towel. Pour off all but 1/4 cup of the bacon fat. Chop the bacon into 1/2 inch pieces and set aside.
+2. Heat the bacon fat in the pan over medium heat and add the Brussels sprouts and a good pinch of salt. Cook, stirring occasionally, until the sprouts are browned and tender, 4 to 6 minutes.
 3. Add the spaetzle to the skillet and cook, stirring often, over medium-high heat for 3 to 5 minutes to give the spaetzle some color. Stir in the bacon, finish with more black pepper and a squeeze of lemon juice. Add a few shakes of hot sauce, if using.
 
 ## Notes

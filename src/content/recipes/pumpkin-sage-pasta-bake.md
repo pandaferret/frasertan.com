@@ -1,6 +1,6 @@
 ---
 title: "Pumpkin Sage Pasta Bake"
-description: "Discovered on Oh My Veggies by Autumn and John when they had multitudes of pumpkins to use up! This being the them, they added crisped pancetta and spinach."
+description: "Discovered on Oh My Veggies by Autumn and John when they had multitudes of pumpkins to use up! This being them, they added crisped pancetta and spinach."
 categories:
   - Main Dishes
 source:

@@ -4,7 +4,7 @@ yield: "Serves 10"
 categories:
   - Salads
 source:
-  name: "from Peggy!Notes:Peggy notes that she sometimes adds feta."
+  name: "from Peggy"
 ---
 
 ## Ingredients
@@ -26,7 +26,7 @@ Dressing:
 - 1 tsp dijon mustard
 - 1 tsp ground coriander
 - 1 tsp salt
-- black pepper to tase
+- black pepper to taste
 
 ## Directions
 

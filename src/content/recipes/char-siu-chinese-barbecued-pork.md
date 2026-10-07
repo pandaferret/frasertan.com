@@ -35,4 +35,4 @@ categories:
 ## Notes
 
 - Using tamari instead of soy sauce will make this recipe gluten free.
-- Preparing pork for char siu:1. Cut the roast in half lengthwise.2. Turn each half on the cut side and slice lengthwise into 4 equal pieces.3. Trim the excess hard, waxy fat, leaving some fat to render while cooking.
+- Preparing pork for char siu: 1. Cut the roast in half lengthwise. 2. Turn each half on the cut side and slice lengthwise into 4 equal pieces. 3. Trim the excess hard, waxy fat, leaving some fat to render while cooking.

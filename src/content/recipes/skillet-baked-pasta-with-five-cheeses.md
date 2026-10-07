@@ -1,5 +1,5 @@
 ---
-title: "Skillet-baked Pasta with Five Cheeses"
+title: "Skillet-Baked Pasta with Five Cheeses"
 description: "Well, four for me, since I don't like blue cheese :)"
 categories:
   - Main Dishes
@@ -13,7 +13,7 @@ source:
 - 1 pound small-medium pasta shells (mine were 1 inch when dried, I used these)
 - 1/2 cup (about 3 ounces) ricotta
 - 1 cup coarsely grated fontina (about 3 ounces)
-- 1 cup coarsely grated mozzarella (about 3 ounces
+- 1 cup coarsely grated mozzarella (about 3 ounces)
 - 1 cup grated pecorino romano (about 3 ounces)
 - 3/4 cup mild blue cheese, crumbled (about 3 ounces)
 - 1 cup crushed tomatoes from a can

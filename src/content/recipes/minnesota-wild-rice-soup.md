@@ -1,6 +1,6 @@
 ---
 title: "Minnesota Wild Rice Soup"
-description: "adapted from Peggy Seidel's recipe! Goes *very* well with dinner rolls!"
+description: "Adapted from Peggy Seidel's recipe! Goes *very* well with dinner rolls!"
 categories:
   - Soups and Stews
 subcategories:

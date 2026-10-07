@@ -15,8 +15,7 @@ source:
 - 1 tablespoon bacon fat or butter
 - Kosher salt, to taste
 - Black Pepper, to taste
-- 2 tablespoons
-- balsamic glaze
+- 2 tablespoons balsamic glaze
 
 ## Directions
 

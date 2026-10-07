@@ -1,6 +1,6 @@
 ---
 title: "Freezer Biscuits"
-description: "A great recipe to make, throw in the freezer, and then make only as many as you need when you need them!Cook's Illustrated points out that these cream biscuits benefit from stronger handling, which helps build gluten and make the biscuits fluffier, so no need to be super gentle with these yummies."
+description: "A great recipe to make, throw in the freezer, and then make only as many as you need when you need them! Cook's Illustrated points out that these cream biscuits benefit from stronger handling, which helps build gluten and make the biscuits fluffier, so no need to be super gentle with these yummies."
 categories:
   - Breads and Baked Goods
 dietary:

@@ -1,5 +1,5 @@
 ---
-title: "Chocolate peanut butter cup cookies"
+title: "Chocolate Peanut Butter Cup Cookies"
 description: "Despite not being the biggest chocolate peanut butter fan, these cookies hit a sweet spot that is so satisfying!"
 categories:
   - Desserts
@@ -15,7 +15,7 @@ Filling:
 
 - 2/3 cup (170 grams) creamy peanut butter
 - 2/3 cup (80 grams) powdered sugar
-- Two pinches of flaky seas salt
+- Two pinches of flaky sea salt
 
 Cookies:
 
@@ -36,7 +36,7 @@ Cookies:
 2. In a small bowl, combine the peanut butter, powdered sugar and salt with a fork; keep mixing until it comes together. Scoop up heaped tablespoons of the mixture, roll into balls with your hands and place on the tray. Place tray in the freezer while you make the cookie dough.
 3. Make the dough: Preheat the oven to 375°.
 4. In the bowl of a stand mixer, beat together the softened butter, peanut butter and sugars until creamed. Add the vanilla, egg and salt and beat until mixed. Sift in the baking powder and cocoa and mix to combine. Add flour and mix until incorporated.
-5. Assemble cookies: Spoon a few tablespoons of granulated sugar into a small bowl. Line a baking sheet with a Silpat or parchment. Take your filling balls out of the freezer. Scoop up 2 tablespoons of dough and flatten it into a disc in your hand. Place a filling ball in the middle, close up the dough around it and roll it into a smooth ball with you hands. Roll the ball in sugar, then place on the baking sheet. Lightly flatten the dough with your fingers. Repeat with remaining dough and filling.
+5. Assemble cookies: Spoon a few tablespoons of granulated sugar into a small bowl. Line a baking sheet with a Silpat or parchment. Take your filling balls out of the freezer. Scoop up 2 tablespoons of dough and flatten it into a disc in your hand. Place a filling ball in the middle, close up the dough around it and roll it into a smooth ball with your hands. Roll the ball in sugar, then place on the baking sheet. Lightly flatten the dough with your fingers. Repeat with remaining dough and filling.
 6. Bake for 8 to 10 minutes; they may seem underdone but the center doesn't need to be baked, so we're just baking the dough around it. Let the cookie rest and set on the baking sheet for 5 minutes, then transfer to a wire rack to cool.
 7. Store at room temperature in an airtight container.
 

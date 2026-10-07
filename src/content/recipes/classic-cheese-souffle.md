@@ -10,19 +10,19 @@ source:
 
 ## Ingredients
 
-- 1ounce Parmesan cheese, grated (1/2 cup)
-- ¼cup (1 1/4 ounces) all-purpose flour
-- ¼teaspoon paprika
-- ¼teaspoon salt
-- ⅛teaspoon cayenne pepper
-- ⅛teaspoon white pepper
+- 1 ounce Parmesan cheese, grated (1/2 cup)
+- ¼ cup (1 1/4 ounces) all-purpose flour
+- ¼ teaspoon paprika
+- ¼ teaspoon salt
+- ⅛ teaspoon cayenne pepper
+- ⅛ teaspoon white pepper
 - Pinch ground nutmeg
-- 4tablespoons unsalted butter
-- 1 ⅓cups whole milk
-- 6ounces Gruyère cheese, shredded (1 1/2 cups)
-- 6large eggs, separated
-- 2teaspoons minced fresh parsley
-- ¼teaspoon cream of tartar
+- 4 tablespoons unsalted butter
+- 1 ⅓ cups whole milk
+- 6 ounces Gruyère cheese, shredded (1 1/2 cups)
+- 6 large eggs, separated
+- 2 teaspoons minced fresh parsley
+- ¼ teaspoon cream of tartar
 
 ## Directions
 

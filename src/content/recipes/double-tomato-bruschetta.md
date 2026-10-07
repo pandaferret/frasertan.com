@@ -1,5 +1,5 @@
 ---
-title: "Double tomato bruschetta"
+title: "Double Tomato Bruschetta"
 description: "from the internet! 5 stars from 1837 reviews on allrecipes.com!"
 categories:
   - Starters

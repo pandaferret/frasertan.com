@@ -1,7 +1,7 @@
 ---
 title: "French Market Soup"
 description: "This soup takes all day, but very little attention, and makes the house smell wonderful! It makes a lot, so freeze leftovers for later enjoyment."
-yield: "Serving Size: ~ 2 cupsServings: 10ishCalories per serving: 278"
+yield: "Serving Size: ~2 cups. Servings: 10ish. Calories per serving: 278"
 categories:
   - Soups and Stews
 subcategories:

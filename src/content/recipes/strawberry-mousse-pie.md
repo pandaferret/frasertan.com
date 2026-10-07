@@ -15,7 +15,7 @@ source:
 - 2 cups strawberries hulled and sliced in half, about a quart
 - ½ cup sugar
 - 1 tbsp balsamic vinegar
-- 1 .25 oz packet of gelatin
+- 1 0.25 oz packet of gelatin
 - 2 cups heavy cream
 
 ## Directions

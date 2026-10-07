@@ -1,6 +1,6 @@
 ---
-title: "Quick Maple-glazed Pork Chops"
-description: "Delicious and easy from America's Test Kitchen! I'm learning not be afraid of cooking pork :)"
+title: "Quick Maple-Glazed Pork Chops"
+description: "Delicious and easy from America's Test Kitchen! I'm learning not to be afraid of cooking pork :)"
 categories:
   - Main Dishes
 subcategories:
@@ -13,7 +13,7 @@ source:
 
 ## Ingredients
 
-- 4 boneless pork loin, chops, 1 inch thick
+- 4 boneless pork loin chops, 1 inch thick
 - salt and ground black pepper
 - 1 tbsp vegetable oil
 - 1 shallot, minced
@@ -35,4 +35,4 @@ source:
 
 ## Notes
 
-- prep ingredients while the chops brown.
+- Prep ingredients while the chops brown.

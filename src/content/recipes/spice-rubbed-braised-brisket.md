@@ -1,5 +1,5 @@
 ---
-title: "Spice-Rubbed Braised Brisket with Pomegranite"
+title: "Spice-Rubbed Braised Brisket with Pomegranate"
 description: "A delicious recipe from the New York Times!"
 categories:
   - Main Dishes
@@ -42,6 +42,6 @@ FOR SERVING:
 
 ## Notes
 
-- I omitted the pomegranite seeds because, well, I'm lazy and I could only find whole pomegranites.
+- I omitted the pomegranate seeds because, well, I'm lazy and I could only find whole pomegranates.
 - I hate peeling tiny onions, so I did shallots instead. Delish!
 - Next time, for the overnight rest, I recommend still separating out the meat and onions from the sauce. It was hard to defat the sauce when all the hardened fat was all over the onions.

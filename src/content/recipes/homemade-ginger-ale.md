@@ -1,6 +1,6 @@
 ---
 title: "Homemade Ginger Ale"
-description: "A delicious and refreshing recipe from Crumpets and Cakes ! You can make it the slow way and wait for a few days, or use a shortcut to make it for day-of drinking. For make-ahead ginger ale: 1c..."
+description: "A delicious and refreshing recipe from Crumpets and Cakes! You can make it the slow way and wait for a few days, or use a shortcut to make it for day-of drinking. For make-ahead ginger ale: 1c..."
 categories:
   - Drinks
 ---
@@ -9,10 +9,10 @@ categories:
 
 For make-ahead ginger ale:
 
-- 1c sugar
+- 1 c sugar
 - freshly grated ginger root (1 1/2-2 tablespoons), use the fresh ginger root you can find, it really makes a difference
 - juice of one lemon
-- 1/4tsp baker's yeast
+- 1/4 tsp baker's yeast
 - cold fresh spring or filtered water
 
 For instant gratification:
@@ -44,11 +44,11 @@ For instant gratification (well, not instant, but closer than two days away grat
 1. Combine ginger, sugar and water in a saucepan. Simmer slowly for 10 minutes, until sugar is dissolved and ginger is softened.
 2. Strain warm syrup and allow to cool.
 3. Fill a tall glass with ice, add 1 part (used 2oz shot glass) of ginger syrup and 3 parts of club soda.
-4. Squeeze in lemon or line juice. Garnish with mint.
+4. Squeeze in lemon or lime juice. Garnish with mint.
 
 ## Notes
 
 - A delicious and refreshing recipe from Crumpets and Cakes! You can make it the slow way and wait for a few days, or use a shortcut to make it for day-of drinking.
 - You can also mix all the ingredients in a jar and then transfer to a plastic bottle (as I did).
-- I used tonic water for this, and i'm not sure what if any effect that had on the yeast. I liked this version a lot, though it tasted perhaps a bit too citrusy and not quite gingery enough.
+- I used tonic water for this, and I'm not sure what if any effect that had on the yeast. I liked this version a lot, though it tasted perhaps a bit too citrusy and not quite gingery enough.
 - I like this syrup a lot! I can see using it for drinks - mixed or otherwise - besides ginger soda. I actually preferred this without the citrus juice, as it tasted more clearly gingery to me. I also hate mint, so I omitted that. All in all a very plain drink, but bright and flavorful ginger!

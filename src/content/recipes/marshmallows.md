@@ -1,7 +1,7 @@
 ---
 title: "Marshmallows"
 description: "Our neighbors brought these homemade marshmallows by one summer, and I was so blown away by their lightness and texture that I immediately got some gelatin and made my own. These are worlds better than the ones from the store!"
-yield: "Makes roughly 36 marhsmallows"
+yield: "Makes roughly 36 marshmallows"
 categories:
   - Desserts
 subcategories:
@@ -22,7 +22,7 @@ source:
 
 ## Equipment
 
-- 8 x8 baking dish
+- 8x8 baking dish
 
 ## Directions
 

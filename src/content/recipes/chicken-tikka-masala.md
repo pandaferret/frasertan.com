@@ -46,10 +46,10 @@ Tikka Masala sauce:
 1. To marinate chicken: Mix all the marinade ingredients in a large bowl or ziploc bag. Stir in the chicken, making sure each piece is fully coated. Cover and chill at least 4 hours, preferably overnight.
 2. To prepare the tikka masala sauce: In a large skillet heat the coconut oil or ghee over medium high heat until hot and shimmering. Add the onion and cook until tender, about 5 minutes. Add the garlic and ginger and cook until fragrant, about 1 minute. Stir in the tomato paste, cardamom pods and chili flakes. Cook, stirring often, until the tomato paste darkens in color, about 2 minutes. Add in the remaining spices and cook, stirring often, until fragrant, about 2 minutes.
 3. Add the tomatoes to the sauce and bring to a boil, stirring often. Reduce heat to a simmer, scraping up browned bits on the bottom of the pan. Stir in the cream and simmer, stirring occasionally, until the sauce thickens, 20 to 25 minutes. Taste and adjust with salt and lemon juice. Keep warm while cooking chicken.
-4. To cook the chicken: Preheat the oven to 450°F and position oven rack in the center rack. Line a rimes baking sheet with aluminum foil and place a wire rack on top. Arrange the chicken on the rack in a single layer. Cook until cooked through and beginning to brown, about 10 minutes.
+4. To cook the chicken: Preheat the oven to 450°F and position oven rack in the center rack. Line a rimmed baking sheet with aluminum foil and place a wire rack on top. Arrange the chicken on the rack in a single layer. Cook until cooked through and beginning to brown, about 10 minutes.
 5. To serve: Stir chicken into sauce and serve immediately over basmati rice.
 
 ## Notes
 
-- 12 cardamom pods seems like a lot.. .when we made the sauce we only used 2, and I believe we were doing a full recipe (or potentially just a half recipe). Based on other recipes online we used 6 pods. Fishing them out of the sauce proved... difficult, so I am tempted to experiment with using ground cardamom instead (approx. 1/4 tsp).
+- 12 cardamom pods seems like a lot... when we made the sauce we only used 2, and I believe we were doing a full recipe (or potentially just a half recipe). Based on other recipes online we used 6 pods. Fishing them out of the sauce proved... difficult, so I am tempted to experiment with using ground cardamom instead (approx. 1/4 tsp).
 - Serve with steamed basmati rice

@@ -15,7 +15,7 @@ categories:
 
 ## Directions
 
-1. Stir together the flour, salt and yeast in the bowl of your stand mixer - do it by hand, using the dough hook like a spoon. Continue stirring by hand as you add the water, mixing for 1 minutes, until the mixture has come together into a shaggy mass.
+1. Stir together the flour, salt and yeast in the bowl of your stand mixer - do it by hand, using the dough hook like a spoon. Continue stirring by hand as you add the water, mixing for 1 minute, until the mixture has come together into a shaggy mass.
 2. Engage the bowl and hook and have the machine mix the dough on the lowest speed for 3 minutes, or until the ball of dough is smoother and more cohesive. Then knead for 4 more minutes on the lowest speed. The dough should look like a wet ball and should bounce back softly when prodded.
 3. Brush a large bowl with oil and dump the dough into it. Cover with plastic wrap and let the dough proof at room temperature for 45 minutes.
-4. The dough is ready to be used as directed. You can store it in the airtight container at least twice its size in the the fridge for up to 3 days. Take it out of the fridge and let it come to room temperature 30 to 45 minutes before using.
+4. The dough is ready to be used as directed. You can store it in the airtight container at least twice its size in the fridge for up to 3 days. Take it out of the fridge and let it come to room temperature 30 to 45 minutes before using.

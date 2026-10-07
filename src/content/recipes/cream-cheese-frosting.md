@@ -19,5 +19,5 @@ dietary:
 
 ## Directions
 
-1. First, beat together the butter and cream cheese until light and fluffy, a good 5 minutes or so. Next, beat in the sugar, a little a time. (if you dump it all in at once and power up the beaters... WHOMP! powdered sugar cloud! it's severely irritating to one's lungs.... as I know from first hand experience...) Finally, mix in the vanilla extract.
+1. First, beat together the butter and cream cheese until light and fluffy, a good 5 minutes or so. Next, beat in the sugar, a little at a time. (if you dump it all in at once and power up the beaters... WHOMP! powdered sugar cloud! it's severely irritating to one's lungs.... as I know from first hand experience...) Finally, mix in the vanilla extract.
 2. et voila!

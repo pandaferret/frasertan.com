@@ -15,22 +15,22 @@ source:
 
 For the salad:
 
-- 1head broccoli, very finely chopped
-- 1(15 ounce) can of chickpeas, rinsed and drained
-- 2cupsdiced honeycrisp apples (from about 2 medium honeycrisp apples)
-- 1cupshredded carrots (or 1 cup matchstick cut carrots)
-- ⅓cupdiced green onion
-- ⅓cupdried cherries
-- ⅓cupchopped pecans
-- ½cupchopped flat leaf parsley
+- 1 head broccoli, very finely chopped
+- 1 (15 ounce) can of chickpeas, rinsed and drained
+- 2 cups diced honeycrisp apples (from about 2 medium honeycrisp apples)
+- 1 cup shredded carrots (or 1 cup matchstick cut carrots)
+- ⅓ cup diced green onion
+- ⅓ cup dried cherries
+- ⅓ cup chopped pecans
+- ½ cup chopped flat leaf parsley
 
 For the dressing:
 
-- 3tablespoonsolive oil
-- 1 ½tablespoonsapple cider vinegar
-- 1tablespoondijon mustard
-- ½tablespoonhoney
-- 1cloveof garlic, minced
+- 3 tablespoons olive oil
+- 1 ½ tablespoons apple cider vinegar
+- 1 tablespoon dijon mustard
+- ½ tablespoon honey
+- 1 clove of garlic, minced
 - Freshly ground salt and pepper, to taste
 
 ## Directions

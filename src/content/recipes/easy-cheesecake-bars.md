@@ -36,7 +36,7 @@ Topping (optional):
 
 ## Directions
 
-1. Heat oven to 325 degrees F. Line bottom and sides of an 9×13-inch rectangular baking pan with 2 sheets of foil (crisscrossed), leaving a 2-inch overhang on all sides.
+1. Heat oven to 325 degrees F. Line bottom and sides of a 9×13-inch rectangular baking pan with 2 sheets of foil (crisscrossed), leaving a 2-inch overhang on all sides.
 2. Make crust: Combine crumbs, sugar, butter, salt and vanilla in a bowl with a fork until evenly mixed. Press firmly into bottom of prepared pan. Bake for 10 minutes.
 3. Make cheesecake: While crust is baking, beat cream cheese until fluffy with sugar, then beat in eggs, one at a time, until thoroughly mixed, scraping down the sides and bottom of your bowl between each addition. Beat in vanilla.
 4. Pour over prepared crust (still hot is fine) and bake for 25 minutes, until puffed but still jiggly like Jell-O when shimmied. Let cool on rack for 5 minutes, and while it does…
@@ -48,5 +48,5 @@ Topping (optional):
 ## Notes
 
 - For the crust: you can rely on the old standby of graham crackers, or you can go chocolate with these cookies, or an Oreo crust! Titrate the amount of sugar and butter for each type of cookie. The mixture should hold together, but not be overly greasy. If it is, you can always add more crumbs!
-- For the filling: The recipe listed makes a base cheesecake which can be augmented in so many ways! You add in swirls of fruits, jams or compotes, make it a chocolate filling, whatever you can imagine!
+- For the filling: The recipe listed makes a base cheesecake which can be augmented in so many ways! You can add in swirls of fruits, jams or compotes, make it a chocolate filling, whatever you can imagine!
 - For the topping: why do we top cheesecakes? To hide the cracks! This recipe has a classic sour cream topping, but you could do whipped cream, a ganache, or just go naked.

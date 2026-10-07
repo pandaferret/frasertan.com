@@ -1,5 +1,5 @@
 ---
-title: "Deb's homemade Oreos"
+title: "Deb's Homemade Oreos"
 description: "Deb also makes giant versions of these cookies for her take on the classic icebox cake."
 categories:
   - Desserts

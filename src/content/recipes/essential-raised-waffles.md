@@ -11,7 +11,7 @@ source:
 
 - 1/2 cup warm water (about 105 to 110 degrees, so not too hot)
 - 1 packet (1/4 ounce, 7 grams or 2 1/4 teaspoons) active dry yeast
-- 2 cups milk, warmed (again, not too hot
+- 2 cups milk, warmed (again, not too hot)
 - 1 stick (4 ounces or 115 grams) unsalted butter, melted and cooled until lukewarm
 - 1 teaspoon table salt
 - 1 teaspoon granulated sugar

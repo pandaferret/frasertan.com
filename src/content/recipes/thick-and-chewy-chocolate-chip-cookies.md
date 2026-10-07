@@ -27,4 +27,4 @@ subcategories:
 
 3. In the bowl of an electric mixer with the paddle attachment, mix the butter and sugars until thoroughly blended. Beat in the egg, yolk and vanilla until combined. Add the dry ingredients and beat at low speed until just combined. Stir in the chips.
 
-4. Scoop scant 1/4 cups of dough into a rough ball shape and place 2 1/5 inches apart on the cookie sheets. Bake until cookies are light brown with set edges, but the center is still soft and puffy, 15 to 18 minutes. Cool the cookies on the sheets, then store in an airtight container.
+4. Scoop scant 1/4 cups of dough into a rough ball shape and place 2 1/2 inches apart on the cookie sheets. Bake until cookies are light brown with set edges, but the center is still soft and puffy, 15 to 18 minutes. Cool the cookies on the sheets, then store in an airtight container.

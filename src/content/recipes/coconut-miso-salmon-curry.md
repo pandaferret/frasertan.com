@@ -1,7 +1,7 @@
 ---
 title: "Coconut-Miso Salmon Curry"
 description: "I admit I was a little surprised when my nine-year old proclaimed this one of the best things I'd ever cooked, but it is quite delicious - and simple enough for a weeknight meal! Don't forget to make the rice!"
-yield: "Serves 4Time: 25 minutes"
+yield: "Serves 4. Time: 25 minutes"
 categories:
   - Main Dishes
 subcategories:
@@ -34,4 +34,4 @@ source:
 
 ## Notes
 
-- The curry is a smidge of a misnomer, as there is not actual curry in this dish
+- The curry is a smidge of a misnomer, as there is no actual curry in this dish

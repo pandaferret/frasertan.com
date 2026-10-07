@@ -43,10 +43,10 @@ source:
 
 6. Arrange the chilled dough a minimum of 4 inches apart on parchment- or silpat-lined sheet pans. Bake for 18 minutes. The cookies will puff, crackle and spread. After 18 minutes, they should be very faintly browned on the edges but still bright yellow in the center. Give them an extra minute or so if that's not the case.
 
-7. Cool the cookies completely on the sheet pans before transferring to a plate of an airtight container for storage. At room temp, the cookies will keep fresh for 5 days; in the freezer they will keep for up to a month.
+7. Cool the cookies completely on the sheet pans before transferring to a plate or an airtight container for storage. At room temp, the cookies will keep fresh for 5 days; in the freezer they will keep for up to a month.
 
 ## Notes
 
 - Christina Tosi notes that if you don’t have (or don’t want to have!) glucose in your pantry, you can substitute corn syrup. BUT it’s not the same amount; use 18g (1 tbsp) of corn syrup in place of the glucose.
-- My cookies always brown much more intensely that Christina describes; but I like them that way! If yours brown more than you would like, try using a double sheet pan to insulate them a little from the heat.
+- My cookies always brown much more intensely than Christina describes; but I like them that way! If yours brown more than you would like, try using a double sheet pan to insulate them a little from the heat.
 - Pro tip: make smaller cookies! I use a 1.5 tbsp scoop, and the cookies are done in about 12 minutes. Remember, they will continue to cook while cooling on the cookie sheet, so take them out while they still look a tad underdone.

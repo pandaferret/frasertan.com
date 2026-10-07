@@ -1,6 +1,6 @@
 ---
 title: "Cranberry Compote"
-description: "A few Thanksgivings ago, I tried a new recipe for one of my favorite staples of the turkey dinner: cranberry sauce. Growing up, i loved - and still adore - Ocean Spray Jellied Cranberry sauce, though i could never master the art of getting it out of the can all in one piece so i could cut it into rounds. I LOVE that stuff - i think i usually eat more of it than of turkey :) My mother always bought fancy shmancy cranberry sauces that she wanted me to try, hoping i'd develop some sort of palate and give up my crass addiction to something so boring as Ocean Spray. Well Mom, it took 27 years, but i finally found something as good as the canned stuff :)"
+description: "A few Thanksgivings ago, I tried a new recipe for one of my favorite staples of the turkey dinner: cranberry sauce. Growing up, I loved - and still adore - Ocean Spray Jellied Cranberry sauce, though I could never master the art of getting it out of the can all in one piece so I could cut it into rounds. I LOVE that stuff - I think I usually eat more of it than of turkey :) My mother always bought fancy shmancy cranberry sauces that she wanted me to try, hoping I'd develop some sort of palate and give up my crass addiction to something so boring as Ocean Spray. Well Mom, it took 27 years, but I finally found something as good as the canned stuff :)"
 categories:
   - Sauces and Dips
 tags:

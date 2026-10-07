@@ -1,6 +1,6 @@
 ---
 title: "Knodel"
-description: "So, in Austria, these fruit dumplings are not technically a dessert. Served for lunch, people will sprinkle them with as much or as little sugar as they like and down up to 6 to 7 of them at once. But I like mine with LOTS Of sugar, so I keep them in the Dessert bin in my head. This recipe comes from Eric's Austrian host mother, Christine, who kindly showed us the ropes."
+description: "So, in Austria, these fruit dumplings are not technically a dessert. Served for lunch, people will sprinkle them with as much or as little sugar as they like and down up to 6 to 7 of them at once. But I like mine with LOTS of sugar, so I keep them in the Dessert bin in my head. This recipe comes from Eric's Austrian host mother, Christine, who kindly showed us the ropes."
 categories:
   - Desserts
 subcategories:
@@ -29,5 +29,5 @@ dietary:
 ## Notes
 
 - Use small stone fruits for this recipe; larger fruit is harder to surround with an adequately thick coating of dough, and will explode when boiled. We like pluots or small apricots. Ideally, the covered fruit should be small enough to mostly encompass in your hands. Say, golf ball sized?
-- Farmer's cheese is the first key to getting the dough to the right consistency. Farmer's cheese is a fresh cheese usually found in the refrigerated cheese section. Ask you grocer to help you find it. You might have to go to a specialty or higher end store; for example, Safeway out here in California rarely has farmer's cheese, Whole Foods is hit or miss, but Draeger's has it pretty reliably, as does New Leaf Market in Half Moon Bay. Do not substitute cream, mozzarella or ricotta.
+- Farmer's cheese is the first key to getting the dough to the right consistency. Farmer's cheese is a fresh cheese usually found in the refrigerated cheese section. Ask your grocer to help you find it. You might have to go to a specialty or higher end store; for example, Safeway out here in California rarely has farmer's cheese, Whole Foods is hit or miss, but Draeger's has it pretty reliably, as does New Leaf Market in Half Moon Bay. Do not substitute cream, mozzarella or ricotta.
 - Semolina flour is the second key to the right dough. This flour has a higher protein content even than bread flour, and is usually used to make pasta. You can find it amongst the Bob's Red Mill products in most stores.

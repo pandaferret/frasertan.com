@@ -1,6 +1,6 @@
 ---
 title: "Turkey Breast en Cocotte"
-description: "I love Thanksgiving, and I especially love turkey! Because our family is so large, we don't get much in the way of leftovers, so I found this recipe to get my post-Thanksgiving second dose of deliciousness!P.S. The gravy is amazing.... Thank you America's Test Kitchen! We knew from our experience with chicken that cooking poultry in a covered pot over low heat for an extended period of time produces wonderful results, so we decided to develop a turkey breast recipe using this method. We chose a 6- to 7-pound bone-in turkey breast for our turkey breast en cocotte recipe because the bone lent the breast deep flavor and this size breast fit into the pot. As with chicken, we found that browning the turkey breast was an essential step in developing deep flavor. Adding some aromatics—in this case, onion, carrot, celery, garlic, thyme, and a bay leaf—to the pot further rounded out the flavor.Many supermarkets are now selling “hotel-style” turkey breasts. Try to avoid these if you can, as they still have the wings attached. If this is the only type of breast you can find, you will simply need to remove the wings before proceeding with the recipe. Be sure to use a 7- to 8-quart Dutch oven here. Don’t buy a turkey breast larger than 7 pounds; it won’t fit in the pot. For a smaller turkey breast, reduce the cooking time as necessary."
+description: "I love Thanksgiving, and I especially love turkey! Because our family is so large, we don't get much in the way of leftovers, so I found this recipe to get my post-Thanksgiving second dose of deliciousness! P.S. The gravy is amazing.... Thank you America's Test Kitchen! We knew from our experience with chicken that cooking poultry in a covered pot over low heat for an extended period of time produces wonderful results, so we decided to develop a turkey breast recipe using this method. We chose a 6- to 7-pound bone-in turkey breast for our turkey breast en cocotte recipe because the bone lent the breast deep flavor and this size breast fit into the pot. As with chicken, we found that browning the turkey breast was an essential step in developing deep flavor. Adding some aromatics—in this case, onion, carrot, celery, garlic, thyme, and a bay leaf—to the pot further rounded out the flavor. Many supermarkets are now selling “hotel-style” turkey breasts. Try to avoid these if you can, as they still have the wings attached. If this is the only type of breast you can find, you will simply need to remove the wings before proceeding with the recipe. Be sure to use a 7- to 8-quart Dutch oven here. Don’t buy a turkey breast larger than 7 pounds; it won’t fit in the pot. For a smaller turkey breast, reduce the cooking time as necessary."
 categories:
   - Main Dishes
 tags:
@@ -13,23 +13,23 @@ source:
 
 ## Ingredients
 
-- 1turkey breast, whole, bone-in (6- to 7-pound)
+- 1 turkey breast, whole, bone-in (6- to 7-pound)
 - Salt and ground black pepper
-- 2tablespoons olive oil
-- 1medium onion, chopped medium
-- 1medium carrot, chopped medium
-- 1celery rib, chopped medium
-- 6medium garlic cloves, peeled and crushed
-- 2sprigs fresh thyme
-- 1bay leaf
-- ¼cup unbleached all-purpose flour
-- 4cups low-sodium chicken broth
+- 2 tablespoons olive oil
+- 1 medium onion, chopped medium
+- 1 medium carrot, chopped medium
+- 1 celery rib, chopped medium
+- 6 medium garlic cloves, peeled and crushed
+- 2 sprigs fresh thyme
+- 1 bay leaf
+- ¼ cup unbleached all-purpose flour
+- 4 cups low-sodium chicken broth
 
 ## Directions
 
-1. Adjust an oven rack to the lowest position and heat the oven to 275 degrees on convection (see Notes) . Using kitchen shears or a chef’s knife, trim the rib bones and any excess fat from the turkey. Pat the turkey dry with paper towels and season with salt and pepper.
+1. Adjust an oven rack to the lowest position and heat the oven to 275 degrees on convection (see Notes). Using kitchen shears or a chef’s knife, trim the rib bones and any excess fat from the turkey. Pat the turkey dry with paper towels and season with salt and pepper.
 
-2. Heat the oil in a large Dutch oven over medium-high heat until just smoking. Add the turkey, breast side down and scatter the onion, ­carrot, celery, garlic, thyme, and bay leaf around the turkey. Cook, turning the breast on its sides and stirring the vegetables as needed, until the turkey and vegetables are well browned, 12 to 16 minutes, reducing the heat if the pot begins to scorch. Turn turkey so breast side is facing up. (see Notes)
+2. Heat the oil in a large Dutch oven over medium-high heat until just smoking. Add the turkey, breast side down and scatter the onion, carrot, celery, garlic, thyme, and bay leaf around the turkey. Cook, turning the breast on its sides and stirring the vegetables as needed, until the turkey and vegetables are well browned, 12 to 16 minutes, reducing the heat if the pot begins to scorch. Turn turkey so breast side is facing up. (see Notes)
 
 3. Off the heat, place a large sheet of foil over the pot and press to seal, then cover tightly with the lid. Transfer the pot to the oven and cook until the thickest part of the breast registers 160 to 165 degrees on an instant-read thermometer, 1 1/2 to 1 3/4 hours.
 

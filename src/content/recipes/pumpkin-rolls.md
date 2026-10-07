@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin rolls"
+title: "Pumpkin Rolls"
 description: "From Peggy!"
 categories:
   - Breads and Baked Goods
@@ -27,12 +27,12 @@ dietary:
 ## Directions
 
 1. In a large bowl, combine the water, yeast and sugar; let stand 10 to 15 minutes until foamy. Stir in 1 cup flour, milk, pumpkin, brown sugar, butter, salt and spices; mix until smooth. Stir in enough remaining flour to form a soft dough. Turn onto a floured surface and knead until smooth, about 10 minutes.
-2. Place dough in a greased bowl, turning to coat. Cover and let rise until doubled, 1.5-2 hours). Punch down dough and roll out to 1" thickness. Punch out 2 to 3" circles; re-roll scraps and punch out more biscuits. Arrange 1" apart on a baking sheet; let rise until doubled.
+2. Place dough in a greased bowl, turning to coat. Cover and let rise until doubled, 1.5-2 hours. Punch down dough and roll out to 1" thickness. Punch out 2 to 3" circles; re-roll scraps and punch out more biscuits. Arrange 1" apart on a baking sheet; let rise until doubled.
 3. Preheat oven to 350°F. Bake until golden brown, about 25 minutes.
 
 ## Notes
 
-- You can make this is two loaves, but be careful to make sure the loaves cook all the way through.
+- You can make this in two loaves, but be careful to make sure the loaves cook all the way through.
 - You can also make these as pull-apart rolls. Divide the dough into 3ish oz balls: you should end up with 12+9 balls of dough. (Mine were roughly 3 1/4 oz each.)
 - Spray a 9x13 and an 8x8 pan with non-stick spray.
 - Place 12 rolls in the 9x13 pan (4 rows of 3) and 9 rolls in the 8x8 (3x3).

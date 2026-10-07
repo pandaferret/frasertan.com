@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Pots de Crème"
-description: '"For a pots de crème recipe that would deliver a decadent dessert with a satiny texture and an intense chocolate flavor, we moved the dish out of the oven and took an unconventional approach: cooking the custard on the stovetop in a saucepan, then pouring it into ramekins. For the chocolate flavor we wanted, we favored bittersweet chocolate over milk and semisweet chocolate, which we judged to be too mild. At 10 ounces, the chocolate content in our pots de crème was at least 50 percent higher than in any other dessert recipe we’ve encountered.We prefer pots de creme made with 60 percent cocoa bittersweet chocolate (our favorite brands are Ghirardelli and Callebaut), but 70 percent bittersweet chocolate can also be used. If using a 70 percent bittersweet chocolate (we like Lindt, El Rey, and Valrhona), reduce the amount of chocolate to 8 ounces. A tablespoon of strong brewed coffee may be substituted for the instant espresso and water. Covered tightly with plastic wrap, the pots de creme will keep for up to 3 days in the refrigerator, but the whipped cream must be made just before serving."'
+description: '"For a pots de crème recipe that would deliver a decadent dessert with a satiny texture and an intense chocolate flavor, we moved the dish out of the oven and took an unconventional approach: cooking the custard on the stovetop in a saucepan, then pouring it into ramekins. For the chocolate flavor we wanted, we favored bittersweet chocolate over milk and semisweet chocolate, which we judged to be too mild. At 10 ounces, the chocolate content in our pots de crème was at least 50 percent higher than in any other dessert recipe we’ve encountered. We prefer pots de creme made with 60 percent cocoa bittersweet chocolate (our favorite brands are Ghirardelli and Callebaut), but 70 percent bittersweet chocolate can also be used. If using a 70 percent bittersweet chocolate (we like Lindt, El Rey, and Valrhona), reduce the amount of chocolate to 8 ounces. A tablespoon of strong brewed coffee may be substituted for the instant espresso and water. Covered tightly with plastic wrap, the pots de creme will keep for up to 3 days in the refrigerator, but the whipped cream must be made just before serving."'
 categories:
   - Desserts
 subcategories:
@@ -22,7 +22,7 @@ source:
 - 1 tablespoon vanilla extract
 - 1/2 teaspoon instant espresso powder mixed with 1 tablespoon water
 
-, Whipped Cream:
+Whipped Cream:
 
 - 1/2 cup heavy cream, (cold)
 - 2 teaspoons sugar

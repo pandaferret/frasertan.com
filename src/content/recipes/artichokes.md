@@ -21,8 +21,8 @@ dietary:
 ## Notes
 
 - What do you think of when you picture a thistle? something kinda purple, spikey, the national flower of Scotland... Dinner? not usually. But that's what you're eating when you eat an artichoke - a giant thistle. And they're delicious! Despite being scary to look at and even contemplate cooking, artichokes are actually relatively simple to prepare and enjoy - well worth adding to any veggie lovers' repertoire.
-- Dipping sauces: this is really what the artichoke eating experience is all about! Try experimenting with making your own dipping sauces, but here are a few of the ones i like:
-  - Mayonnaise with balsamic vinegar - yeah, i know it sounds gross but i promise it tastes great! mix a tsp or two of vinegar with two big spoonfuls of mayonnaise until smooth.
+- Dipping sauces: this is really what the artichoke eating experience is all about! Try experimenting with making your own dipping sauces, but here are a few of the ones I like:
+  - Mayonnaise with balsamic vinegar - yeah, I know it sounds gross but I promise it tastes great! Mix a tsp or two of vinegar with two big spoonfuls of mayonnaise until smooth.
   - Mayonnaise and butter - melt a half stick of butter and mix with an equal volume of mayo.
 - See? not so scary after all :)
 - Note: canned artichoke hearts are available in supermarkets, but these have been pickled, so they won't taste at all like fresh cooked ones.

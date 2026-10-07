@@ -36,7 +36,7 @@ Glaze:
 3. In a large mixing bowl, combine the sugar, salt and citrus zest with your fingers, rubbing the zest into the sugar. Whisk in oil, mascarpone and yogurt, then whisk in eggs and vanilla until smooth.
 4. Sprinkle baking powder over the batter and mix well. Sift flour over the mixture and use a rubber spatula to stir just until batter is smooth.
 5. Pour or dollop mixture into prepared pan. Knock on the counter once or twice to remove air bubbles. Bake for about 40 minutes (time will depend on the pan you used), checking at the 30 minute mark to rotate the pan. Cake is done when a toothpick comes out batter-free (but with some crumbs).
-6. While the cake bakes, make the glaze. Whisk together powdered sugar, corn syrup and 2 tablespoons lemon juice. You want an extra thick glaze that will stick to the cake; only add the last tablespoon of lemon juice in needed.
+6. While the cake bakes, make the glaze. Whisk together powdered sugar, corn syrup and 2 tablespoons lemon juice. You want an extra thick glaze that will stick to the cake; only add the last tablespoon of lemon juice if needed.
 7. When the cake is done, let rest for 3-5 minutes, then flip out onto a wire rack set in a rimmed baking sheet. Immediately brush all over with glaze; don't skimp, use it all! The glaze will set as the cake cools.
 8. The cake will keep for several days loosely covered in foil.
 

@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Creme Pie"
-description: "My new favorite request for my birthday! Made with an Oreo crust, topped with billowy whipped cream, these leftovers are never going to work (sorry guys....). Tip: you can make this deconstructed in jars too! See the Notes section.From Cook's Illustrated: We wanted a voluptuously creamy chocolate cream pie recipe, with a well-balanced chocolate flavor somewhere between milkshake and melted candy bar. We also wanted our chocolate cream pie to have an easy-to-slice crust. A combination of semisweet and unsweetened chocolate produced the ultimate rounded, intense chocolate flavor. Custard texture depended upon carefully pouring the egg yolk mixture into simmering half-and-half, then whisking in cold butter. After testing every type of cookie on the market, we hit on pulverized Oreos and a bit of melted butter for the tastiest, most tender, sliceable crumb crust.For the best chocolate flavor and texture, we recommend either Callebaut semisweet and unsweetened chocolates or Hershey's Special Dark and Hershey's unsweetened chocolates. Do not combine the yolks and sugar in advance of making the filling--the sugar will begin to denature the yolks, and the finished cream will be pitted."
+description: "My new favorite request for my birthday! Made with an Oreo crust, topped with billowy whipped cream, these leftovers are never going to work (sorry guys....). Tip: you can make this deconstructed in jars too! See the Notes section. From Cook's Illustrated: We wanted a voluptuously creamy chocolate cream pie recipe, with a well-balanced chocolate flavor somewhere between milkshake and melted candy bar. We also wanted our chocolate cream pie to have an easy-to-slice crust. A combination of semisweet and unsweetened chocolate produced the ultimate rounded, intense chocolate flavor. Custard texture depended upon carefully pouring the egg yolk mixture into simmering half-and-half, then whisking in cold butter. After testing every type of cookie on the market, we hit on pulverized Oreos and a bit of melted butter for the tastiest, most tender, sliceable crumb crust. For the best chocolate flavor and texture, we recommend either Callebaut semisweet and unsweetened chocolates or Hershey's Special Dark and Hershey's unsweetened chocolates. Do not combine the yolks and sugar in advance of making the filling--the sugar will begin to denature the yolks, and the finished cream will be pitted."
 categories:
   - Desserts
 subcategories:
@@ -14,26 +14,26 @@ source:
 
 For the Oreo cookie crust:
 
-- 16Oreo cookies (with filling), broken into rough pieces, about 2 1/2 cups
-- 2tablespoons unsalted butter, melted and cooled
+- 16 Oreo cookies (with filling), broken into rough pieces, about 2 1/2 cups
+- 2 tablespoons unsalted butter, melted and cooled
 
 For the filling:
 
-- 2 ½cups half-and-half
+- 2 ½ cups half-and-half
 - pinch table salt
-- ⅓cup granulated sugar
-- 2tablespoons cornstarch
-- 6large egg yolks at room temperature
-- 6tablespoons unsalted butter (cold), cut into 6 pieces
-- 6ounces semisweet chocolate or bittersweet chocolate, finely chopped
-- 1ounce unsweetened chocolate, finely chopped
-- 1teaspoon vanilla extract
+- ⅓ cup granulated sugar
+- 2 tablespoons cornstarch
+- 6 large egg yolks at room temperature
+- 6 tablespoons unsalted butter (cold), cut into 6 pieces
+- 6 ounces semisweet chocolate or bittersweet chocolate, finely chopped
+- 1 ounce unsweetened chocolate, finely chopped
+- 1 teaspoon vanilla extract
 
 For the whipped cream topping:
 
-- 1 ½cups heavy cream (cold)
-- 1 ½tablespoons granulated sugar
-- ½teaspoon vanilla extract
+- 1 ½ cups heavy cream (cold)
+- 1 ½ tablespoons granulated sugar
+- ½ teaspoon vanilla extract
 
 ## Directions
 

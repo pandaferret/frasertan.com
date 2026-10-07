@@ -1,6 +1,6 @@
 ---
 title: "Molten Chocolate Lava Cakes"
-description: "From Autumn!Makes 2 8oz ramekins (we bake one and share it, and keep the other in the fridge for up to 3 days before baking)."
+description: "From Autumn! Makes 2 8oz ramekins (we bake one and share it, and keep the other in the fridge for up to 3 days before baking)."
 categories:
   - Desserts
 tags:

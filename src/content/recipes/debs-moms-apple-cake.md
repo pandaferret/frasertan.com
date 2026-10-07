@@ -32,7 +32,7 @@ For the cake:
 
 ## Directions
 
-1. Heat oven to 350°F (175°C). Grease a tube pan. Peel, core and chop apples into 1-inch chunks.Toss with cinnamon and 5 tablespoons sugar and set aside.
+1. Heat oven to 350°F (175°C). Grease a tube pan. Peel, core and chop apples into 1-inch chunks. Toss with cinnamon and 5 tablespoons sugar and set aside.
 2. Stir together flour, baking powder and salt in a large mixing bowl. In a separate bowl, whisk together oil, orange juice, sugar, vanilla and eggs. Mix wet ingredients into dry ones; scrape down the bowl to ensure all ingredients are incorporated.
 3. Pour half of batter into prepared pan. Spread half of apples (and their juices) over it. Pour the remaining batter over the apples and arrange the remaining apples on top. Bake for about 1 1/2 hours, or until a tester comes out clean.
 4. Cool completely before running knife between cake and pan, and unmolding onto a platter.

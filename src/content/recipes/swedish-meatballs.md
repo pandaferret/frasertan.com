@@ -20,7 +20,7 @@ Meatballs:
 - 0.25 c dry bread crumbs
 - 0.25 c half-and-half
 - 3 tbsp chopped parsley
-- 1 tsp Worchestershire sauce
+- 1 tsp Worcestershire sauce
 - 0.5 tsp salt
 - 0.25 tsp ground allspice
 - 0.5 tsp grated lemon peel
@@ -40,7 +40,7 @@ Sour Cream Dill Sauce:
 
 Meatballs:
 
-1. Using your hands, mix all ingredient together until well blended. Form 1 to 1.5" balls.
+1. Using your hands, mix all ingredients together until well blended. Form 1 to 1.5" balls.
 2. Cover a broiler pan with aluminum foil and cut slices into the aluminum foil to allow for drainage. Spray the foil with Pam to prevent sticking. Place meatballs about 1-2" apart; you may have to bake them in batches. Bake at 375°F for 20 to 25 minutes. Cover with sauce and reheat if necessary.
 
 Sour Cream Dill Sauce:

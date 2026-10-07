@@ -1,6 +1,6 @@
 ---
 title: "Pesto"
-description: "Adapted from Cook's Illustrated New Best Recipes. Don't limit yourself to just making pesto for pasta - use it to add a boost of flavor to soups, sandwiches and pizza. Note that the pesto recipe alone yields 3/4 cup. Choose a long this pasta or a shape, like fusilli (corkscrew), that can trap bits of the sauce. Basil often darkens in pesto, but you ca brighten the color by adding parsley. For sharper flavor, substitute 1 tablespoon finely grated Pecorino cheese for 1 tablespoon of the Parmesan."
+description: "Adapted from Cook's Illustrated New Best Recipes. Don't limit yourself to just making pesto for pasta - use it to add a boost of flavor to soups, sandwiches and pizza. Note that the pesto recipe alone yields 3/4 cup. Choose a long thin pasta or a shape, like fusilli (corkscrew), that can trap bits of the sauce. Basil often darkens in pesto, but you can brighten the color by adding parsley. For sharper flavor, substitute 1 tablespoon finely grated Pecorino cheese for 1 tablespoon of the Parmesan."
 categories:
   - Main Dishes
 dietary:
@@ -24,5 +24,5 @@ dietary:
 
 ## Notes
 
-- I've simplified this recipe a bit by omitting the following steps: Toast the pine nuts by placing in a small skillet over medium heat, stirring frequently, for 4 to 5 minutes until golden and fragrant. Toast the garlic before peeling by adding to the skillet after the pine nuts are done and removed, and taosting over medium heat until fragrant and the color of the cloves deepens slightly, about 7 minutes. Cool, then peel. Combine basil and parsley (if using) in a large Ziploc bag. Bruise the leaves by pounding the bag with a meat pounder or rolling pin until all the leaves are bruised.
-- Pesto keeps well in the freezer; top off with a think layer of oil to prevent the top from darkening. You can also cover the surface with plastic wrap and keep it in the fridge for three days (make sure the plastic wrap touches the surface of the pesto).
+- I've simplified this recipe a bit by omitting the following steps: Toast the pine nuts by placing in a small skillet over medium heat, stirring frequently, for 4 to 5 minutes until golden and fragrant. Toast the garlic before peeling by adding to the skillet after the pine nuts are done and removed, and toasting over medium heat until fragrant and the color of the cloves deepens slightly, about 7 minutes. Cool, then peel. Combine basil and parsley (if using) in a large Ziploc bag. Bruise the leaves by pounding the bag with a meat pounder or rolling pin until all the leaves are bruised.
+- Pesto keeps well in the freezer; top off with a thin layer of oil to prevent the top from darkening. You can also cover the surface with plastic wrap and keep it in the fridge for three days (make sure the plastic wrap touches the surface of the pesto).

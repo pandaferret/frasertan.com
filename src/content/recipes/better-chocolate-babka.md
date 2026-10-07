@@ -32,7 +32,7 @@ For the filling:
 For the syrup:
 
 - 1/3 cup water
-- 6 tbsp75 g granulated sugar
+- 6 tbsp/75 g granulated sugar
 
 ## Directions
 
@@ -47,9 +47,9 @@ For the syrup:
 9. For each pair of loaf halves, pinch the top ends together, then gently twist the halves over each other, trying to keep the cut sides up. Don't worry if this makes a mess or doesn't come out perfect; this will just increase the rustic charm of your babkas.
 10. Place each twist in a loaf pan, nesting the end trimmings in with them. Cover with a damp towel and let rise for another 1 to 1 1/2 hours at room temperature.
 11. Bake and finish loaves: Heat oven to 375°.
-12. Remove towels and bake loaves on the middle rack for 30 minutes (start checking for doneness at 25 minutes). A skewer should come out clean, without any rubbery feeling. IF the top browns too quickly, you can cover it with foil.
+12. Remove towels and bake loaves on the middle rack for 30 minutes (start checking for doneness at 25 minutes). A skewer should come out clean, without any rubbery feeling. If the top browns too quickly, you can cover it with foil.
 13. While babkas are baking, bring the water and sugar to a simmer and stir until the sugar dissolves. Remove from heat and let cool.
-14. As soon as the babkas come out of the oven, brush each with syrup. (It will seem like a lot but its worth it!) Cool about halfway in the pans, then take out of the pans to finish cooling.
+14. As soon as the babkas come out of the oven, brush each with syrup. (It will seem like a lot but it's worth it!) Cool about halfway in the pans, then take out of the pans to finish cooling.
 
 ## Notes
 

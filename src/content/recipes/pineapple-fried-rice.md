@@ -13,7 +13,7 @@ source:
 ## Ingredients
 
 - 3 tablespoons soy sauce
-- 1 tablespoons sesame oil
+- 1 tablespoon sesame oil
 - 1/2 teaspoon ginger powder
 - 1/4 teaspoon white pepper
 - 2 tablespoons olive oil
@@ -24,7 +24,7 @@ source:
 - 1/2 cup frozen peas
 - 3 cups cooked brown rice
 - 2 cups diced pineapple, canned or fresh
-- 1/2 cup diced ham orchar siu
+- 1/2 cup diced ham or char siu
 - 2 green onions, sliced
 
 ## Directions

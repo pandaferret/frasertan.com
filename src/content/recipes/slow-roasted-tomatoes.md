@@ -12,7 +12,7 @@ source:
 ## Ingredients
 
 - Cherry, grape or small Roma tomatoes
-- Whole gloves of garlic, unpeeled
+- Whole cloves of garlic, unpeeled
 - Olive oil
 - Herbs such as thyme or rosemary (optional)
 

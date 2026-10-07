@@ -36,7 +36,7 @@ source:
 
 2 cups boiling water, mixed with:
 
-- 1 tablespoon better than bullion roasted chicken
+- 1 tablespoon Better Than Bouillon roasted chicken
 
 ## Equipment
 

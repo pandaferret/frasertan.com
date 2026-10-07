@@ -1,5 +1,5 @@
 ---
-title: "Honey dijon vinaigrette"
+title: "Honey Dijon Vinaigrette"
 categories:
   - Salads
 ---
@@ -7,8 +7,8 @@ categories:
 ## Ingredients
 
 - 3 tbsp dijon mustard
-- 2 tsbp honey
-- 3 tsbp champagne vinegar
+- 2 tbsp honey
+- 3 tbsp champagne vinegar
 - 1/2 cup olive oil
 - salt & pepper
 

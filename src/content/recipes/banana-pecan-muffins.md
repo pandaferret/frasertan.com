@@ -25,5 +25,5 @@ source:
 ## Directions
 
 1. Adjust oven rack to middle position and heat oven to 425 degrees. Grease 12-cup muffin tin. Whisk flour, baking powder, baking soda, and salt together in medium bowl.
-2. Whisk bananas, ¾ cup sugar, eggs, oil, and vanilla in large bowl until fully combined. Add flour mixture and whisk until fully combined. Stir in walnuts. Using portion scoop or large spoon, divide batter evenly among prepared muffin cups (about ½ cup batter per cup; cups will be very full). Sprinkle with remaining 2 tablespoons sugar.
+2. Whisk bananas, ¾ cup sugar, eggs, oil, and vanilla in large bowl until fully combined. Add flour mixture and whisk until fully combined. Stir in pecans. Using portion scoop or large spoon, divide batter evenly among prepared muffin cups (about ½ cup batter per cup; cups will be very full). Sprinkle with remaining 2 tablespoons sugar.
 3. Bake until tops are golden brown and toothpick inserted in center comes out clean, 14 to 18 minutes. Let muffins cool in muffin tin on wire rack for 10 minutes. Remove muffins from muffin tin and let cool for at least 5 minutes. Serve warm or at room temperature.

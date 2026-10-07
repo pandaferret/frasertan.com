@@ -1,6 +1,6 @@
 ---
-title: "Warm orzo with red onion and scallions"
-description: "from the mind of Autumn Quinn! Very yummy light side dish."
+title: "Warm Orzo with Red Onion and Scallions"
+description: "From the mind of Autumn Quinn! Very yummy light side dish."
 categories:
   - Side Dishes
 tags:
@@ -18,7 +18,7 @@ tags:
 
 ## Directions
 
-1. Start a pot of water boiling. 2. Meanwhile, saute the onion and scallion in a bit of oil until softened. Season with a pinch of salt.
+1. Start a pot of water boiling. Meanwhile, saute the onion and scallion in a bit of oil until softened. Season with a pinch of salt.
 
 2. Cook orzo until al dente and drain.
 

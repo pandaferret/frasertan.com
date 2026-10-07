@@ -1,6 +1,6 @@
 ---
 title: "Cranberry Tart"
-description: "A twist on the classis tarte au citron, and a wonderful addition to any Thanksgiving spread!"
+description: "A twist on the classic tarte au citron, and a wonderful addition to any Thanksgiving spread!"
 categories:
   - Desserts
 subcategories:

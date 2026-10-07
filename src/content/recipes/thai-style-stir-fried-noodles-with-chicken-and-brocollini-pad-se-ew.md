@@ -1,6 +1,6 @@
 ---
-title: "Thai Style Stir-Fried Noodles with Chicken and Brocollini (Pad Se Ew)"
-description: "from Cook's Illustrated. Their favorite brand of rice noodles are from A Taste of Thai, the straight cut noodles. For proper char, don't stir the noodles as they fry."
+title: "Thai Style Stir-Fried Noodles with Chicken and Broccolini (Pad Se Ew)"
+description: "From Cook's Illustrated. Their favorite brand of rice noodles are from A Taste of Thai, the straight cut noodles. For proper char, don't stir the noodles as they fry."
 categories:
   - Main Dishes
 source:
@@ -36,4 +36,4 @@ source:
 
 ## Notes
 
-- You can also use regular broccoli in place of broccollini.
+- You can also use regular broccoli in place of broccolini.

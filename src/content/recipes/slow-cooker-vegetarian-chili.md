@@ -34,6 +34,6 @@ dietary:
 ## Directions
 
 1. Pulse the tomatoes with their juice in a food processor until slightly chunky (5ish pulses). Set aside.
-2. Heat oil in a 12-inch skillet over medium heat. Add the onions, garlic, chili powder, cumin and 0.25 tsp salt. Cook until the onions are softened and lightly browed, 10 to 15 minutes. Remove from heat. Stir in the tomato mixture, scraping up any browned bits from the pan.
+2. Heat oil in a 12-inch skillet over medium heat. Add the onions, garlic, chili powder, cumin and 0.25 tsp salt. Cook until the onions are softened and lightly browned, 10 to 15 minutes. Remove from heat. Stir in the tomato mixture, scraping up any browned bits from the pan.
 3. Transfer to the slow cooker. Add the beans, chipotles (1 to 3 tbsp depending on taste) and sugar and stir to combine. Cover and cook on low for 7 to 8 hours, or high for 4 to 5 hours.
 4. Stir in corn and cilantro. Cover and continue cooking until the corn is warmed through, about 5 minutes. Season with salt and pepper to taste.

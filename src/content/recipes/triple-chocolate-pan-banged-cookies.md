@@ -1,7 +1,7 @@
 ---
 title: "Triple Chocolate Pan-Banged Cookies"
 description: "While strange-sounding, the pan-banging does give these cookies a lovely texture alternating between crunchy and chewy."
-yield: "Make 12-16 cookies"
+yield: "Makes 12-16 cookies"
 categories:
   - Desserts
 subcategories:
@@ -33,12 +33,12 @@ Equipment:
 
 ## Directions
 
-1. Adjust oven rack to middle position and preheat oven to 350°F (180°C). Line three cookies sheets with aluminum foil, dull side up.
+1. Adjust oven rack to middle position and preheat oven to 350°F (180°C). Line three cookie sheets with aluminum foil, dull side up.
 2. In a small bowl, whisk together the flour, cocoa powder, salt and baking soda.
-3. In the bowl of a stand mixer fitted with the paddle attachment, beat the butter on medium speed until creamy, about 1 minute. Add the granulated and brown sugars and eat on medium speed until light and fluffy, 2 to 3 minutes. Add the egg, water and vanilla and mix on low speed until incorporated.
+3. In the bowl of a stand mixer fitted with the paddle attachment, beat the butter on medium speed until creamy, about 1 minute. Add the granulated and brown sugars and beat on medium speed until light and fluffy, 2 to 3 minutes. Add the egg, water and vanilla and mix on low speed until incorporated.
 4. Add the flour mixture and mix on low speed until combined. Add the milk and bittersweet chocolate and mix just to combine.
 5. Form the dough into 3 oz/ 85g balls (1/4 cup, or 4 tbsp). Place 4 cookies equidistant on a cookie sheet.
-6. Bake the cookies one pan at a time. Bake until the dough balls have spread flat but are puffed slightly at eh center, 9 minutes.
+6. Bake the cookies one pan at a time. Bake until the dough balls have spread flat but are puffed slightly at the center, 9 minutes.
 7. Then, lift one side of the sheet pan up about 4 inches and gently let it drop down against the oven rack. (Repeat if you like.)
 8. Repeat pan banging every 2 minutes to create a series of ridges/ripples in the cookies. Bake for 15 to 16 minutes total, until the cookies have spread out and the edges are set and ripply but the center is still soft.
 9. Transfer the pan to a wire rack and let cool for 10 minutes. Then transfer the cookies to a cooling rack to finish cooling.

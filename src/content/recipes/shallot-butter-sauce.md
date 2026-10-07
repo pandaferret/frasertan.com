@@ -9,10 +9,10 @@ source:
 
 ## Ingredients
 
-- 2 small shallots, minced (about ⅓ cup )
+- 2 small shallots, minced (about ⅓ cup)
 - 4 tablespoons unsalted butter, cut into 4 pieces
-- 1teaspoon fresh lemon juice from 1 lemon
-- 1teaspoon minced fresh parsley leaves
+- 1 teaspoon fresh lemon juice from 1 lemon
+- 1 teaspoon minced fresh parsley leaves
 
 ## Directions
 

@@ -26,7 +26,7 @@ source:
 1. In a 1 quart stainless steel saucier, melt the butter over medium-low heat. When it begins to bubble/hiss, stir with a spatula, scraping the edges of the pan as you go, as browned bits form. Continue stirring until the butter is silent and is golden yellow. Immediately scrape butter and toasty bits into a bowl and let cool to about 75° - 25 minutes in the fridge or about 1 hour at room temperature.
 2. Set oven rack to middle position and preheat oven to 350°.
 3. Sift the flour into a bowl. Finely chop/crush the pecans and toss with the flour.
-4. Stir the sugar, brown sugar, vanilla salt and baking soda into the cooled butter, then mix in the egg yolk. Fold in the flour mixture to form a sandy dough.
+4. Stir the sugar, brown sugar, vanilla, salt and baking soda into the cooled butter, then mix in the egg yolk. Fold in the flour mixture to form a sandy dough.
 5. Arrange 1 tbsp (3/4 ounce) portions on a lined baking sheet, spaced 2" apart. Flatten slightly into 3/4" rounds. Bake until sandy brown, about 15 minutes. Cool to room temperature on the sheet.
 6. Store in an airtight container up to 3 weeks at room temperature.
 

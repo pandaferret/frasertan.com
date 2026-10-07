@@ -32,7 +32,7 @@ source:
 3. Melt two tablespoons of butter and a generous glug of olive oil in a large oven-safe saucepan over medium-high heat. Add chicken and sear on each side, about 3 minutes per side. Drain excess fat and set chicken aside.
 4. Add one more tablespoon of butter to the pan and heat over medium heat. Add the garlic and cook, stirring often, until fragrant, a minute or so. Add the chicken broth, heavy cream, lemon juice, Parmesan cheese and thyme. Bring to a boil; reduce to a simmer, add the spinach and simmer until the spinach has wilted and the sauce has thickened, about 3 to 4 minutes.
 5. Nestle the chicken back into the pan, then bake in the oven until cooked through, about 15 to 20 minutes.
-6. Serve with French bed or rolls to sop up all the yummy sauce!
+6. Serve with French bread or rolls to sop up all the yummy sauce!
 
 ## Notes
 

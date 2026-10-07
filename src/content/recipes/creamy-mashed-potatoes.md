@@ -11,7 +11,7 @@ source:
 
 - 2 pounds Yukon Gold potatoes, scrubbed
 - 8 tablespoons unsalted butter (1 stick, 4 ounces), melted
-- 1 cup half-and-half , warmed
+- 1 cup half-and-half, warmed
 - 1 1/2 teaspoons table salt
 - Ground black pepper
 - Chives for garnish (optional)

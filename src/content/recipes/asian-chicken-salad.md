@@ -25,7 +25,7 @@ source:
 - 2 tbsp rice vinegar
 - 1 tbsp soy sauce
 - 2 tsps brown sugar
-- 1 tsp minced geinger
+- 1 tsp minced ginger
 
 ## Directions
 

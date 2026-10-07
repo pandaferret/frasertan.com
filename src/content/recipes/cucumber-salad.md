@@ -1,5 +1,5 @@
 ---
-title: "Cucumber salad"
+title: "Cucumber Salad"
 description: "from the internet!"
 categories:
   - Salads

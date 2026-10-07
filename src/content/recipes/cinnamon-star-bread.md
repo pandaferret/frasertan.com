@@ -17,7 +17,7 @@ Dough (Cook's Illustrated):
 - 3 large eggs, room temperature
 - 4 1/2 - 4 1/2 cups (21 1/4 - 22 1/2 ounces) all-purpose flour
 - 1/2 cup cornstarch
-- 1/2 cup (3 1/2 ounces) granulates sugar
+- 1/2 cup (3 1/2 ounces) granulated sugar
 - 1 1/2 tsp salt
 - 12 tablespoons unsalted butter, cut into 12 pieces and softened
 
@@ -50,6 +50,6 @@ Filling (Cook's Illustrated):
 ## Notes
 
 - Inspired by a King Arthur recipe, however I prefer the dough from Cook's Illustrated Cinnamon Rolls, as the King Arthur dough came out a bit dry.
-- The star bread will take a LOT LESS filling than the cinnamon rolls but go ahead and stuff as much in there as you can. I used the King Arthur filling, but next time I'll try the full cinammon bun filling (butter and all).
+- The star bread will take a LOT LESS filling than the cinnamon rolls but go ahead and stuff as much in there as you can. I used the King Arthur filling, but next time I'll try the full cinnamon bun filling (butter and all).
 - If you want to make a savory version of this bread, try using the King Arthur recipe, as the Cook's Illustrated dough may be too sweet.
 - I'm still narrowing in on the baking time; King Arthur calls for 12 minutes while Cook's Illustrated asks for 35 to 40 minutes, so check the bread early and often. You can cover it with aluminum foil if it's browning too quickly.
