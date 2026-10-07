@@ -1,6 +1,9 @@
 ---
 title: "Best Ground Beef Chili"
-description: "From Cook's Illustrated! Our ground beef chili uses 85 percent lean ground beef for richness and flavor. We use only small amounts of pureed whole canned tomatoes and pinto beans to create a thick, rich dish that is best served over white rice and/or with tortilla chips. To keep the meat moist and tender, we treat it with salt and baking soda. Both ingredients help the meat hold on to moisture, so it doesn’t shed liquid during cooking. This means that 2 pounds of beef can be browned in just one batch. We also simmer the meat for 90 minutes to fully tenderize it. Finally, our homemade chili powder uses a combination of toasted dried ancho chiles, chipotle chiles in adobo, and paprika, along with a blend of herbs and spices to round it out. We make sure to stir in any fat that collects on the top of the chili before serving since it contains much of the flavor from the fat-soluble spices in the chile powder."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    Our ground beef chili uses 85 percent lean ground beef for richness and flavor. We use only small amounts of pureed whole canned tomatoes and pinto beans to create a thick, rich dish that is best served over white rice and/or with tortilla chips. To keep the meat moist and tender, we treat it with salt and baking soda. Both ingredients help the meat hold on to moisture, so it doesn’t shed liquid during cooking. This means that 2 pounds of beef can be browned in just one batch. We also simmer the meat for 90 minutes to fully tenderize it. Finally, our homemade chili powder uses a combination of toasted dried ancho chiles, chipotle chiles in adobo, and paprika, along with a blend of herbs and spices to round it out. We make sure to stir in any fat that collects on the top of the chili before serving since it contains much of the flavor from the fat-soluble spices in the chile powder.
 categories:
   - Main Dishes
 subcategories:

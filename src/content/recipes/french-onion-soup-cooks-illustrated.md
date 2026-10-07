@@ -1,6 +1,10 @@
 ---
 title: "French Onion Soup (Cook's Illustrated)"
-description: "Because I'm me, I have another recipe for French Onion Soup. This one is my all-time favorite. Yes, this soup takes time and a bit of attention, but the result is so worth it! Plan for a cozy afternoon at home with a good book and the lovely smell wafting through the house. From Cook's Illustrated: Be patient while caramelizing the onions; the process is slow (it takes about 2 hours) but the resulting soup, which comes together quickly after caramelization, is well worth the effort. You can substitute Swiss for Emmentaler or Gruyere cheese. Use broiler-safe bowls and make sure the rim of the bowls is 4 to 5 inches from the heating element in order to obtain good browning. If your bowls are not broiler-safe (or you are not sure), set the oven temperature to 500 degrees and bake the soup (rather than broil) until the cheese is melted."
+description: "Because I'm me, I have another recipe for French Onion Soup. This one is my all-time favorite. Yes, this soup takes time and a bit of attention, but the result is so worth it! Plan for a cozy afternoon at home with a good book and the lovely smell wafting through the house."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    Be patient while caramelizing the onions; the process is slow (it takes about 2 hours) but the resulting soup, which comes together quickly after caramelization, is well worth the effort. You can substitute Swiss for Emmentaler or Gruyere cheese. Use broiler-safe bowls and make sure the rim of the bowls is 4 to 5 inches from the heating element in order to obtain good browning. If your bowls are not broiler-safe (or you are not sure), set the oven temperature to 500 degrees and bake the soup (rather than broil) until the cheese is melted.
 categories:
   - Soups and Stews
 subcategories:

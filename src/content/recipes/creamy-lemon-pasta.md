@@ -1,6 +1,9 @@
 ---
 title: "Creamy Lemon Pasta"
-description: "From the New York Times: This astonishingly delicious pasta dish is surprisingly easy to make. Just combine the zest of two lemons, heavy cream, salt and pepper in a saucepan, and let it come to a boil. Pour over freshly cooked egg noodles, add fresh lemon juice and toss. Cook for a couple minutes until the sauce has thickened slightly and cloaks the noodles in a rich, creamy, lemony brightness. It's luxurious weeknight cooking at its best."
+quote:
+  author: "The New York Times"
+  text: |
+    This astonishingly delicious pasta dish is surprisingly easy to make. Just combine the zest of two lemons, heavy cream, salt and pepper in a saucepan, and let it come to a boil. Pour over freshly cooked egg noodles, add fresh lemon juice and toss. Cook for a couple minutes until the sauce has thickened slightly and cloaks the noodles in a rich, creamy, lemony brightness. It's luxurious weeknight cooking at its best.
 categories:
   - Main Dishes
 subcategories:

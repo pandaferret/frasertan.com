@@ -1,6 +1,9 @@
 ---
 title: "Basic Polenta"
-description: "From Cook's Illustrated: If you do not have a heavy-bottomed saucepan, you may want to use a flame tamer to manage the heat. A flame tamer can be purchased at most kitchen supply stores, or one can be fashioned from a ring of foil, see related Quick Tip. It's easy to tell whether you need a flame tamer or not. If the polenta bubbles or sputters at all after the first 10 minutes, the heat is too high, and you need one. Properly heated polenta will do little more than release wisps of steam. When stirring the polenta, make sure to scrape the sides and bottom of the pan to ensure even cooking. Use this polenta as the base for any stew or braise, especially osso buco or our Chicken Scarpariello. Cooked leafy greens also make excellent toppings for soft polenta."
+quote:
+  author: "Cook's Illustrated"
+  text: |
+    If you do not have a heavy-bottomed saucepan, you may want to use a flame tamer to manage the heat. A flame tamer can be purchased at most kitchen supply stores, or one can be fashioned from a ring of foil, see related Quick Tip. It's easy to tell whether you need a flame tamer or not. If the polenta bubbles or sputters at all after the first 10 minutes, the heat is too high, and you need one. Properly heated polenta will do little more than release wisps of steam. When stirring the polenta, make sure to scrape the sides and bottom of the pan to ensure even cooking. Use this polenta as the base for any stew or braise, especially osso buco or our Chicken Scarpariello. Cooked leafy greens also make excellent toppings for soft polenta.
 categories:
   - Side Dishes
 tags:
