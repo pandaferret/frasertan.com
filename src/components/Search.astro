@@ -6,15 +6,27 @@
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 <script is:inline>
-  window.addEventListener("DOMContentLoaded", () => {
-    const script = document.createElement("script");
-    script.src = "/pagefind/pagefind-ui.js";
-    script.onload = () => {
+  // Runs on every page load, including client-side navigations from
+  // view transitions, where DOMContentLoaded does not fire again.
+  document.addEventListener("astro:page-load", () => {
+    const element = document.querySelector("#search");
+    if (!element || element.childElementCount > 0) return;
+
+    const init = () =>
       new PagefindUI({
         element: "#search",
         showSubResults: true,
+        showImages: false,
+        translations: { placeholder: "Search recipes" },
       });
-    };
+
+    if (window.PagefindUI) {
+      init();
+      return;
+    }
+    const script = document.createElement("script");
+    script.src = "/pagefind/pagefind-ui.js";
+    script.onload = init;
     document.head.appendChild(script);
   });
 </script>
