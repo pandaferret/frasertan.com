@@ -6,6 +6,8 @@ categories:
 source:
   url: "http://www.cooksillustrated.com/recipes/7793-red-wine-pan-sauce"
 cover: "/images/recipes/red-wine-pan-sauce.jpg"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

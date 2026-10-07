@@ -3,7 +3,7 @@ title: "Korean-Style Scallion Pancakes with Cucumber Salad"
 categories:
   - Starters
 dietary:
-  - V
+  - V*
   - DF
 source:
   url: "https://www.blueapron.com/recipes/korean-style-scallion-pancakes-with-cucumber-salad"

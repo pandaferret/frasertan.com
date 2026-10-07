@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
   - Vegetarian
 dietary:
+  - V
   - GF*
 source:
   name: "The Roasted Root"

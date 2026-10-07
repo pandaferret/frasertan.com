@@ -12,6 +12,8 @@ tags:
 source:
   url: "https://smittenkitchen.com/2008/01/rigatoni-with-eggplant-puree/"
 cover: "/images/recipes/rigatoni-with-eggplant-puree.jpg"
+dietary:
+  - V*
 ---
 
 ## Ingredients

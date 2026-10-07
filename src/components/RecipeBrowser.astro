@@ -12,8 +12,9 @@ interface Props {
   recipes: CollectionEntry<"recipes">[];
   groups: string[];
   groupsOf: (recipe: CollectionEntry<"recipes">) => string[];
-  // Pagefind filter that limits search to this page's recipes.
-  filter: { name: string; value: string };
+  // Pagefind filter that limits search to this page's recipes. Without one,
+  // results are still trimmed to the recipes on the page.
+  filter?: { name: string; value: string };
   searchLabel: string;
   // Add an "Other" tab for recipes that fit none of the groups.
   showOther?: boolean;
@@ -48,8 +49,8 @@ const tabs = [
 
 <div
   class="recipe-browser"
-  data-filter-name={filter.name}
-  data-filter-value={filter.value}
+  data-filter-name={filter?.name}
+  data-filter-value={filter?.value}
 >
   <div class="browser-search">
     <svg
@@ -239,7 +240,8 @@ const tabs = [
     const items = [...root.querySelectorAll<HTMLElement>(".recipe-item")];
     const count = root.querySelector<HTMLElement>(".browser-count")!;
     const empty = root.querySelector<HTMLElement>(".browser-empty")!;
-    const filters = { [root.dataset.filterName!]: root.dataset.filterValue! };
+    const { filterName, filterValue } = root.dataset;
+    const filters = filterName ? { [filterName]: filterValue! } : {};
 
     const currentTab = () => {
       const hash = location.hash.replace(/^#(sub-)?/, "");

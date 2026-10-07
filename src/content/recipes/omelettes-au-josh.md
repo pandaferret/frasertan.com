@@ -4,6 +4,7 @@ description: "Our friend Josh makes the best omelettes, and he recently shared h
 categories:
   - Breakfast
 dietary:
+  - VEG*
   - GF
 ---
 

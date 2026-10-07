@@ -7,6 +7,8 @@ subcategories:
   - Soups
 tags:
   - Weeknight Meals
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 dietary:
+  - V
   - DF
   - EF
 ---

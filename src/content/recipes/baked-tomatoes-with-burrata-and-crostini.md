@@ -11,6 +11,8 @@ tags:
   - Vegetarian
 source:
   url: "https://www.twopeasandtheirpod.com/roasted-tomatoes-with-burrata/"
+dietary:
+  - V*
 ---
 
 ## Ingredients

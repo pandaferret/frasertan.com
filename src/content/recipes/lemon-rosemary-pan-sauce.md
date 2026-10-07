@@ -2,6 +2,8 @@
 title: "Lemon-Rosemary Pan Sauce"
 categories:
   - Sauces and Dips
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

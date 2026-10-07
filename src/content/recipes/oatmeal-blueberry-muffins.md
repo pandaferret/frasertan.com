@@ -4,6 +4,7 @@ description: "More yummy toddler muffins! Bonus: these are vegan!"
 categories:
   - Breads and Baked Goods
 dietary:
+  - V
   - DF
   - EF
 source:

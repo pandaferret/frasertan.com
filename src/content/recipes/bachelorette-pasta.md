@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

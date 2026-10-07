@@ -4,6 +4,7 @@ description: "This bread is easy, all you need is a bit of time (at least 24 hou
 categories:
   - Breads and Baked Goods
 dietary:
+  - V
   - EF
   - DF
 source:

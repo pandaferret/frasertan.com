@@ -9,9 +9,9 @@ tags:
   - Weeknight Meals
   - Vegetarian
 dietary:
+  - V
   - GF
   - EF
-  - V
 source:
   url: "https://cooking.nytimes.com/recipes/1021682-pure-potato-latkes"
 ---

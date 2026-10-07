@@ -5,6 +5,8 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+dietary:
+  - V*
 ---
 
 ## Ingredients

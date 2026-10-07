@@ -2,6 +2,8 @@
 title: "Mustard-Cream Pan Sauce"
 categories:
   - Sauces and Dips
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

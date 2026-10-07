@@ -9,6 +9,8 @@ tags:
   - Seasonal Treats
 source:
   name: "Cook's Illustrated's Best International Recipes"
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

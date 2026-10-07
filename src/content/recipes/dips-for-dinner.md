@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
   - Vegetarian
 dietary:
+  - VEG
   - GF*
 source:
   name: "Inspired by The New York Times"

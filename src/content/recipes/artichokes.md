@@ -4,7 +4,7 @@ description: "What do you think of when you picture a thistle? something kinda p
 categories:
   - Starters
 dietary:
-  - V
+  - V*
   - GF
   - DF
 ---

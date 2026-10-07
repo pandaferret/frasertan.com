@@ -5,6 +5,8 @@ categories:
   - Sauces and Dips
 tags:
   - Make Ahead
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

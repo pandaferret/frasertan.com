@@ -224,6 +224,10 @@ main {
   background: #f3e5f5;
   color: #7b1fa2;
 }
+.badge-veg {
+  background: #f1f8e9;
+  color: #558b2f;
+}
 
 /* Recipe layout */
 .recipe-header {

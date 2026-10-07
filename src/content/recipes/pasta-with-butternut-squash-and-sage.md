@@ -9,6 +9,8 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - VEG*
 ---
 
 ## Ingredients

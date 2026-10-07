@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecipeBrowser from "../../components/RecipeBrowser.astro";
+import { getCollection } from "astro:content";
+import { DIETS, dietsOf } from "../../diets";
+
+const recipes = (await getCollection("recipes"))
+  .filter((r) => dietsOf(r).length > 0)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="Special Diets"
+  breadcrumbs={[
+    { label: "Home", href: "/" },
+    { label: "Recipes", href: "/recipes/" },
+    { label: "Special Diets" },
+  ]}
+>
+  <h1>Special Diets</h1>
+  <RecipeBrowser
+    recipes={recipes}
+    groups={DIETS}
+    groupsOf={dietsOf}
+    showOther={false}
+    searchLabel="Search special diets"
+  />
+</BaseLayout>

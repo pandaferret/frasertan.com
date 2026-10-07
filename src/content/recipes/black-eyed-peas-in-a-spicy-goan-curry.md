@@ -6,9 +6,9 @@ categories:
 subcategories:
   - Sundries
 dietary:
+  - V
   - GF
   - DF
-  - V
 ---
 
 ## Ingredients

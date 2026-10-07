@@ -6,6 +6,8 @@ categories:
 source:
   url: "https://alexandracooks.com/2012/11/07/my-mothers-peasant-bread-the-best-easiest-bread-you-will-ever-make/"
 cover: "/images/recipes/quick-peasant-bread.jpg"
+dietary:
+  - V
 ---
 
 ## Ingredients

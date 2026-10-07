@@ -10,6 +10,7 @@ tags:
   - Make Ahead
   - Vegetarian
 dietary:
+  - V*
   - EF
 source:
   name: "Smitten Kitchen"

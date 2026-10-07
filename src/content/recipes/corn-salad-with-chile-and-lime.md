@@ -9,6 +9,8 @@ tags:
 source:
   url: "https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/?fbclid=IwAR0F2hm2lJS5ygecmEphGnDNFDGejVhww9Sha5kj38OTd-XrC2zGVy1VZP0"
 cover: "/images/recipes/corn-salad-with-chile-and-lime.jpg"
+dietary:
+  - VEG
 ---
 
 ## Ingredients

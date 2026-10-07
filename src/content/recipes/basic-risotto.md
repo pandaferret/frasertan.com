@@ -7,6 +7,7 @@ categories:
 subcategories:
   - Pastas and Grains
 dietary:
+  - VEG*
   - GF
 ---
 
