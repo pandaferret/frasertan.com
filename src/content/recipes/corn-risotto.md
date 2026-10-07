@@ -1,6 +1,5 @@
 ---
 title: "Corn Risotto"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Main Dishes
 dietary:

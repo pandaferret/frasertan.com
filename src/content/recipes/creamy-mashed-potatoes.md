@@ -1,6 +1,5 @@
 ---
 title: "Creamy Mashed Potatoes"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Side Dishes
 source:

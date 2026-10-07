@@ -1,6 +1,5 @@
 ---
 title: "Baked Peaches"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Desserts
 subcategories:

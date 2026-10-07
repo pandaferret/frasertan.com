@@ -1,6 +1,5 @@
 ---
 title: "Balsamic Glazed Salmon"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Main Dishes
 subcategories:

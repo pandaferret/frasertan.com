@@ -1,6 +1,5 @@
 ---
 title: "Cauliflower and Tomato Masala with Peas (Gobi Matar)"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Main Dishes
 subcategories:
