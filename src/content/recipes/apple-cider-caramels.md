@@ -12,6 +12,7 @@ dietary:
   - EF
 source:
   url: "http://smittenkitchen.com/blog/2012/10/apple-cider-caramels-the-book-is-here/"
+cover: "/images/recipes/apple-cider-caramels.jpg"
 ---
 
 ## Ingredients
