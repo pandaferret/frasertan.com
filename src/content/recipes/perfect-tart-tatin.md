@@ -7,8 +7,8 @@ categories:
 subcategories:
   - Pies and Tarts
 source:
-  name: "here"
-  url: "https://smittenkitchen.com/2019/11/perfect-apple-tarte-tatin/?fbclid=IwAR2aBdJk-lOWmgGWhRv-rlwe3eFoEQtEhNqJSpfWLLtoOTzOqRFUrrNbWMA"
+  name: "Smitten Kitchen"
+  url: "https://smittenkitchen.com/2019/11/perfect-apple-tarte-tatin/"
 cover: "/images/recipes/perfect-tart-tatin.jpg"
 ---
 

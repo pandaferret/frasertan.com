@@ -6,7 +6,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 source:
-  name: "Deb mention that you can split this into two loaf pans."
+  name: "America's Test Kitchen"
   url: "https://www.cooksillustrated.com/recipes/9894-cider-glazed-apple-bundt-cake"
 cover: "/images/recipes/cider-glazed-apple-bundt-cake.jpg"
 ---

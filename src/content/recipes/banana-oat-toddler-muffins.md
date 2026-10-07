@@ -3,9 +3,6 @@ title: "Banana Oat Toddler Muffins"
 description: "Make these full sized for Mom and Dad, or in mini muffin tins for the little one!"
 categories:
   - Main Dishes
-source:
-  name: "these"
-  url: "http://www.sheknows.com/food-and-recipes/articles/955371/baking-without-eggs"
 ---
 
 ## Ingredients

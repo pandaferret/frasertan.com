@@ -8,9 +8,6 @@ subcategories:
   - Pastas and Grains
 tags:
   - Weeknight Meals
-source:
-  name: "video"
-  url: "https://www.youtube.com/watch?v=gDs6wWG4wKk"
 ---
 
 ## Ingredients
@@ -46,6 +43,6 @@ Assemble the dish:
 ## Notes
 
 - This recipe contains the basic fresh spaetzle recipe: after they cook, I recommend a quick pan fry in butter, just to get some color. Then I inhale them....
-- Here's a neat video on the different ways and tools to make spaetzle.
+- Here's a [neat video](https://www.youtube.com/watch?v=gDs6wWG4wKk) on the different ways and tools to make spaetzle.
 - Don't bother shredding your own Brussels sprouts, just buy a bag of pre-shredded at the store.
 - I suspect you could make the dough in the morning and let it sit in the fridge all day.

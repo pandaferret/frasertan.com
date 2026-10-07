@@ -4,7 +4,7 @@ description: "My friend Jeanne made a toweringly tall New York cheesecake, and I
 categories:
   - Desserts
 source:
-  name: "2"
+  name: "Life Made Simple"
   url: "https://lifemadesimplebakes.com/perfect-chocolate-cheesecake/"
 cover: "/images/recipes/tall-chocolate-cheesecake.jpg"
 ---

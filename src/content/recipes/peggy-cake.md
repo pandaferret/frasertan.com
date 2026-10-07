@@ -22,8 +22,8 @@ source:
 ## Directions
 
 1. Mix all ingredients adding chips last. Grease and flour a bundt pan. Add cake dough. Bake at 350 for 40-50 minutes. Make sure toothpick inserted in crack of cake comes out clean upon testing. Rest cake in pan for 5 min. Turn out on cooling rack. When cool, dust with powdered sugar.
-2. Can substitute cake mix with yellow cake and/or can substitute pudding with butterscotch.
 
 ## Notes
 
 - also makes delicious cupcakes!
+- Can substitute cake mix with yellow cake and/or can substitute pudding with butterscotch.
