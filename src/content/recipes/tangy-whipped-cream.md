@@ -10,6 +10,7 @@ dietary:
   - GF
 source:
   url: "https://www.americastestkitchen.com/articles/3262-sour-cream-makes-whipped-cream-so-much-better"
+cover: "/images/recipes/tangy-whipped-cream.jpg"
 ---
 
 ## Ingredients

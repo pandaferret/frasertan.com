@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
 source:
   url: "http://smittenkitchen.com/blog/2008/10/mollys-apple-tarte-tatin/"
+cover: "/images/recipes/mollys-apple-tarte-tatin.jpg"
 ---
 
 ## Ingredients

@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://www.washingtonpost.com/news/voraciously/wp/2019/11/13/these-warm-fluffy-pull-apart-dinner-rolls-are-bliss-to-eat-and-a-cinch-to-make/"
+cover: "/images/recipes/pillowy-pull-apart-dinner-rolls.jpg"
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ dietary:
   - EF
 source:
   url: "http://www.brandnewvegan.com/recipes/oatmeal-blueberry-muffins"
+cover: "/images/recipes/oatmeal-blueberry-muffins.jpg"
 ---
 
 ## Ingredients

@@ -13,6 +13,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2009/04/chocolate-caramel-crackers/"
+cover: "/images/recipes/chocolate-caramel-crackers.jpg"
 ---
 
 ## Ingredients

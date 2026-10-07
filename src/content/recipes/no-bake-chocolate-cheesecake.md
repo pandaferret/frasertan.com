@@ -8,6 +8,7 @@ dietary:
   - EF
 source:
   url: "https://www.thecookingfoodie.com/recipe/NoBake-Chocolate-Cheesecake-Recipe"
+cover: "/images/recipes/no-bake-chocolate-cheesecake.jpg"
 ---
 
 ## Ingredients

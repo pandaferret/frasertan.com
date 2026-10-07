@@ -11,6 +11,7 @@ tags:
 source:
   name: "Allrecipes"
   url: "https://www.allrecipes.com/recipe/229324/ground-beef-and-cabbage/"
+cover: "/images/recipes/ground-beef-and-cabbage.jpg"
 ---
 
 ## Ingredients

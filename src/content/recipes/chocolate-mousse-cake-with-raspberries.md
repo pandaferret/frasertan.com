@@ -5,6 +5,7 @@ categories:
   - Desserts
 source:
   url: "https://www.kingarthurbaking.com/recipes/chocolate-mousse-cake-with-raspberries-recipe?fbclid=IwAR0931Vd1FBNGb8DKUxR3eWrJOMYlG4VjqVD9LqGtpt3dv4Q9-26hLJArJ0"
+cover: "/images/recipes/chocolate-mousse-cake-with-raspberries.jpg"
 ---
 
 ## Ingredients

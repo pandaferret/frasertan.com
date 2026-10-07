@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "http://www.cooksillustrated.com/recipes/7776-british-style-currant-scones"
+cover: "/images/recipes/british-style-currant-scones.jpg"
 ---
 
 ## Ingredients

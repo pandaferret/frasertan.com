@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://smittenkitchen.com/2014/10/better-chocolate-babka/"
+cover: "/images/recipes/better-chocolate-babka.jpg"
 ---
 
 ## Ingredients

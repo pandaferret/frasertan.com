@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
+cover: "/images/recipes/chipotle-chopped-steak-salad.jpg"
 ---
 
 ## Ingredients

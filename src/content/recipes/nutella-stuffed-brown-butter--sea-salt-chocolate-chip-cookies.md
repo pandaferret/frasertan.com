@@ -7,6 +7,7 @@ subcategories:
   - Cookies
 source:
   url: "https://www.ambitiouskitchen.com/nutella-stuffed-brown-butter-sea-salt-chocolate-chip-cookies-my-favorite-cookie-ever/"
+cover: "/images/recipes/nutella-stuffed-brown-butter--sea-salt-chocolate-chip-cookies.jpg"
 ---
 
 ## Ingredients

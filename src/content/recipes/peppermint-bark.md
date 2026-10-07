@@ -13,6 +13,7 @@ dietary:
   - EF
 source:
   url: "http://allrecipes.com/recipe/185194/peppermint-bark/print/?recipeType=Recipe&servings=20"
+cover: "/images/recipes/peppermint-bark.jpg"
 ---
 
 ## Ingredients

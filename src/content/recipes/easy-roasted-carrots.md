@@ -11,6 +11,7 @@ dietary:
 source:
   name: "Spend With Pennies"
   url: "https://www.spendwithpennies.com/roasted-carrots/"
+cover: "/images/recipes/easy-roasted-carrots.jpg"
 ---
 
 ## Ingredients

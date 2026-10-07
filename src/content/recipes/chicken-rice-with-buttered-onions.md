@@ -9,6 +9,7 @@ tags:
   - Make Ahead
 source:
   url: "https://smittenkitchen.com/2023/09/chicken-rice-with-buttered-onions"
+cover: "/images/recipes/chicken-rice-with-buttered-onions.jpg"
 ---
 
 ## Ingredients

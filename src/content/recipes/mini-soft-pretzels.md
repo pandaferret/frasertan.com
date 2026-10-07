@@ -3,6 +3,7 @@ title: "Mini Soft Pretzels"
 description: "Another Smitten Kitchen hit!"
 categories:
   - Main Dishes
+cover: "/images/recipes/mini-soft-pretzels.jpg"
 ---
 
 ## Ingredients

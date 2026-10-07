@@ -11,6 +11,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2017/09/pizza-beans-cookbook-preview/"
+cover: "/images/recipes/pizza-beans.jpg"
 ---
 
 ## Ingredients

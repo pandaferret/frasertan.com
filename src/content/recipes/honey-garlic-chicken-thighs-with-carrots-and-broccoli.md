@@ -13,6 +13,7 @@ dietary:
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/recipe/276817/honey-garlic-chicken-thighs-with-carrots-broccoli/"
+cover: "/images/recipes/honey-garlic-chicken-thighs-with-carrots-and-broccoli.jpg"
 ---
 
 ## Ingredients

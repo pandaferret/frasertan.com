@@ -10,6 +10,7 @@ tags:
 dietary:
   - GF
   - DF*
+cover: "/images/recipes/peanut-butter-kiss-cookies.jpg"
 ---
 
 ## Ingredients

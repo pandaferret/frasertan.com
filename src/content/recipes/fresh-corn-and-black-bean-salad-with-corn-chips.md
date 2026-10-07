@@ -13,6 +13,7 @@ dietary:
 source:
   name: "NYT Cooking (Hetty Lui McKinnon)"
   url: "https://cooking.nytimes.com/recipes/1027095-fresh-corn-and-black-bean-salad-with-corn-chips"
+cover: "/images/recipes/fresh-corn-and-black-bean-salad-with-corn-chips.jpg"
 ---
 
 ## Ingredients

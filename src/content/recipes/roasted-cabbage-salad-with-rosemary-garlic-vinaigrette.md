@@ -12,6 +12,7 @@ dietary:
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/roasted-cabbage-salad-with-rosemary-garlic-vinaigrette-11831792"
+cover: "/images/recipes/roasted-cabbage-salad-with-rosemary-garlic-vinaigrette.jpg"
 ---
 
 ## Ingredients

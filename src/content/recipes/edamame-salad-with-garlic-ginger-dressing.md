@@ -10,6 +10,7 @@ dietary:
 source:
   name: "The Roasted Root"
   url: "https://www.theroastedroot.net/edamame-salad/"
+cover: "/images/recipes/edamame-salad-with-garlic-ginger-dressing.jpg"
 ---
 
 ## Ingredients

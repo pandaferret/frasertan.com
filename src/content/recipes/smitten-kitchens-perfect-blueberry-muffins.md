@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2010/08/perfect-blueberry-muffins/"
+cover: "/images/recipes/smitten-kitchens-perfect-blueberry-muffins.jpg"
 ---
 
 ## Ingredients

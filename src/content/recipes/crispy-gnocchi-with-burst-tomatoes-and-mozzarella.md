@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://cooking.nytimes.com/recipes/1022024-crispy-gnocchi-with-burst-tomatoes-and-mozzarella"
+cover: "/images/recipes/crispy-gnocchi-with-burst-tomatoes-and-mozzarella.jpg"
 ---
 
 ## Ingredients

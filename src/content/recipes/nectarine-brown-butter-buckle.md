@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
 source:
   url: "https://smittenkitchen.com/2010/07/nectarine-brown-butter-buckle/"
+cover: "/images/recipes/nectarine-brown-butter-buckle.jpg"
 ---
 
 ## Ingredients

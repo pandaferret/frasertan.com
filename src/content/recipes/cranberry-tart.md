@@ -11,6 +11,7 @@ dietary:
   - GF
 source:
   url: "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart"
+cover: "/images/recipes/cranberry-tart.jpg"
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://littlesunnykitchen.com/marry-me-chicken/#how_to_make_marry_me_chicken"
+cover: "/images/recipes/marry-me-chicken.jpg"
 ---
 
 ## Ingredients

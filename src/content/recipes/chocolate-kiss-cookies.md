@@ -11,6 +11,7 @@ tags:
 source:
   name: "Two Peas & Their Pod"
   url: "https://www.twopeasandtheirpod.com/chocolate-kiss-cookies/"
+cover: "/images/recipes/chocolate-kiss-cookies.jpg"
 ---
 
 ## Ingredients

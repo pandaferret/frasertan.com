@@ -13,6 +13,7 @@ dietary:
 source:
   name: "Dinner at the Zoo"
   url: "https://www.dinneratthezoo.com/grilled-swordfish/"
+cover: "/images/recipes/grilled-swordfish.jpg"
 ---
 
 ## Ingredients

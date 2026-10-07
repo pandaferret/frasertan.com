@@ -7,6 +7,7 @@ dietary:
   - GF
 source:
   url: "https://smittenkitchen.com/2011/04/heavenly-chocolate-cake-roll/"
+cover: "/images/recipes/heavenly-chocolate-cake-roll.jpg"
 ---
 
 ## Ingredients

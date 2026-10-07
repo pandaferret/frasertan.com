@@ -9,6 +9,7 @@ dietary:
   - EF
 source:
   url: "https://smittenkitchen.com/2008/12/pecan-sandies/"
+cover: "/images/recipes/pecan-sandies.jpg"
 ---
 
 ## Ingredients

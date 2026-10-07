@@ -8,6 +8,7 @@ subcategories:
   - Fish
 source:
   url: "https://cooking.nytimes.com/recipes/1020045-coconut-miso-salmon-curry"
+cover: "/images/recipes/coconut-miso-salmon-curry.jpg"
 ---
 
 ## Ingredients

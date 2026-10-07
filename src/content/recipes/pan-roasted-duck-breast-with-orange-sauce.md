@@ -13,6 +13,7 @@ dietary:
 source:
   name: "Serious Eats"
   url: "https://www.seriouseats.com/pan-seared-duck-breast"
+cover: "/images/recipes/pan-roasted-duck-breast-with-orange-sauce.jpg"
 ---
 
 ## Ingredients

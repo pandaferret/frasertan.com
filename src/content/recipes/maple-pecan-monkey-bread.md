@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://cooking.nytimes.com/recipes/1019544-maple-pecan-monkey-bread?fbclid=IwAR1hPIPgiMZQTGbOVGtHyqyZjHCFsrW-DfhZCnadgJj8Qmd1X3C5LsN5ly8"
+cover: "/images/recipes/maple-pecan-monkey-bread.jpg"
 ---
 
 ## Ingredients

@@ -9,6 +9,7 @@ dietary:
   - GF
 source:
   url: "https://www.americastestkitchen.com/recipes/5279-turkey-breast-en-cocotte-with-pan-gravy?sqn=CAPdxese8Ps83U7nDwFfqefS6rUMoSSqVNOOCBjAVXo%3D%0A&extcode=NSAKB09FB&utm_source=facebook&utm_medium=photo&utm_content=turkeyencocotte&utm_campaign=atkseason18#"
+cover: "/images/recipes/turkey-breast-en-cocotte.jpg"
 ---
 
 ## Ingredients

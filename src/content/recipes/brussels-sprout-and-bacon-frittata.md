@@ -11,6 +11,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2020/12/brussels-sprout-and-bacon-frittata/"
+cover: "/images/recipes/brussels-sprout-and-bacon-frittata.jpg"
 ---
 
 ## Ingredients

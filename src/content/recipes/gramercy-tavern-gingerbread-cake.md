@@ -9,6 +9,7 @@ dietary:
   - DF
 source:
   url: "https://smittenkitchen.com/2008/12/gramercy-taverns-gingerbread/"
+cover: "/images/recipes/gramercy-tavern-gingerbread-cake.jpg"
 ---
 
 ## Ingredients

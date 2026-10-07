@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe"
+cover: "/images/recipes/japanese-milk-bread-rolls.jpg"
 ---
 
 ## Ingredients

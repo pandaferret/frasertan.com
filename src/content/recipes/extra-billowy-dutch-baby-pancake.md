@@ -7,6 +7,7 @@ categories:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2019/03/extra-billowy-dutch-baby-pancake/"
+cover: "/images/recipes/extra-billowy-dutch-baby-pancake.jpg"
 ---
 
 ## Ingredients

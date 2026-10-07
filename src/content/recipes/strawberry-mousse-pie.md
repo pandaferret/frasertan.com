@@ -8,6 +8,7 @@ subcategories:
 source:
   name: "Chocolate Creme Pie or a shortbread or graham cracker crust."
   url: "https://www.themarblekitchen.com/strawberry-mousse-pie/"
+cover: "/images/recipes/strawberry-mousse-pie.jpg"
 ---
 
 ## Ingredients

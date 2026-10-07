@@ -11,6 +11,7 @@ tags:
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/red-velvet-crinkle-cookies/"
+cover: "/images/recipes/red-velvet-crinkle-cookies.jpg"
 ---
 
 ## Ingredients

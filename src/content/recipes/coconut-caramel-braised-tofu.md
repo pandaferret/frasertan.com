@@ -14,6 +14,7 @@ dietary:
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1023803-coconut-caramel-braised-tofu"
+cover: "/images/recipes/coconut-caramel-braised-tofu.jpg"
 ---
 
 ## Ingredients

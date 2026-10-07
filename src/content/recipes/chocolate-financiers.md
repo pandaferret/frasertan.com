@@ -7,6 +7,7 @@ dietary:
   - GF
 source:
   url: "https://smittenkitchen.com/2007/10/gluten-free-chocolate-financiers/"
+cover: "/images/recipes/chocolate-financiers.jpg"
 ---
 
 ## Ingredients

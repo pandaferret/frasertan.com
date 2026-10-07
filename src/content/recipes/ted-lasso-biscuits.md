@@ -12,6 +12,7 @@ dietary:
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/ted-lasso-biscuits/"
+cover: "/images/recipes/ted-lasso-biscuits.jpg"
 ---
 
 ## Ingredients

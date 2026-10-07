@@ -7,6 +7,7 @@ subcategories:
   - Pies and Tarts
 source:
   url: "https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/"
+cover: "/images/recipes/extra-flaky-pie-crust.jpg"
 ---
 
 ## Ingredients

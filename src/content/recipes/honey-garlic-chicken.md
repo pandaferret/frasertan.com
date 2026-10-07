@@ -8,6 +8,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://cooking.nytimes.com/recipes/1025319-honey-garlic-chicken"
+cover: "/images/recipes/honey-garlic-chicken.jpg"
 ---
 
 ## Ingredients

@@ -12,6 +12,7 @@ dietary:
   - GF
 source:
   url: "https://www.thekitchn.com/pan-seared-salmon-22947824"
+cover: "/images/recipes/garlic-butter-pan-seared-salmon.jpg"
 ---
 
 ## Ingredients

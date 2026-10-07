@@ -7,6 +7,7 @@ categories:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2024/05/perfect-blueberry-muffin-loaf/"
+cover: "/images/recipes/perfect-blueberry-muffin-loaf.jpg"
 ---
 
 ## Ingredients
