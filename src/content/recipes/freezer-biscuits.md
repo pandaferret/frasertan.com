@@ -9,19 +9,15 @@ dietary:
 
 ## Ingredients
 
-30 oz (6 c) all-purpose flour
+- 30 oz (6 c) all-purpose flour
 
-## Instructions
+## Directions
 
-Whisk together the flour, sugar, baking powder and salt in a bowl. Stir in the cream with a wooden spoon until a shaggy dough forms, about half a minute.
-
-Lightly flour the countertop. Turn the dough out onto the countertop and knead briefly until smooth, about a minute. Add flour only as needed.
-
-Pat the dough into a disk roughly 0.75" thick. Punch out as many rounds as possible using a 2.5" biscuit cutter. Gather the scraps and pat back into a circle, and punch more biscuits. Repeat one last time to get as many biscuits as possible.
-
-Lay the biscuits in a single layer on a rimmed baking sheet lined with parchment paper. Wrap in greased plastic wrap and freeze until biscuits are solid, about 6 hours. Transfer to a ziploc bag for storage up to 1 month.
-
-To bake, preheat the oven to 450°F. Bake the biscuits straight from the freezer until puffed and golden, 20 to 25 minutes.
+1. Whisk together the flour, sugar, baking powder and salt in a bowl. Stir in the cream with a wooden spoon until a shaggy dough forms, about half a minute.
+2. Lightly flour the countertop. Turn the dough out onto the countertop and knead briefly until smooth, about a minute. Add flour only as needed.
+3. Pat the dough into a disk roughly 0.75" thick. Punch out as many rounds as possible using a 2.5" biscuit cutter. Gather the scraps and pat back into a circle, and punch more biscuits. Repeat one last time to get as many biscuits as possible.
+4. Lay the biscuits in a single layer on a rimmed baking sheet lined with parchment paper. Wrap in greased plastic wrap and freeze until biscuits are solid, about 6 hours. Transfer to a ziploc bag for storage up to 1 month.
+5. To bake, preheat the oven to 450°F. Bake the biscuits straight from the freezer until puffed and golden, 20 to 25 minutes.
 
 ## Notes
 

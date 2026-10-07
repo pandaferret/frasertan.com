@@ -13,19 +13,16 @@ source:
 
 ## Ingredients
 
-1 onion, halved and sliced thin
-Salt and pepper
-12 ounces 85 percent lean ground beef
-1 tablespoon unsalted butter
-1 teaspoon vegetable oil
-4 hamburger buns, toasted
+- 1 onion, halved and sliced thin
+- Salt and pepper
+- 12 ounces 85 percent lean ground beef
+- 1 tablespoon unsalted butter
+- 1 teaspoon vegetable oil
+- 4 hamburger buns, toasted
 
-## Instructions
+## Directions
 
-Combine onion slices and 1 teaspoon salt in colander and let sit for 30 minutes, tossing occasionally. Transfer to clean dish towel, gather edges, and squeeze onion slices dry.
-
-Spread onion slices on rimmed baking sheet, sprinkle with ½ teaspoon pepper, and toss to combine. Divide onion mixture into four 2-inch mounds. Divide ground beef into 4 lightly packed balls. Place balls on top of onion mounds and flatten beef firmly so onion adheres and patties measure 4 inches in diameter.
-
-Heat 12-inch cast-iron skillet over medium heat for 5 minutes. Add butter and oil and heat until butter is melted. Using spatula, place patties onion side down in skillet. Reduce heat to medium-low and cook until onion is deep golden brown and beginning to crisp around edges, 5 to 7 minutes.
-
-Flip burgers and continue to cook until lightly browned on second side, about 2 minutes. Place on bun tops. Serve.
+1. Combine onion slices and 1 teaspoon salt in colander and let sit for 30 minutes, tossing occasionally. Transfer to clean dish towel, gather edges, and squeeze onion slices dry.
+2. Spread onion slices on rimmed baking sheet, sprinkle with ½ teaspoon pepper, and toss to combine. Divide onion mixture into four 2-inch mounds. Divide ground beef into 4 lightly packed balls. Place balls on top of onion mounds and flatten beef firmly so onion adheres and patties measure 4 inches in diameter.
+3. Heat 12-inch cast-iron skillet over medium heat for 5 minutes. Add butter and oil and heat until butter is melted. Using spatula, place patties onion side down in skillet. Reduce heat to medium-low and cook until onion is deep golden brown and beginning to crisp around edges, 5 to 7 minutes.
+4. Flip burgers and continue to cook until lightly browned on second side, about 2 minutes. Place on bun tops. Serve.

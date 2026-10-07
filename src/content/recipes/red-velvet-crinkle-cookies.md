@@ -31,7 +31,7 @@ For the coating:
 - 1/2 cup granulated sugar
 - 1/2 cup powdered sugar
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 350°F and line a baking sheet with parchment paper. Set aside.
 2. Cream the butter, brown sugar, and granulated sugar together in a large bowl until light and fluffy. Scrape down the bowl and add the eggs one at a time, beating between each addition. Add the vanilla and red food coloring, and mix well.

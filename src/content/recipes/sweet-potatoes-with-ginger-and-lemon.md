@@ -7,17 +7,17 @@ categories:
 
 ## Ingredients
 
-2 pounds sweet potatoes
-2 tablespoons canola oil
-1/2 teaspoon mustard seeds
-2 small green serrano chiles, cut horizontally in half
-1 medium red onion, finely chopped (about 1 1/2 cups)
-1 teaspoon freshly grated ginger (about 2" piece)
-1/2 teaspoon ground turmeric
-1/2 to 3/4 teaspoon salt
-2 tablespoons lemon juice, or to taste
+- 2 pounds sweet potatoes
+- 2 tablespoons canola oil
+- 1/2 teaspoon mustard seeds
+- 2 small green serrano chiles, cut horizontally in half
+- 1 medium red onion, finely chopped (about 1 1/2 cups)
+- 1 teaspoon freshly grated ginger (about 2" piece)
+- 1/2 teaspoon ground turmeric
+- 1/2 to 3/4 teaspoon salt
+- 2 tablespoons lemon juice, or to taste
 
-## Instructions
+## Directions
 
 1. Boil the sweet potatoes in water to cover until just tender. Cool, peel, and cut into 1" pieces.
 

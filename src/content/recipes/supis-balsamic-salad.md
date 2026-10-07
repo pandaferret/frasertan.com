@@ -9,17 +9,16 @@ tags:
 
 ## Ingredients
 
-Greens of your choice
-feta crumbles
-avocado
-cherry tomatoes
-scallions
-carrots
-cucumber
-Brianna's Creamy Balsamic Vinaigrette
+- Greens of your choice
+- feta crumbles
+- avocado
+- cherry tomatoes
+- scallions
+- carrots
+- cucumber
+- Brianna's Creamy Balsamic Vinaigrette
 
-## Instructions
+## Directions
 
-Cut the avocado into chunks; halve the cherry tomatoes. Chop the scallions, carrots and cucumber into salad sized pieces.
-
-Toss the greens with the avocado, cherry tomatoes, scallions, carrots, cucumbers and feta crumbles. Dress generously to taste and toss again. Serve and devour.
+1. Cut the avocado into chunks; halve the cherry tomatoes. Chop the scallions, carrots and cucumber into salad sized pieces.
+2. Toss the greens with the avocado, cherry tomatoes, scallions, carrots, cucumbers and feta crumbles. Dress generously to taste and toss again. Serve and devour.

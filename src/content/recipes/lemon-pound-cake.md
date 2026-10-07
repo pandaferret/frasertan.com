@@ -8,26 +8,27 @@ categories:
 ## Ingredients
 
 Cake:
-1 cup butter (no substitutes), softened
-3 cups sugar
-6 eggs
-5 tablespoons lemon juice
-1 tablespoon grated lemon peel
-2 teaspoon lemon extract
-3 cups all-purpose flour
-1/2 teaspoon baking soda
-1/4 teaspoon salt
-1 1/4 cups sour cream
+
+- 1 cup butter (no substitutes), softened
+- 3 cups sugar
+- 6 eggs
+- 5 tablespoons lemon juice
+- 1 tablespoon grated lemon peel
+- 2 teaspoon lemon extract
+- 3 cups all-purpose flour
+- 1/2 teaspoon baking soda
+- 1/4 teaspoon salt
+- 1 1/4 cups sour cream
+
 Glaze:
-1/4 cup sour cream
-2 tablespoons butter, softened
-2 1/2 cups confectioners' sugar
-5 tablespoons lemon juice
 
-## Instructions
+- 1/4 cup sour cream
+- 2 tablespoons butter, softened
+- 2 1/2 cups confectioners' sugar
+- 5 tablespoons lemon juice
 
-In a large mixing bowl, cream butter and sugar until light and fluffy, about 5 minutes. Add eggs, one at a time, beating well after each addition. Stir in lemon juice, peel and extract. Sift the flour, baking soda and salt; add to the creamed mixture alternately with sour cream. Beat just until combined.
+## Directions
 
-Pour into a greased and floured 10-in. fluted tube pan. Bake at 350 degrees F for 60 to 80 minutes or until a toothpick inserted near the center comes out clean. Cool for 10 minutes before removing from pan to a wire rack to cool completely.
-
-For glaze, in a small mixing bowl, beat the sour cream and butter until blended. Gradually add confectioners' sugar. Beat in lemon juice. Drizzle over the cake. Store leftover cake in the refrigerator.
+1. In a large mixing bowl, cream butter and sugar until light and fluffy, about 5 minutes. Add eggs, one at a time, beating well after each addition. Stir in lemon juice, peel and extract. Sift the flour, baking soda and salt; add to the creamed mixture alternately with sour cream. Beat just until combined.
+2. Pour into a greased and floured 10-in. fluted tube pan. Bake at 350 degrees F for 60 to 80 minutes or until a toothpick inserted near the center comes out clean. Cool for 10 minutes before removing from pan to a wire rack to cool completely.
+3. For glaze, in a small mixing bowl, beat the sour cream and butter until blended. Gradually add confectioners' sugar. Beat in lemon juice. Drizzle over the cake. Store leftover cake in the refrigerator.

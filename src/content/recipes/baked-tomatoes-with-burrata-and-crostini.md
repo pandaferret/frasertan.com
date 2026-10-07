@@ -23,7 +23,7 @@ source:
 - (optional) Fresh basil and crushed red pepper flakes, for garnish
 - Baguette
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 400°.
 2. Add the tomatoes, olive oil, garlic, thyme, red pepper flakes, salt and pepper to an 8x8 or 9x13 pan (depending on how many tomatoes you have). Bake for 40-50 minutes until the tomatoes are well roasted and have split - you may have to mash them about halfway through.

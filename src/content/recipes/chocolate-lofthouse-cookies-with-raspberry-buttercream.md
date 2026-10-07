@@ -35,7 +35,7 @@ For the frosting:
 - 1 teaspoon vanilla extract
 - Pinch of kosher salt
 
-## Instructions
+## Directions
 
 Make the cookies:
 

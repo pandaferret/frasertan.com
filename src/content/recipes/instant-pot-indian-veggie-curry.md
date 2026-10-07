@@ -16,25 +16,25 @@ source:
 
 ## Ingredients
 
-3tablespoons vegetable oil
-2onions, chopped fine
-Salt and pepper
-4teaspoon curry powder
-1 ½teaspoon garam masala
-3garlic clove, minced
-1serrano chile, stemmed, seeded, and minced
-1tablespoon grated fresh ginger
-1tablespoon tomato paste
-2cups chicken or vegetable broth, plus extra as needed
-½head cauliflower (1 pound), cored and cut into 1-inch florets
-12ounces sweet potatoes, peeled and cut into 3/4-inch pieces
-1(15-ounce) can chickpeas, rinsed
-1(14.5-ounce) can diced tomatoes
-8ounces green beans, trimmed and cut into 1-inch lengths
-1cup canned coconut milk
-⅓cup minced fresh cilantro
+- 3tablespoons vegetable oil
+- 2onions, chopped fine
+- Salt and pepper
+- 4teaspoon curry powder
+- 1 ½teaspoon garam masala
+- 3garlic clove, minced
+- 1serrano chile, stemmed, seeded, and minced
+- 1tablespoon grated fresh ginger
+- 1tablespoon tomato paste
+- 2cups chicken or vegetable broth, plus extra as needed
+- ½head cauliflower (1 pound), cored and cut into 1-inch florets
+- 12ounces sweet potatoes, peeled and cut into 3/4-inch pieces
+- 1(15-ounce) can chickpeas, rinsed
+- 1(14.5-ounce) can diced tomatoes
+- 8ounces green beans, trimmed and cut into 1-inch lengths
+- 1cup canned coconut milk
+- ⅓cup minced fresh cilantro
 
-## Instructions
+## Directions
 
 If you prepare this recipe using the pressure cook setting, it will take 45 minutes. If you prepare this recipe using the slow cook setting, it will take 5 hours 30 minutes. 1. Using highest sauté or browning function, heat oil in multicooker until shimmering. Add onions and teaspoon salt and cook until onions are softened, 3 to 5 minutes. Stir in curry powder, garam masala, garlic, serrano, ginger, and tomato paste and cook until fragrant, about 1 minute. Stir in broth, scraping up any browned bits, then stir in cauliflower, potatoes, chickpeas, and tomatoes and their juice.
 

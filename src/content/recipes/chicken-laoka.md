@@ -16,10 +16,9 @@ tags:
 - Onions, diced
 - Olive oil
 - Salt and pepper
+- Use a ratio of about 2 lbs of chicken to 1-1.5 medium onions to 1 small to medium tomato. A big batch is about 4 lbs of chicken, 3 medium onions and 3 medium tomatoes.
 
-Use a ratio of about 2 lbs of chicken to 1-1.5 medium onions to 1 small to medium tomato. A big batch is about 4 lbs of chicken, 3 medium onions and 3 medium tomatoes.
-
-## Instructions
+## Directions
 
 1. Salt the chicken, then brown on high heat in olive oil. Do it in batches if you have time, otherwise just throw it all in.
 2. Turn heat down to medium-medium low. Add finely diced onion and roughly diced tomatoes. Add a generous amount of olive oil.

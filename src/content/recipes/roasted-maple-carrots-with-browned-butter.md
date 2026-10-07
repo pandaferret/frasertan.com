@@ -9,13 +9,13 @@ source:
 
 ## Ingredients
 
-2 pounds baby carrots (two 16-ounce bags)
-1 ½teaspoons olive oil
-½ teaspoon table salt
-1 tablespoon butter
-1 tablespoon maple syrup
+- 2 pounds baby carrots (two 16-ounce bags)
+- 1 ½teaspoons olive oil
+- ½ teaspoon table salt
+- 1 tablespoon butter
+- 1 tablespoon maple syrup
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 475 degrees. Toss carrots, oil, and salt in broiler-pan bottom. Spread into single layer and roast 10 minutes.
 

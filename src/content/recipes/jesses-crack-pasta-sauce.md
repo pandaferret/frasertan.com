@@ -8,19 +8,18 @@ categories:
 
 ## Ingredients
 
-olive oil
-minced garlic
-A pound or so of good Italian sausage, decased
-half a bottle of wine
-a can of diced or crushed tomatoes, or 4 whole tomatoes, chopped
-2 medium onions, sliced into half moons
-1 cup grated parmesan cheese
-1 cup heavy cream
-Equipment
+- olive oil
+- minced garlic
+- A pound or so of good Italian sausage, decased
+- half a bottle of wine
+- a can of diced or crushed tomatoes, or 4 whole tomatoes, chopped
+- 2 medium onions, sliced into half moons
+- 1 cup grated parmesan cheese
+- 1 cup heavy cream
 
-## Instructions
+## Directions
 
-"In a broad pan and in stream of consciousness: brown garlic in olive oil, cook uncased Italian sausage and crumble it with a wooden spoon, add onion/salt/pepper/re pepper and saute until soft and a little caramelized, add half a bottle of wine of your choice (I prefer cabs or malbecs) and drink the other half, simmer until thick, add diced tomatoes or a large can of diced tomatoes, simmer until cooked down. You could stop there, but the recipe then calls for a cup of grated parmesan and then a cup of heavy cream. Both are optional, but wonderful. If you don't do the parmesan, be sure to add enough salt to cut the acidity of the tomatoes. Serve on rotini or other pasta that takes sauce well. I often use the extra thick leftovers on toast the next morning. Regarding quantities: the ratios matter little and are really dependent on how much you can fit in your pan. Start with about a pound of sausage, one really large or two medium onions, and 4 to 5 tomatoes or a 32 oz can of diced tomatoes. It's a slower recipe, so expect to take an hour for all the simmering."
+1. "In a broad pan and in stream of consciousness: brown garlic in olive oil, cook uncased Italian sausage and crumble it with a wooden spoon, add onion/salt/pepper/re pepper and saute until soft and a little caramelized, add half a bottle of wine of your choice (I prefer cabs or malbecs) and drink the other half, simmer until thick, add diced tomatoes or a large can of diced tomatoes, simmer until cooked down. You could stop there, but the recipe then calls for a cup of grated parmesan and then a cup of heavy cream. Both are optional, but wonderful. If you don't do the parmesan, be sure to add enough salt to cut the acidity of the tomatoes. Serve on rotini or other pasta that takes sauce well. I often use the extra thick leftovers on toast the next morning. Regarding quantities: the ratios matter little and are really dependent on how much you can fit in your pan. Start with about a pound of sausage, one really large or two medium onions, and 4 to 5 tomatoes or a 32 oz can of diced tomatoes. It's a slower recipe, so expect to take an hour for all the simmering."
 
 ## Notes
 

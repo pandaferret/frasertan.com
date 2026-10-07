@@ -14,11 +14,11 @@ source:
 
 ## Ingredients
 
-1 cup heavy whipping cream, chilled
-1/4 cup sour cream, chilled
-2 tbsp brown sugar
-1/8 tsp vanilla extract
+- 1 cup heavy whipping cream, chilled
+- 1/4 cup sour cream, chilled
+- 2 tbsp brown sugar
+- 1/8 tsp vanilla extract
 
-## Instructions
+## Directions
 
-Whip all ingredients together on medium-low until foamy. Increase speed to medium-high and whip until soft peaks form.
+1. Whip all ingredients together on medium-low until foamy. Increase speed to medium-high and whip until soft peaks form.

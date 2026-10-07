@@ -25,7 +25,7 @@ source:
 - 2 lbs Christmas M&Ms
 - 1 lb reindeer corn
 
-## Instructions
+## Directions
 
 1. Preheat oven to 250°. Set up two cookie sheets (no grease, no lining).
 2. Mix up the pretzels, peanuts and goldfish and divide evenly between the two cookie sheets.

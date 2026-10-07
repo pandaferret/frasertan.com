@@ -26,7 +26,7 @@ source:
 - Chopped fresh parsley leaves and tender stems
 - Flaky salt and freshly cracked black pepper
 
-## Instructions
+## Directions
 
 1. In a large bowl, mix together the olive oil and soy sauce. Add the meat, tossing to coat. Let sit on the counter for 30 minutes or in the refrigerator for 1 hour or overnight, stirring occasionally.
 2. Heat a large (12-inch) cast-iron or heavyweight skillet over medium-high for 2 minutes, until very hot. Using a slotted spoon, add the steak bites in a single layer, shaking off any excess marinade. Work in batches, if needed, to avoid crowding the pan. Cook until browned, 5 to 6 minutes, using tongs to turn over the pieces when they easily release from the pan.

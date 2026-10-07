@@ -4,27 +4,27 @@ description: "Souffles have a reputation for being delicate, but that's very far
 categories:
   - Main Dishes
 source:
-  name: "Cook's Illustrated:MYTH: The soufflé will collapse from loud noises or sudden movements.REALITY: Steam will keep a hot soufflé fully inflated. No loud noise or slamming of the oven door can change that.MYTH: The egg whites must be gently folded into the base.REALITY: Egg whites whipped to stiff peaks will have ample structure to handle aggressive beating, even in a stand mixer.MYTH: Prodding to check doneness will make it collapse.REALITY: A soufflé is not a balloon; it’s a matrix of very fine bubbles. No tool can pop enough of them to cause it to fall.MYTH: You can’t make a fallen soufflé rise again.REALITY: Yes, your soufflé will fall after it’s been out of the oven for about 5 minutes. But returning it to a 350-degree oven will convert the water back into steam and reinflate it (it will lose about ½ inch of height)."
+  name: "Cook's Illustrated"
   url: "https://www.cooksillustrated.com/recipes/7670-cheese-souffle?incode=MCSCD00L0&ref=new_search_experience_1"
 ---
 
 ## Ingredients
 
-1ounce Parmesan cheese, grated (1/2 cup)
-¼cup (1 1/4 ounces) all-purpose flour
-¼teaspoon paprika
-¼teaspoon salt
-⅛teaspoon cayenne pepper
-⅛teaspoon white pepper
-Pinch ground nutmeg
-4tablespoons unsalted butter
-1 ⅓cups whole milk
-6ounces Gruyère cheese, shredded (1 1/2 cups)
-6large eggs, separated
-2teaspoons minced fresh parsley
-¼teaspoon cream of tartar
+- 1ounce Parmesan cheese, grated (1/2 cup)
+- ¼cup (1 1/4 ounces) all-purpose flour
+- ¼teaspoon paprika
+- ¼teaspoon salt
+- ⅛teaspoon cayenne pepper
+- ⅛teaspoon white pepper
+- Pinch ground nutmeg
+- 4tablespoons unsalted butter
+- 1 ⅓cups whole milk
+- 6ounces Gruyère cheese, shredded (1 1/2 cups)
+- 6large eggs, separated
+- 2teaspoons minced fresh parsley
+- ¼teaspoon cream of tartar
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 350 degrees. Spray 8-inch round (2-quart) soufflé dish with vegetable oil spray, then sprinkle with 2 tablespoons Parmesan.
 
@@ -36,11 +36,7 @@ Pinch ground nutmeg
 
 ## Notes
 
-- MYTH: The soufflé will collapse from loud noises or sudden movements.REALITY: Steam will keep a hot soufflé fully inflated. No loud noise or slamming of the oven door can change that.
-- REALITY: Steam will keep a hot soufflé fully inflated. No loud noise or slamming of the oven door can change that.
-- MYTH: The egg whites must be gently folded into the base.REALITY: Egg whites whipped to stiff peaks will have ample structure to handle aggressive beating, even in a stand mixer.
-- REALITY: Egg whites whipped to stiff peaks will have ample structure to handle aggressive beating, even in a stand mixer.
-- MYTH: Prodding to check doneness will make it collapse.REALITY: A soufflé is not a balloon; it’s a matrix of very fine bubbles. No tool can pop enough of them to cause it to fall.
-- REALITY: A soufflé is not a balloon; it’s a matrix of very fine bubbles. No tool can pop enough of them to cause it to fall.
-- MYTH: You can’t make a fallen soufflé rise again.REALITY: Yes, your soufflé will fall after it’s been out of the oven for about 5 minutes. But returning it to a 350-degree oven will convert the water back into steam and reinflate it (it will lose about ½ inch of height).
-- REALITY: Yes, your soufflé will fall after it’s been out of the oven for about 5 minutes. But returning it to a 350-degree oven will convert the water back into steam and reinflate it (it will lose about ½ inch of height).
+- MYTH: The soufflé will collapse from loud noises or sudden movements. REALITY: Steam will keep a hot soufflé fully inflated. No loud noise or slamming of the oven door can change that.
+- MYTH: The egg whites must be gently folded into the base. REALITY: Egg whites whipped to stiff peaks will have ample structure to handle aggressive beating, even in a stand mixer.
+- MYTH: Prodding to check doneness will make it collapse. REALITY: A soufflé is not a balloon; it’s a matrix of very fine bubbles. No tool can pop enough of them to cause it to fall.
+- MYTH: You can’t make a fallen soufflé rise again. REALITY: Yes, your soufflé will fall after it’s been out of the oven for about 5 minutes. But returning it to a 350-degree oven will convert the water back into steam and reinflate it (it will lose about ½ inch of height).

@@ -6,29 +6,25 @@ categories:
 dietary:
   - GF
 source:
-  name: "the fridge, but will need to bake 1 to 2 minutes longer. When I did this, it worked great!"
   url: "https://smittenkitchen.com/2019/02/chocolate-puddle-cakes/"
 ---
 
 ## Ingredients
 
-4 tablespoons (55 grams) unsalted butter, cut into chunks, plus more for dishes
-2 teaspoons cocoa powder, plus more for dusting
-3 ounces (85 grams) bittersweet chocolate, roughly chopped
-1/8 teaspoon fine sea salt or a couple pinches of flaky salt
-2 tablespoons (13 to 25 grams) granulated sugar
-1 large egg
-1 egg yolk
+- 4 tablespoons (55 grams) unsalted butter, cut into chunks, plus more for dishes
+- 2 teaspoons cocoa powder, plus more for dusting
+- 3 ounces (85 grams) bittersweet chocolate, roughly chopped
+- 1/8 teaspoon fine sea salt or a couple pinches of flaky salt
+- 2 tablespoons (13 to 25 grams) granulated sugar
+- 1 large egg
+- 1 egg yolk
 
-## Instructions
+## Directions
 
-Heat oven to 450 degrees F. Butter two 6-ounce ramekins or baking cups, making sure not to miss any spots. Spoon a little cocoa powder in each and pat it around so it coats the bottom and sides, then knock the excess out.
-
-Place 4 tablespoons butter and chocolate in a medium heatproof bowl and — either in the microwave or set over a pot of gently simmering water — melt the butter and chocolate about two-thirds of the way, then whisk until it finishes melting.
-
-Whisk in sugar and salt. Whisk in egg and yolk and beat a good 20 to 30 extra times, to ensure mixture is smooth, glossy, and a bit lightened. Add 2 teaspoons cocoa powder and whisk until combined.
-
-Divide between two baking dishes. Bake 7 to 9 minutes (7 will be the most molten in the center, 9 the least but still gooey) and transfer to a cooling rack for 1 minute. Wearing pot holders, place a small dessert plate over your first ramekin. Flip it onto the plate, count to ten, then lift the cup off. Repeat with second cake. Dust with cocoa powder or powdered sugar. Serve with barely sweetened whipped cream, a little ice cream, berries, or absolutely nothing at all. Eat immediately.
+1. Heat oven to 450 degrees F. Butter two 6-ounce ramekins or baking cups, making sure not to miss any spots. Spoon a little cocoa powder in each and pat it around so it coats the bottom and sides, then knock the excess out.
+2. Place 4 tablespoons butter and chocolate in a medium heatproof bowl and — either in the microwave or set over a pot of gently simmering water — melt the butter and chocolate about two-thirds of the way, then whisk until it finishes melting.
+3. Whisk in sugar and salt. Whisk in egg and yolk and beat a good 20 to 30 extra times, to ensure mixture is smooth, glossy, and a bit lightened. Add 2 teaspoons cocoa powder and whisk until combined.
+4. Divide between two baking dishes. Bake 7 to 9 minutes (7 will be the most molten in the center, 9 the least but still gooey) and transfer to a cooling rack for 1 minute. Wearing pot holders, place a small dessert plate over your first ramekin. Flip it onto the plate, count to ten, then lift the cup off. Repeat with second cake. Dust with cocoa powder or powdered sugar. Serve with barely sweetened whipped cream, a little ice cream, berries, or absolutely nothing at all. Eat immediately.
 
 ## Notes
 

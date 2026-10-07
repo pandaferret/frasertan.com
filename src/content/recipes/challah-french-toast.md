@@ -6,32 +6,29 @@ yield: "Serves 3-4"
 categories:
   - Breakfast
 source:
-  name: "ATK Best RecipesNotes:I usually double this recipe for an entire loaf of challah.I break out my two-burner griddle for this recipe: it's non-stick, so I don't even bother with buttering it. The butter in the batter does the job!Also, ALWAYS add cinnamon :)* The original recipe quotes 40 seconds, but this made my bread literally disintegrate. Use your discretion based on the structural solidity of your particular loaf. I also prefer a not-too-custardy interior. For chewier breads like French of Italian, omit the melted butter, increase the milk to 1 cup and reduce the flour to 1 tablespoon."
+  name: "ATK Best Recipes"
 ---
 
 ## Ingredients
 
-1 large egg
-2 tablespoons butter, melted and cooled
-3/4 cup milk
-2 teaspoons vanilla extract
-2 tablespoons sugar
-1/3 cup unbleached all-purpose flour
-1/4 tsp salt
-4-5 sliced day-old challah, 3/4" thick
-or
-6-8 slices day-old high-quality sandwich bread
-unsalted butter, for frying
+- 1 large egg
+- 2 tablespoons butter, melted and cooled
+- 3/4 cup milk
+- 2 teaspoons vanilla extract
+- 2 tablespoons sugar
+- 1/3 cup unbleached all-purpose flour
+- 1/4 tsp salt
+- 4-5 sliced day-old challah, 3/4" thick
+- or
+- 6-8 slices day-old high-quality sandwich bread
+- unsalted butter, for frying
 
-## Instructions
+## Directions
 
-Heat a 10- to 12-inch skillet (preferably cast iron) over medium heat for 5 minutes.
-
-Meanwhile, beat the egg in a shallow pie plate or pan lightly; whisk in the melted butter, then the milk and vanilla, and finally the sugar flour and salt, whisking until smooth.
-
-Soak the bread without oversaturating, about 15 seconds per side\*. Let excess batter drip off then set aside on a plate. Repeat with remaining slices.
-
-Swirl 1 tablespoon butter in the prepared skillet. Add prepare bread to skillet in a single layer; cook until golden brown, about 1 minute and 45 seconds on the first side and 1 minute on the second. Serve the French toast immediately. Continue, adding 1 tablespoon butter, for each new batch.
+1. Heat a 10- to 12-inch skillet (preferably cast iron) over medium heat for 5 minutes.
+2. Meanwhile, beat the egg in a shallow pie plate or pan lightly; whisk in the melted butter, then the milk and vanilla, and finally the sugar flour and salt, whisking until smooth.
+3. Soak the bread without oversaturating, about 15 seconds per side\*. Let excess batter drip off then set aside on a plate. Repeat with remaining slices.
+4. Swirl 1 tablespoon butter in the prepared skillet. Add prepare bread to skillet in a single layer; cook until golden brown, about 1 minute and 45 seconds on the first side and 1 minute on the second. Serve the French toast immediately. Continue, adding 1 tablespoon butter, for each new batch.
 
 ## Notes
 

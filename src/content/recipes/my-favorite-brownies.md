@@ -26,7 +26,7 @@ source:
 - 8 oz (226g) bittersweet chocolate, chopped
 - 1/4 cup (25g) Dutch-processed cocoa powder
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and preheat oven to 350°. Grease and parchment-line a 9x13 pan.
 2. In a small bowl, whisk together the flour, salt and baking powder.

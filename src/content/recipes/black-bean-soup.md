@@ -29,7 +29,7 @@ source:
 - 1 (8-ounce) package cream cheese, cut into pieces, softened
 - Fresh cilantro leaves for garnish (optional)
 
-## Instructions
+## Directions
 
 1. Stir the broth, beans, sweet potatoes, tomatoes, onion, corn, garlic paste, taco seasoning, salt, chipotle and pepper together in a large Dutch oven. Cover and bring to a boil over high heat.
 2. Uncover, reduce heat to medium and cook, undisturbed, until the sweet potatoes are tender, about 10 minutes.

@@ -9,21 +9,19 @@ tags:
 
 ## Ingredients
 
-Thick slices of your favorite bread
-ripe avocados
-cherry tomatoes, sliced in half
-lemon or lime juice
-seasoned salt
-garlic oil
-garlic cloves
+- Thick slices of your favorite bread
+- ripe avocados
+- cherry tomatoes, sliced in half
+- lemon or lime juice
+- seasoned salt
+- garlic oil
+- garlic cloves
 
-## Instructions
+## Directions
 
-Toast the bread until well toasted.
-
-Rub a clove of garlic across the surface of the bread. Smash half an avocado on top, then sprinkle with lemon juice, seasoned salt and garlic oil.
-
-Top with lots of cherry tomatoes.
+1. Toast the bread until well toasted.
+2. Rub a clove of garlic across the surface of the bread. Smash half an avocado on top, then sprinkle with lemon juice, seasoned salt and garlic oil.
+3. Top with lots of cherry tomatoes.
 
 ## Notes
 

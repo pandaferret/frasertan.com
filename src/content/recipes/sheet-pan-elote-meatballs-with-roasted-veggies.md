@@ -60,7 +60,7 @@ For the sauce:
 - Water or milk, as needed to thin
 - Chopped cilantro and crumbled cotija cheese, for garnish
 
-## Instructions
+## Directions
 
 1. Preheat your oven to 400F. In a large bowl, add all of the meatball ingredients and use your hands to mix until combined. Try not to over-mix as it will lead to denser, drier meatballs. Set aside.
 2. Add the chickpeas, bell peppers, corn and red onion to an extra-large baking sheet (21x15"), or split between two normal-sized baking sheets. Drizzle the oil and seasonings over top. Toss to coat and spread out evenly; there should be minimal overlap.

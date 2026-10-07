@@ -9,14 +9,14 @@ tags:
 
 ## Ingredients
 
-1/2 red onion, chopped fine
-3-4 scallions, chopped
-2 cups orzo
-1 tbsp butter
-salt
-pepper
+- 1/2 red onion, chopped fine
+- 3-4 scallions, chopped
+- 2 cups orzo
+- 1 tbsp butter
+- salt
+- pepper
 
-## Instructions
+## Directions
 
 1. Start a pot of water boiling. 2. Meanwhile, saute the onion and scallion in a bit of oil until softened. Season with a pinch of salt.
 

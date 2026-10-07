@@ -9,13 +9,13 @@ source:
 
 ## Ingredients
 
-2 cups Basmati rice
-1 ½ cups coconut milk
-1 cup chicken broth
-1 teaspoon kosher salt, more to taste
-3 scallions, thinly sliced
-2 tablespoons finely chopped ginger
+- 2 cups Basmati rice
+- 1 ½ cups coconut milk
+- 1 cup chicken broth
+- 1 teaspoon kosher salt, more to taste
+- 3 scallions, thinly sliced
+- 2 tablespoons finely chopped ginger
 
-## Instructions
+## Directions
 
-Place rice in a fine strainer, and rinse with cold water until water runs clear. Transfer to a medium saucepan. Add 1 cup water, coconut milk, chicken broth and salt. Cover, and place over medium-high heat. Bring liquid to a boil, then reduce and simmer until liquid has been absorbed and rice is tender, about 15 minutes. Remove from heat, and stir in scallions and ginger. Add a little more coconut milk if rice is too dry. Season to taste with salt. Serve.
+1. Place rice in a fine strainer, and rinse with cold water until water runs clear. Transfer to a medium saucepan. Add 1 cup water, coconut milk, chicken broth and salt. Cover, and place over medium-high heat. Bring liquid to a boil, then reduce and simmer until liquid has been absorbed and rice is tender, about 15 minutes. Remove from heat, and stir in scallions and ginger. Add a little more coconut milk if rice is too dry. Season to taste with salt. Serve.

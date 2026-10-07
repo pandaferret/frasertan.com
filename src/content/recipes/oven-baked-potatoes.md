@@ -7,8 +7,8 @@ categories:
 
 ## Ingredients
 
-russet potatoes
+- russet potatoes
 
-## Instructions
+## Directions
 
-Heat oven to 350 degrees. Scrub potatoes well to remove dirt. Place on middle rack of oven, and bake 75 minutes. Remove from oven and pierce with fork to create dotted "X." Press in at ends of potato to push flesh up and out.
+1. Heat oven to 350 degrees. Scrub potatoes well to remove dirt. Place on middle rack of oven, and bake 75 minutes. Remove from oven and pierce with fork to create dotted "X." Press in at ends of potato to push flesh up and out.

@@ -15,24 +15,23 @@ source:
 
 ## Ingredients
 
-3 slices bacon, diced
-3 cups leftover rotisserie chicken
-1/3 cup mayonnaise
-1/4 cup 2% Greek yogurt
-1 stalk celery, diced
-1 green onion, thinly sliced
-2 tablespoons freshly squeezed lemon juice
-2 teaspoons Dijon mustard
-Kosher salt and freshly ground black pepper, to taste
-12 Romaine lettuce leaves
-1 Roma tomato, diced
-1 avocado, halved, peeled, seeded and diced
+- 3 slices bacon, diced
+- 3 cups leftover rotisserie chicken
+- 1/3 cup mayonnaise
+- 1/4 cup 2% Greek yogurt
+- 1 stalk celery, diced
+- 1 green onion, thinly sliced
+- 2 tablespoons freshly squeezed lemon juice
+- 2 teaspoons Dijon mustard
+- Kosher salt and freshly ground black pepper, to taste
+- 12 Romaine lettuce leaves
+- 1 Roma tomato, diced
+- 1 avocado, halved, peeled, seeded and diced
 
-## Instructions
+## Directions
 
-Heat a large skillet over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes. Transfer to a paper towel-lined plate; set aside.
-
-In a large bowl, combine chicken, mayonnaise, Greek yogurt, celery, green onion, basil, lemon juice and Dijon; season with salt and pepper, to taste. To serve, spoon several tablespoons of the chicken mixture into the center of a lettuce leaf, taco-style, garnished with bacon, tomato and avocado, if desired.
+1. Heat a large skillet over medium high heat. Add bacon and cook until brown and crispy, about 6-8 minutes. Transfer to a paper towel-lined plate; set aside.
+2. In a large bowl, combine chicken, mayonnaise, Greek yogurt, celery, green onion, basil, lemon juice and Dijon; season with salt and pepper, to taste. To serve, spoon several tablespoons of the chicken mixture into the center of a lettuce leaf, taco-style, garnished with bacon, tomato and avocado, if desired.
 
 ## Notes
 

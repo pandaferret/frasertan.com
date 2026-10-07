@@ -10,20 +10,22 @@ source:
 
 ## Ingredients
 
-1 1/2 cups water
-1 cup raw, demerara or turbinado sugar (granulated will do just fine if you do not have them)
-1/2 apple, peeled, cored, and diced
-1/2 pear, peeled, cored, and diced
-12 walnut halves
-3 cinnamon sticks, broken up
-6 whole cloves
-1 whole nutmeg
-Equipment
-fine mesh strainer
+- 1 1/2 cups water
+- 1 cup raw, demerara or turbinado sugar (granulated will do just fine if you do not have them)
+- 1/2 apple, peeled, cored, and diced
+- 1/2 pear, peeled, cored, and diced
+- 12 walnut halves
+- 3 cinnamon sticks, broken up
+- 6 whole cloves
+- 1 whole nutmeg
 
-## Instructions
+## Equipment
 
-Combine all ingredients in a saucepan over medium heat. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes. Remove from the heat and cool. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks.
+- fine mesh strainer
+
+## Directions
+
+1. Combine all ingredients in a saucepan over medium heat. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes. Remove from the heat and cool. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks.
 
 ## Notes
 

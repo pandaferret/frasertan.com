@@ -9,14 +9,14 @@ source:
 
 ## Ingredients
 
-1 pound medium carrots (about 6), peeled and sliced ¼-inch thick on the bias
-½ teaspoon table salt
-3 tablespoons granulated sugar
-½ cup low-sodium chicken broth
-1 tablespoon unsalted butter, cut into 4 pieces
-2 teaspoons lemon juice
-Ground black pepper
+- 1 pound medium carrots (about 6), peeled and sliced ¼-inch thick on the bias
+- ½ teaspoon table salt
+- 3 tablespoons granulated sugar
+- ½ cup low-sodium chicken broth
+- 1 tablespoon unsalted butter, cut into 4 pieces
+- 2 teaspoons lemon juice
+- Ground black pepper
 
-## Instructions
+## Directions
 
-Bring carrots, salt, 1 tablespoon sugar, and chicken broth to boil, covered, in 12-inch nonstick skillet over medium-high heat; reduce heat to medium and simmer, stirring occasionally, until carrots are almost tender when poked with tip of paring knife, about 5 minutes. Uncover, increase heat to high, and simmer rapidly, stirring occasionally, until liquid is reduced to about 2 tablespoons, 1 to 2 minutes. Add butter and remaining 2 tablespoons sugar to skillet; toss carrots to coat and cook, stirring frequently, until carrots are completely tender and glaze is light gold, about 3 minutes. Off heat, add lemon juice; toss to coat. Transfer carrots to serving dish, scraping glaze from pan. Season to taste with pepper and serve immediately.
+1. Bring carrots, salt, 1 tablespoon sugar, and chicken broth to boil, covered, in 12-inch nonstick skillet over medium-high heat; reduce heat to medium and simmer, stirring occasionally, until carrots are almost tender when poked with tip of paring knife, about 5 minutes. Uncover, increase heat to high, and simmer rapidly, stirring occasionally, until liquid is reduced to about 2 tablespoons, 1 to 2 minutes. Add butter and remaining 2 tablespoons sugar to skillet; toss carrots to coat and cook, stirring frequently, until carrots are completely tender and glaze is light gold, about 3 minutes. Off heat, add lemon juice; toss to coat. Transfer carrots to serving dish, scraping glaze from pan. Season to taste with pepper and serve immediately.

@@ -7,16 +7,16 @@ categories:
 
 ## Ingredients
 
-1/2 cup (1 stick) butter
-2/3 cup sugar
-2 eggs
-1 cup buttermilk
-1/2 teaspoon baking soda
-1 cup cornmeal
-1 cup flour
-1/2 teaspoon salt
+- 1/2 cup (1 stick) butter
+- 2/3 cup sugar
+- 2 eggs
+- 1 cup buttermilk
+- 1/2 teaspoon baking soda
+- 1 cup cornmeal
+- 1 cup flour
+- 1/2 teaspoon salt
 
-## Instructions
+## Directions
 
 1. Preheat oven to 375°. Grease an 8x8 pan.
 

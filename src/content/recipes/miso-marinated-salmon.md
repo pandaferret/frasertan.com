@@ -16,14 +16,14 @@ source:
 
 ## Ingredients
 
-½ cup white miso paste
-¼ cup sugar
-3 tablespoons sake
-3 tablespoons mirin
-4 (6- to 8-ounce) skin-on salmon fillets
-Lemon wedges
+- ½ cup white miso paste
+- ¼ cup sugar
+- 3 tablespoons sake
+- 3 tablespoons mirin
+- 4 (6- to 8-ounce) skin-on salmon fillets
+- Lemon wedges
 
-## Instructions
+## Directions
 
 Note that the fish needs to marinate for at least 6 or up to 24 hours before cooking. Use center-cut salmon fillets of similar thickness. Yellow, red, or brown miso paste can be used instead of white.
 

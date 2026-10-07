@@ -9,14 +9,13 @@ source:
 
 ## Ingredients
 
-1 cup freshly squeezed lemon juice (roughly 8 to 10 lemons' worth)
-2 1/2 cups cold water, plus additional if needed
-1/2 cup maple syrup
-Bourbon
-Lots of ice
+- 1 cup freshly squeezed lemon juice (roughly 8 to 10 lemons' worth)
+- 2 1/2 cups cold water, plus additional if needed
+- 1/2 cup maple syrup
+- Bourbon
+- Lots of ice
 
-## Instructions
+## Directions
 
-Make maple lemonade: Mix lemon juice with 2 1/2 cups water and 1/2 cup maple syrup.
-
-Fill a glass with ice. Pour 1 to 1 1/2 shots of bourbon over ice, then top with maple lemonade.
+1. Make maple lemonade: Mix lemon juice with 2 1/2 cups water and 1/2 cup maple syrup.
+2. Fill a glass with ice. Pour 1 to 1 1/2 shots of bourbon over ice, then top with maple lemonade.

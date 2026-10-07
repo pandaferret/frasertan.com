@@ -15,21 +15,21 @@ source:
 
 ## Ingredients
 
-2 tbsp. extra-virgin olive oil
-4 (6-oz) salmon fillets, patted dry with paper towels
-Kosher salt
-Freshly ground black pepper
-3 tbsp. butter
-3 cloves garlic, minced
-1 1/2 c. cherry tomatoes
-2 c. baby spinach
-2/3 c. heavy cream
-1/3 - 1/2 c. freshly grated Parmesan
-1/4 c. chopped herbs (such as basil and parsley), plus more for garnish
+- 2 tbsp. extra-virgin olive oil
+- 4 (6-oz) salmon fillets, patted dry with paper towels
+- Kosher salt
+- Freshly ground black pepper
+- 3 tbsp. butter
+- 3 cloves garlic, minced
+- 1 1/2 c. cherry tomatoes
+- 2 c. baby spinach
+- 2/3 c. heavy cream
+- 1/3 - 1/2 c. freshly grated Parmesan
+- 1/4 c. chopped herbs (such as basil and parsley), plus more for garnish
 
-## Instructions
+## Directions
 
-In a large skillet over medium-high heat, heat oil. Season salmon all over with salt and pepper. Add salmon skin side up and cook until deeply golden, about 6 minutes. Flip over and cook 2 minutes more. Transfer to a plate. Reduce heat to medium and add butter. When butter has melted, stir in garlic and cook until fragrant, about 1 minute. Add cherry tomatoes and season with salt and pepper. Cook until tomatoes are beginning to burst, then add spinach. Cook until spinach is beginning to wilt. Stir in heavy cream, Parmesan, and herbs and bring mixture to a simmer. Reduce heat to low and simmer until sauce is slightly reduced, about 3 minutes. Return salmon back to skillet and spoon over sauce. Simmer until salmon is cooked through, about 3 minutes more. Garnish with more herbs
+1. In a large skillet over medium-high heat, heat oil. Season salmon all over with salt and pepper. Add salmon skin side up and cook until deeply golden, about 6 minutes. Flip over and cook 2 minutes more. Transfer to a plate. Reduce heat to medium and add butter. When butter has melted, stir in garlic and cook until fragrant, about 1 minute. Add cherry tomatoes and season with salt and pepper. Cook until tomatoes are beginning to burst, then add spinach. Cook until spinach is beginning to wilt. Stir in heavy cream, Parmesan, and herbs and bring mixture to a simmer. Reduce heat to low and simmer until sauce is slightly reduced, about 3 minutes. Return salmon back to skillet and spoon over sauce. Simmer until salmon is cooked through, about 3 minutes more. Garnish with more herbs
 
 ## Notes
 

@@ -30,7 +30,7 @@ source:
 - Food processor
 - 8- or 9-inch square baking or gratin dish
 
-## Instructions
+## Directions
 
 1. Heat the oven to 375°F. Butter an 8- or 9-inch square baking or gratin dish. Toss the rhubarb with the white sugar and the citrus juice and zest, then spread it in the dish.
 2. In a food processor, pulse the 6 tablespoons of butter with the brown sugar, flour, cinnamon and salt for 20-30 seconds, until it resembles small peas and just starts to clump together. Add the oats and pecans and pulse a few more times to combine.

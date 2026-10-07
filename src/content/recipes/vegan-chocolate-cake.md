@@ -10,24 +10,20 @@ dietary:
 
 ## Ingredients
 
-1 1/2 c flour
-1 cup sugar
-7 T cocoa powder
-1/2 t salt
-1 t baking soda
-1 cup water
-1/3 cup oil
-1 t vanilla
-1T vinegar ( I use red wine because it gives it a nice reddish undertone, but any will do)
+- 1 1/2 c flour
+- 1 cup sugar
+- 7 T cocoa powder
+- 1/2 t salt
+- 1 t baking soda
+- 1 cup water
+- 1/3 cup oil
+- 1 t vanilla
+- 1T vinegar ( I use red wine because it gives it a nice reddish undertone, but any will do)
 
-## Instructions
+## Directions
 
-Set oven to 350°.
-
-\*blend dry ingredients
-
-\*pour in wet ingredients and whisk until smooth
-
-Pour in to greased, floured 9 inch round cake pan. ( I use a cheesecake pan)
-
-Bake for 35 min at 350˚
+1. Set oven to 350°.
+2. \*blend dry ingredients
+3. \*pour in wet ingredients and whisk until smooth
+4. Pour in to greased, floured 9 inch round cake pan. ( I use a cheesecake pan)
+5. Bake for 35 min at 350˚

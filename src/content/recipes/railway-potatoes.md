@@ -7,15 +7,15 @@ categories:
 
 ## Ingredients
 
-1 1/2 lbs medium sized red potatoes
-5 tablespoons canola oil
-1/2 teaspoons mustard seeds
-1/4 teaspoon ground turmeric
-1 large yellow onion, halved and thinly sliced
-2 teaspoons salt
-1/4 to 1/2 teaspoon cayenne
+- 1 1/2 lbs medium sized red potatoes
+- 5 tablespoons canola oil
+- 1/2 teaspoons mustard seeds
+- 1/4 teaspoon ground turmeric
+- 1 large yellow onion, halved and thinly sliced
+- 2 teaspoons salt
+- 1/4 to 1/2 teaspoon cayenne
 
-## Instructions
+## Directions
 
 1. Slice the potatoes lengthwise into quarters, then crosswise into 1/8" thick slices.
 

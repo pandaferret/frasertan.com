@@ -23,7 +23,7 @@ source:
 - 1/2 teaspoon onion powder
 - 2 tablespoons cornstarch
 
-## Instructions
+## Directions
 
 1. Arrange a rack in the middle of the oven and heat to 400 degrees.
 2. Remove excess moisture from your tofu by placing it between two clean kitchen towels or paper towels on top of a cooling rack or cutting board in the sink, and then placing another flat heavy thing on top such as another heavy cutting board, a cast-iron skillet, or both. Allow the tofu to drain for at least 10 minutes.

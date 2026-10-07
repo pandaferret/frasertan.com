@@ -29,7 +29,7 @@ source:
 - 3/4 teaspoon minced garlic
 - Lemon wedges for serving
 
-## Instructions
+## Directions
 
 1. Place the olive oil, honey, soy sauce, lemon zest, parsley, thyme, salt and pepper in a bowl or resealable bag. Whisk to thoroughly combine.
 2. Reserve 1 tablespoon of the marinade for later use. Add the garlic to the marinade and stir.

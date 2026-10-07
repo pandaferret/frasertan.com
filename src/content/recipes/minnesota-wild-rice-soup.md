@@ -11,18 +11,18 @@ tags:
 
 ## Ingredients
 
-8-8 1/2 cups chicken broth or stock
-3/4 cup wild rice, rinsed
-1 medium onion, chopped
-2-3 stalks celery, chopped
-1 large carrot, chopped
-4 strips bacon, chopped
-1/2 cup heavy cream
-1 tbsp flour
-salt and pepper to taste
-parsley, chopped
+- 8-8 1/2 cups chicken broth or stock
+- 3/4 cup wild rice, rinsed
+- 1 medium onion, chopped
+- 2-3 stalks celery, chopped
+- 1 large carrot, chopped
+- 4 strips bacon, chopped
+- 1/2 cup heavy cream
+- 1 tbsp flour
+- salt and pepper to taste
+- parsley, chopped
 
-## Instructions
+## Directions
 
 1. Saute the bacon in a Dutch oven or large pot over low heat until a lot of the fat renders.
 

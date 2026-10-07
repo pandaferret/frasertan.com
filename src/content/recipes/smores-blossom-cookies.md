@@ -28,7 +28,7 @@ source:
 
 - Broiler or kitchen torch
 
-## Instructions
+## Directions
 
 1. Set oven rack to middle position and preheat oven to 350°F. Line baking sheets with parchment paper or silpats.
 2. Whisk together the flour, baking soda, baking powder and salt in a bowl.

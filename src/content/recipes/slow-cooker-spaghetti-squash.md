@@ -8,14 +8,11 @@ source:
 
 ## Ingredients
 
-1 spaghetti squash
+- 1 spaghetti squash
 
-## Instructions
+## Directions
 
-Prick the squash all over with a fork.
-
-Place in slow cooker with 1.5 cups water.
-
-Cook on low for 4-6 hours until the squash is tender.
-
-Let cool 10-30 minutes, then cut open, scoop out the seeds and shred into strands.
+1. Prick the squash all over with a fork.
+2. Place in slow cooker with 1.5 cups water.
+3. Cook on low for 4-6 hours until the squash is tender.
+4. Let cool 10-30 minutes, then cut open, scoop out the seeds and shred into strands.

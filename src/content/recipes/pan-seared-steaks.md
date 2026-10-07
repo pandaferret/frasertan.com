@@ -15,9 +15,9 @@ source:
 
 ## Ingredients
 
-4 boneless 8-ounce rib-eye steaks or top loin steaks, 1 to 1 ¼ inches thick, thoroughly dried with paper towels
+- 4 boneless 8-ounce rib-eye steaks or top loin steaks, 1 to 1 ¼ inches thick, thoroughly dried with paper towels
 
-## Instructions
+## Directions
 
 1. Heat heavy-bottomed, 12-inch skillet over high heat until very hot, about 3 minutes. Meanwhile, season both sides of steaks with salt and pepper.
 

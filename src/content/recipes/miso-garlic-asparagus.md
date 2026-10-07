@@ -23,7 +23,7 @@ source:
 - 1 tablespoon unsalted butter
 - 1/2 cup grated parmesan (optional)
 
-## Instructions
+## Directions
 
 1. Snap off or trim the woody ends of each asparagus spear, usually about 2 inches from the bottom. Slice the asparagus on a steep diagonal into about 2-inch pieces.
 2. Using a fork, mix the miso with 2 tablespoons water in a small bowl to loosen the miso.

@@ -15,7 +15,7 @@ dietary:
 - 3 lbs frozen boneless skinless chicken thighs
 - 1 cup [Sugar-Free BBQ Sauce](/recipes/sugar-free-bbq-sauce/)
 
-## Instructions
+## Directions
 
 1. Place the frozen chicken thighs and BBQ sauce in the Instant Pot. Set the Instant Pot to High pressure for 35 minutes, then quick release. (Remember that this will take longer than 35 minutes since the Instant Pot will need to come up to temperature and pressure.)
 2. Set the Instant Pot to Saute High and boil off the liquid - this takes around 20 minutes.

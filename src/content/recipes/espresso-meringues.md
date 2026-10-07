@@ -11,14 +11,14 @@ dietary:
 
 ## Ingredients
 
-3/4 cup sugar
-2 teaspoons corn starch
-2 teaspoons instant espresso powder
-4 large egg whites
-3/4 teaspoon vanilla extract
-1/8 teaspoon table salt
+- 3/4 cup sugar
+- 2 teaspoons corn starch
+- 2 teaspoons instant espresso powder
+- 4 large egg whites
+- 3/4 teaspoon vanilla extract
+- 1/8 teaspoon table salt
 
-## Instructions
+## Directions
 
 1. Adjust two oven racks; one to the upper middle position, one to the lower middle position. Heat oven to 225°. Line two baking sheets with parchment paper.
 

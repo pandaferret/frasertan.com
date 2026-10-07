@@ -11,21 +11,18 @@ source:
 
 ## Ingredients
 
-2 cups (260 grams) all-purpose flour
-1 tablespoon (15 grams) granulated sugar
-3/4 teaspoon fine sea or table salt
-1 cup (230 grams, 8 ounces, or 16 tablespoons) cold, unsalted butter
-1/2 cup (120 grams) very cold water
+- 2 cups (260 grams) all-purpose flour
+- 1 tablespoon (15 grams) granulated sugar
+- 3/4 teaspoon fine sea or table salt
+- 1 cup (230 grams, 8 ounces, or 16 tablespoons) cold, unsalted butter
+- 1/2 cup (120 grams) very cold water
 
-## Instructions
+## Directions
 
-Place your flour, sugar, and salt in a large bowl and whisk to combine. Cut your butter into small cubes (1/2-inch is ideal here) and add them into the flour mixture. Toss them around so that they’re coated and used your fingers to squash each butter cube into flatter, lima-bean like pieces. It’s totally fine if this is bigger than you’re used to. [You could also use a pastry blender, stand mixer, or a food processor, but go very easy on it, especially the food processor — you want flat-ish, lima bean-sized pieces of butter, not the usual “coarse meal” or “small pea-sized” mixture. If using a food processor, when you’re done, dump this butter-flour mixture into a large bowl before continuing.]
-
-Pour water over butter-flour mixture and use a flexible silicone spatula or scraper to bring it together into a dough that will seem too wet and sticky, but will be just fine. Divide dough into two parts, and wrap each half into flat-ish packets wrapped in plastic, waxed or parchment paper.
-
-Chill in the fridge until firm — one to two hours.
-
-Unwrap first packet of dough, place on a well-floured counter, sprinkle the top generously with flour, and roll it out into a thick-ish long rectangle. Brush off excess flour off dough with your hands and fold it as you would a business letter, into thirds. Continue to roll this packet into the shape needed for your final pie
+1. Place your flour, sugar, and salt in a large bowl and whisk to combine. Cut your butter into small cubes (1/2-inch is ideal here) and add them into the flour mixture. Toss them around so that they’re coated and used your fingers to squash each butter cube into flatter, lima-bean like pieces. It’s totally fine if this is bigger than you’re used to. [You could also use a pastry blender, stand mixer, or a food processor, but go very easy on it, especially the food processor — you want flat-ish, lima bean-sized pieces of butter, not the usual “coarse meal” or “small pea-sized” mixture. If using a food processor, when you’re done, dump this butter-flour mixture into a large bowl before continuing.]
+2. Pour water over butter-flour mixture and use a flexible silicone spatula or scraper to bring it together into a dough that will seem too wet and sticky, but will be just fine. Divide dough into two parts, and wrap each half into flat-ish packets wrapped in plastic, waxed or parchment paper.
+3. Chill in the fridge until firm — one to two hours.
+4. Unwrap first packet of dough, place on a well-floured counter, sprinkle the top generously with flour, and roll it out into a thick-ish long rectangle. Brush off excess flour off dough with your hands and fold it as you would a business letter, into thirds. Continue to roll this packet into the shape needed for your final pie
 
 ## Notes
 

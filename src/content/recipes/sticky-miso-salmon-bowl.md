@@ -29,7 +29,7 @@ source:
 - 1 tablespoon unsalted butter, cubed
 - Any combination of kimchi, chile crisp, toasted nori sheets, and sliced cucumber, avocado or radish, for serving
 
-## Instructions
+## Directions
 
 1. Put the rice in a medium bowl and fill with cool tap water. Run your fingers through the rice, gently swooshing the grains around to loosen the starch. Dump out as much water as you can and repeat until the water runs slightly more clear, another two to three rinses.
 2. Drain the rice and transfer to a small or medium saucepan that has a tight-fitting lid. Pour in 2 1/4 cups cool water and bring to a boil over medium-high. Give the rice a stir to help keep it from sticking to the bottom of the pot, then cover and decrease heat to low. Cook without lifting the lid for 18 minutes. (Set your timer!)

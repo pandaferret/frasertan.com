@@ -6,16 +6,16 @@ categories:
 
 ## Ingredients
 
-1/4 cup balsamic vinegar
-1/4 cup orange juice
-2 tbsp honey
-1/8 tsp red pepper flakes
-2 tsp vegetable oil
-2 skin-on salmon fillets (6 oz each)
-salt and pepper
-2 tbsp unsalted butter
+- 1/4 cup balsamic vinegar
+- 1/4 cup orange juice
+- 2 tbsp honey
+- 1/8 tsp red pepper flakes
+- 2 tsp vegetable oil
+- 2 skin-on salmon fillets (6 oz each)
+- salt and pepper
+- 2 tbsp unsalted butter
 
-## Instructions
+## Directions
 
 1. Whisk together vinegar, orange juice, honey and red pepper flakes. Set aside.
 

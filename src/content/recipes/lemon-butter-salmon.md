@@ -27,7 +27,7 @@ source:
 - 1/4 cup low-sodium chicken or vegetable broth
 - Chopped fresh parsley leaves, for garnish (optional)
 
-## Instructions
+## Directions
 
 1. Sear the salmon fillets: Season the salmon with salt and pepper. Heat the oil in a nonstick or cast iron skillet until hot, then sear the salmon until golden-brown. Flip and continue cooking on the other side. Transfer to a plate.
 2. Make the sauce: In the same skillet, melt the butter and sauté the garlic, then add the lemon juice and broth.

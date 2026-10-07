@@ -9,12 +9,12 @@ subcategories:
 
 ## Ingredients
 
-2 1/3 c flour
-3 eggs
-1 tbsp olive oil
-1 tbsp water, if needed
+- 2 1/3 c flour
+- 3 eggs
+- 1 tbsp olive oil
+- 1 tbsp water, if needed
 
-## Instructions
+## Directions
 
 1. In the food processor, mix the first three ingredients with the blade. Don't overmix it - pulse it until it appears like sand. Add water 1 tablespoon at a time until the dough reaches the desired consistency - dry, and clumps when pinched between your fingertips.
 

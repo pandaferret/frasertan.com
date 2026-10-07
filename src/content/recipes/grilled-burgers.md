@@ -16,13 +16,13 @@ source:
 
 ## Ingredients
 
-1 ½ pounds 80 percent lean ground chuck
-1 teaspoon table salt
-½ teaspoon ground black pepper
-vegetable oil for oiling grill rack
-4 buns and desired topppings
+- 1 ½ pounds 80 percent lean ground chuck
+- 1 teaspoon table salt
+- ½ teaspoon ground black pepper
+- vegetable oil for oiling grill rack
+- 4 buns and desired topppings
 
-## Instructions
+## Directions
 
 1. Turn all burners on gas grill to high, close lid, and heat until very hot, 10 to 15 minutes.
 

@@ -24,7 +24,7 @@ source:
 - 1/2 teaspoon vanilla extract (optional)
 - 1 1/2 cups (9 ounces or 255 grams) semi- or bittersweet chocolate chips, or 9 ounces chopped semi- or bittersweet chocolate
 
-## Instructions
+## Directions
 
 1. Prepare your pan: Heat your oven to 350°F. Line a 13×18-inch (half-sheet) pan completely with foil, then line it again with parchment. This seems excessive but the foil will keep your pan neat and the parchment will keep the crackers from sticking to the foil. Line the bottom of the baking sheet with matzo or crackers, covering all parts in a single layer. (If using matzo, you'll need to break pieces to fit any extra spaces - gently sawing with a serrated knife helps.)
 2. Make the caramel/toffee: In a medium saucepan, melt the butter and brown sugar together, and whisk it over medium heat until it begins to boil. Once it has begun boiling, let it bubble for 3 more minutes, whisking it the whole time. The butter and sugar will come together, and the mixture will thicken a little as it cooks. Remove from the heat and add a couple good pinches of sea salt and vanilla, if using, and then quickly pour it over the matzo or crackers. Use an offset spatula to spread the caramel quickly over all the crackers, as it will begin to set soon after it is poured.

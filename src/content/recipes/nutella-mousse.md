@@ -11,11 +11,11 @@ dietary:
 
 ## Ingredients
 
-4 oz (1/2 package) cream cheese, softened
-1/2 cup Nutella
-1 cup heavy whipping cream
+- 4 oz (1/2 package) cream cheese, softened
+- 1/2 cup Nutella
+- 1 cup heavy whipping cream
 
-## Instructions
+## Directions
 
 1. In a bowl, mix together the softened cream cheese and Nutella until well blended.
 

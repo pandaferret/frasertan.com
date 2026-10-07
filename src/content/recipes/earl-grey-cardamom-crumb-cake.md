@@ -34,7 +34,7 @@ For the cake:
 - 2 teaspoons vanilla extract
 - 3 cups/384 grams all-purpose flour
 
-## Instructions
+## Directions
 
 1. Heat oven to 350 degrees.
 2. Prepare the pan: Lightly grease a 9-by-13-inch metal or glass baking pan with olive oil and line with parchment paper, leaving an overhang on two sides.

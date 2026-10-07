@@ -11,30 +11,24 @@ source:
 
 ## Ingredients
 
-5 cups old fashioned oats
-2 cups crisp rice cereal
-1⁄4 cup maple syrup
-1⁄4 cup honey
-1/2 cup brown sugar
-2 tablespoons vegetable oil
-1⁄2 teaspoon salt
-1 teaspoon vanilla
+- 5 cups old fashioned oats
+- 2 cups crisp rice cereal
+- 1⁄4 cup maple syrup
+- 1⁄4 cup honey
+- 1/2 cup brown sugar
+- 2 tablespoons vegetable oil
+- 1⁄2 teaspoon salt
+- 1 teaspoon vanilla
 
-## Instructions
+## Directions
 
-Preheat oven to 350°. Spray a rimmed baking sheet with oil.
-
-Mix the oats, rice cereal and flax seed in a large bowl.
-
-Combine the maple syrup, honey, oil and salt in a small saucepan. Heat over medium heat until the mixture homogenizes. Add the vanilla and stir to incorporate.
-
-Pour the mixture over the oats and stir to combine. Make sure the mixture is homogenously mixed; it will still look a little dry.
-
-Spread out on the baking sheet.
-
-Bake for 20-25 minutes, stirring every 5 minutes to brown the mixture evenly and prevent burning.
-
-Cool, then store in an airtight container.
+1. Preheat oven to 350°. Spray a rimmed baking sheet with oil.
+2. Mix the oats, rice cereal and flax seed in a large bowl.
+3. Combine the maple syrup, honey, oil and salt in a small saucepan. Heat over medium heat until the mixture homogenizes. Add the vanilla and stir to incorporate.
+4. Pour the mixture over the oats and stir to combine. Make sure the mixture is homogenously mixed; it will still look a little dry.
+5. Spread out on the baking sheet.
+6. Bake for 20-25 minutes, stirring every 5 minutes to brown the mixture evenly and prevent burning.
+7. Cool, then store in an airtight container.
 
 ## Notes
 

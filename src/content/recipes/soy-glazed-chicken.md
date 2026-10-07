@@ -28,7 +28,7 @@ source:
 - Toasted sesame seeds and/or a thinly-sliced scallion to finish
 - Chili crisp, for serving (optional)
 
-## Instructions
+## Directions
 
 1. Pat your chicken dry on a plate and season it on both sides with salt and pepper.
 2. Heat a large frying pan on medium high. Add a couple tablespoons of oil and let it get warm. Once hot, brown the chicken well on both sides, about 8 to 10 minutes total; it's not going to fully cook through right now, and that's fine. Transfer it back to a plate to rest.

@@ -9,14 +9,13 @@ tags:
 
 ## Ingredients
 
-10 oz fresh cranberries, rinsed
-2 tbsp grated mandarin orange zest
-3/4 cup mandarin orange juice
-3/4 cup sugar
-1/4 cup port
+- 10 oz fresh cranberries, rinsed
+- 2 tbsp grated mandarin orange zest
+- 3/4 cup mandarin orange juice
+- 3/4 cup sugar
+- 1/4 cup port
 
-## Instructions
+## Directions
 
-Bring the cranberries, zest, juice and sugar to a boil, then reduce heat and simmer for 8 to 10 minutes. The cranberries should pop and the sauce should thicken up nicely. Add the port and simmer for a few more minutes.
-
-Store airtight up to 2 weeks.
+1. Bring the cranberries, zest, juice and sugar to a boil, then reduce heat and simmer for 8 to 10 minutes. The cranberries should pop and the sauce should thicken up nicely. Add the port and simmer for a few more minutes.
+2. Store airtight up to 2 weeks.

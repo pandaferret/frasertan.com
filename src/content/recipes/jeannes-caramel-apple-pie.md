@@ -12,24 +12,27 @@ tags:
 ## Ingredients
 
 Crust for 2 pie crusts:
-3 cups all purpose flour
-2 tablespoon sugar
-1 teaspoon salt
-12 tablespoons unsalted butter, well chilled and cut into cubes
-6 tablespoons solid vegetable shortening, chilled, cut into small pieces
-8 tablespoons (plus extra) ice water
-Filling:
-0.5 cups (1 stick) unsalted butter
-3 tablespoons flour
-1/4 cup minus 1 tablespoon water
-0.5 cups white sugar
-0.5 cups packed brown sugar
-1 teaspoon cinnamon
-1 tablespoon vanilla extract
-8 Granny Smith apples
-Egg white
 
-## Instructions
+- 3 cups all purpose flour
+- 2 tablespoon sugar
+- 1 teaspoon salt
+- 12 tablespoons unsalted butter, well chilled and cut into cubes
+- 6 tablespoons solid vegetable shortening, chilled, cut into small pieces
+- 8 tablespoons (plus extra) ice water
+
+Filling:
+
+- 0.5 cups (1 stick) unsalted butter
+- 3 tablespoons flour
+- 1/4 cup minus 1 tablespoon water
+- 0.5 cups white sugar
+- 0.5 cups packed brown sugar
+- 1 teaspoon cinnamon
+- 1 tablespoon vanilla extract
+- 8 Granny Smith apples
+- Egg white
+
+## Directions
 
 Crust: 1. Blend the flour, salt and sugar in a food processor. Add the butter and shortening, and blend until the mixture resembles coarse meal. Drizzle 4 tablespoons of ice water over the mixture and process just until moist clumps form. Add more ice water a tablespoon at a time if necessary. Gather the dough into a coherent ball and cut in half. Flatten each half into a 4"-ish disk. Wrap tightly in plastic wrap and refrigerate for an hour.
 

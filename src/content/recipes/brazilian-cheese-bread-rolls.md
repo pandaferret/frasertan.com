@@ -9,23 +9,20 @@ dietary:
 
 ## Ingredients
 
-2 c (8 oz) tapioca flour
-4 oz (1 c) shredded extra-sharp cheddar cheese
-2 oz (1 cup) grated Parmesan cheese
-2/3 c whole milk
-1/3 c olive oil
-2 large eggs
-1 tsp salt
+- 2 c (8 oz) tapioca flour
+- 4 oz (1 c) shredded extra-sharp cheddar cheese
+- 2 oz (1 cup) grated Parmesan cheese
+- 2/3 c whole milk
+- 1/3 c olive oil
+- 2 large eggs
+- 1 tsp salt
 
-## Instructions
+## Directions
 
-Adjust oven rack to the middle position and preheat oven to 375°F. Spray mini muffin trays with non-stick spray.
-
-Process all ingredients together in a blender until smooth.
-
-Pour about 2 tbsp batter in each mini muffin cup (they will be almost full). Bake until the rolls are golden and puffy, 17 to 20 minutes. Let cool in tin for 3 minutes then remove and serve.
-
-Makes 30 - 36 rolls.
+1. Adjust oven rack to the middle position and preheat oven to 375°F. Spray mini muffin trays with non-stick spray.
+2. Process all ingredients together in a blender until smooth.
+3. Pour about 2 tbsp batter in each mini muffin cup (they will be almost full). Bake until the rolls are golden and puffy, 17 to 20 minutes. Let cool in tin for 3 minutes then remove and serve.
+4. Makes 30 - 36 rolls.
 
 ## Notes
 

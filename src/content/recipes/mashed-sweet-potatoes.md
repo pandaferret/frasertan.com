@@ -9,24 +9,21 @@ tags:
 
 ## Ingredients
 
-4 tbsp unsalted butter, cut into 4 pieces
-2 tbsp heavy cream
-0.5 tsp salt
-1 tsp sugar
-2 pounds sweet potatoes (2 to 3 large ones)
-Pinch ground pepper
+- 4 tbsp unsalted butter, cut into 4 pieces
+- 2 tbsp heavy cream
+- 0.5 tsp salt
+- 1 tsp sugar
+- 2 pounds sweet potatoes (2 to 3 large ones)
+- Pinch ground pepper
 
-## Instructions
+## Directions
 
-Peel the sweet potatoes. Quarter them lengthwise and then cut crosswise into 1/4th inch thick slices.
-
-Combine the butter, cream, salt, sugar and sweet potatoes in a 3 to 4 quart saucepan. Cover and cook over low heat, stirring occasionally, until the potatoes fall apart when poked with a fork, 35 to 45 minutes.
-
-Off the heat, mash the sweet potatoes in the saucepan with a potato masher. Stir in the pepper and serve immediately.
+1. Peel the sweet potatoes. Quarter them lengthwise and then cut crosswise into 1/4th inch thick slices.
+2. Combine the butter, cream, salt, sugar and sweet potatoes in a 3 to 4 quart saucepan. Cover and cook over low heat, stirring occasionally, until the potatoes fall apart when poked with a fork, 35 to 45 minutes.
+3. Off the heat, mash the sweet potatoes in the saucepan with a potato masher. Stir in the pepper and serve immediately.
 
 ## Notes
 
-- Turn this into a casserole as follows:Mix 2 cups pecan halves, ½ cup packed light brown sugar, 1 egg white, lightly beaten, ⅛ teaspoon table salt, Pinch cayenne pepper, Pinch ground cumin until combined.Spread the mashed sweet potatoes in a casserole dish and top with pecan mixture.Bake at 450° for 10-15 minutes until pecans are crisp.
-- Mix 2 cups pecan halves, ½ cup packed light brown sugar, 1 egg white, lightly beaten, ⅛ teaspoon table salt, Pinch cayenne pepper, Pinch ground cumin until combined.
+- Turn this into a casserole as follows: Mix 2 cups pecan halves, ½ cup packed light brown sugar, 1 egg white, lightly beaten, ⅛ teaspoon table salt, Pinch cayenne pepper, Pinch ground cumin until combined.
 - Spread the mashed sweet potatoes in a casserole dish and top with pecan mixture.
 - Bake at 450° for 10-15 minutes until pecans are crisp.

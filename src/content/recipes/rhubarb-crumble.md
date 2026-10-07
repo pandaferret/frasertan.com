@@ -12,30 +12,29 @@ source:
 
 ## Ingredients
 
-Filling
-About 2 pounds rhubarb stalks, peeled and cut into 1-inch cubes (6½ cups/783 grams)
-1 ¼ cups/251 grams granulated sugar
-3 tablespoons all-purpose flour
-Topping
-1 cup/128 grams all-purpose flour
-¼ cup/52 grams granulated or brown sugar
-¼ teaspoon baking powder
-Pinch of salt
-Pinch of ground ginger
-Pinch of cinnamon
-½ cup/113 grams cold unsalted butter, cut into very small pieces or grated on the big holes of a box grater
-½ cup finely chopped toasted pecans
-Equipment
+Filling:
 
-## Instructions
+- About 2 pounds rhubarb stalks, peeled and cut into 1-inch cubes (6½ cups/783 grams)
+- 1 ¼ cups/251 grams granulated sugar
+- 3 tablespoons all-purpose flour
 
-Prepare the filling: Toss the rhubarb cubes with sugar and flour. Set aside and let macerate while you make the topping, about 20 minutes.
+Topping:
 
-Make the topping: Put flour, sugar, baking powder, salt, ginger and cinnamon in a bowl, and stir together. Add butter and work into flour with fingers or a fork, as if making pie dough. The mixture will be loose and crumbly. Stir in the pecans, if using.
+- 1 cup/128 grams all-purpose flour
+- ¼ cup/52 grams granulated or brown sugar
+- ¼ teaspoon baking powder
+- Pinch of salt
+- Pinch of ground ginger
+- Pinch of cinnamon
+- ½ cup/113 grams cold unsalted butter, cut into very small pieces or grated on the big holes of a box grater
+- ½ cup finely chopped toasted pecans
 
-Heat oven to 375 degrees. Transfer sugared rhubarb to a 2-3 quart baking dish, about 3 inches deep. Sprinkle topping loosely over fruit to a depth of about 1 inch.
+## Directions
 
-Place dish on a baking sheet and bake for about 1 hour, until topping is golden and filling is visibly bubbling at the edges. Cool slightly before serving.
+1. Prepare the filling: Toss the rhubarb cubes with sugar and flour. Set aside and let macerate while you make the topping, about 20 minutes.
+2. Make the topping: Put flour, sugar, baking powder, salt, ginger and cinnamon in a bowl, and stir together. Add butter and work into flour with fingers or a fork, as if making pie dough. The mixture will be loose and crumbly. Stir in the pecans, if using.
+3. Heat oven to 375 degrees. Transfer sugared rhubarb to a 2-3 quart baking dish, about 3 inches deep. Sprinkle topping loosely over fruit to a depth of about 1 inch.
+4. Place dish on a baking sheet and bake for about 1 hour, until topping is golden and filling is visibly bubbling at the edges. Cool slightly before serving.
 
 ## Notes
 

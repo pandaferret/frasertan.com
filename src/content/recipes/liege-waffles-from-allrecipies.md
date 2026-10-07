@@ -9,27 +9,23 @@ source:
 
 ## Ingredients
 
-1 pkg (2 1/4 tsp) yeast
-1.5 tbsp sugar
-3/4 cups lukewarm milk (~100°F)
-3 eggs
-1 cup butter (2 sticks)
-2 tsp vanilla extract
-3 cups flour
-1/2 tsp salt
-1 1/2 cups pearl sugar
+- 1 pkg (2 1/4 tsp) yeast
+- 1.5 tbsp sugar
+- 3/4 cups lukewarm milk (~100°F)
+- 3 eggs
+- 1 cup butter (2 sticks)
+- 2 tsp vanilla extract
+- 3 cups flour
+- 1/2 tsp salt
+- 1 1/2 cups pearl sugar
 
-## Instructions
+## Directions
 
-Add the milk to a medium bowl. Mix in the sugar and the yeast. Let sit for 15 minutes to activate the yeast.
-
-Meanwhile, melt and cool the butter.
-
-Whisk the eggs, melted and cooled butter and vanilla into the yeast mixture.
-
-In a large bowl, stir together then flour and salt. Stir in the liquid ingredients and stir together until a wet dough forms. Let rise in a warm spot until doubled, about 30 minutes. Gently mix in the pearl sugar.
-
-Preheat your waffle iron for 10 minutes. Place a baseball sized ball of dough in the middle of the iron and cook until golden, roughly 2-3 minutes.
+1. Add the milk to a medium bowl. Mix in the sugar and the yeast. Let sit for 15 minutes to activate the yeast.
+2. Meanwhile, melt and cool the butter.
+3. Whisk the eggs, melted and cooled butter and vanilla into the yeast mixture.
+4. In a large bowl, stir together then flour and salt. Stir in the liquid ingredients and stir together until a wet dough forms. Let rise in a warm spot until doubled, about 30 minutes. Gently mix in the pearl sugar.
+5. Preheat your waffle iron for 10 minutes. Place a baseball sized ball of dough in the middle of the iron and cook until golden, roughly 2-3 minutes.
 
 ## Notes
 

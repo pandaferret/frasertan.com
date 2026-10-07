@@ -27,7 +27,7 @@ source:
 
 - Fork or potato masher
 
-## Instructions
+## Directions
 
 1. Cover the potatoes with cold salted water in a large saucepan and bring to a simmer. Cook until fork-tender, about 20 minutes, then drain. (They can hold warm in the empty, covered pot off the heat until you're ready to finish them.)
 2. In the same pot, heat the cream and garlic together until just simmering, watching closely so it doesn't boil over. Off the heat, whisk in the butter until melted, then stir in the scallions, sour cream, and vinegar. Season well with salt and pepper.

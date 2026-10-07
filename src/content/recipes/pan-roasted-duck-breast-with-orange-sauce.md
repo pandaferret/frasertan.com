@@ -26,7 +26,7 @@ source:
 - 1/4 cup (60 ml) freshly squeezed orange juice from 1 orange
 - 1/2 teaspoon freshly ground black pepper (or to taste)
 
-## Instructions
+## Directions
 
 1. With a sharp knife, gently score the duck breast skin in a tight crosshatch pattern, keeping the scores 1/8 inch apart. If you prefer a little fat left on the breasts after cooking, just barely score the skin; to render more fat, score more deeply, taking care not to expose the flesh.
 2. Season duck breasts with salt, heavily on the skin side and lightly on the flesh side.

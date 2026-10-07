@@ -16,27 +16,24 @@ dietary:
 ## Ingredients
 
 A bunch of your favorite veggies, chopped:
-onions
-yellow squash
-zucchini
-broccoli
-bell peppers
-mushrooms
-kale/chard
-butternut or other squashes
-Spices (your choice)
-A sausage of some sort (I like sweet Italian sausage, Chorizo might be more authentic), casings removed
-Tomatoes, shredded cheese, salsa, other toppings of choice
-tortillas
 
-## Instructions
+- onions
+- yellow squash
+- zucchini
+- broccoli
+- bell peppers
+- mushrooms
+- kale/chard
+- butternut or other squashes
+- Spices (your choice)
+- A sausage of some sort (I like sweet Italian sausage, Chorizo might be more authentic), casings removed
+- Tomatoes, shredded cheese, salsa, other toppings of choice
+- tortillas
 
-In a large Dutch oven, heat oil over medium until shimmers. Add onions and sautee until translucent. Add the broccoli, squash and other veggies and sautee for a while until soft. Add spices generously (we use our friend Dave's spice mix.)
+## Directions
 
-Add sausage. Break up with a wooden spoon, then cover and let cook for 5-10 minutes. Cover and keep warm until needed.
-
-Meanwhile, chop tomatoes and place in a bowl.
-
-Heat a small skillet over medium high heat. Warm each tortilla for roughly 20 seconds per side, and place inside a folded clean kitchen towel to keep warm.
-
-Add filling and toppings to tortillas and devour!
+1. In a large Dutch oven, heat oil over medium until shimmers. Add onions and sautee until translucent. Add the broccoli, squash and other veggies and sautee for a while until soft. Add spices generously (we use our friend Dave's spice mix.)
+2. Add sausage. Break up with a wooden spoon, then cover and let cook for 5-10 minutes. Cover and keep warm until needed.
+3. Meanwhile, chop tomatoes and place in a bowl.
+4. Heat a small skillet over medium high heat. Warm each tortilla for roughly 20 seconds per side, and place inside a folded clean kitchen towel to keep warm.
+5. Add filling and toppings to tortillas and devour!

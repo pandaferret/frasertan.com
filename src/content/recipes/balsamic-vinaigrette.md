@@ -7,16 +7,16 @@ categories:
 
 ## Ingredients
 
-1/4 cup balsamic vinegar
-1 teaspoon dijon mustard
-1 tablespoon honey
-salt
-pepper
-1/2 cup olive oil
-1-2 tablespoons water
-1/2 clove garlic, minced (optional)
+- 1/4 cup balsamic vinegar
+- 1 teaspoon dijon mustard
+- 1 tablespoon honey
+- salt
+- pepper
+- 1/2 cup olive oil
+- 1-2 tablespoons water
+- 1/2 clove garlic, minced (optional)
 
-## Instructions
+## Directions
 
 1. Mix all ingredients except the oil.
 

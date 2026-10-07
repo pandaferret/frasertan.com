@@ -28,7 +28,7 @@ dietary:
 - 1 tbsp minced garlic
 - Flour tortillas, sour cream, cheese, avocado, and other toppings, for serving
 
-## Instructions
+## Directions
 
 1. Put the ground meat in a large skillet and brown it.
 2. Add beef broth, tomato sauce, and potatoes. Bring to a boil and cook for 5 minutes covered, stirring occasionally. (If easier, you can add all ingredients at this step, but the peppers will be softer.)

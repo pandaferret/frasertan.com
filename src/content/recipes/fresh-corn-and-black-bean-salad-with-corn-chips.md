@@ -36,7 +36,7 @@ For the salad:
 - 1 to 2 ripe avocados, halved, pitted and roughly diced
 - Hot sauce (optional), for serving
 
-## Instructions
+## Directions
 
 1. Prepare the dressing: To a large bowl, add the lime juice, garlic, cumin, sugar, crushed red pepper, and olive oil. Season with about 1 teaspoon of salt and a pinch of pepper and whisk to combine. Taste and check seasonings, adding more salt and pepper if needed.
 2. To the dressing, add the corn, black beans, and cilantro. Toss to combine, taste, and season with salt and pepper.

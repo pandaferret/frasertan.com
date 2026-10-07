@@ -12,17 +12,17 @@ source:
 
 ## Ingredients
 
-12tablespoons unsalted butter
-¾cup packed (5 1/4 ounces) dark brown sugar
-½cup (3 1/2 ounces) granulated sugar
-2teaspoons vanilla extract
-1teaspoon salt
-1large egg plus 1 large yolk
-1 ¾cups (8 3/4 ounces) all-purpose flour
-½teaspoon baking soda
-1cup (6 ounces) semisweet chocolate chips
+- 12tablespoons unsalted butter
+- ¾cup packed (5 1/4 ounces) dark brown sugar
+- ½cup (3 1/2 ounces) granulated sugar
+- 2teaspoons vanilla extract
+- 1teaspoon salt
+- 1large egg plus 1 large yolk
+- 1 ¾cups (8 3/4 ounces) all-purpose flour
+- ½teaspoon baking soda
+- 1cup (6 ounces) semisweet chocolate chips
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to upper-middle position and heat oven to 375 degrees. Melt 9 tablespoons butter in 12-inch cast-iron skillet over medium heat. Continue to cook, stirring constantly, until butter is dark golden brown, has nutty aroma, and bubbling subsides, about 5 minutes; transfer to large bowl. Stir remaining 3 tablespoons butter into hot butter until completely melted.
 

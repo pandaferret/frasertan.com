@@ -29,7 +29,7 @@ source:
 - 3 1/2 to 4 cups water
 - To serve: lime wedges, sour cream, diced white onion, cilantro, corn or flour tortillas, tortilla chips or rice
 
-## Instructions
+## Directions
 
 1. Heat the oil in the bottom of a medium-sized heavy pot or Dutch oven (if finishing on the stove), in the pot of your pressure-cooker (if using one) or in a large skillet (if finishing in a slow-cooker). Once warm, add the onion and cook for 5 minutes, until translucent. Add any fresh peppers and cook for 3 more minutes. Add the garlic, chili powder, cumin, oregano and salt and cook for 2 minutes, until browned and deeply fragrant. Add the beer and scrape up any bits stuck to the pot. Boil until reduced by half, or until it has all but disappeared.
 2. If finishing on the stove: Add the tomatoes, dried beans, any dried or rehydrated-and-pureed chiles and the smaller amount of water. Bring to a full boil and boil for one minute, then reduce heat to a very low, gentle simmer, cover, and cook for 2 1/2 to 3 hours, until the beans are tender, stirring occasionally. Add the last 1/2 cup water if the mixture seems to be getting dry.

@@ -7,13 +7,12 @@ categories:
 
 ## Ingredients
 
-1 lime, cut into 8 slices
-2 shots cachaca
-2 tsps sugar
-club soda
+- 1 lime, cut into 8 slices
+- 2 shots cachaca
+- 2 tsps sugar
+- club soda
 
-## Instructions
+## Directions
 
-Muddle 2 slices of lime with the sugar. Add several ice cubes.
-
-Add cachaca. Top with club soda or fizzy mineral water to taste.
+1. Muddle 2 slices of lime with the sugar. Add several ice cubes.
+2. Add cachaca. Top with club soda or fizzy mineral water to taste.

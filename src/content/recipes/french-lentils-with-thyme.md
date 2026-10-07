@@ -11,18 +11,17 @@ source:
 
 ## Ingredients
 
-3 tablespoons olive or vegetable oil
-2 cloves garlic, peeled and finely chopped
-2 ¼ cups French lentils
-1 teaspoon dried or fresh thyme
-3 bay leaves
-1 tablespoon kosher salt
+- 3 tablespoons olive or vegetable oil
+- 2 cloves garlic, peeled and finely chopped
+- 2 ¼ cups French lentils
+- 1 teaspoon dried or fresh thyme
+- 3 bay leaves
+- 1 tablespoon kosher salt
 
-## Instructions
+## Directions
 
-Add the oil and garlic to a small saucepan. Set saucepan over medium-low heat and gently warm garlic, but don't let burn.
-
-Add the lentils, thyme, bay leaves, salt and 6 cups water. Bring to a quick simmer and cook until lentils are tender, 25-30 minutes. Drain any excess water is desired, then serve.
+1. Add the oil and garlic to a small saucepan. Set saucepan over medium-low heat and gently warm garlic, but don't let burn.
+2. Add the lentils, thyme, bay leaves, salt and 6 cups water. Bring to a quick simmer and cook until lentils are tender, 25-30 minutes. Drain any excess water is desired, then serve.
 
 ## Notes
 

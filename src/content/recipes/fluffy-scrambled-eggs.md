@@ -9,21 +9,18 @@ dietary:
 
 ## Ingredients
 
-8 large eggs
-0.5 tsp salt
-several grinds of black pepper
-0.5 c milk
-1 tbsp unsalted butter
+- 8 large eggs
+- 0.5 tsp salt
+- several grinds of black pepper
+- 0.5 c milk
+- 1 tbsp unsalted butter
 
-## Instructions
+## Directions
 
-Crack the eggs into a large bowl. Add the salt, pepper and milk. Whip with a fork until streaks are gone and the color is evenly yellow; stop while bubbles are still large.
-
-Melt the butter in a 10-inch nonstick skillet set over high heat. When the butter foams, swirl it around and up the sides of the pan.
-
-Before the foam subsides, add the eggs. With a wooden spoon or spatula, push the eggs from one side of the pan to the other, slowly but deliberately, lifting and folding the eggs as they form curds, until they are nicely clumped into a single mound but remain shiny and wet, 1.5 to 2 minutes.
-
-Serve immediately. Serves 4.
+1. Crack the eggs into a large bowl. Add the salt, pepper and milk. Whip with a fork until streaks are gone and the color is evenly yellow; stop while bubbles are still large.
+2. Melt the butter in a 10-inch nonstick skillet set over high heat. When the butter foams, swirl it around and up the sides of the pan.
+3. Before the foam subsides, add the eggs. With a wooden spoon or spatula, push the eggs from one side of the pan to the other, slowly but deliberately, lifting and folding the eggs as they form curds, until they are nicely clumped into a single mound but remain shiny and wet, 1.5 to 2 minutes.
+4. Serve immediately. Serves 4.
 
 ## Notes
 

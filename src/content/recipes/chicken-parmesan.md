@@ -10,30 +10,33 @@ subcategories:
 ## Ingredients
 
 Sauce:
-2 tbsp extra virgin olive oil
-2 garlic cloves, minced
-kosher salt and pepper
-1/2 tsp dried oregano
-Pinch red pepper flakes
-1 29 ounce can crushed tomatoes
-1/4 tsp sugar
-2 tbsp coarsely chopped fresh basil
-Chicken:
-2 6-8 ounce boneless skinless chicken breasts, trimmed, halved horizontally and pounded 1/2 inch thick
-1 tsp kosher salt
-2 ounces whole-milk mozzarella, shredded (1/2 cup)
-2 ounces fontina cheese, shredded (1/2 cup)
-1 large egg
-1 tbsp all purpose flour
-1 1/2 ounces Parmesan cheese, grated (3/4 cup)
-1/2 cup panko bread crumbs
-1/2 tsp garlic powder
-1/2 tsp dried oregano
-1/4 tsp pepper
-1/3 cup vegetable oil
-1/4 cup torn fresh basil
 
-## Instructions
+- 2 tbsp extra virgin olive oil
+- 2 garlic cloves, minced
+- kosher salt and pepper
+- 1/2 tsp dried oregano
+- Pinch red pepper flakes
+- 1 29 ounce can crushed tomatoes
+- 1/4 tsp sugar
+- 2 tbsp coarsely chopped fresh basil
+
+Chicken:
+
+- 2 6-8 ounce boneless skinless chicken breasts, trimmed, halved horizontally and pounded 1/2 inch thick
+- 1 tsp kosher salt
+- 2 ounces whole-milk mozzarella, shredded (1/2 cup)
+- 2 ounces fontina cheese, shredded (1/2 cup)
+- 1 large egg
+- 1 tbsp all purpose flour
+- 1 1/2 ounces Parmesan cheese, grated (3/4 cup)
+- 1/2 cup panko bread crumbs
+- 1/2 tsp garlic powder
+- 1/2 tsp dried oregano
+- 1/4 tsp pepper
+- 1/3 cup vegetable oil
+- 1/4 cup torn fresh basil
+
+## Directions
 
 1. FOR THE SAUCE: Heat 1 tbsp olive oil in medium sauce pan over medium heat until just shimmering. Add garlic, 3/4 tsp salt, oregano and pepper flakes; cook, stirring occasionally, until fragrant, about 30 seconds. Stir in tomatoes and sugar; increase heat to high and bring to a simmer. Reduce heat to medium-low and simmer until thickened, about 20 minutes. Off heat, stir in basil and remaining 1 tablespoon oil; season with salt and pepper to taste. Cover and keep warm.
 

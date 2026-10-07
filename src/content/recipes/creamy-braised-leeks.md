@@ -20,7 +20,7 @@ categories:
 - Kosher or finishing salt, pepper
 - Bread or crackers, for serving
 
-## Instructions
+## Directions
 
 1. Melt butter in a saucepan over medium heat, toss in rinsed capers and fresh thyme and let sizzle for a couple minutes.
 2. Add a large splash of white wine (maybe 1/4-1/2 cup depending on taste), let simmer for a minute, then add cream to taste (maybe 1/2-2/3 cup). Season to taste with salt and pepper and lemon zest. Simmer for a few minutes.

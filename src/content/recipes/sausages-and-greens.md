@@ -14,11 +14,11 @@ source:
 
 ## Ingredients
 
-This is one of those simple recipes that almost doesn't even need a recipe. It's also infinitely flexible, so try out different variations 'til you hit on the one you love!
+- This is one of those simple recipes that almost doesn't even need a recipe. It's also infinitely flexible, so try out different variations 'til you hit on the one you love!
 
-## Instructions
+## Directions
 
-Serves however many you want it to
+1. Serves however many you want it to
 
 ## Notes
 

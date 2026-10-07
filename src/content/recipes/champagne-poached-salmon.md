@@ -7,25 +7,27 @@ categories:
 
 ## Ingredients
 
-1 tbsp unsalted butter
-2 cups Brut champagne
-1/4 cup diced shallots
-6 sprigs fresh dill
-2 tbsp minced dill
-1 tsp salt
-1 tsp pepper
-4 6-ounce salmon fillets, skin removed
-Champagne Vanilla Sauce:
-1/2 cup chopped shallots
-1 cup champagne
-1 vanilla bean, halved lengthwise
-1 1/2 cups heavy cream
-4 tablespoons cold unsalted butter, cut into pieces
-1/2 tsp salt
-1/4 tsp pepper
-1 tsp champagne vinegar
+- 1 tbsp unsalted butter
+- 2 cups Brut champagne
+- 1/4 cup diced shallots
+- 6 sprigs fresh dill
+- 2 tbsp minced dill
+- 1 tsp salt
+- 1 tsp pepper
+- 4 6-ounce salmon fillets, skin removed
 
-## Instructions
+Champagne Vanilla Sauce:
+
+- 1/2 cup chopped shallots
+- 1 cup champagne
+- 1 vanilla bean, halved lengthwise
+- 1 1/2 cups heavy cream
+- 4 tablespoons cold unsalted butter, cut into pieces
+- 1/2 tsp salt
+- 1/4 tsp pepper
+- 1 tsp champagne vinegar
+
+## Directions
 
 1. Grease a saucepan with the butter. Add the champagne, dill, shallots, salt and pepper and bring to a boil. Reduce the heat to medium low and gently simmer for 5 minutes.
 

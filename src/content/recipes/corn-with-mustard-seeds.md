@@ -7,15 +7,15 @@ categories:
 
 ## Ingredients
 
-5 ears fresh corn (about 4 cups frozen kernels)
-3 tablespoons canola oil
-1/2 teaspoon mustard seeds
-1 or 2 small green serrano chiles, sliced thinly into rounds
-1/4 teaspoon ground turmeric
-salt
-1 tablespoon minced cilantro leaves
+- 5 ears fresh corn (about 4 cups frozen kernels)
+- 3 tablespoons canola oil
+- 1/2 teaspoon mustard seeds
+- 1 or 2 small green serrano chiles, sliced thinly into rounds
+- 1/4 teaspoon ground turmeric
+- salt
+- 1 tablespoon minced cilantro leaves
 
-## Instructions
+## Directions
 
 1. Slice kernels off the corn cobs; you should have about 4 cups of kernels.
 

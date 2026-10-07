@@ -7,14 +7,14 @@ categories:
 
 ## Ingredients
 
-16 tablespoons unsalted butter (2 sticks), cold, plus extra for greasing pan
-3 large eggs
-3 large egg yolks
-2 teaspoons vanilla extract
-1 3/4 cups flour, plus extra for dusting pan
-1/2 teaspoon table salt
-1 1/4 cup sugar
+- 16 tablespoons unsalted butter (2 sticks), cold, plus extra for greasing pan
+- 3 large eggs
+- 3 large egg yolks
+- 2 teaspoons vanilla extract
+- 1 3/4 cups flour, plus extra for dusting pan
+- 1/2 teaspoon table salt
+- 1 1/4 cup sugar
 
-## Instructions
+## Directions
 
 1. Cut butter into 1-tablespoon pieces and place in bowl of standing mixer; let stand at room temperature 20 to 30 minutes to soften slightly (butter should reach no more than 60 degrees). Using dinner fork, beat eggs, egg yolks, and vanilla in liquid measuring cup until combined. Let egg mixture stand at room temperature until ready to use.

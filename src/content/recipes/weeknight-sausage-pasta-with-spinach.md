@@ -26,7 +26,7 @@ source:
 - 3 ounces baby spinach (about 3 packed cups)
 - Grated Parmesan cheese, for serving
 
-## Instructions
+## Directions
 
 1. Bring a large pot of heavily salted water to a boil. Meanwhile, dice the onion and mince the garlic. Remove the casings from the sausage if needed.
 2. Heat the olive oil in a large frying pan or high-sided sauté pan over medium heat until shimmering. Add the onion and sauté until softened and translucent, 3 to 4 minutes. Add the garlic and red pepper flakes, if using, and cook until fragrant, 30 seconds to 1 minute.

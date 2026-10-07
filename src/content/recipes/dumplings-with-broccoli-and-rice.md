@@ -16,7 +16,7 @@ tags:
 - Broccoli
 - Rice
 
-## Instructions
+## Directions
 
 1. Make the rice in the rice cooker.
 2. Cook the broccoli like so: [The Best Way to Cook Broccoli](/recipes/the-best-way-to-cook-broccoli/).

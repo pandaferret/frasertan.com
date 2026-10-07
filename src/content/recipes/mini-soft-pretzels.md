@@ -7,17 +7,17 @@ categories:
 
 ## Ingredients
 
-2 c warm water (100 to 110°F)
-1 tbsp + 2 tbsp sugar
-1 packet yeast
-5-6 c all purpose flour
-1 tbsp salt
-2 tsp canola oil
-1/4 c baking soda
-1 large egg
-coarse or pretzel salt
+- 2 c warm water (100 to 110°F)
+- 1 tbsp + 2 tbsp sugar
+- 1 packet yeast
+- 5-6 c all purpose flour
+- 1 tbsp salt
+- 2 tsp canola oil
+- 1/4 c baking soda
+- 1 large egg
+- coarse or pretzel salt
 
-## Instructions
+## Directions
 
 1. Pour the warm water into the bowl of a stand mixer. Add 1 tablespoon sugar. Sprinkle the yeast over the water and let sit 10 minutes. Yeast should become foamy. 2. Add 1 cup flour and mix on low with the dough hook until combined. Add 4 cups flour and salt and knead until combined. Beat on medium low until the dough starts to pull away from the sides of the bowl, about 1.5 minutes. Add another 1/2 cup and knead on low for 1 more minutes. If the dough is super sticky, add another 1/2 cup. Transfer to a lightly floured surface and knead by hand roughly ten times until the dough is smooth.
 

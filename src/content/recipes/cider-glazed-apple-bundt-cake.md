@@ -12,21 +12,21 @@ source:
 
 ## Ingredients
 
-4cups apple cider
-3 ¾cups (18 3/4 ounces) all-purpose flour
-1 ½teaspoons salt
-1 ½teaspoons baking powder
-½teaspoon baking soda
-¾teaspoon ground cinnamon
-¼teaspoon ground allspice
-¾cup (3 ounces) confectioners' sugar
-16tablespoons unsalted butter, melted
-1 ½cups packed (10 1/2 ounces) dark brown sugar
-3large eggs
-2teaspoons vanilla extract
-1 ½pounds Granny Smith apples, peeled, cored, and shredded (3 cups)
+- 4cups apple cider
+- 3 ¾cups (18 3/4 ounces) all-purpose flour
+- 1 ½teaspoons salt
+- 1 ½teaspoons baking powder
+- ½teaspoon baking soda
+- ¾teaspoon ground cinnamon
+- ¼teaspoon ground allspice
+- ¾cup (3 ounces) confectioners' sugar
+- 16tablespoons unsalted butter, melted
+- 1 ½cups packed (10 1/2 ounces) dark brown sugar
+- 3large eggs
+- 2teaspoons vanilla extract
+- 1 ½pounds Granny Smith apples, peeled, cored, and shredded (3 cups)
 
-## Instructions
+## Directions
 
 1. Bring cider to boil in 12-inch skillet over high heat; cook until reduced to 1 cup, 20 to 25 minutes. While cider is reducing, adjust oven rack to middle position and heat oven to 350 degrees. Grease and flour 12-cup nonstick Bundt pan. Whisk flour, salt, baking powder, baking soda, cinnamon, and allspice in large bowl until combined. Place confectioners’ sugar in small bowl.
 

@@ -12,18 +12,18 @@ source:
 
 ## Ingredients
 
-2 c warm milk
-3/4 c sugar
-1 tsp salt
-1 large tbsp yeast
-1/4 c butter + 1/4 c shortening, melted
-2 eggs
-2 heaping tsps fresh ground cardamom
-~7-7 1/2 cups bread flour
-1 egg mixed with 1 tbsp water
-Swedish pearl sugar
+- 2 c warm milk
+- 3/4 c sugar
+- 1 tsp salt
+- 1 large tbsp yeast
+- 1/4 c butter + 1/4 c shortening, melted
+- 2 eggs
+- 2 heaping tsps fresh ground cardamom
+- ~7-7 1/2 cups bread flour
+- 1 egg mixed with 1 tbsp water
+- Swedish pearl sugar
 
-## Instructions
+## Directions
 
 1. Mix all ingredients until a fine smooth dough forms.
 
@@ -94,7 +94,4 @@ If you leave them in the pans too long they get soggy.
 - Makes two big loaves (10x5x3 pan - 1.5 lb) or three normal loaves (8.5x4.5x2.75 pan - 1 lb)
 - Yes, that does read 360°. I have had trouble in the past with the bread being a little underdone in the middle, especially the large loaves. It's hard to overcook this bread, so err on the side of more time rather than less - if the tops are browning too quickly, you can cover them with foil.
 - Each slice contains approximately 7.5g sugar.
-- I followed this guide from Deb to make this into fantail rolls.Because this recipe is double that one, I divided the dough into quarters, and when I rolled it out and cut and stacked, the layers seemed thin. However, they rose to fill the muffin tins nicely. It made 24 rolls.I forgot to pull apart the layers as Deb mentions; I'll try this next time. I baked them at 375° for 15-20 minutes, as per the guide, not per the bread recipe.
-- Because this recipe is double that one, I divided the dough into quarters, and when I rolled it out and cut and stacked, the layers seemed thin. However, they rose to fill the muffin tins nicely. It made 24 rolls.
-- I forgot to pull apart the layers as Deb mentions; I'll try this next time.
-- I baked them at 375° for 15-20 minutes, as per the guide, not per the bread recipe.
+- I followed this guide from Deb to make this into fantail rolls. Because this recipe is double that one, I divided the dough into quarters, and when I rolled it out and cut and stacked, the layers seemed thin. However, they rose to fill the muffin tins nicely. It made 24 rolls. I forgot to pull apart the layers as Deb mentions; I'll try this next time. I baked them at 375° for 15-20 minutes, as per the guide, not per the bread recipe.

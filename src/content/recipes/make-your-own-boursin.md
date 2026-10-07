@@ -10,15 +10,15 @@ source:
 
 ## Ingredients
 
-1 cup butter, softened
-1 8 oz package cream cheese, room temperature
-1 clove garlic, minced
-0.5 tsp oregano
-0.5 tsp dried basil
-0.125 tsp each dill, marjoram, thyme and pepper
-OR
-0.5 tsp poultry seasoning
+- 1 cup butter, softened
+- 1 8 oz package cream cheese, room temperature
+- 1 clove garlic, minced
+- 0.5 tsp oregano
+- 0.5 tsp dried basil
+- 0.125 tsp each dill, marjoram, thyme and pepper
+- OR
+- 0.5 tsp poultry seasoning
 
-## Instructions
+## Directions
 
-Stir all ingredients to combine, then chill.
+1. Stir all ingredients to combine, then chill.

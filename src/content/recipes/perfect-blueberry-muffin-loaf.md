@@ -23,7 +23,7 @@ source:
 - 2 1/4 cups (320 grams or 11.5 ounces) fresh or frozen blueberries (no need to defrost)
 - 3 tablespoons (35 grams) turbinado sugar (sugar in the raw)
 
-## Instructions
+## Directions
 
 1. Heat oven to 375°F. Line a loaf pan with one big piece of parchment paper pressed into the corners and up the sides. Leave the excess paper extended up over the rim, which also helps protect against overflow.
 2. Melt butter in a large bowl, then whisk in granulated sugar and zest. Add yogurt and eggs and whisk to evenly combine. Sprinkle the surface of the batter with baking powder, baking soda, and salt and whisk thoroughly into the batter, several times more around the bowl than is necessary for it to look mixed. Add flour and berries and use a flexible spatula or spoon to mix them in so that no pockets of flour remain. Batter will be very, very thick.

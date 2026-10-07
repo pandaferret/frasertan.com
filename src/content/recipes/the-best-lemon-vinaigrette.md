@@ -9,22 +9,18 @@ source:
 
 ## Ingredients
 
-¼ cup red wine vinegar
-2 tablespoons Dijon mustard, or to taste
-1 clove garlic, minced
-1 teaspoon dried oregano
-½ teaspoon kosher salt
-¼ teaspoon ground black pepper
-½ cup olive oil
-2 tablespoons fresh lemon juice
-Equipment
+- ¼ cup red wine vinegar
+- 2 tablespoons Dijon mustard, or to taste
+- 1 clove garlic, minced
+- 1 teaspoon dried oregano
+- ½ teaspoon kosher salt
+- ¼ teaspoon ground black pepper
+- ½ cup olive oil
+- 2 tablespoons fresh lemon juice
 
-## Instructions
+## Directions
 
-Whisk red wine vinegar, Dijon mustard, garlic, oregano, salt, and pepper together in a small bowl.
-
-Slowly stream olive oil into vinegar mixture, whisking continuously, until well combined.
-
-Add lemon juice and whisk to combine.
-
-Pour vinaigrette into a screw-top jar or bottle; seal. Shake before serving.
+1. Whisk red wine vinegar, Dijon mustard, garlic, oregano, salt, and pepper together in a small bowl.
+2. Slowly stream olive oil into vinegar mixture, whisking continuously, until well combined.
+3. Add lemon juice and whisk to combine.
+4. Pour vinaigrette into a screw-top jar or bottle; seal. Shake before serving.

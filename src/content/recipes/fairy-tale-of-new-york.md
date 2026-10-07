@@ -7,15 +7,14 @@ categories:
 
 ## Ingredients
 
-1 piece of orange peel (about 1" x 2")
-3/4 oz Winter Warmth Syrup
-2 dashs of bitters\*
-2 ounces bourbon, rye or Canadian whiskey
-Equipment
+- 1 piece of orange peel (about 1" x 2")
+- 3/4 oz Winter Warmth Syrup
+- 2 dashs of bitters\*
+- 2 ounces bourbon, rye or Canadian whiskey
 
-## Instructions
+## Directions
 
-Place the orange peel, syrup and bitters in a low glass and muddle. Pour in whiskey and add a large ice cube - drink!
+1. Place the orange peel, syrup and bitters in a low glass and muddle. Pour in whiskey and add a large ice cube - drink!
 
 ## Notes
 

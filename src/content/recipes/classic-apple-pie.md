@@ -45,7 +45,7 @@ Filling:
 - Food processor
 - Microplane zester
 
-## Instructions
+## Directions
 
 1. Process flour, sugar, and salt together in a food processor until combined, about 5 seconds. Scatter shortening over top and process until mixture resembles coarse cornmeal, about 10 seconds. Scatter butter over top and pulse mixture until it resembles coarse crumbs, about 10 pulses. (To do this by hand, freeze the butter and shortening, grate it into the flour using the large holes of a box grater, and rub the flour-coated pieces between your fingers for a minute until the flour turns pale yellow and coarse.)
 2. Transfer mixture to a large bowl. Sprinkle 6 tablespoons ice water over mixture. Stir and press dough together, using a stiff rubber spatula, until dough sticks together. If dough does not come together, stir in remaining ice water, 1 tablespoon at a time, until it does. Divide dough into 2 even pieces. Turn each piece of dough onto a sheet of plastic wrap and flatten each into a 4-inch disk. Wrap each piece tightly in plastic and refrigerate for 1 hour. Before rolling dough out, let it sit on the counter to soften slightly, about 10 minutes. (Dough can be wrapped tightly in plastic and refrigerated for up to 2 days or frozen for up to 1 month. If frozen, let dough thaw completely on the counter before rolling it out.)

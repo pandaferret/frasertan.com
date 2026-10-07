@@ -8,37 +8,36 @@ subcategories:
 tags:
   - Weeknight Meals
 source:
-  name: ". I thought the soup was a little watery, so I omitted a cup of water and a cup of broth. The original recipe recommends serving the soup drizzled with a good quality olive oil, but I left that out to conserve calories."
   url: "http://cooking.nytimes.com/recipes/1016062-red-lentil-soup-with-lemon"
 ---
 
 ## Ingredients
 
-2 tablespoons olive oil, more for drizzling
-1 large onion, chopped
-2 garlic cloves, minced
-1 tablespoon tomato paste
-1 teaspoon ground cumin
-¼ teaspoon kosher salt, more to taste
-¼ teaspoon ground black pepper
-Pinch of ground chile powder or cayenne, more to taste
-3 cups chicken or vegetable broth
-1 cup water
-1 cup red lentils
-1 large carrot, peeled and diced
-Juice of 1/2 lemon, more to taste
-3 tablespoons chopped fresh cilantro
+- 2 tablespoons olive oil, more for drizzling
+- 1 large onion, chopped
+- 2 garlic cloves, minced
+- 1 tablespoon tomato paste
+- 1 teaspoon ground cumin
+- ¼ teaspoon kosher salt, more to taste
+- ¼ teaspoon ground black pepper
+- Pinch of ground chile powder or cayenne, more to taste
+- 3 cups chicken or vegetable broth
+- 1 cup water
+- 1 cup red lentils
+- 1 large carrot, peeled and diced
+- Juice of 1/2 lemon, more to taste
+- 3 tablespoons chopped fresh cilantro
 
-## Instructions
+## Directions
 
-In a large pot, heat olive oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.
+1. In a large pot, heat olive oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.
+2. Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.
+3. Add broth, 1 cup water, lentils and carrot. Bring to a simmer, then partially cover pot and turn heat to medium-low. Simmer until lentils are soft, about 30 minutes. Taste and add salt if necessary.
+4. Using an immersion or regular blender or a food processor, purée half the soup then add it back to pot. Soup should be somewhat chunky.
+5. Reheat soup if necessary, then stir in lemon juice. Serve garnished with cilantro and dusted lightly with chili powder if desired.
+6. Serves 4.
 
-Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.
+## Notes
 
-Add broth, 1 cup water, lentils and carrot. Bring to a simmer, then partially cover pot and turn heat to medium-low. Simmer until lentils are soft, about 30 minutes. Taste and add salt if necessary.
-
-Using an immersion or regular blender or a food processor, purée half the soup then add it back to pot. Soup should be somewhat chunky.
-
-Reheat soup if necessary, then stir in lemon juice. Serve garnished with cilantro and dusted lightly with chili powder if desired.
-
-Serves 4.
+- I thought the soup was a little watery, so I omitted a cup of water and a cup of broth.
+- The original recipe recommends serving the soup drizzled with a good quality olive oil, but I left that out to conserve calories.

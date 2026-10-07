@@ -9,21 +9,21 @@ subcategories:
 
 ## Ingredients
 
-1 lb chunky pasta
-1 bundle brocolli rabe (also called rapini), chopped into 1" pieces
-1 lb Italian sausage, casings removed
-2/3 cup grated Parmesan
-12-16 oz mozzarella, cut into small cubes (or pearlini)
-2 cups full fat milk
-4 tbsp unsalted butter
-1/4 cup flour
-1/2 tsp salt
-Black pepper
-6 or more cloves garlic, minced
-a few gratings of fresh nutmeg
-St. Lucifer's spice
+- 1 lb chunky pasta
+- 1 bundle brocolli rabe (also called rapini), chopped into 1" pieces
+- 1 lb Italian sausage, casings removed
+- 2/3 cup grated Parmesan
+- 12-16 oz mozzarella, cut into small cubes (or pearlini)
+- 2 cups full fat milk
+- 4 tbsp unsalted butter
+- 1/4 cup flour
+- 1/2 tsp salt
+- Black pepper
+- 6 or more cloves garlic, minced
+- a few gratings of fresh nutmeg
+- St. Lucifer's spice
 
-## Instructions
+## Directions
 
 Preheat over to 400°. Butter a 9" x 13" baking dish.
 

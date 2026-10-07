@@ -24,7 +24,7 @@ source:
 - 1 tablespoon vanilla extract
 - 1/2 teaspoon kosher salt
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 325°F. Line two baking sheets with parchment paper.
 2. In a small bowl, combine the water and dates. Soak for 20 to 30 minutes, until the water has been partially absorbed and the dates are soft. Transfer the dates to a blender and blend to a paste on low speed. Set aside.

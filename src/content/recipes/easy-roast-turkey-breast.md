@@ -9,19 +9,18 @@ dietary:
   - GF
   - DF
 source:
-  name: "the recipe. If the breast has a pop-up timer, do not remove it. Just ignore it (they pop too late) and follow the times and temperatures in the recipe. A turkey breast doesn't yield much in the way of drippings, so a classic pan gravy recipe is not an option.How to Brine a Turkey Breast: Dissolve 1/2 cup of table salt (or 3/4 cup of kosher salt) in 4 quarts of cold water in a large container; submerge the turkey breast in brine, cover it with plastic wrap, and refrigerate it for three to six hours. (Do not brine the turkey breast any longer, or it will be too salty.) Rinse the turkey breast under cold water and dry it thoroughly with paper towels."
   url: "https://www.cooksillustrated.com/recipes/3910-easy-roast-turkey-breast"
 ---
 
 ## Ingredients
 
-4 tbsp unsalted butter, softened
-¾ teaspoon table salt
-¼ teaspoon ground black pepper
-1 whole turkey breast (6 to 7 pounds), bone-in and skin-on, trimmed of excess fat and patted dry with paper towels
-1 cup water
+- 4 tbsp unsalted butter, softened
+- ¾ teaspoon table salt
+- ¼ teaspoon ground black pepper
+- 1 whole turkey breast (6 to 7 pounds), bone-in and skin-on, trimmed of excess fat and patted dry with paper towels
+- 1 cup water
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 425 degrees. Mix butter, salt, and pepper in medium bowl with rubber spatula until thoroughly combined. Carefully separate turkey skin from meat over breast; avoid breaking skin.
 

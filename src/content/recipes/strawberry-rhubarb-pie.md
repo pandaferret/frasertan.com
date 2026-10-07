@@ -12,20 +12,23 @@ tags:
 ## Ingredients
 
 Crust:
-2.5 cups (12.5 oz) all purpose flour
-2 tablespoons sugar, plus 3 tablespoons for sprinkling
-1 tsp salt
-12 tbsp (170g) unsalted butter, cut into quarter inch slices and chilled
-0.5 c (102.5g) vegetable shortening, cut into 4 pieces and chilled
-0.25 c vodka, chilled
-0.25 c cold water, plus extra for brushing
-Filling:
-2 pounds rhubarb, trimmed and cut into 0.5" pieces (7 cups)
-1.25 c (8.75 oz) sugar
-1 lb strawberries, hulled, halved if less than 1", quartered if more than 1" (4 cups)
-3 tbsp instant tapioca
 
-## Instructions
+- 2.5 cups (12.5 oz) all purpose flour
+- 2 tablespoons sugar, plus 3 tablespoons for sprinkling
+- 1 tsp salt
+- 12 tbsp (170g) unsalted butter, cut into quarter inch slices and chilled
+- 0.5 c (102.5g) vegetable shortening, cut into 4 pieces and chilled
+- 0.25 c vodka, chilled
+- 0.25 c cold water, plus extra for brushing
+
+Filling:
+
+- 2 pounds rhubarb, trimmed and cut into 0.5" pieces (7 cups)
+- 1.25 c (8.75 oz) sugar
+- 1 lb strawberries, hulled, halved if less than 1", quartered if more than 1" (4 cups)
+- 3 tbsp instant tapioca
+
+## Directions
 
 For the crust: 1. Process 1.5 cups flour, 2 tbsp sugar and salt in food processor until combined, about 5 seconds. Scatter butter and shortening over top and process until incorporated and mixture begins to form uneven clumps with no floury bits remaining, about 15 seconds.
 
@@ -55,4 +58,4 @@ I like to reduce the mixture even more, almost until it is like jam in its consi
 
 ## Notes
 
-- This may be the best crust recipe I know. I've always hated working with pie crust, as it feels so finicky, and if I worked it just a teensy bit too much it would toughen up and be bad. This crust can withstand some work and stays tender and flakey, thanks to the booze.Pie goes great with unsweetened whipped cream.
+- This may be the best crust recipe I know. I've always hated working with pie crust, as it feels so finicky, and if I worked it just a teensy bit too much it would toughen up and be bad. This crust can withstand some work and stays tender and flakey, thanks to the booze. Pie goes great with unsweetened whipped cream.

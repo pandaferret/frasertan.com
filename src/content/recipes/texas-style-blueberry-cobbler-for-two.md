@@ -11,17 +11,17 @@ dietary:
 
 ## Ingredients
 
-1 tablespoon unsalted butter, cut into two pieces
-2 tablespoons unsalted butter, melted and cooled
-1/3 cup sugar
-1/2 teaspoon lemon zest
-1 cup (5 ounces) blueberries (thawed if frozen)
-1/2 cup all purpose flour
-3/4 teaspoon baking powder
-1/4 teaspoon salt
-1/3 cup whole milk
+- 1 tablespoon unsalted butter, cut into two pieces
+- 2 tablespoons unsalted butter, melted and cooled
+- 1/3 cup sugar
+- 1/2 teaspoon lemon zest
+- 1 cup (5 ounces) blueberries (thawed if frozen)
+- 1/2 cup all purpose flour
+- 3/4 teaspoon baking powder
+- 1/4 teaspoon salt
+- 1/3 cup whole milk
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 350°. Line baking sheet with aluminum foil. Place two ramekins on prepared sheet and plate 1 piece of butter in each ramekin. Transfer to oven and heat until butter is melted, about 5 minutes. Watch to make sure the butter does not scorch.
 

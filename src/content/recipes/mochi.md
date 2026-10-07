@@ -13,15 +13,15 @@ dietary:
 
 ## Ingredients
 
-1 lb mochiko (glutinous rice flour)
-2.5 c sugar
-1 tsp baking powder
-2 c water
-1 tsp vanilla extract
-1 can (14 oz) coconut milk
-1.5 c potato starch
+- 1 lb mochiko (glutinous rice flour)
+- 2.5 c sugar
+- 1 tsp baking powder
+- 2 c water
+- 1 tsp vanilla extract
+- 1 can (14 oz) coconut milk
+- 1.5 c potato starch
 
-## Instructions
+## Directions
 
 1. Preheat oven to 350°. Grease a 9 x 13 inch pan and line with parchment paper. 2. Whisk together rice flour, sugar and baking power. In a separate bowl, mix water, coconut milk and vanilla extract. Blend the rice flour mixture into the coconut milk mixture. Pour into prepared pan.
 

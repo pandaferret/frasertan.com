@@ -11,19 +11,19 @@ tags:
 
 ## Ingredients
 
-1 envelope unflavored gelatin (Knox)
-3/4 cup firmly packed dark brown sugar
-1/2 tsp salt
-1/2 tsp nutmeg
-1 tsp cinnamon
-1/2 cup milk
-1/4 cup water
-3 eggs, separated
-1 15 oz can of pumpkin
-1/4 cup sugar
-2 9" pie shells (homemade and prebaked or store bought)
+- 1 envelope unflavored gelatin (Knox)
+- 3/4 cup firmly packed dark brown sugar
+- 1/2 tsp salt
+- 1/2 tsp nutmeg
+- 1 tsp cinnamon
+- 1/2 cup milk
+- 1/4 cup water
+- 3 eggs, separated
+- 1 15 oz can of pumpkin
+- 1/4 cup sugar
+- 2 9" pie shells (homemade and prebaked or store bought)
 
-## Instructions
+## Directions
 
 1. In a medium bowl, mix together gelatin, dark brown sugar and spices. mix in egg yolks, milk, water and pumpkin.
 

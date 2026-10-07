@@ -13,19 +13,19 @@ source:
 
 ## Ingredients
 
-⅓ cup frozen corn kernels, thawed
-2 teaspoons vegetable oil, plus more for brushing tortillas
-⅓ cup minced red onion
-1 teaspoon minced garlic
-½ teaspoon chili powder
-⅓ cup black beans (canned)
-2 teaspoons lime juice
-kosher salt
-2 plain flour tortillas, eight-inch
-⅔ cup pepper Jack cheese (3 ounces)
-1 tablespoon minced pickled jalapeños (optional)
+- ⅓ cup frozen corn kernels, thawed
+- 2 teaspoons vegetable oil, plus more for brushing tortillas
+- ⅓ cup minced red onion
+- 1 teaspoon minced garlic
+- ½ teaspoon chili powder
+- ⅓ cup black beans (canned)
+- 2 teaspoons lime juice
+- kosher salt
+- 2 plain flour tortillas, eight-inch
+- ⅔ cup pepper Jack cheese (3 ounces)
+- 1 tablespoon minced pickled jalapeños (optional)
 
-## Instructions
+## Directions
 
 1. Heat 10-inch nonstick skillet over medium-high heat until hot, about 2 minutes. Add corn and cook, stirring occasionally, until kernels begin to brown and pop, 3 to 5 minutes; tranfer corn to medium bowl. Heat 2 teaspoons vegetable oil in now-empty skillet over medium heat until shimmering; add red onion and cook, stirring occasionally, until softened, about 3 minutes. Add garlic and chili powder and cook until fragrant, about 1 minutes; stir in beans and cook until heated through, about 1 minute. Return corn to skillet and toss to combine; gently press mixture with spatula to lightly crush black beans. Transfer mixture to now-empty bowl, stir in lime juice, and season to taste with salt.
 

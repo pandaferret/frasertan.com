@@ -6,30 +6,30 @@ categories:
 subcategories:
   - Cookies
 source:
-  name: "Momofuku Milk BarNotes:Christina Tosi notes that if you don’t have (or don’t want to have!) glucose in your pantry, you can substitute corn syrup. BUT it’s not the same amount; use 18g (1 tbsp) of corn syrup in place of the glucose.My cookies always brown much more intensely that Christina describes; but I like them that way! If yours brown more than you would like, try using a double sheet pan to insulate them a little from the heat.Pro tip: make smaller cookies! I use a 1.5 tbsp scoop, and the cookies are done in about 12 minutes. Remember, they will continue to cook while cooling on the cookie sheet, so take them out while they still look a tad underdone."
+  name: "Momofuku Milk Bar"
 ---
 
 ## Ingredients
 
-225g (16 tablespoons/2 sticks) butter, room temperature
-200g (1 cup) granulated sugar
-150g (2/3 cup packed) light brown sugar
-50g (2 tbsp) glucose
-1 egg
-2g (1/2 tsp) vanilla
-225g (1 1/3 cups) flour
-1.5g (1/4 tsp) baking soda
-2g (1/2 tsp) baking powder
-4g (1 tsp) kosher salt
-150g (3/4 cup) mini chocolate chips
-100g (1/2 cup) mini butterscotch chips
-85g (1/2 cup) Graham crust
-40g (1/3 cup) old fashioned rolled oats
-5g (2 1/2 tsp) ground coffee
-50g (2 cups) potato chips
-50g (1 cup) mini pretzels
+- 225g (16 tablespoons/2 sticks) butter, room temperature
+- 200g (1 cup) granulated sugar
+- 150g (2/3 cup packed) light brown sugar
+- 50g (2 tbsp) glucose
+- 1 egg
+- 2g (1/2 tsp) vanilla
+- 225g (1 1/3 cups) flour
+- 1.5g (1/4 tsp) baking soda
+- 2g (1/2 tsp) baking powder
+- 4g (1 tsp) kosher salt
+- 150g (3/4 cup) mini chocolate chips
+- 100g (1/2 cup) mini butterscotch chips
+- 85g (1/2 cup) Graham crust
+- 40g (1/3 cup) old fashioned rolled oats
+- 5g (2 1/2 tsp) ground coffee
+- 50g (2 cups) potato chips
+- 50g (1 cup) mini pretzels
 
-## Instructions
+## Directions
 
 1. Combine the butter, sugars and glucose in the bowl of a stand mixer fitted with the paddle attachment and cream together on medium-high for 2 to 3 minutes. Scrape down the sides of the bowl, add the egg and vanilla, and beat for 7 to 8 minutes.
 

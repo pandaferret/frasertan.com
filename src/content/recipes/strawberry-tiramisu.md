@@ -26,7 +26,7 @@ source:
 - 1/2 cup powdered sugar, sifted if lumpy
 - 24 to 30 Savoiardi ladyfingers (exact number will depend on your baking dish)
 
-## Instructions
+## Directions
 
 1. Thinly slice half the strawberries and set aside. Dice the remaining strawberries and place in a medium saucepan. Add the sugar, balsamic vinegar, and salt and place over medium heat. Cook, stirring, until the sugar dissolves. Cover the pan and simmer, stirring occasionally and reducing the heat as needed, for 10 minutes, or until the strawberries cook down into a juicy sauce.
 2. Set a fine mesh strainer over a medium heatproof bowl. Pass the strawberry sauce through the strainer to remove the solids. Set the solids aside for assembling the tiramisu. Add the water to the juices in the bowl and stir to combine. Chill in the refrigerator until ready to assemble.

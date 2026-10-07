@@ -29,7 +29,7 @@ source:
 - 1 tablespoon chopped fresh basil
 - Crusty bread, for serving (optional)
 
-## Instructions
+## Directions
 
 1. Heat the oil in a large skillet over medium heat. Add the shallots and sun-dried tomatoes; cook, stirring often, until the shallots are softened, about 3 minutes.
 2. Add the garlic and salt; stir until fragrant, about 30 seconds. Add the wine and increase heat to medium-high; cook, stirring often, until the wine is almost fully reduced, about 2 minutes.

@@ -25,7 +25,7 @@ source:
 - 1 1/2 teaspoons finely chopped fresh rosemary
 - 1 tablespoon white-wine vinegar
 
-## Instructions
+## Directions
 
 1. Position oven racks in the upper and lower thirds; preheat to 425°F.
 2. Toss the cabbage, onion, 2 tablespoons oil, 1/2 teaspoon salt and the pepper together in a large bowl until well coated. Spread in an even layer on 2 large rimmed baking sheets. Reserve the bowl.

@@ -20,7 +20,7 @@ dietary:
 - Sous vide
 - Rimmed baking sheet with rack
 
-## Instructions
+## Directions
 
 1. Preheat sous vide cooker to 140°F (60°C). Add ham and cook for at least 3 hours and up to 8 hours.
 2. Meanwhile, heat brown sugar in a small saucepan over medium-high heat until melted. Continue to cook until deep brown but not black, and immediately add all of the balsamic vinegar, standing back as you add it. Cook, stirring occasionally, until sugar is dissolved. Reduce to a bare simmer and continue to cook until mixture is thick and syrupy and coats the back of a spoon, about 5 minutes. Set aside.

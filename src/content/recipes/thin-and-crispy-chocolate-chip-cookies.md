@@ -9,19 +9,19 @@ subcategories:
 
 ## Ingredients
 
-1 1/2 cups (7 1/2 ounces) all purpose flour
-3/4 teaspoon baking soda
-1/4 teaspoon salt
-8 tablespoons (1 stick) unsalted butter, melted and cooled
-1/2 cup (3 1/2 ounces) granulated sugar
-1/3 cup packed (2 1/3 ounces) light brown sugar
-2 tablespoons light corn syrup
-1 large egg yolk
-2 tablespoons milk
-1 tablespoon vanilla extract
-3/4 cup semisweet chocolate chips
+- 1 1/2 cups (7 1/2 ounces) all purpose flour
+- 3/4 teaspoon baking soda
+- 1/4 teaspoon salt
+- 8 tablespoons (1 stick) unsalted butter, melted and cooled
+- 1/2 cup (3 1/2 ounces) granulated sugar
+- 1/3 cup packed (2 1/3 ounces) light brown sugar
+- 2 tablespoons light corn syrup
+- 1 large egg yolk
+- 2 tablespoons milk
+- 1 tablespoon vanilla extract
+- 3/4 cup semisweet chocolate chips
 
-## Instructions
+## Directions
 
 1. Preheat oven to 375°. Line cookie sheets with silpat and set out a wire cooling rack and two timers.
 

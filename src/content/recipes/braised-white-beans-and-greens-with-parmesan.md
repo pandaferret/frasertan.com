@@ -30,7 +30,7 @@ source:
 - 3 tablespoons grated Parmesan or Pecorino Romano, plus more for serving
 - Toasted country bread, for serving
 
-## Instructions
+## Directions
 
 1. In a 12-inch skillet or Dutch oven, heat the olive oil over medium. Add the fennel, onion and rosemary, and cook for 4 to 6 minutes, stirring occasionally, until tender. Add the garlic and red-pepper flakes and cook until fragrant, about 1 minute.
 2. Begin adding handfuls of the greens, cooking and stirring until leaves wilt.

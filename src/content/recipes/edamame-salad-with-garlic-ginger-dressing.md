@@ -33,7 +33,7 @@ Dressing:
 - 1 tbsp sesame seeds
 - Sea salt to taste
 
-## Instructions
+## Directions
 
 1. Begin by thawing your edamame. You can do so slowly by placing the bag of edamame in the refrigerator. For a quicker thaw, dump the frozen edamame into a large bowl and fill with cold water. Allow it to sit until it has thawed, about 10 minutes.
 2. Mix the dressing ingredients together in a small bowl.

@@ -21,7 +21,7 @@ source:
 - 2 large eggs, cold
 - 1/2 cup (65 grams) all-purpose flour
 
-## Instructions
+## Directions
 
 1. Position a rack in the lower third of the oven and preheat the oven to 325°F. Line the bottom and sides of an 8×8-inch square baking pan with parchment paper or foil, leaving an overhang on two opposite sides.
 2. Combine the butter, sugar, cocoa, and salt in a medium heatproof bowl and gently melt together in the microwave. Once the butter is partially melted, remove from the microwave and stir to finish melting the rest.

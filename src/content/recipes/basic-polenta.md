@@ -11,12 +11,12 @@ source:
 
 ## Ingredients
 
-6 cups water
-Table salt
-1½ cups medium-grind cornmeal, preferably stone-ground
-3 tablespoons unsalted butter, cut into large chunks
-Ground black pepper
+- 6 cups water
+- Table salt
+- 1½ cups medium-grind cornmeal, preferably stone-ground
+- 3 tablespoons unsalted butter, cut into large chunks
+- Ground black pepper
 
-## Instructions
+## Directions
 
 1. Bring the water to a rolling boil in a heavy-bottomed 4-quart saucepan over medium-high heat. Reduce the heat to the lowest possible setting, add 1 teaspoon salt, and pour the cornmeal into the water in a very slow stream from a measuring cup, all the while whisking in a circular motion to prevent lumps. 2. Cover and cook, vigorously stirring the polenta with a wooden spoon for about 10 seconds once every 5 minutes and making sure to scrape clean the bottom and corners of the pot, until the polenta has lost its raw cornmeal taste and becomes soft and smooth, about 30 minutes. Stir in the butter, season with salt and pepper to taste, and serve immediately.
