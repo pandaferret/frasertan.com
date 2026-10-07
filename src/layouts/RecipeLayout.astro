@@ -60,26 +60,11 @@ const breadcrumbs = [
           )
         }
       </div>
-      <div class="recipe-meta">
-        {
-          categories.map((cat) => (
-            <a
-              href={`/categories/${cat.toLowerCase().replace(/ /g, "-")}/`}
-              data-pagefind-filter="category"
-            >
-              {cat}
-            </a>
-          ))
-        }
-        {
-          tags &&
-            tags.map((tag) => (
-              <a href={`/tags/${tag.toLowerCase().replace(/ /g, "-")}/`}>
-                {tag}
-              </a>
-            ))
-        }
-      </div>
+      {
+        categories.map((cat) => (
+          <meta data-pagefind-filter="category[content]" content={cat} />
+        ))
+      }
     </div>
     <hr />
     <slot />
