@@ -3,6 +3,8 @@ title: "Lemon Butter Chicken"
 description: "This is an easy and quick weeknight meal that is - as the recipe's author knows - damn delicious!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Chicken

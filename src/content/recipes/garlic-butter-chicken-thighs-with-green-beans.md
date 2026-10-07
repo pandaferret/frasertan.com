@@ -4,6 +4,8 @@ description: "Another easy delicious weeknight meal! It's worth deboning the thi
 yield: "Serves 4-6"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Chicken

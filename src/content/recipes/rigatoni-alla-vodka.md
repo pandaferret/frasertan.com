@@ -3,6 +3,8 @@ title: "Rigatoni alla Vodka"
 description: "Quick, easy and delicious!"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Eric-friendly

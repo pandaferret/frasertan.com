@@ -3,6 +3,8 @@ title: "Pumpkin Risotto with Bacon and Leeks"
 description: "At first I thought the pumpkin would be too sweet in this dish, but it is nicely balanced out by the bacon and adds a rich creaminess to this dish."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - GF
 source:

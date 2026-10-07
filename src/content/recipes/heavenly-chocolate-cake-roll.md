@@ -3,6 +3,8 @@ title: "Heavenly Chocolate Cake Roll"
 description: "This cake is amazingly delicious (and gluten free!) but damned if I can get it to roll! I blame my ham-hands for this, as Eric has succeeded once or twice, but I'll need to practice many more times. At least the resulting cake chips are glorious to nosh on!"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 dietary:
   - GF
 source:

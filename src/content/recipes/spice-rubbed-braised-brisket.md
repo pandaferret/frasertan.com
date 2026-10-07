@@ -3,6 +3,8 @@ title: "Spice-Rubbed Braised Brisket with Pomegranate"
 description: "A delicious recipe from the New York Times!"
 categories:
   - Main Dishes
+subcategories:
+  - Beef
 source:
   url: "https://cooking.nytimes.com/recipes/1021690-spice-rubbed-braised-brisket"
 ---

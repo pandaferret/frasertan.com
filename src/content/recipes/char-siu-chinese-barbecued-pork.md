@@ -3,6 +3,8 @@ title: "Char Siu (Chinese Barbecued Pork)"
 description: "From Cook's Illustrated Best International Recipes cookbook. If you don't have a wire rack that fits inside a rimmed baking sheet, substitute a broiler pan, although the meat may not darken as much. Do not use a drawer broiler in step 5 because the heat source will be too close to the meat and burn the glaze. Instead, increase the oven temperature in step 5 to 500 degrees and cook the pork for 8 to 12 minutes before glazing, then about 6 to 8 minutes once the glaze has been applied (on both sides). Serve with simple steamed white rice."
 categories:
   - Main Dishes
+subcategories:
+  - Pork
 ---
 
 ## Ingredients

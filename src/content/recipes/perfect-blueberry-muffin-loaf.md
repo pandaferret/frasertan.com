@@ -4,6 +4,8 @@ description: "The same quick deliciousness as Smitten Kitchen's Perfect Blueberr
 categories:
   - Breads and Baked Goods
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2024/05/perfect-blueberry-muffin-loaf/"

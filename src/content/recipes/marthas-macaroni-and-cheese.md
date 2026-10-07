@@ -3,6 +3,8 @@ title: "Martha's Macaroni and Cheese"
 description: "via Smitten Kitchen: Now, please be warned, this makes a ton-a mac-and-cheese. Not interested in going on an all-mac, all-the-time diet this week, but wishing to try the recipe at last, I halved it and guess what? We still had three dinner’s worth of mac-and-cheese, or a full six servings. Which is, of course, what the recipe said it would make if halved, but I was in denial. This is particularly delicious with a big, crunchy salad and a steamed vegetable, like green beans or broccoli. Serves 12"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Seasonal Treats
   - Fall

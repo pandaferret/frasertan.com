@@ -4,6 +4,8 @@ description: "Another yummy one from Smitten Kitchen!"
 yield: "Serves 4 to 6"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Make Ahead

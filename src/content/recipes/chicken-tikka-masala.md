@@ -3,6 +3,8 @@ title: "Chicken Tikka Masala"
 description: "From our Sur la Table cooking class! Don't be intimidated by the list of ingredients; the recipe is actually quite quick and easy to make. Both the sauce and the marinated chicken can be prepared ahead of time and cooked at the last minute."
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 dietary:
   - GF
 ---

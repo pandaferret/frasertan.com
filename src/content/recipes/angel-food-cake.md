@@ -3,6 +3,8 @@ title: "Angel Food Cake"
 description: "I was inspired to try this after seeing how the contestants on the Great British Baking Show dealt with this technical challenge. Despite more time - and more directions! - it still took me a bit to master this cake. But, ultimately, it's an easy one to learn - and delicious!"
 categories:
   - Desserts
+subcategories:
+  - Cakes and Cupcakes
 tags:
   - Seasonal Treats
   - Spring

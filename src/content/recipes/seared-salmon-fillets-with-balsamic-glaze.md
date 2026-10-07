@@ -2,6 +2,8 @@
 title: "Seared Salmon Fillets with Balsamic Glaze"
 categories:
   - Main Dishes
+subcategories:
+  - Fish
 ---
 
 ## Ingredients

@@ -3,6 +3,8 @@ title: "Champagne Poached Salmon"
 description: "Something delicious from Emeril Lagasse (and Google!)."
 categories:
   - Main Dishes
+subcategories:
+  - Fish
 ---
 
 ## Ingredients

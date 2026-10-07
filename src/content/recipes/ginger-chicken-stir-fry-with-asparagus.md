@@ -2,6 +2,8 @@
 title: "Ginger Chicken Stir-Fry with Asparagus"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Seasonal Treats

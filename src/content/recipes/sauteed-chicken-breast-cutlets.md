@@ -3,6 +3,8 @@ title: "Sauteed Chicken Breast Cutlets"
 description: "Goes with a variety of pan sauces, but is also yummy alone!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   url: "http://www.cooksillustrated.com/recipes/667-sauteed-chicken-breast-cutlets"
 ---

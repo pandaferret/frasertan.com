@@ -3,6 +3,8 @@ title: "Easy Citrus Chicken"
 description: "An easy weeknight main dish with a great kick of flavor!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 tags:
   - Weeknight Meals
   - Seasonal Treats

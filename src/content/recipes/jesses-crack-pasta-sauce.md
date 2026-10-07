@@ -4,6 +4,8 @@ description: 'This amazing deliciousness is less of a recipe and more of a state
 yield: "Serves 6"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 ---
 
 ## Ingredients

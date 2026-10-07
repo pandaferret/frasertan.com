@@ -3,6 +3,8 @@ title: "Pesto"
 description: "Adapted from Cook's Illustrated New Best Recipes. Don't limit yourself to just making pesto for pasta - use it to add a boost of flavor to soups, sandwiches and pizza. Note that the pesto recipe alone yields 3/4 cup. Choose a long thin pasta or a shape, like fusilli (corkscrew), that can trap bits of the sauce. Basil often darkens in pesto, but you can brighten the color by adding parsley. For sharper flavor, substitute 1 tablespoon finely grated Pecorino cheese for 1 tablespoon of the Parmesan."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - GF
 ---

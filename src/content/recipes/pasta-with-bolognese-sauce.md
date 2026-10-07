@@ -3,6 +3,8 @@ title: "Pasta with Bolognese Sauce"
 description: "Another gem from Cook's Illustrated! This recipe gave me a good excuse to explore Luca's Italian grocery in the Mission."
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 ---
 
 ## Ingredients

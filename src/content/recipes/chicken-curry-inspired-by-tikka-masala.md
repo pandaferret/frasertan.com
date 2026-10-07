@@ -3,6 +3,8 @@ title: "Chicken Curry (inspired by tikka masala)"
 description: "Not fully tikka masala, but delicious nonetheless!"
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 dietary:
   - GF
 source:

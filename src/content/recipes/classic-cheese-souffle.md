@@ -3,6 +3,8 @@ title: "Classic Cheese Souffle"
 description: "Souffles have a reputation for being delicate, but that's very far from the truth. Whip up this eggy, cheesy pile of deliciousness, and serve with crisp green salad on the side! Serve this soufflé with a green salad for a light dinner. Comté, sharp cheddar, or gouda cheese can be substituted for the Gruyère. To prevent the soufflé from overflowing the soufflé dish, leave at least 1 inch of space between the top of the batter and the rim of the dish; any excess batter should be discarded. The most foolproof way to test for doneness is with an instant-read thermometer. To judge doneness without an instant-read thermometer, use two large spoons to pry open the soufflé so that you can peer inside it; the center should appear thick and creamy but not soupy."
 categories:
   - Main Dishes
+subcategories:
+  - Sundries
 source:
   name: "Cook's Illustrated"
   url: "https://www.cooksillustrated.com/recipes/7670-cheese-souffle?incode=MCSCD00L0&ref=new_search_experience_1"

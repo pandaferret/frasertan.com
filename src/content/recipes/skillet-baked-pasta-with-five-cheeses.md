@@ -3,6 +3,8 @@ title: "Skillet-Baked Pasta with Five Cheeses"
 description: "Well, four for me, since I don't like blue cheese :)"
 categories:
   - Main Dishes
+subcategories:
+  - Pastas and Grains
 source:
   url: "https://smittenkitchen.com/2016/10/skillet-baked-pasta-with-five-cheeses/"
 cover: "/images/recipes/skillet-baked-pasta-with-five-cheeses.jpg"

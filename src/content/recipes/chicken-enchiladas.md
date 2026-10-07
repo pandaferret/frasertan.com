@@ -3,6 +3,8 @@ title: "Chicken Enchiladas"
 description: "These are delicious - well worth the time! And they make great leftovers! Serve with rice and beans and lots of toppings."
 categories:
   - Main Dishes
+subcategories:
+  - Poultry
 source:
   name: "America's Test Kitchen Best International Recipes"
 ---
