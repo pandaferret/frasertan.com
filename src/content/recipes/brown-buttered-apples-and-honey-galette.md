@@ -15,7 +15,7 @@ source:
 
 ## Ingredients
 
-- 1 XL disk galette dough (see the book's "A Good Crust", p. 27)
+- 1 XL disk [Galette Dough](/recipes/galette-dough/)
 - 4 tablespoons (60 g) unsalted butter, cut into small pieces
 - 1½ teaspoons ground cinnamon or cardamom
 - 2 tablespoons honey

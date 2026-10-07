@@ -23,7 +23,7 @@ source:
 - ¼ cup (60 g) fresh grapefruit or orange juice
 - 2 tablespoons cornstarch
 - 2 tablespoons bourbon or Grand Marnier (or more grapefruit or orange juice)
-- 1 standard disk galette dough (see the book's "A Good Crust", p. 27)
+- 1 standard disk [Galette Dough](/recipes/galette-dough/)
 - ⅓ cup (55 g) candied ginger, roughly chopped
 - 1 large egg, beaten, for egg wash
 - Fennel seeds (optional)
