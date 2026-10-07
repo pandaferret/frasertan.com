@@ -1,6 +1,6 @@
 ---
 title: "Nutella-Stuffed Brown Butter + Sea Salt Chocolate Chip Cookies"
-description: "FRASER ELISABETH TAN, PHD"
+description: "Yes, these are a bit over the top but they are sooooo worth it."
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Guinness Cake"
-description: "Butter for pan 1 cup Guinness stout 10 tablespoons (1 stick plus 2 tablespoons) unsalted butter 3/4 cup unsweetened cocoa 2 cups superfine sugar 3/4 cup sour cream 2 large eggs 1 tablespoon vanilla..."
+description: "A staple for St Patrick’s Day! Frost only the top of the cake so it resembles a head of Guinness."
 categories:
   - Desserts
 source:
