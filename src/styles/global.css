@@ -263,6 +263,33 @@ main {
   margin: 0.5rem 0;
 }
 
+.recipe-quote {
+  margin: 1rem 0;
+  padding: 0.75rem 1.25rem;
+  border-left: 3px solid var(--color-accent);
+  background: var(--color-bg-alt);
+}
+
+.recipe-quote blockquote {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: var(--color-text);
+}
+
+.recipe-quote blockquote p {
+  margin: 0 0 0.6rem;
+}
+
+.recipe-quote figcaption {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.recipe-quote figcaption::before {
+  content: "— ";
+}
+
 .recipe-meta {
   display: flex;
   gap: 1rem;
