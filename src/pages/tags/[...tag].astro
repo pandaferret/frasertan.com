@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import RecipeCard from "../../components/RecipeCard.astro";
+import RecipeBrowser from "../../components/RecipeBrowser.astro";
 import { getCollection } from "astro:content";
 
 export function getStaticPaths() {
@@ -27,16 +27,11 @@ const tagged = recipes
   ]}
 >
   <h1>{tagName}</h1>
-  <p>{tagged.length} recipes</p>
-  <div class="recipe-grid">
-    {
-      tagged.map((recipe) => (
-        <RecipeCard
-          title={recipe.data.title}
-          slug={recipe.id}
-          dietary={recipe.data.dietary}
-        />
-      ))
-    }
-  </div>
+  <RecipeBrowser
+    recipes={tagged}
+    groups={[]}
+    groupsOf={() => []}
+    filter={{ name: "tag", value: tagName }}
+    searchLabel={`Search ${tagName.toLowerCase()}`}
+  />
 </BaseLayout>

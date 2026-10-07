@@ -1,6 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import RecipeCard from "../../components/RecipeCard.astro";
+import RecipeBrowser from "../../components/RecipeBrowser.astro";
 import { getCollection } from "astro:content";
 
 export function getStaticPaths() {
@@ -28,27 +28,9 @@ const inCategory = recipes
   .filter((r) => r.data.categories.includes(categoryName))
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
 
-// Group by subcategory
-const subcategoryMap = new Map<string, typeof inCategory>();
-const noSubcategory: typeof inCategory = [];
-
-for (const recipe of inCategory) {
-  const subs = recipe.data.subcategories;
-  if (subs && subs.length > 0) {
-    for (const sub of subs) {
-      if (!subcategoryMap.has(sub)) {
-        subcategoryMap.set(sub, []);
-      }
-      subcategoryMap.get(sub)!.push(recipe);
-    }
-  } else {
-    noSubcategory.push(recipe);
-  }
-}
-
-const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
-  a.localeCompare(b),
-);
+const subcategories = [
+  ...new Set(inCategory.flatMap((r) => r.data.subcategories ?? [])),
+].sort((a, b) => a.localeCompare(b));
 ---
 
 <BaseLayout
@@ -60,121 +42,12 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
     { label: categoryName },
   ]}
 >
-  <h1 id="top">{categoryName}</h1>
-  <p>{inCategory.length} recipes</p>
-
-  <div class="sticky-sentinel"></div>
-  {
-    subcategories.length > 0 && (
-      <nav class="subcategory-nav">
-        <a href="#top" class="subcategory-top">
-          &uarr; Top
-        </a>
-        {subcategories.map(([subName]) => (
-          <a href={`#sub-${subName.toLowerCase().replace(/ /g, "-")}`}>
-            {subName}
-          </a>
-        ))}
-        {noSubcategory.length > 0 && <a href="#sub-other">Other</a>}
-      </nav>
-    )
-  }
-
-  {
-    subcategories.map(([subName, subRecipes]) => (
-      <div class="subcategory-group">
-        <h3 id={`sub-${subName.toLowerCase().replace(/ /g, "-")}`}>
-          {subName}
-        </h3>
-        <div class="recipe-grid">
-          {subRecipes
-            .sort((a, b) => a.data.title.localeCompare(b.data.title))
-            .map((recipe) => (
-              <RecipeCard
-                title={recipe.data.title}
-                slug={recipe.id}
-                dietary={recipe.data.dietary}
-              />
-            ))}
-        </div>
-      </div>
-    ))
-  }
-
-  {
-    noSubcategory.length > 0 && (
-      <div class="subcategory-group">
-        {subcategories.length > 0 && <h3 id="sub-other">Other</h3>}
-        <div class="recipe-grid">
-          {noSubcategory.map((recipe) => (
-            <RecipeCard
-              title={recipe.data.title}
-              slug={recipe.id}
-              dietary={recipe.data.dietary}
-            />
-          ))}
-        </div>
-      </div>
-    )
-  }
+  <h1>{categoryName}</h1>
+  <RecipeBrowser
+    recipes={inCategory}
+    groups={subcategories}
+    groupsOf={(r) => r.data.subcategories ?? []}
+    filter={{ name: "category", value: categoryName }}
+    searchLabel={`Search ${categoryName.toLowerCase()}`}
+  />
 </BaseLayout>
-
-<style>
-  .subcategory-nav {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: var(--color-bg);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 1.5rem;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid var(--color-border);
-  }
-  .subcategory-top {
-    font-size: 0.75rem;
-    margin-right: 0.25rem;
-    display: none;
-    border: none !important;
-    border-radius: 0 !important;
-    padding: 0.25rem 0.5rem !important;
-  }
-  .subcategory-nav.is-stuck .subcategory-top {
-    display: inline-block;
-  }
-  .sticky-sentinel {
-    height: 0;
-    margin: 0;
-  }
-  .subcategory-nav a:not(.subcategory-top) {
-    display: inline-block;
-    padding: 0.3rem 0.8rem;
-    border: 1px solid var(--color-border);
-    border-radius: 20px;
-    font-size: 0.85rem;
-  }
-  .subcategory-nav a:not(.subcategory-top):hover {
-    background: var(--color-bg-alt);
-    text-decoration: none;
-  }
-  .subcategory-group > h3 {
-    scroll-margin-top: 1rem;
-  }
-</style>
-
-<script>
-  document.addEventListener("astro:page-load", () => {
-    const sentinel = document.querySelector(".sticky-sentinel");
-    const nav = document.querySelector(".subcategory-nav");
-    if (sentinel && nav) {
-      const observer = new IntersectionObserver(
-        ([entry]) => {
-          nav.classList.toggle("is-stuck", !entry.isIntersecting);
-        },
-        { threshold: 0 },
-      );
-      observer.observe(sentinel);
-    }
-  });
-</script>

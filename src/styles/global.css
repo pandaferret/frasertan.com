@@ -352,16 +352,6 @@ main {
   color: #999;
 }
 
-/* Subcategory grouping */
-.subcategory-group {
-  margin-bottom: 2rem;
-}
-
-.subcategory-group > h3 {
-  border-bottom: 1px solid var(--color-border);
-  padding-bottom: 0.25rem;
-}
-
 /* Search */
 .search-container {
   margin-bottom: 2rem;
