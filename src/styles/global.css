@@ -241,41 +241,68 @@ main {
 
 .recipe-body {
   display: grid;
-  grid-template-columns: 1fr 1.5fr;
-  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  grid-template-areas:
+    "ingredients directions"
+    "equipment directions"
+    "notes notes"
+    "other other";
+  grid-template-rows: auto 1fr;
+  column-gap: 3rem;
   align-items: start;
 }
 
+.recipe-body section h2 {
+  margin-top: 0;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--color-border);
+}
+
 .recipe-body .ingredients {
-  position: sticky;
-  top: 1rem;
+  grid-area: ingredients;
 }
 
-.recipe-body .ingredients h2 {
-  margin-top: 0;
+.recipe-body .equipment {
+  grid-area: equipment;
+  margin-top: 1.5rem;
 }
 
-.recipe-body .ingredients h3 {
-  margin: 1rem 0 0.25rem;
-  font-size: 0.95rem;
-  color: #888;
-}
-
-.recipe-body .ingredients p {
-  margin: 0.15rem 0;
-  line-height: 1.5;
-}
-
-.recipe-body .instructions h2 {
-  margin-top: 0;
-}
-
-.recipe-body .instructions p {
-  margin: 0 0 0.75rem;
+.recipe-body .directions {
+  grid-area: directions;
 }
 
 .recipe-body .notes {
+  grid-area: notes;
+  margin-top: 2rem;
+}
+
+.recipe-body .other {
   grid-column: 1 / -1;
+}
+
+.recipe-body ul,
+.recipe-body ol {
+  padding-left: 1.25rem;
+  margin: 0.5rem 0 1rem;
+}
+
+.recipe-body li {
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+}
+
+.recipe-body .directions li {
+  margin-bottom: 0.9rem;
+  padding-left: 0.25rem;
+}
+
+.recipe-body section p {
+  margin: 0.75rem 0 0.25rem;
+}
+
+.recipe-body .ingredients p {
+  font-weight: 600;
+  color: var(--color-heading);
 }
 
 .recipe-source {
@@ -287,10 +314,16 @@ main {
 @media (max-width: 700px) {
   .recipe-body {
     grid-template-columns: 1fr;
+    grid-template-areas:
+      "ingredients"
+      "equipment"
+      "directions"
+      "notes"
+      "other";
   }
 
-  .recipe-body .ingredients {
-    position: static;
+  .recipe-body .directions {
+    margin-top: 1.5rem;
   }
 }
 
