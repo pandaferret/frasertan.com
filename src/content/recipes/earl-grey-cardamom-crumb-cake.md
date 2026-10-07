@@ -4,7 +4,6 @@ description: "I do so love cardamom, and it really shines here!"
 yield: "Serves 16-24"
 categories:
   - Desserts
-  - Breakfast
 subcategories:
   - Cakes and Cupcakes
 source:
