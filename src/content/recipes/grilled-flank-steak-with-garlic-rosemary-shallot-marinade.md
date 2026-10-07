@@ -28,4 +28,3 @@ subcategories:
 ## Notes
 
 - Flank steaks smaller than 2 pounds can be used, but adjust down the amount of salt and pepper accordingly.
-- If using a gas grill, follow the times in Step 3 but keep the cover down.

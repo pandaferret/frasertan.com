@@ -10,7 +10,7 @@ categories:
 For make-ahead ginger ale:
 
 - 1 c sugar
-- freshly grated ginger root (1 1/2-2 tablespoons), use the fresh ginger root you can find, it really makes a difference
+- freshly grated ginger root (1 1/2-2 tablespoons), use the freshest ginger root you can find, it really makes a difference
 - juice of one lemon
 - 1/4 tsp baker's yeast
 - cold fresh spring or filtered water

@@ -43,4 +43,4 @@ Champagne Vanilla Sauce: 1. In a medium saucepan, combine the shallots and Champ
 
 ## Notes
 
-- that the sauce alone may taste a little vinegary. I was tempted to add a little sugar, but I didn't, and once it was on the fish, it was delish! so don't mess with it.
+- Note that the sauce alone may taste a little vinegary. I was tempted to add a little sugar, but I didn't, and once it was on the fish, it was delish! so don't mess with it.
