@@ -2,7 +2,7 @@
 title: "Cardamom Bread"
 description: "This is one of Peggy's favorite bread recipes. We all look forward to it at the holidays!"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 tags:
   - Seasonal Treats
   - Christmas

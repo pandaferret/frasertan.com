@@ -2,7 +2,7 @@
 title: "Artisan Bread in 5 Minutes a Day"
 description: "So, this is a great bread cookbook for its simplicity. This basic bread recipe (a boule) is delicious, and, compared to other breads, is very hands off! Instead, you just need time."
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 ---
 
 ## Ingredients

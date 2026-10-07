@@ -2,7 +2,7 @@
 title: "Cinnamon Scones"
 description: "The best parts of cinnamon rolls, without the muss and fuss! And so pretty! Thanks Deb!"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 source:
   url: "https://smittenkitchen.com/2019/09/cinnamon-sugar-scones/?fbclid=IwAR3smdKH6-hwwN6bsaX4APtxvF9zrcxs8773qFpSmjlJu0qzeaeTIRQkR0o"
 cover: "/images/recipes/cinnamon-scones.jpg"

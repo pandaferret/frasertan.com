@@ -2,7 +2,7 @@
 title: "Perfect Garlic Bread"
 description: "Garlic bread is delicious if done right, but when it comes to improvising, I never can seem to get the flavor I crave. Hence, this recipe from Smitten Kitchen!"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 source:
   url: "http://smittenkitchen.com/blog/2016/04/perfect-garlic-bread/"
 cover: "/images/recipes/perfect-garlic-bread.jpg"

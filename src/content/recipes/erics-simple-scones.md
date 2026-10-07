@@ -2,7 +2,7 @@
 title: "Eric's Simple Scones"
 description: "Eric makes these, and they are the *best* scones ever. No, I'm not biased, why do you ask? From Allrecipes.com"
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 tags:
   - Seasonal Treats
   - Spring

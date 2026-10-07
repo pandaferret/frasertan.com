@@ -2,7 +2,7 @@
 title: "Homemade English Muffins"
 description: "This recipe rocks! With a bit of time but not too much effort, you can make English muffins that are loads better than the store bought ones. Even better, toss them in the freezer - after a quick stint in the microwave they're ready to be split and toasted."
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 source:
   url: "http://www.thekitchn.com/how-to-make-english-muffins-cooking-lessons-from-the-kitchen-106360#recipe"
 ---

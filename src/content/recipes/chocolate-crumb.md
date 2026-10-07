@@ -2,7 +2,9 @@
 title: "Chocolate Crumb"
 description: "Makes about 350 g (2 1/2 cups)"
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Sweets and Sundries
 source:
   name: "Momofuku Milk Bar"
 ---

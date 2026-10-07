@@ -2,7 +2,7 @@
 title: "Momofuku Milk Bar Mother Dough"
 description: 'From Momofuku Milk Bar: This bread dough is always tasty, very forgiving and can be fashioned into nearly any style or variety of bready item. It takes a very "don''t take yourself so seriously!" approach to bread baking and is the easiest, most versatile recipe in the book - your resulting bagel bombs, volcanoes, brioche focaccia and croissants will be proof of that. Make this dough one day, refrigerate it, and use it the second, third or fourth day, if need be. Or freeze it for up to 1 week; just make sure to let it come to room temperature before using.'
 categories:
-  - Main Dishes
+  - Breads and Baked Goods
 ---
 
 ## Ingredients

@@ -2,7 +2,9 @@
 title: "Crème pâtissière"
 description: "This recipe makes juuuuust a wee bit too little to fill the 24 puffs made by the Pâte à choux recipe. By using every last little bit, we filled 22 of the 24 puffs."
 categories:
-  - Main Dishes
+  - Desserts
+subcategories:
+  - Frostings and Sauces
 source:
   url: "http://www.cooksillustrated.com/recipes/1013-boston-cream-pie?ref=new_search_experience_2&incode=MCSCD00L0"
 cover: "/images/recipes/cregraveme-pacirctissiegravere.jpg"
