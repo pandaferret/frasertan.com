@@ -11,6 +11,15 @@ dietary:
 ## Ingredients
 
 - 12 eggs
+- 2/3 cup mayonnaise
+- 1 1/2 tsp tarragon-infused vinegar
+- 3/4 tsp dry mustard powder
+- 2 1/2 tsp Dijon mustard
+- 1/3 tsp cayenne powder
+- 1/2 tsp curry powder
+- Salt
+- Pepper
+- Paprika, to garnish
 
 ## Directions
 

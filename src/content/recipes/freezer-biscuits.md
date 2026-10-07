@@ -10,6 +10,10 @@ dietary:
 ## Ingredients
 
 - 30 oz (6 c) all-purpose flour
+- 2 tbsp sugar
+- 2 tbsp baking powder
+- 1.5 tsp salt
+- 4.5 c heavy cream
 
 ## Directions
 
