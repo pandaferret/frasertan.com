@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
   - Fish
 dietary:
+  - GF
   - EF
 source:
   name: "Peggy"
