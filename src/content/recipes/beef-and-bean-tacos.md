@@ -7,6 +7,9 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Eric-friendly
+  - Owen fav
+  - Beef
 dietary:
   - EF
   - GF*

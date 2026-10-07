@@ -7,6 +7,8 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Owen fav
+  - Beef
 dietary:
   - GF
 ---

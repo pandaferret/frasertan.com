@@ -8,6 +8,7 @@ subcategories:
   - Soups
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/20-minute-black-bean-soup-11782626"

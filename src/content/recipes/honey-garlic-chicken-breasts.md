@@ -7,6 +7,7 @@ subcategories:
   - Poultry
 tags:
   - Weeknight Meals
+  - Chicken
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1025319-honey-garlic-chicken"

@@ -3,6 +3,10 @@ title: "Clover Rolls"
 description: "Another delicious Peggy recipe! These rolls freeze well, so make a batch and then pull them out when needed."
 categories:
   - Breads and Baked Goods
+tags:
+  - Eric-friendly
+  - Weeknight Meals
+  - Vegetarian
 ---
 
 ## Ingredients

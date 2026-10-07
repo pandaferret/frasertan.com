@@ -7,6 +7,7 @@ subcategories:
   - Soups
 tags:
   - Weeknight Meals
+  - Fish
 source:
   name: "Peggy"
 ---

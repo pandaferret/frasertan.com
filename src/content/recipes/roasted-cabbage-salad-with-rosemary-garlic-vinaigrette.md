@@ -7,6 +7,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 dietary:
   - GF
 source:

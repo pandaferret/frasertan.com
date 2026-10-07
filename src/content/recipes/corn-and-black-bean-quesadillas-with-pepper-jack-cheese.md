@@ -7,6 +7,7 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   url: "https://www.cooksillustrated.com/recipes/1797-corn-and-black-bean-quesadillas-with-pepper-jack-cheese?incode=MCSCD00L0&ref=new_search_experience_9"
 ---

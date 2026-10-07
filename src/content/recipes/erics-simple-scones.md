@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 tags:
   - Seasonal Treats
+  - Eric-friendly
 ---
 
 ## Ingredients

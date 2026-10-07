@@ -7,8 +7,8 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Beef
 dietary:
-  - V
   - EF
   - GF*
 source:
@@ -48,3 +48,4 @@ cover: "/images/recipes/taco-torte.jpg"
 ## Notes
 
 - From Deb: "Do ahead: You can make this ahead of time, cover it in the fridge overnight then leave it at room temperature for 20 to 30 minutes before baking it. The torte also reheats well."
+- Leave out the ground beef to make this vegetarian. To make it vegan, also swap in a vegan cheese and skip the sour cream.

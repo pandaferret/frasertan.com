@@ -8,6 +8,7 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Beef
 source:
   name: "Allrecipes"
   url: "https://www.allrecipes.com/recipe/229324/ground-beef-and-cabbage/"

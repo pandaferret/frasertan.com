@@ -4,8 +4,8 @@ import type { CollectionEntry } from "astro:content";
 
 // A Notion-style view of a set of recipes: a search box scoped to these
 // recipes, then a row of tab buttons ("All" first) that show one group at a
-// time. Groups are subcategories on category pages and categories on tag
-// pages. The selected tab lives in the URL hash (#sub-<slug>), which keeps
+// time. Groups are subcategories on category pages and, on tag pages, the
+// sub-tags listed for that tag. The selected tab lives in the URL hash (#sub-<slug>), which keeps
 // the breadcrumb links from recipe pages working.
 
 interface Props {
@@ -15,9 +15,18 @@ interface Props {
   // Pagefind filter that limits search to this page's recipes.
   filter: { name: string; value: string };
   searchLabel: string;
+  // Add an "Other" tab for recipes that fit none of the groups.
+  showOther?: boolean;
 }
 
-const { recipes, groups, groupsOf, filter, searchLabel } = Astro.props;
+const {
+  recipes,
+  groups,
+  groupsOf,
+  filter,
+  searchLabel,
+  showOther = true,
+} = Astro.props;
 
 const slugify = (s: string) => s.toLowerCase().replace(/ /g, "-");
 const OTHER = "Other";
@@ -29,7 +38,9 @@ const items = recipes.map((recipe) => {
 const tabs = [
   ...groups.filter((g) => items.some((i) => i.groups.includes(g))),
   // Only worth an "Other" tab when there are real groups to sit beside.
-  ...(groups.length > 0 && items.some((i) => i.groups.includes(OTHER))
+  ...(showOther &&
+  groups.length > 0 &&
+  items.some((i) => i.groups.includes(OTHER))
     ? [OTHER]
     : []),
 ];

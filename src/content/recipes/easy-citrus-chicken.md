@@ -6,6 +6,7 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Chicken
 dietary:
   - DF
 source:

@@ -8,6 +8,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Make Ahead
+  - Vegetarian
 dietary:
   - EF
 source:

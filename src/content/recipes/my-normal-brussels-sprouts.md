@@ -5,6 +5,8 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Eric-friendly
+  - Vegetarian
 ---
 
 ## Ingredients

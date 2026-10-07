@@ -3,6 +3,10 @@ title: "Vaughan Bread"
 description: "Classic bread made by Eric's mom, good for toast, sandwiches, everything. Deeeeelish!"
 categories:
   - Breads and Baked Goods
+tags:
+  - Eric-friendly
+  - Weeknight Meals
+  - Vegetarian
 dietary:
   - EF
 ---

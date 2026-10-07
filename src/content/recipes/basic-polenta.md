@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   url: "https://www.cooksillustrated.com/recipes/1958-basic-polenta"
 ---

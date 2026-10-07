@@ -8,6 +8,7 @@ subcategories:
   - Fish
 tags:
   - Weeknight Meals
+  - Fish
 dietary:
   - EF
   - GF

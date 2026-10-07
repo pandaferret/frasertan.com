@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 dietary:
   - GF
 source:

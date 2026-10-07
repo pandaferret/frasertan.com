@@ -5,6 +5,7 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Vegetarian
 source:
   url: "http://www.foodnetwork.com/recipes/jamie-oliver/the-mothership-tomato-salad-recipe.html"
 ---

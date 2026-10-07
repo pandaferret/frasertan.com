@@ -6,6 +6,7 @@ categories:
   - Side Dishes
 tags:
   - Weeknight Meals
+  - Vegetarian
 source:
   name: "Smitten Kitchen Keepers by Deb Perelman, p. 194"
 ---

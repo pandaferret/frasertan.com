@@ -8,6 +8,8 @@ subcategories:
   - Poultry
 tags:
   - Weeknight Meals
+  - Owen fav
+  - Chicken
 dietary:
   - GF*
 ---

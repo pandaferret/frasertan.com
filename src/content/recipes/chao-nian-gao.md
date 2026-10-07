@@ -8,6 +8,7 @@ subcategories:
   - Pork
 tags:
   - Weeknight Meals
+  - Pork
 dietary:
   - GF*
 source:

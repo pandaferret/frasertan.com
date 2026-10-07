@@ -6,6 +6,7 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Vegetarian
 source:
   url: "https://www.americastestkitchen.com/guides/one-pan-wonders/unstuffed-shells-with-butternut-squash-and-leeks"
 ---
