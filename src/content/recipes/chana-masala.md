@@ -8,6 +8,7 @@ subcategories:
   - Beans
 tags:
   - Weeknight Meals
+  - Beans
   - Vegetarian
 source:
   url: "https://smittenkitchen.com/2010/02/chana-masala/"

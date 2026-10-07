@@ -8,6 +8,7 @@ subcategories:
   - Soups
 tags:
   - Weeknight Meals
+  - Beans
   - Vegetarian
 source:
   name: "EatingWell"

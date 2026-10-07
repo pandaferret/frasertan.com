@@ -6,6 +6,7 @@ categories:
   - Salads
 tags:
   - Weeknight Meals
+  - Beans
   - Seasonal Treats
   - Spring
   - Summer

@@ -8,6 +8,7 @@ subcategories:
   - Beans
 tags:
   - Weeknight Meals
+  - Beans
 dietary:
   - V*
   - EF
