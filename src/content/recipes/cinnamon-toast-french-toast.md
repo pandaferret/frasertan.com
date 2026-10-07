@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "http://smittenkitchen.com/blog/2012/04/cinnamon-toast-french-toast-cookbook-preview/"
+cover: "/images/recipes/cinnamon-toast-french-toast.jpg"
 ---
 
 ## Ingredients

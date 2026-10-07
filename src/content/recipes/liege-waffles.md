@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "https://smittenkitchen.com/2015/05/liege-waffles/"
+cover: "/images/recipes/liege-waffles.jpg"
 ---
 
 ## Ingredients

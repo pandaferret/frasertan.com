@@ -6,6 +6,7 @@ categories:
   - Side Dishes
 source:
   url: "https://smittenkitchen.com/2020/04/crispy-crumbled-potatoes/"
+cover: "/images/recipes/crispy-crumbled-potatoes.jpg"
 ---
 
 ## Ingredients

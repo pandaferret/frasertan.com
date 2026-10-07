@@ -5,6 +5,7 @@ categories:
   - Breads and Baked Goods
 source:
   url: "http://natashaskitchen.com/2015/04/03/hot-cross-buns-recipe/"
+cover: "/images/recipes/hot-cross-buns.jpg"
 ---
 
 ## Ingredients

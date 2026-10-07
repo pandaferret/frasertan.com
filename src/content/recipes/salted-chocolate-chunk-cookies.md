@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2015/04/salted-chocolate-chunk-cookies/"
+cover: "/images/recipes/salted-chocolate-chunk-cookies.jpg"
 ---
 
 ## Ingredients

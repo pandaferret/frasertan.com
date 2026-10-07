@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://www.bonappetit.com/columns/cooking-without-recipes/article/kale-cabbage-sausage-weeknight-dinner"
+cover: "/images/recipes/oven-roasted-cabbage-and-kale.jpg"
 ---
 
 ## Ingredients

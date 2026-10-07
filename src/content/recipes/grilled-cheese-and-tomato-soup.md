@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://smittenkitchen.com/2006/11/cream-of-tomato-soup-classic-grilled-cheese/"
+cover: "/images/recipes/grilled-cheese-and-tomato-soup.jpg"
 ---
 
 ## Ingredients

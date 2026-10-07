@@ -7,6 +7,7 @@ dietary:
   - DF
 source:
   url: "http://smittenkitchen.com/blog/2012/09/fig-olive-oil-and-sea-salt-challah-book-tour/"
+cover: "/images/recipes/fig-olive-oil-and-sea-salt-challah.jpg"
 ---
 
 ## Ingredients

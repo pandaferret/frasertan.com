@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2009/02/red-kidney-bean-curry/?fbclid=IwAR327f96FZ-tR8OW2D7PjnXUftbyWaNpGEyAfOogWMJr6zUY7GMBX3cxTLU"
+cover: "/images/recipes/red-kidney-bean-curry.jpg"
 ---
 
 ## Ingredients

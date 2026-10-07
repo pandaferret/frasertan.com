@@ -8,6 +8,7 @@ tags:
 source:
   name: "a less than ripe one."
   url: "https://smittenkitchen.com/2018/07/bourbon-peach-smash/"
+cover: "/images/recipes/bourbon-peach-smash.jpg"
 ---
 
 ## Ingredients

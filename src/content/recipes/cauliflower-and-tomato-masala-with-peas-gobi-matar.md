@@ -11,6 +11,7 @@ dietary:
   - V
 source:
   url: "https://smittenkitchen.com/2019/02/cauliflower-and-tomato-masala-with-peas/?fbclid=IwAR18Du4F7SMs5vAwKktXn-MiD2NKUdFI7DuuKcZh49-NG4nuFhBtCSp_OMs"
+cover: "/images/recipes/cauliflower-and-tomato-masala-with-peas-gobi-matar.jpg"
 ---
 
 ## Ingredients

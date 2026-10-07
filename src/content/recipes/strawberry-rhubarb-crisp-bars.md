@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
 source:
   url: "https://smittenkitchen.com/2014/05/strawberry-rhubarb-crisp-bars/"
+cover: "/images/recipes/strawberry-rhubarb-crisp-bars.jpg"
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://www.epicurious.com/recipes/food/views/creamy-one-pot-pasta-with-sausage-and-squash"
+cover: "/images/recipes/creamy-one-pot-pasta-with-sausage-and-squash.jpg"
 ---
 
 ## Ingredients

@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "http://smittenkitchen.com/blog/2016/04/perfect-garlic-bread/"
+cover: "/images/recipes/perfect-garlic-bread.jpg"
 ---
 
 ## Ingredients

@@ -13,6 +13,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2021/05/soy-glazed-chicken/"
+cover: "/images/recipes/soy-glazed-chicken.jpg"
 ---
 
 ## Ingredients

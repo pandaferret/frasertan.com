@@ -9,6 +9,7 @@ dietary:
   - GF
 source:
   url: "http://www.cooksillustrated.com/recipes/3196-chocolate-pots-de-creme"
+cover: "/images/recipes/chocolate-pots-de-cregraveme.jpg"
 ---
 
 ## Ingredients

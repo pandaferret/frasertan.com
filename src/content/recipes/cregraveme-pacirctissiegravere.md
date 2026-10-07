@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 source:
   url: "http://www.cooksillustrated.com/recipes/1013-boston-cream-pie?ref=new_search_experience_2&incode=MCSCD00L0"
+cover: "/images/recipes/cregraveme-pacirctissiegravere.jpg"
 ---
 
 ## Ingredients

@@ -10,6 +10,7 @@ dietary:
   - DF
 source:
   url: "http://www.cookingclassy.com/balsamic-glazed-salmon/"
+cover: "/images/recipes/balsamic-glazed-salmon.jpg"
 ---
 
 ## Ingredients

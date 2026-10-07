@@ -6,6 +6,7 @@ tags:
   - Weeknight Meals
 source:
   url: "http://www.cooksillustrated.com/recipes/8426-modern-succotash"
+cover: "/images/recipes/modern-succotash.jpg"
 ---
 
 ## Ingredients

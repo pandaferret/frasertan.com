@@ -13,6 +13,7 @@ dietary:
   - V
 source:
   url: "https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/"
+cover: "/images/recipes/miso-sweet-potato-and-broccoli-bowl.jpg"
 ---
 
 ## Ingredients

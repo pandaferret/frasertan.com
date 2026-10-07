@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
 source:
   url: "http://www.cooksillustrated.com/recipes/7375-herb-crusted-salmon"
+cover: "/images/recipes/herb-crusted-salmon.jpg"
 ---
 
 ## Ingredients

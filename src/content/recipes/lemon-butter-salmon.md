@@ -13,6 +13,7 @@ dietary:
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/lemon-butter-salmon-recipe-23678404"
+cover: "/images/recipes/lemon-butter-salmon.jpg"
 ---
 
 ## Ingredients

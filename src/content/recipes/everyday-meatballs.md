@@ -11,6 +11,7 @@ dietary:
 source:
   name: "drying out too much."
   url: "https://smittenkitchen.com/2016/02/everyday-meatballs/"
+cover: "/images/recipes/everyday-meatballs.jpg"
 ---
 
 ## Ingredients

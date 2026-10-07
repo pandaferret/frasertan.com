@@ -13,6 +13,7 @@ dietary:
   - GF
 source:
   url: "https://smittenkitchen.com/2007/02/spiced-cauliflower-potatoes-aloo-gobi/?fbclid=IwAR26-Y3VqZAenjUpY5wJMJnaGbNRfWz5f66IQIizsiHMtODexraNqVZHiJo"
+cover: "/images/recipes/aloo-gobi.jpg"
 ---
 
 ## Ingredients

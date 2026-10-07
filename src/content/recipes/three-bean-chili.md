@@ -11,6 +11,7 @@ dietary:
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2014/04/three-bean-chili/"
+cover: "/images/recipes/three-bean-chili.jpg"
 ---
 
 ## Ingredients

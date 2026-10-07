@@ -5,6 +5,7 @@ categories:
   - Sauces and Dips
 source:
   url: "http://www.cooksillustrated.com/recipes/3144-apple-cider-sauce"
+cover: "/images/recipes/apple-cider-sauce.jpg"
 ---
 
 ## Ingredients

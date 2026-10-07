@@ -13,6 +13,7 @@ dietary:
   - GF
 source:
   url: "https://www.americastestkitchen.com/recipes/8035-rice-and-lentils-with-crispy-onions-mujaddara?sqn=KKf8HtYy%2BDvLKO8Ndk%2F4uqV%2BdF34tdILGPsvIMta%2FfA%3D%0A&extcode=NSAKA24FB&utm_source=facebook&utm_medium=photo&utm_content=mujaddara&utm_campaign=atkfacebook&fbclid=IwAR3myAmqRnUYiSbKqEZ8WvRku2pV2j5Q-hLgeu0Ib7cw5QGZXeJvLLxVCX4"
+cover: "/images/recipes/rice-and-lentils-with-crispy-onions-mujaddara.jpg"
 ---
 
 ## Ingredients

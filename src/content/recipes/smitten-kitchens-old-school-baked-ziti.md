@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 source:
   url: "https://smittenkitchen.com/2015/10/my-old-school-baked-ziti/"
+cover: "/images/recipes/smitten-kitchens-old-school-baked-ziti.jpg"
 ---
 
 ## Ingredients

@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "https://smittenkitchen.com/2019/05/austrian-torn-fluffy-pancake/"
+cover: "/images/recipes/kaiserschmarrn.jpg"
 ---
 
 ## Ingredients

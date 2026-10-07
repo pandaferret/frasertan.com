@@ -8,6 +8,7 @@ subcategories:
   - Sweets and Sundries
 source:
   url: "https://www.americastestkitchen.com/cooksillustrated/recipes/11240-strawberry-lime-and-basil-pavlova-with-whipped-cream/print"
+cover: "/images/recipes/strawberry-lime-and-basil-pavlova-with-whipped-cream.jpg"
 ---
 
 ## Ingredients

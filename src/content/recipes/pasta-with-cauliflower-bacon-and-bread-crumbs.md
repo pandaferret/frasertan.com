@@ -9,6 +9,7 @@ dietary:
   - DF
 source:
   url: "https://www.americastestkitchen.com/recipes/7770-pasta-with-cauliflower-bacon-and-bread-crumbs?sqn=qXl0oeSLxHjUsAFJ68a4%2FnqbwvRO29jEOF6tWsT05AY%3D%0A&extcode=NSAKL15FB&utm_source=facebook&utm_medium=photo&utm_content=pastawithbacon&utm_campaign=atkfacebook&fbclid=IwAR1YuP9MguFW78kt-0r3j3XbOZf2BJ8O_dV3u3mhgNpxcn7QVdVsCphe9QI"
+cover: "/images/recipes/pasta-with-cauliflower-bacon-and-bread-crumbs.jpg"
 ---
 
 ## Ingredients

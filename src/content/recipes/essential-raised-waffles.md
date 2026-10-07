@@ -5,6 +5,7 @@ categories:
   - Breakfast
 source:
   url: "https://smittenkitchen.com/2013/05/essential-raised-waffles/"
+cover: "/images/recipes/essential-raised-waffles.jpg"
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ tags:
   - Weeknight Meals
 source:
   url: "https://smittenkitchen.com/2016/07/corn-bacon-and-parmesan-pasta/"
+cover: "/images/recipes/corn-bacon-and-parmesan-pasta.jpg"
 ---
 
 ## Ingredients

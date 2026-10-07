@@ -8,6 +8,7 @@ subcategories:
   - Sundries
 source:
   url: "https://smittenkitchen.com/2024/01/french-onion-baked-lentils-and-farro/"
+cover: "/images/recipes/french-onion-baked-farro-and-lentils.jpg"
 ---
 
 ## Ingredients

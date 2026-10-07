@@ -5,6 +5,7 @@ categories:
   - Side Dishes
 source:
   url: "http://www.cooksillustrated.com/recipes/44-glazed-carrots?ref=new_search_experience_3&incode=MCSCD00L0"
+cover: "/images/recipes/glazed-carrots.jpg"
 ---
 
 ## Ingredients

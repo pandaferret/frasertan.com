@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
 source:
   url: "http://smittenkitchen.com/blog/2008/08/slow-roasted-tomatoes/"
+cover: "/images/recipes/slow-roasted-tomatoes.jpg"
 ---
 
 ## Ingredients

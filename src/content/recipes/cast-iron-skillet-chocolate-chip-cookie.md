@@ -8,6 +8,7 @@ subcategories:
 source:
   name: "Cook's Illustrated:"
   url: "https://www.americastestkitchen.com/recipes/9242-cast-iron-skillet-chocolate-chip-cookie"
+cover: "/images/recipes/cast-iron-skillet-chocolate-chip-cookie.jpg"
 ---
 
 ## Ingredients
