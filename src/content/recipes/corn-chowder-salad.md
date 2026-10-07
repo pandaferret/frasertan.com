@@ -8,6 +8,8 @@ source:
 cover: "/images/recipes/corn-chowder-salad.jpg"
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

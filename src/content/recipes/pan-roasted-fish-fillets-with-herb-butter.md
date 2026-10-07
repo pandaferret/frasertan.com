@@ -6,6 +6,7 @@ subcategories:
   - Fish
 dietary:
   - GF
+  - EF
 source:
   url: "http://cooking.nytimes.com/recipes/1017360-pan-roasted-fish-fillets-with-herb-butter"
 ---

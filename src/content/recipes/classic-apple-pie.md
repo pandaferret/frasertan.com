@@ -11,6 +11,8 @@ tags:
   - Christmas
   - Thanksgiving
   - Make Ahead
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated"
   url: "https://www.americastestkitchen.com/recipes/1377-classic-apple-pie"

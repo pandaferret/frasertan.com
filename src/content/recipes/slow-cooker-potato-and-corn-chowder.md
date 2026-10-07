@@ -6,6 +6,7 @@ subcategories:
   - Slow Cooker Goodness
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

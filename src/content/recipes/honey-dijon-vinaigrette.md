@@ -2,6 +2,10 @@
 title: "Honey Dijon Vinaigrette"
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
+  - DF
 ---
 
 ## Ingredients

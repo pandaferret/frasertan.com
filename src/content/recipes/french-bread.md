@@ -2,6 +2,9 @@
 title: "French Bread"
 categories:
   - Breads and Baked Goods
+dietary:
+  - V*
+  - DF
 source:
   url: "http://allrecipes.com/recipe/6882/french-bread/"
 ---

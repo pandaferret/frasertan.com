@@ -9,6 +9,8 @@ tags:
   - Weeknight Meals
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

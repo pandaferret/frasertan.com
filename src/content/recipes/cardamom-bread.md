@@ -7,6 +7,8 @@ tags:
   - Seasonal Treats
   - Christmas
   - Eric-friendly
+dietary:
+  - VEG
 source:
   name: "guide"
   url: "https://smittenkitchen.com/2020/11/sour-cream-and-chive-fantails/"

@@ -4,6 +4,8 @@ description: "Another winner from ATK! These rolls are soft, fluffy and oh so de
 yield: "Makes 15 rolls (big ones)"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   name: "ATK's Bread Illustrated"
 ---

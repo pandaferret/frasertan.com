@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Cookies
 dietary:
+  - VEG
   - EF
 source:
   url: "https://smittenkitchen.com/2008/12/pecan-sandies/"

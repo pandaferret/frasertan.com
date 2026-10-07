@@ -3,6 +3,9 @@ title: "Mini Soft Pretzels"
 description: "Another Smitten Kitchen hit!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - V*
+  - DF
 cover: "/images/recipes/mini-soft-pretzels.jpg"
 ---
 

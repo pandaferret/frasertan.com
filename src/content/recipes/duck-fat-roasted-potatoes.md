@@ -2,6 +2,9 @@
 title: "Duck Fat-Roasted Potatoes"
 categories:
   - Side Dishes
+dietary:
+  - EF
+  - DF
 source:
   url: "http://www.cooksillustrated.com/recipes/8342-duck-fat-roasted-potatoes"
 cover: "/images/recipes/duck-fat-roasted-potatoes.jpg"

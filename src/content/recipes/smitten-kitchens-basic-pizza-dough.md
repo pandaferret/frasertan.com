@@ -4,6 +4,10 @@ categories:
   - Main Dishes
 subcategories:
   - Pizzas
+dietary:
+  - V*
+  - EF
+  - DF
 source:
   name: "Smitten Kitchen"
   url: "http://smittenkitchen.com/blog/2007/09/pizza-even-sweeter/"

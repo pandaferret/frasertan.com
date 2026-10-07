@@ -5,6 +5,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
+  - EF
 source:
   url: "https://smittenkitchen.com/2019/03/extra-flaky-pie-crust/"
 cover: "/images/recipes/extra-flaky-pie-crust.jpg"

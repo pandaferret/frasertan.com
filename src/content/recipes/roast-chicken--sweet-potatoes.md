@@ -12,6 +12,7 @@ tags:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://www.eatingwell.com/recipes/chicken_sweet_potatoes.html"
 ---

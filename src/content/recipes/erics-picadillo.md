@@ -11,6 +11,7 @@ tags:
   - Beef
 dietary:
   - GF
+  - EF
 ---
 
 ## Ingredients

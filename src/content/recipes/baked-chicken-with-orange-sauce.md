@@ -4,6 +4,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - EF
 source:
   name: "The Joy of Cooking"
 ---

@@ -12,6 +12,7 @@ tags:
   - Chicken
 dietary:
   - GF*
+  - EF
 ---
 
 ## Ingredients

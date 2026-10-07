@@ -3,6 +3,10 @@ title: "Cranberry Apple Shrub"
 yield: "Makes ~2 cups"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 source:
   name: "Shrubs by Michael Dietsch"
 ---

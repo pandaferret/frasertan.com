@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated The Perfect Cookie"
 cover: "/images/recipes/brown-sugar-cookies.jpg"

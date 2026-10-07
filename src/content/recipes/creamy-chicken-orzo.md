@@ -10,6 +10,8 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Chicken
+dietary:
+  - EF
 source:
   url: "https://bake-eat-repeat.com/lemon-orzo-chicken-parmesan-recipe/"
 cover: "/images/recipes/creamy-chicken-orzo.jpg"

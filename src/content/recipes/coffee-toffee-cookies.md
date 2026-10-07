@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://www.americastestkitchen.com/guides/the-perfect-cookie/coffee-toffee-cookies"
 cover: "/images/recipes/coffee-toffee-cookies.jpg"

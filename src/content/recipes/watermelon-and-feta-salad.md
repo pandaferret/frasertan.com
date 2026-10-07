@@ -6,6 +6,9 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - V*
+  - EF
 source:
   url: "http://www.theworktop.com/breakfast-brunch-recipes/watermelon-salad/"
 cover: "/images/recipes/watermelon-and-feta-salad.jpg"

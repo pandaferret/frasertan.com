@@ -7,6 +7,7 @@ subcategories:
   - Poultry
 dietary:
   - GF
+  - EF
 ---
 
 ## Ingredients

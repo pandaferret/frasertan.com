@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - DF
 source:
   url: "http://damndelicious.net/2014/08/02/panda-express-sweet-fire-chicken-copycat/"
 ---

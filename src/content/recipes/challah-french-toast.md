@@ -4,6 +4,8 @@ description: "This recipe from Cook's Illustrated is optimized for a soft enrich
 Though thick-sliced challah is best for French Toast, you can substitute high quality sliced sandwich bread. Flipping challah is easiest with tongs, but a spatula works best with sandwich bread. To speed the cooking of large batches, heat 2 or more skillets to brown a few batches at once. To vary the flavor of the batter, add 3/4 teaspoon ground cinnamon or 1/2 teaspoon ground nutmeg with the dry ingredients, or substitute almond extract for the vanilla."
 tags:
   - Owen fav
+dietary:
+  - VEG
 yield: "Serves 3-4"
 categories:
   - Breakfast

@@ -3,6 +3,10 @@ title: "Caipirinha"
 description: "modified for my lightweight self by Dana"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

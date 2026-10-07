@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Winter
 dietary:
+  - VEG
   - EF
 ---
 

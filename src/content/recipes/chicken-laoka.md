@@ -8,6 +8,9 @@ subcategories:
 tags:
   - Weeknight Meals
   - Chicken
+dietary:
+  - EF
+  - DF
 ---
 
 ## Ingredients

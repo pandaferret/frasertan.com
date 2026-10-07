@@ -2,6 +2,9 @@
 title: "Horseradish Cream"
 categories:
   - Sauces and Dips
+dietary:
+  - VEG
+  - EF
 source:
   url: "https://smittenkitchen.com/2008/12/braised-beef-short-ribs/"
 ---

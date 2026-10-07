@@ -8,6 +8,8 @@ source:
 cover: "/images/recipes/quick-peasant-bread.jpg"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

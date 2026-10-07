@@ -9,6 +9,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+dietary:
+  - VEG
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/red-velvet-crinkle-cookies/"

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "https://www.favfamilyrecipes.com/slow-cooker-kalua-pork-cabbage/"
 ---

@@ -15,6 +15,7 @@ source:
   url: "https://www.americastestkitchen.com/guides/one-pan-wonders/unstuffed-shells-with-butternut-squash-and-leeks"
 dietary:
   - VEG
+  - EF
 ---
 
 ## Ingredients

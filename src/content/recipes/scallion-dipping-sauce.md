@@ -2,6 +2,10 @@
 title: "Scallion Dipping Sauce"
 categories:
   - Sauces and Dips
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "http://www.cooksillustrated.com/recipes/2898-scallion-dipping-sauce"
 cover: "/images/recipes/scallion-dipping-sauce.jpg"

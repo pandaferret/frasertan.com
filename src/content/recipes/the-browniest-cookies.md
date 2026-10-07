@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2015/12/the-browniest-cookies/"
 cover: "/images/recipes/the-browniest-cookies.jpg"

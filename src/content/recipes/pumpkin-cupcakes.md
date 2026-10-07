@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+dietary:
+  - VEG
 ---
 
 ## Ingredients

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - EF
+  - DF
 source:
   url: "https://cupofjo.com/2020/04/cabbage-a-love-story/"
 cover: "/images/recipes/cabbage-and-sausage-fry.jpg"

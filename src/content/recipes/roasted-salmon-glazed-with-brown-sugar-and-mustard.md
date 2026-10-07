@@ -9,6 +9,9 @@ subcategories:
 tags:
   - Weeknight Meals
   - Fish
+dietary:
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1017244-roasted-salmon-glazed-with-brown-sugar-and-mustard"
 cover: "/images/recipes/roasted-salmon-glazed-with-brown-sugar-and-mustard.jpg"

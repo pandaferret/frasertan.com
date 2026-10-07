@@ -3,6 +3,8 @@ title: "Hawaiian Buns"
 description: "A delicious recipe inspired by a lovely place!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1019259-hawaiian-buns"

@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated No. 176 - May & June 2022"
 cover: "/images/recipes/peach-hand-pies.jpg"

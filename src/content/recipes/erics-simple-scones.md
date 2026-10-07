@@ -10,6 +10,8 @@ tags:
   - Fall
   - Winter
   - Eric-friendly
+dietary:
+  - VEG
 ---
 
 ## Ingredients

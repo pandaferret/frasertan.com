@@ -7,6 +7,8 @@ subcategories:
   - Cakes and Cupcakes
 tags:
   - Make Ahead
+dietary:
+  - VEG
 ---
 
 ## Ingredients

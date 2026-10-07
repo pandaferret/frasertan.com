@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - EF
 source:
   url: "https://www.pressurecookingtoday.com/pressure-cooker-chicken-bacon-penne-pasta/"
 ---

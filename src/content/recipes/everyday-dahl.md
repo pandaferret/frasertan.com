@@ -12,6 +12,7 @@ dietary:
   - V*
   - GF
   - DF*
+  - EF
 source:
   url: "https://smittenkitchen.com/2007/06/everyday-yellow-dal/"
 cover: "/images/recipes/everyday-dahl.jpg"

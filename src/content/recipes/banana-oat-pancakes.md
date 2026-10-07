@@ -4,6 +4,8 @@ description: "Another delicious way to use up all those leftover bananas :P Owen
 yield: "Serves 6-8"
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://www.americastestkitchen.com/kids/recipes/banana-oat-pancakes?ref=new_search_experience_2"
 cover: "/images/recipes/banana-oat-pancakes.jpg"

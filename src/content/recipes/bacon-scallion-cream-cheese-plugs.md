@@ -2,6 +2,8 @@
 title: "Bacon, Scallion, Cream Cheese Plugs"
 categories:
   - Breads and Baked Goods
+dietary:
+  - EF
 ---
 
 ## Ingredients

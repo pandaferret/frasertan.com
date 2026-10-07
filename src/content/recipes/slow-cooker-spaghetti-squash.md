@@ -2,6 +2,10 @@
 title: "Slow Cooker Spaghetti Squash"
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "http://allrecipes.com/recipe/240068/slow-cooker-spaghetti-squash/"
 ---

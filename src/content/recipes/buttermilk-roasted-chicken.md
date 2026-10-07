@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - EF
 source:
   url: "https://smittenkitchen.com/2012/01/buttermilk-roast-chicken/"
 cover: "/images/recipes/buttermilk-roasted-chicken.jpg"

@@ -9,6 +9,8 @@ tags:
   - Make Ahead
 dietary:
   - GF
+  - EF
+  - DF
 source:
   name: "Cafe Delites"
   url: "https://cafedelites.com/pork-carnitas-mexican-slow-cooked-pulled-pork/"

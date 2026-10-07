@@ -3,6 +3,9 @@ title: "Strawberry Romaine Salad"
 description: "One of Eric's favorite salads from his mom. Sometimes we add bacon because bacon makes everything awesome!"
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
 ---
 
 ## Ingredients

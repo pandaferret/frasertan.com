@@ -6,6 +6,9 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - EF
+  - DF
 source:
   name: "Peggy"
 ---

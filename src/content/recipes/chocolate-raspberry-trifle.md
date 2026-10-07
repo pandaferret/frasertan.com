@@ -8,6 +8,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
+dietary:
+  - VEG
 source:
   name: "Cook's Illustrated No. 179 - November & December 2022"
 ---

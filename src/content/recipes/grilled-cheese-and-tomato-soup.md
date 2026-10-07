@@ -7,6 +7,9 @@ subcategories:
   - Vegetarian
 tags:
   - Weeknight Meals
+dietary:
+  - VEG*
+  - EF
 source:
   url: "https://smittenkitchen.com/2006/11/cream-of-tomato-soup-classic-grilled-cheese/"
 cover: "/images/recipes/grilled-cheese-and-tomato-soup.jpg"

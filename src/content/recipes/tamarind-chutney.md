@@ -3,6 +3,10 @@ title: "Tamarind Chutney"
 description: "From our Sur la Table cooking class!"
 categories:
   - Sauces and Dips
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

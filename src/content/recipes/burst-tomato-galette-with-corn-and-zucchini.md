@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2013/08/burst-tomato-galette-with-corn-and-zucchini/"
 cover: "/images/recipes/burst-tomato-galette-with-corn-and-zucchini.jpg"

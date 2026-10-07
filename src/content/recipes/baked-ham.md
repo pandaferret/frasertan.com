@@ -7,6 +7,8 @@ subcategories:
   - Pork
 dietary:
   - GF
+  - EF
+  - DF
 ---
 
 ## Ingredients

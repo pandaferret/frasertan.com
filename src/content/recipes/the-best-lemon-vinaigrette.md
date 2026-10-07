@@ -3,6 +3,10 @@ title: "The Best Lemon Vinaigrette"
 description: "From Jeanne!"
 categories:
   - Salads
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://www.eatingwell.com/recipe/8052969/elote-inspired-pasta-salad/"
 ---

@@ -4,6 +4,10 @@ categories:
   - Main Dishes
 subcategories:
   - Pizzas
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

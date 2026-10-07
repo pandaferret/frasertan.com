@@ -5,6 +5,10 @@ categories:
   - Side Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - VEG*
+  - EF
+  - DF
 source:
   url: "http://damndelicious.net/2014/06/25/pineapple-fried-rice/"
 ---

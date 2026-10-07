@@ -7,6 +7,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://www.cookingclassy.com/balsamic-glazed-salmon/"
 cover: "/images/recipes/balsamic-glazed-salmon.jpg"

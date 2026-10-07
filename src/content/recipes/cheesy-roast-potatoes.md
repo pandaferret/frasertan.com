@@ -10,6 +10,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "America's Test Kitchen"
   url: "https://www.americastestkitchen.com/recipes/11036-cheesy-ranch-potatoes"

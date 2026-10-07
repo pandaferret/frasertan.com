@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - EF
 source:
   name: "America's Test Kitchen Best International Recipes"
 ---

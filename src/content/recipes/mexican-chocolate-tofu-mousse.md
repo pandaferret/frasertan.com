@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Sweets and Sundries
 dietary:
+  - V*
   - GF
   - EF
   - DF*

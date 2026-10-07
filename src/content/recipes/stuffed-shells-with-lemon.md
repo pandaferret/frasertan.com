@@ -4,6 +4,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - VEG
 source:
   url: "http://www.101cookbooks.com/archives/stuffed-shells-recipe.html"
 ---

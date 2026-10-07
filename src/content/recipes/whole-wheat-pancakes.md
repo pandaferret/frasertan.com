@@ -3,6 +3,8 @@ title: "Whole Wheat Pancakes"
 description: "Another winner from Cook's Illustrated! This batter serves four perfectly for a light weekday breakfast. You may want to double the recipe for weekend pancake making, when appetites are larger. If you happen to be using salted butter or buttermilk, you may want to cut back a bit on the salt. If you don’t have any buttermilk, mix three-quarters cup of room temperature milk with one tablespoon of lemon juice and let it stand for five minutes. Substitute this “clabbered milk” for the three-quarters cup of buttermilk and one-quarter cup of milk in this recipe. Since this milk mixture is not as thick as buttermilk, the batter and resulting pancakes will not be as thick."
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://www.cooksillustrated.com/recipes/1274-whole-wheat-pancakes"
 cover: "/images/recipes/whole-wheat-pancakes.jpg"

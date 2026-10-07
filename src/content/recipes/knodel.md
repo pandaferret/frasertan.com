@@ -9,7 +9,7 @@ tags:
   - Seasonal Treats
   - Summer
 dietary:
-  - EF
+  - VEG
 ---
 
 ## Ingredients

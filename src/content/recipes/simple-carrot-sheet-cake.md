@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "ATK's The Perfect Cake p. 110"
 ---

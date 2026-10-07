@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Frostings and Sauces
 dietary:
+  - VEG
   - EF
   - GF
 source:

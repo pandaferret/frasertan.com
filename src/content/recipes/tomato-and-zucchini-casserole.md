@@ -3,6 +3,9 @@ title: "Tomato and Zucchini Casserole"
 description: "When you plant tomatoes and zucchini in California... you need a way to use them all up!"
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "https://www.pillsbury.com/recipes/tomato-and-zucchini-casserole/03fdb18b-1927-4aff-9415-6fea1435d804"
 cover: "/images/recipes/tomato-and-zucchini-casserole.jpg"

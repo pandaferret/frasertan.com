@@ -3,6 +3,8 @@ title: "Japanese Milk Bread Rolls"
 description: "Tangzhong makes these rolls extra sweet, soft and fluffy!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe"
 cover: "/images/recipes/japanese-milk-bread-rolls.jpg"

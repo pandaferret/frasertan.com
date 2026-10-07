@@ -3,6 +3,10 @@ title: "Sweet Potatoes with Ginger and Lemon"
 description: "Another delicious Indian inspired recipe from 5 Spices, 50 Recipes. For details on making a tadka, see Railway Potatoes."
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

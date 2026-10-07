@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+dietary:
+  - VEG
 source:
   url: "https://www.verybestbaking.com/libbys/recipes/libby-s-famous-pumpkin-pie/"
 cover: "/images/recipes/classic-pumpkin-pie.jpg"

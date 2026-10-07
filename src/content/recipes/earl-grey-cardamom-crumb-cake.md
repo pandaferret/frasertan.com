@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake"

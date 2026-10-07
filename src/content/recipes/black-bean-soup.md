@@ -16,6 +16,7 @@ source:
 cover: "/images/recipes/black-bean-soup.jpg"
 dietary:
   - V*
+  - EF
 ---
 
 ## Ingredients

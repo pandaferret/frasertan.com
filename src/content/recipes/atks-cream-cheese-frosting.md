@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Frostings and Sauces
+dietary:
+  - VEG
+  - EF
 source:
   name: "ATK's The Perfect Cake, p. 401"
 ---

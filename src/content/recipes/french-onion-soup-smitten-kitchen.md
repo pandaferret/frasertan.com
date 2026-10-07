@@ -10,6 +10,7 @@ source:
 cover: "/images/recipes/french-onion-soup-smitten-kitchen.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

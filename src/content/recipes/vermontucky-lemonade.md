@@ -3,6 +3,10 @@ title: "Vermontucky Lemonade"
 description: "Cool and refreshing and bourbon!"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://smittenkitchen.com/2011/05/vermontucky-lemonade/"
 cover: "/images/recipes/vermontucky-lemonade.jpg"

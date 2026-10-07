@@ -9,6 +9,8 @@ tags:
   - Summer
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

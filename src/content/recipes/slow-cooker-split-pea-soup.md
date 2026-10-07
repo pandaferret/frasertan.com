@@ -5,6 +5,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+dietary:
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -3,6 +3,10 @@ title: "Railway Potatoes"
 description: "This is a delicious Indian recipe from a cookbook called 5 Spices 50 Recipes."
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -3,6 +3,8 @@ title: "Liege Waffles (from Allrecipes)"
 description: "While Smitten Kitchen's recipe is great, it does take a bit of planning. These come together the same morning as you want them (well, if you wake up with the sun like I do thanks to a very cheerful four-year-old) and are deeeeeeeelicous!"
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://www.allrecipes.com/recipe/213251/liege-belgian-waffles-with-pearl-sugar/"
 ---

@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Christmas
 dietary:
+  - VEG
   - EF*
 source:
   url: "http://smittenkitchen.com/blog/2015/06/saltine-crack-ice-cream-sandwiches/"

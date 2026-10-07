@@ -7,6 +7,10 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/3939-cozy-cider?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=2"
 ---

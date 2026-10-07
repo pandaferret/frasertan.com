@@ -4,6 +4,7 @@ description: "A great recipe to make, throw in the freezer, and then make only a
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - EF
 ---
 

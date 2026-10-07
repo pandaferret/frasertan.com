@@ -8,6 +8,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+dietary:
+  - VEG
+  - EF
 source:
   url: "http://smittenkitchen.com/blog/2012/10/apple-mosaic-tart-with-salted-caramel/"
 cover: "/images/recipes/apple-mosaic-tart-with-salted-caramel.jpg"

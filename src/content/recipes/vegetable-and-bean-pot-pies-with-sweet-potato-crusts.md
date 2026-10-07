@@ -9,6 +9,8 @@ subcategories:
   - Beans
 dietary:
   - V
+  - EF
+  - DF
 source:
   url: "https://www.washingtonpost.com/news/voraciously/wp/2019/10/13/you-can-skip-the-pastry-these-vegetable-pot-pies-use-a-sweet-potato-crust/"
 ---

@@ -9,6 +9,8 @@ tags:
   - Seasonal Treats
   - Winter
   - Owen fav
+dietary:
+  - EF
 ---
 
 ## Ingredients

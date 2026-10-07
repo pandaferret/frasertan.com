@@ -7,6 +7,10 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

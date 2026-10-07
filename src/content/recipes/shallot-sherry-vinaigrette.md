@@ -3,6 +3,10 @@ title: "Shallot Sherry Vinaigrette"
 description: "From Via Carota's Green Salad. This makes a lot of dressing, so keep it around for insta-salads all week."
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1020223-via-carotas-insalata-verde"
 ---

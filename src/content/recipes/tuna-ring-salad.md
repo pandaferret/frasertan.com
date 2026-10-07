@@ -3,6 +3,8 @@ title: "Tuna Ring Salad"
 description: "A beloved Seidel family tradition!"
 categories:
   - Salads
+dietary:
+  - DF
 ---
 
 ## Ingredients

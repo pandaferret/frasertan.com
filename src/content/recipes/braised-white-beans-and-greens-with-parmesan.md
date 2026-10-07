@@ -14,6 +14,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan"

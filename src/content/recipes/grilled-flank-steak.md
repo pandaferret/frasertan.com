@@ -12,6 +12,7 @@ tags:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "https://www.simplyrecipes.com/recipes/grilled_marinated_flank_steak/"
 ---

@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - DF
 source:
   url: "http://www.spendwithpennies.com/honey-garlic-crunch-chicken-tenders/"
 cover: "/images/recipes/honey-garlic-crunch-chicken-tenders.jpg"

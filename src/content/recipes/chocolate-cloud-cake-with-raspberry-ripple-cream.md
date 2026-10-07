@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 dietary:
+  - VEG
   - GF
 source:
   url: "https://food52.com/recipes/77622-nigel-slater-s-raspberry-ripple-sandwich"

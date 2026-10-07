@@ -11,6 +11,7 @@ tags:
   - Chicken
 dietary:
   - GF
+  - EF
 source:
   url: "https://www.thekitchn.com/garlic-butter-chicken-thighs-recipe-23024746"
 cover: "/images/recipes/garlic-butter-chicken-thighs-with-green-beans.jpg"

@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+dietary:
+  - EF
 source:
   url: "http://www.cooksillustrated.com/recipes/667-sauteed-chicken-breast-cutlets"
 ---

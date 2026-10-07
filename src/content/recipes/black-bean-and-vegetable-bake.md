@@ -15,6 +15,7 @@ tags:
 dietary:
   - V*
   - GF
+  - EF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2024/05/black-bean-and-vegetable-bake/"

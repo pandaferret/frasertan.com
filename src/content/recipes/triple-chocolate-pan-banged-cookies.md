@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "100 Cookies by Sarah Kieffer"
 ---

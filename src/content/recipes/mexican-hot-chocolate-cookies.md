@@ -6,6 +6,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   url: "https://www.marthastewart.com/336516/mexican-hot-chocolate-cookies"
 ---

@@ -9,6 +9,8 @@ tags:
   - Seasonal Treats
   - Christmas
   - Thanksgiving
+dietary:
+  - VEG
 ---
 
 ## Ingredients

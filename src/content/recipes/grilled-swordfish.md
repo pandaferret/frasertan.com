@@ -12,6 +12,8 @@ tags:
   - Fish
 dietary:
   - GF*
+  - EF
+  - DF
 source:
   name: "Dinner at the Zoo"
   url: "https://www.dinneratthezoo.com/grilled-swordfish/"

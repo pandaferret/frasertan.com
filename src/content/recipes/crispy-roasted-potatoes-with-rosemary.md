@@ -3,6 +3,9 @@ title: "Crispy Roasted Potatoes with Rosemary"
 description: "This recipe makes owning - and using - a mandoline worth it."
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "http://www.williams-sonoma.com/recipe/crispy-roast-potatoes-rosemary.html?crlt.pid=camp.lZbm1lzZLgPX"
 ---

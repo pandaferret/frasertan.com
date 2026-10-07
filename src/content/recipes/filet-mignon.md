@@ -7,7 +7,7 @@ subcategories:
   - Beef
 dietary:
   - GF
-  - DF
+  - EF
 ---
 
 ## Ingredients

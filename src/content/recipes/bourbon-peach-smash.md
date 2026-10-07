@@ -6,6 +6,10 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
+dietary:
+  - V
+  - EF
+  - DF
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2018/07/bourbon-peach-smash/"

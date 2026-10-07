@@ -8,6 +8,7 @@ tags:
   - Fall
   - Winter
 dietary:
+  - VEG
   - DF
 ---
 

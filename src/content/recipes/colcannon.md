@@ -6,6 +6,9 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+dietary:
+  - VEG
+  - EF
 source:
   url: "http://www.saveur.com/article/Recipes/Classic-Colcannon"
 ---

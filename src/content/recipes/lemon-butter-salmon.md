@@ -11,6 +11,7 @@ tags:
   - Fish
 dietary:
   - GF
+  - EF
 source:
   name: "The Kitchn"
   url: "https://www.thekitchn.com/lemon-butter-salmon-recipe-23678404"

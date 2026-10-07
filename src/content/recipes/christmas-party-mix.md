@@ -9,6 +9,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+dietary:
+  - VEG
+  - EF
 source:
   name: "Peggy"
 ---

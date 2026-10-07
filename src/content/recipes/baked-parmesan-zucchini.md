@@ -2,6 +2,9 @@
 title: "Baked Parmesan Zucchini"
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "http://damndelicious.net/2014/06/21/baked-parmesan-zucchini/"
 ---

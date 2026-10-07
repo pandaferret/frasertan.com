@@ -6,6 +6,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+dietary:
+  - VEG
+  - EF
 source:
   name: "Extra-flaky Pie Crust"
   url: "http://www.frasertan.com/extra-flaky-pie-crust.html"

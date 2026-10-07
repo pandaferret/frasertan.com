@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+dietary:
+  - VEG
 source:
   url: "http://www.cooksillustrated.com/recipes/142-pate-a-choux-cream-puff-paste?ref=new_search_experience_1&incode=MCSCD00L0"
 ---

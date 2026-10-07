@@ -3,6 +3,10 @@ title: "Teriyaki Sauce"
 description: "Teriyaki sauce makes everything better."
 categories:
   - Sauces and Dips
+dietary:
+  - V
+  - EF
+  - DF
 source:
   name: "The Foodie Takes Flight"
   url: "https://thefoodietakesflight.com/homemade-teriyaki-sauce/"

@@ -7,6 +7,9 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
+dietary:
+  - V*
+  - EF
 ---
 
 ## Ingredients

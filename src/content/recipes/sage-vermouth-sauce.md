@@ -9,6 +9,7 @@ source:
 cover: "/images/recipes/sage-vermouth-sauce.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

@@ -3,6 +3,10 @@ title: "Blackberry Gin Fizz"
 description: "A fresh summery spritz for warm summer days! Gin optional!"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://smittenkitchen.com/2012/07/blackberry-gin-fizz/"
 cover: "/images/recipes/blackberry-gin-fizz.jpg"

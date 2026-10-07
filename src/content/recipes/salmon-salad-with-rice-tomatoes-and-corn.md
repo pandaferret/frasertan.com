@@ -12,6 +12,8 @@ tags:
   - Fish
 dietary:
   - GF*
+  - EF
+  - DF
 source:
   name: "SF Chronicle, July 2020"
 ---

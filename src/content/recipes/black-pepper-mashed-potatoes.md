@@ -6,6 +6,9 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+dietary:
+  - V*
+  - EF
 ---
 
 ## Ingredients

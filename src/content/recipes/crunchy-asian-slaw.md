@@ -4,6 +4,10 @@ description: "This pairs well with strong sweet flavors, like Vietnamese Caramel
 yield: "Serves 6"
 categories:
   - Salads
+dietary:
+  - V*
+  - EF
+  - DF
 source:
   url: "https://www.feastingathome.com/asian-slaw/print/25058/"
 cover: "/images/recipes/crunchy-asian-slaw.jpg"

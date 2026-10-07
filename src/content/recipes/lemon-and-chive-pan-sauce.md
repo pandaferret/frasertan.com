@@ -7,6 +7,7 @@ source:
 cover: "/images/recipes/lemon-and-chive-pan-sauce.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

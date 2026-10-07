@@ -3,6 +3,9 @@ title: "Rachel's Eggplant Dip"
 description: "Our friend Rachel makes a wonderful eggplant dip. After many many attempts, I have concluded that nothing is quite as perfect as her dip, but that I can come pretty darned close :)"
 categories:
   - Sauces and Dips
+dietary:
+  - V*
+  - DF
 source:
   name: "Rachel :)"
 ---

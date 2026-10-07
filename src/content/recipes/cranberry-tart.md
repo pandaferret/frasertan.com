@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Thanksgiving
 dietary:
+  - VEG
   - GF
 source:
   url: "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart"

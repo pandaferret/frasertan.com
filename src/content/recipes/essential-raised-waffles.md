@@ -3,6 +3,8 @@ title: "Essential Raised Waffles"
 description: "With just a tweak or two, these waffles have a lovely tang and great crispy crunch - another winner from Deb!"
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2013/05/essential-raised-waffles/"
 cover: "/images/recipes/essential-raised-waffles.jpg"

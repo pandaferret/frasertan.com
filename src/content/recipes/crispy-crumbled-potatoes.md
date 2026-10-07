@@ -4,6 +4,10 @@ description: "A lot of frying, but soooo worth it! Do take note that you have to
 yield: "Serves 4"
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://smittenkitchen.com/2020/04/crispy-crumbled-potatoes/"
 cover: "/images/recipes/crispy-crumbled-potatoes.jpg"

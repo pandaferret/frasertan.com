@@ -3,6 +3,8 @@ title: "Banana Bread"
 description: "a very moist banana bread recipe."
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 ---
 
 ## Ingredients

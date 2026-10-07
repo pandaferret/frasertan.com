@@ -3,6 +3,10 @@ title: "Roasted Cauliflower with Garlic"
 description: "A delicious way to prepare a healthy side dish!"
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

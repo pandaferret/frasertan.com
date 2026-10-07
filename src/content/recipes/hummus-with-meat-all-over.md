@@ -13,6 +13,9 @@ tags:
   - Eric-friendly
   - Owen fav
   - Beef
+dietary:
+  - EF
+  - DF
 source:
   name: "My Name is Yeh's Molly on the Range cookbook"
 ---

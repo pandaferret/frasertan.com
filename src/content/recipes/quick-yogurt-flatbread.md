@@ -4,6 +4,7 @@ description: "These are quick and have a lovely tang!"
 categories:
   - Breads and Baked Goods
 dietary:
+  - VEG
   - EF
 source:
   url: "https://www.bonappetit.com/recipe/falafel-spiced-tomatoes-and-chickpeas-on-flatbread"

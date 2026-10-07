@@ -2,6 +2,10 @@
 title: "Everything Bagel Mix"
 categories:
   - Breads and Baked Goods
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -11,6 +11,8 @@ source:
   url: "http://www.foodnetwork.com/recipes/jamie-oliver/the-mothership-tomato-salad-recipe.html"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

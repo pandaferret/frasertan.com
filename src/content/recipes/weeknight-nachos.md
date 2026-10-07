@@ -9,6 +9,9 @@ subcategories:
 tags:
   - Weeknight Meals
   - Beans
+dietary:
+  - V*
+  - EF
 source:
   url: "https://smittenkitchen.com/2016/06/corn-and-black-bean-weeknight-nachos/"
 cover: "/images/recipes/weeknight-nachos.jpg"

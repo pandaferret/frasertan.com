@@ -12,6 +12,7 @@ dietary:
   - V
   - GF
   - EF
+  - DF
 source:
   url: "https://cooking.nytimes.com/recipes/1021682-pure-potato-latkes"
 ---

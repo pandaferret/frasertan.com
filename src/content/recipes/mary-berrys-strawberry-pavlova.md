@@ -10,6 +10,7 @@ tags:
   - Spring
   - Summer
 dietary:
+  - VEG
   - GF
   - DF*
 ---

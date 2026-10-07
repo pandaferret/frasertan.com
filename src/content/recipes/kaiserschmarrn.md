@@ -3,6 +3,8 @@ title: "Kaiserschmarrn (Austrian torn fluffy pancake)"
 description: "I came across this gem from Deb while we're holed up in the great COVID-19 shelter in place of 2020. It's swiftly becoming one of my comfort foods in this trying time."
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2019/05/austrian-torn-fluffy-pancake/"
 cover: "/images/recipes/kaiserschmarrn.jpg"

@@ -6,6 +6,8 @@ categories:
 tags:
   - Weeknight Meals
   - Beef
+dietary:
+  - EF
 ---
 
 ## Ingredients

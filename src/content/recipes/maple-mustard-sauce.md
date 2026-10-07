@@ -8,6 +8,8 @@ source:
 cover: "/images/recipes/maple-mustard-sauce.jpg"
 dietary:
   - VEG*
+  - EF
+  - DF
 ---
 
 ## Ingredients

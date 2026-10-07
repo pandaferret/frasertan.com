@@ -10,6 +10,8 @@ tags:
   - Weeknight Meals
   - Owen fav
   - Chicken
+dietary:
+  - EF
 source:
   url: "https://cooking.nytimes.com/recipes/1025319-honey-garlic-chicken"
 cover: "/images/recipes/honey-garlic-chicken.jpg"

@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2018/06/ciambellone-an-italian-tea-cake/"
 cover: "/images/recipes/ciambellone-italian-lemon-tea-cake.jpg"

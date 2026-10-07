@@ -6,6 +6,7 @@ categories:
 subcategories:
   - Sweets and Sundries
 dietary:
+  - VEG
   - GF
 source:
   url: "https://www.cooksillustrated.com/recipes/1547-chocolate-mousse?incode=MCSCD00L0&ref=new_search_experience_2"

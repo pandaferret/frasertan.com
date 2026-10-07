@@ -12,6 +12,7 @@ tags:
   - Beef
 dietary:
   - GF*
+  - EF
 source:
   name: "NYT Cooking"
   url: "https://cooking.nytimes.com/recipes/1025322-garlic-butter-steak-bites"

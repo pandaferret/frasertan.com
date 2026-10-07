@@ -8,6 +8,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+dietary:
+  - VEG
 ---
 
 ## Ingredients

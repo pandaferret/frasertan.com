@@ -4,6 +4,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+dietary:
+  - EF
+  - DF
 source:
   url: "http://www.food.com/recipe/hearty-lamb-and-lentil-stew-375190"
 cover: "/images/recipes/lamb-and-lentil-stew.jpg"

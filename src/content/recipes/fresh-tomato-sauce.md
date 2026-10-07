@@ -5,8 +5,10 @@ categories:
 subcategories:
   - Pastas and Grains
 dietary:
+  - V
   - GF
   - DF
+  - EF
 source:
   url: "http://cooking.nytimes.com/recipes/1017650-quick-fresh-tomato-sauce"
 ---

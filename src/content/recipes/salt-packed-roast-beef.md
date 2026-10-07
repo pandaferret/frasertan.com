@@ -11,6 +11,7 @@ tags:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "http://cooking.nytimes.com/recipes/1016950-salt-packed-cold-roast-beef-with-bread-crumb-salsa?action=click&module=Local+Search+Recipe+Card&pgType=search&rank=4"
 ---

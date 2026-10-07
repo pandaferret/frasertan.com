@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+dietary:
+  - VEG
 source:
   name: "America's Test Kitchen"
   url: "https://www.cooksillustrated.com/recipes/9894-cider-glazed-apple-bundt-cake"

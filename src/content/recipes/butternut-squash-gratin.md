@@ -3,6 +3,9 @@ title: "Butternut Squash Gratin"
 description: "I love butternut squash, in case you didn't know :) Thank you Betty Crocker (of all sites!) for this new way to eat it!"
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 ---
 
 ## Ingredients

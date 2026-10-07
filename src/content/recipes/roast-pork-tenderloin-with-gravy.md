@@ -11,6 +11,8 @@ tags:
   - Fall
   - Winter
   - Pork
+dietary:
+  - EF
 source:
   name: "Peggy"
 ---

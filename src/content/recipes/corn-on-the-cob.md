@@ -8,6 +8,8 @@ tags:
   - Vegetarian
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Directions

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "https://www.americastestkitchen.com/guides/nutritious-delicious/black-rice-bowls-with-salmon?extcode=NSAKA15FB&utm_source=facebook&utm_medium=photo&utm_content=blackricebowls&utm_campaign=atkfacebook"
 ---

@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - DF
+  - EF
 source:
   url: "https://www.washingtonpost.com/news/voraciously/wp/2019/01/18/overnight-chicken-in-a-pot-has-become-the-savior-of-our-weeknight-cooking/?utm_term=.303927100787"
 ---

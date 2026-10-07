@@ -3,6 +3,9 @@ title: "Black Tea-Port Milk Punch"
 description: "Despite the name, this punch doesn't actually end up containing milk - the milk is used to clarify and smooth the mixture."
 categories:
   - Drinks
+dietary:
+  - VEG
+  - EF
 source:
   name: "article"
   url: "http://www.cooksscience.com/articles/story/the-key-to-crystal-clear-cocktails-milk-really/"

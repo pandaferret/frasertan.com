@@ -9,6 +9,9 @@ subcategories:
 tags:
   - Weeknight Meals
   - Beef
+dietary:
+  - EF
+  - DF
 source:
   name: "Allrecipes"
   url: "https://www.allrecipes.com/recipe/229324/ground-beef-and-cabbage/"

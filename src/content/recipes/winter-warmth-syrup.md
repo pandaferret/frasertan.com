@@ -4,6 +4,10 @@ description: "A lovely spiced syrup to capture the flavors of fall/winter!"
 yield: "Makes ~ 2 cups"
 categories:
   - Drinks
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://smittenkitchen.com/2014/12/fairytale-of-new-york/#:~:text=was%20the%20wiser.-,Winter%20Warmth%20Syrup,-1%201/2"
 cover: "/images/recipes/winter-warmth-syrup.jpg"

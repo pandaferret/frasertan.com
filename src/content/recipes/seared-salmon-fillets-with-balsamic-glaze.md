@@ -4,6 +4,8 @@ categories:
   - Main Dishes
 subcategories:
   - Fish
+dietary:
+  - EF
 ---
 
 ## Ingredients

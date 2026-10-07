@@ -4,6 +4,9 @@ description: "These are quick and easy and - in a pro for our family - makes jus
 yield: "Makes 8 medium pretzels"
 categories:
   - Breads and Baked Goods
+dietary:
+  - V*
+  - EF
 source:
   url: "https://www.kingarthurbaking.com/recipes/hot-buttered-soft-pretzels-recipe"
 cover: "/images/recipes/hot-buttered-soft-pretzels.jpg"

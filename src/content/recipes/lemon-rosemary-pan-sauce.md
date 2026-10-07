@@ -4,6 +4,7 @@ categories:
   - Sauces and Dips
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

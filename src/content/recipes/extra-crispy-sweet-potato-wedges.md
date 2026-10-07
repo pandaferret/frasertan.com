@@ -3,6 +3,10 @@ title: "Extra Crispy Sweet Potato Wedges"
 description: "I modified the baking time on this recipe a bit as my oven is apparently very hot!"
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "http://bakerbynature.com/extra-crispy-sweet-potato-wedges/"
 cover: "/images/recipes/extra-crispy-sweet-potato-wedges.jpg"

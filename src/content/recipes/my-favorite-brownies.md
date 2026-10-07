@@ -8,6 +8,8 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
   - Make Ahead
+dietary:
+  - VEG
 source:
   name: "100 Cookies by Sarah Kieffer"
 cover: "/images/recipes/my-favorite-brownies.jpg"

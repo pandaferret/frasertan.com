@@ -9,6 +9,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+dietary:
+  - VEG
 source:
   name: "Galette! by Rebecca Firkser, p. 90"
 ---

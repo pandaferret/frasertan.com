@@ -11,6 +11,8 @@ tags:
 dietary:
   - V
   - GF
+  - EF
+  - DF
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/roasted-cabbage-salad-with-rosemary-garlic-vinaigrette-11831792"

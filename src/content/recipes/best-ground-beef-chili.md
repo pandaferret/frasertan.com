@@ -7,6 +7,8 @@ subcategories:
   - Beef
 dietary:
   - GF
+  - EF
+  - DF
 source:
   url: "https://www.cooksillustrated.com/recipes/8564-best-ground-beef-chili"
 cover: "/images/recipes/best-ground-beef-chili.jpg"

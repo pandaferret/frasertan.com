@@ -3,6 +3,9 @@ title: "Greek Yogurt"
 description: "Easy peasy Greek yogurt in your Instant Pot! All it takes is a little bit of time and a little bit of starter."
 categories:
   - Breakfast
+dietary:
+  - VEG
+  - EF
 source:
   name: "A Mind Full Mom"
   url: "https://amindfullmom.com/instant-pot-yogurt/"

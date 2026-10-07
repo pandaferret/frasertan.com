@@ -8,6 +8,7 @@ source:
 cover: "/images/recipes/red-wine-pan-sauce.jpg"
 dietary:
   - VEG*
+  - EF
 ---
 
 ## Ingredients

@@ -7,7 +7,9 @@ tags:
   - Seasonal Treats
   - Thanksgiving
 dietary:
+  - VEG
   - GF*
+  - EF
 source:
   name: "Edible South Florida"
   url: "https://ediblesouthflorida.ediblecommunities.com/recipe/recipes-green-beans-porcini-mushrooms/"

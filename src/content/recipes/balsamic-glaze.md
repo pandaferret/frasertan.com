@@ -2,6 +2,10 @@
 title: "Balsamic Glaze"
 categories:
   - Sauces and Dips
+dietary:
+  - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

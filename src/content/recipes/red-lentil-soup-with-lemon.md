@@ -13,6 +13,8 @@ source:
 cover: "/images/recipes/red-lentil-soup-with-lemon.jpg"
 dietary:
   - V
+  - EF
+  - DF
 ---
 
 ## Ingredients

@@ -7,6 +7,7 @@ tags:
   - Seasonal Treats
   - Thanksgiving
 dietary:
+  - VEG
   - EF
 ---
 

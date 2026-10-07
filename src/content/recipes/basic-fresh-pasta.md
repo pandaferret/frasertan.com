@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+dietary:
+  - VEG
+  - DF
 ---
 
 ## Ingredients

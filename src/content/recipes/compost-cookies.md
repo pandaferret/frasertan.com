@@ -5,6 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+dietary:
+  - VEG
 source:
   name: "Momofuku Milk Bar"
 cover: "/images/recipes/compost-cookies.jpg"

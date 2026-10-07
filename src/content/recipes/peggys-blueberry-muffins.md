@@ -4,6 +4,8 @@ description: "A must-have with Tuna Ring Salad."
 yield: "15 muffins"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 ---
 
 ## Ingredients

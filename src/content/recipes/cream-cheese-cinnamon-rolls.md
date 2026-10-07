@@ -4,6 +4,8 @@ description: "Now these are a real indulgence, but worth all the effort and ever
 yield: "Serves XX"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 source:
   url: "https://joythebaker.com/2009/06/cream-cheese-cinnamon-rolls/"
 cover: "/images/recipes/cream-cheese-cinnamon-rolls.jpg"

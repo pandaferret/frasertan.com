@@ -3,6 +3,8 @@ title: "Garlic Caesar Salad"
 description: "If you like dressing you may want to double this recipe :) also - anchovy free!"
 categories:
   - Salads
+dietary:
+  - VEG
 ---
 
 ## Ingredients

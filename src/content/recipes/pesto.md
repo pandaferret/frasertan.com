@@ -6,7 +6,9 @@ categories:
 subcategories:
   - Pastas and Grains
 dietary:
+  - V*
   - GF
+  - EF
 ---
 
 ## Ingredients

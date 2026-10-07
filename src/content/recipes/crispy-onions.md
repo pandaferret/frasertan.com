@@ -3,6 +3,10 @@ title: "Crispy Onions"
 description: "Easy peasy and so delicious! This is the best part of mujaddara, but could be great with anything."
 categories:
   - Side Dishes
+dietary:
+  - V
+  - EF
+  - DF
 source:
   url: "https://www.americastestkitchen.com/recipes/8036-crispy-onions"
 cover: "/images/recipes/crispy-onions.jpg"

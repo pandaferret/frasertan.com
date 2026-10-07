@@ -3,6 +3,8 @@ title: "German Pancakes"
 description: "A slightly eggier, slightly easier version of a morning staple! Serve with maple syrup and fresh berries."
 categories:
   - Breakfast
+dietary:
+  - VEG
 source:
   url: "https://smittenkitchen.com/2006/12/loopy-breakfast-goodness/"
 cover: "/images/recipes/german-pancakes.jpg"

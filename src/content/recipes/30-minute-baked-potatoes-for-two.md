@@ -3,6 +3,9 @@ title: "30-Minute Baked Potatoes for Two"
 description: "From Cook's Illustrated: For this recipe, look for evenly sized russet potatoes with firm, unblemished skin. You can substitute sweet potatoes or yams for the potatoes. If you don’t want to use the microwave, place the potatoes directly on the middle rack of a 350-degree oven and bake until tender, about 1 hour and 15 minutes."
 categories:
   - Side Dishes
+dietary:
+  - V*
+  - EF
 source:
   url: "http://www.cooksillustrated.com/recipes/3721-30-minute-baked-potatoes-for-two"
 ---

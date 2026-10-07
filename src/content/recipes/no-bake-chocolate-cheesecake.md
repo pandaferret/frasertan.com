@@ -7,6 +7,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 dietary:
+  - VEG
   - EF
 source:
   url: "https://www.thecookingfoodie.com/recipe/NoBake-Chocolate-Cheesecake-Recipe"

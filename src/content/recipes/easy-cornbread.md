@@ -3,6 +3,8 @@ title: "Easy Cornbread"
 description: "from the Internet - thank you Google!"
 categories:
   - Breads and Baked Goods
+dietary:
+  - VEG
 ---
 
 ## Ingredients
