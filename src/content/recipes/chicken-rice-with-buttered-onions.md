@@ -7,6 +7,7 @@ categories:
 tags:
   - Weeknight Meals
   - Make Ahead
+  - Owen fav
 source:
   url: "https://smittenkitchen.com/2023/09/chicken-rice-with-buttered-onions"
 cover: "/images/recipes/chicken-rice-with-buttered-onions.jpg"

@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Owen fav
 source:
   url: "https://www.americastestkitchen.com/recipes/9895-crispy-pan-fried-chicken-cutlets?pac=CgTU9Vjqm6CA7TnAivzdQ3B4fhtIWy8BMDzGfSzbBXo%3D&extcode=NSAKI05FB&utm_source=facebook&utm_medium=photo&utm_content=cutlets&utm_campaign=atkfacebook&fbclid=IwAR1qNOmpiFCG54vygh22h-c9anp3t7rWG4RwWnSxPNmBKcy1OoU6wogztlM"
 cover: "/images/recipes/chicken-katsu.jpg"

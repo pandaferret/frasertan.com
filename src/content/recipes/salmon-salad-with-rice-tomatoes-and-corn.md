@@ -8,6 +8,7 @@ subcategories:
   - Fish
 tags:
   - Weeknight Meals
+  - Eric-friendly
 dietary:
   - GF*
 source:

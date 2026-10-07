@@ -3,6 +3,8 @@ title: "The Best Way to Cook Broccoli"
 description: "Eric's favorite way to cook broccoli"
 categories:
   - Side Dishes
+tags:
+  - Eric-friendly
 source:
   url: "http://www.cooksillustrated.com/how_tos/5536-the-best-way-to-cook-broccoli"
 ---

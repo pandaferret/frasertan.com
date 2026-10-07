@@ -8,6 +8,8 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Eric-friendly
+  - Owen fav
 source:
   name: "My Name is Yeh's Molly on the Range cookbook"
 ---

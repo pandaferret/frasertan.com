@@ -11,6 +11,12 @@ export function getStaticPaths() {
   }));
 }
 
+// Each tag page's buttons, drawn from these extra tags on its recipes
+// (they mirror tags in Fraser's Notion recipe database).
+const subtags: Record<string, string[]> = {
+  "Weeknight Meals": ["Eric-friendly", "Owen fav"],
+};
+
 const { tagName } = Astro.props;
 const recipes = await getCollection("recipes");
 const tagged = recipes
@@ -29,8 +35,9 @@ const tagged = recipes
   <h1>{tagName}</h1>
   <RecipeBrowser
     recipes={tagged}
-    groups={[]}
-    groupsOf={() => []}
+    groups={subtags[tagName] ?? []}
+    groupsOf={(r) => r.data.tags ?? []}
+    showOther={false}
     filter={{ name: "tag", value: tagName }}
     searchLabel={`Search ${tagName.toLowerCase()}`}
   />

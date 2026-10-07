@@ -7,6 +7,7 @@ subcategories:
   - Soups
 tags:
   - Weeknight Meals
+  - Eric-friendly
 ---
 
 ## Ingredients

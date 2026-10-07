@@ -7,6 +7,7 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Eric-friendly
 dietary:
   - GF
   - DF

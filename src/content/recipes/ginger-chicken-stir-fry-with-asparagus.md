@@ -5,6 +5,8 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Eric-friendly
+  - Owen fav
 dietary:
   - GF
   - DF

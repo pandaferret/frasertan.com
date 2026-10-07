@@ -5,6 +5,8 @@ categories:
   - Main Dishes
 tags:
   - Weeknight Meals
+  - Eric-friendly
+  - Owen fav
 source:
   url: "https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce?mbid=social_facebook_basically&fbclid=IwAR19wQOoz3Dhf2LZzBuqt9BKpMC7H9EZEvZS03z5B7R2XmRv92FiB0Ze9No"
 cover: "/images/recipes/rigatoni-alla-vodka.jpg"

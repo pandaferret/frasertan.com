@@ -8,6 +8,7 @@ subcategories:
   - Sundries
 tags:
   - Weeknight Meals
+  - Eric-friendly
 ---
 
 ## Ingredients

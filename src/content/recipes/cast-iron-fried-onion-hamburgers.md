@@ -7,6 +7,7 @@ subcategories:
   - Beef
 tags:
   - Weeknight Meals
+  - Eric-friendly
 source:
   url: "https://www.americastestkitchen.com/recipes/9177-cast-iron-fried-onion-cheeseburgers?pac=Lt0Fj8U9W6Ymxk7pg90hTJL0snzHJOM1SKL9hMUsHdY%3D&extcode=NSAKD02FB&utm_source=facebook&utm_medium=photo&utm_content=onioncheeseburgeri&utm_campaign=atkfacebook&fbclid=IwAR2k0kAeEok6EPTEPGWUMJc7iM1CHWcyacqZ7pqWDXyRX7Sk0DvvGASGJbc"
 cover: "/images/recipes/cast-iron-fried-onion-hamburgers.jpg"

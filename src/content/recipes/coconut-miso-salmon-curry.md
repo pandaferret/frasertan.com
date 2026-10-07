@@ -1,6 +1,8 @@
 ---
 title: "Coconut-Miso Salmon Curry"
 description: "I admit I was a little surprised when my nine-year old proclaimed this one of the best things I'd ever cooked, but it is quite delicious - and simple enough for a weeknight meal! Don't forget to make the rice!"
+tags:
+  - Owen fav
 yield: "Serves 4. Time: 25 minutes"
 categories:
   - Main Dishes
