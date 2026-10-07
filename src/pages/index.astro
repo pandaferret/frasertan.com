@@ -1,28 +1,68 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const recipeCount = (await getCollection("recipes")).length;
+
+const cards = [
+  {
+    href: "/recipes/",
+    title: "Recipes",
+    blurb: `${recipeCount} recipes I cook and bake`,
+  },
+  {
+    href: "/curriculum-vitae/",
+    title: "Curriculum Vitae",
+    blurb: "Experience, education and publications",
+  },
+  // Hidden; page still exists at /personal-projects/
+  // { href: "/personal-projects/", title: "Personal Projects", blurb: "" },
+];
 ---
 
-<BaseLayout title="Home">
+<BaseLayout title="Home" hideHeader>
   <div class="home-hero">
     <img src="/images/fraser.jpeg" alt="Fraser Tan" class="home-photo" />
-    <div class="home-content">
-      <div class="social-links">
-        <a
-          href="https://www.linkedin.com/in/frasertan/"
-          target="_blank"
-          rel="noopener">LinkedIn</a
+    <h1 class="home-name">Fraser Elisabeth Tan, PhD</h1>
+    <div class="social-links">
+      <a
+        href="https://www.linkedin.com/in/frasertan/"
+        target="_blank"
+        rel="noopener"
+        aria-label="LinkedIn (opens in a new tab)"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path
+            d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"
+          ></path>
+        </svg>
+      </a>
+      <a href="mailto:fraser@frasertan.com" aria-label="Email">
+        <svg
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
         >
-        <a href="mailto:fraser@frasertan.com">Email</a>
-      </div>
+          <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+          <path d="m22 6-10 7L2 6"></path>
+        </svg>
+      </a>
     </div>
   </div>
-  <hr />
-  <ul>
-    <li><a href="/recipes/">Recipes</a></li>
-    <li><a href="/curriculum-vitae/">Curriculum Vitae</a></li>
+  <ul class="home-cards">
     {
-      /* Hidden; page still exists at /personal-projects/
-    <li><a href="/personal-projects/">Personal Projects</a></li> */
+      cards.map(({ href, title, blurb }) => (
+        <li>
+          <a href={href}>
+            <span class="card-title">{title}</span>
+            <span class="card-blurb">{blurb}</span>
+          </a>
+        </li>
+      ))
     }
   </ul>
 </BaseLayout>
@@ -30,18 +70,73 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 <style>
   .home-hero {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 2rem;
-    padding: 2rem 0;
+    text-align: center;
+    padding: 1rem 0 2rem;
   }
   .home-photo {
     width: 200px;
-    height: auto;
-    border-radius: 4px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .home-name {
+    font-family: var(--font-title);
+    font-weight: 400;
+    color: var(--color-accent);
+    margin: 1.25rem 0 0.5rem;
   }
   .social-links {
     display: flex;
+    gap: 1.25rem;
+  }
+  .social-links a {
+    display: inline-flex;
+    padding: 0.25rem;
+    color: var(--color-link);
+  }
+  .social-links a:hover {
+    color: var(--color-link-hover);
+  }
+  .social-links svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+  }
+  .social-links a[href^="mailto"] svg {
+    fill: none;
+  }
+  .home-cards {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 640px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 1rem;
-    margin-top: 1rem;
+  }
+  .home-cards a {
+    display: block;
+    height: 100%;
+    padding: 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    transition: box-shadow 0.15s;
+  }
+  .home-cards a:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+  }
+  .card-title {
+    display: block;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+  .card-blurb {
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 0.9rem;
+    color: var(--color-text);
   }
 </style>

@@ -8,9 +8,10 @@ interface Props {
   title: string;
   description?: string;
   breadcrumbs?: Crumb[];
+  hideHeader?: boolean;
 }
 
-const { title, description, breadcrumbs } = Astro.props;
+const { title, description, breadcrumbs, hideHeader } = Astro.props;
 const pageTitle =
   title === "Home"
     ? "Fraser Elisabeth Tan, PhD"
@@ -28,7 +29,7 @@ const pageTitle =
     <ViewTransitions />
   </head>
   <body>
-    <Navigation />
+    {!hideHeader && <Navigation />}
     <main class="container">
       {breadcrumbs && <Breadcrumbs items={breadcrumbs} />}
       <slot />
