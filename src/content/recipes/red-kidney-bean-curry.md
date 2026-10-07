@@ -3,6 +3,9 @@ title: "Red Kidney Bean Curry"
 description: "Quick easy vegetarian and delicious - what more could you want? Goes great over basmati rice."
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 source:
   url: "https://smittenkitchen.com/2009/02/red-kidney-bean-curry/?fbclid=IwAR327f96FZ-tR8OW2D7PjnXUftbyWaNpGEyAfOogWMJr6zUY7GMBX3cxTLU"
 cover: "/images/recipes/red-kidney-bean-curry.jpg"

@@ -3,6 +3,8 @@ title: "Zucchini Quesadillas"
 description: "Deb from Smitten Kitchen continues to fuel my easy weeknight recipe search!"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

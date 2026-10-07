@@ -3,9 +3,11 @@ title: "Weeknight Nachos"
 description: 'With this recipe from Smitten Kitchen, you too can enjoy hearing these precious words from your four-year-old: "Mommy I love what you make for dinner!"'
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
-  - Beef
 source:
   url: "https://smittenkitchen.com/2016/06/corn-and-black-bean-weeknight-nachos/"
 cover: "/images/recipes/weeknight-nachos.jpg"

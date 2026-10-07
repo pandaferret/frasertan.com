@@ -4,7 +4,7 @@ description: "Spiced cauliflower and potatoes, courtesy of Deb!"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

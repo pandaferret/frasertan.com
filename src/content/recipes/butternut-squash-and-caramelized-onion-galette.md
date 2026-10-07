@@ -4,7 +4,7 @@ description: "from Smitten Kitchen"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Seasonal Treats
   - Fall

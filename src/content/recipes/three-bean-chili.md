@@ -4,6 +4,9 @@ description: "Owen keeps asking for chili, so here 'tis! Made with dried beans, 
 yield: "Serves 4-6"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Make Ahead
   - Owen fav

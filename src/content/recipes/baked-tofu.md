@@ -4,6 +4,8 @@ description: "Crispy baked tofu that's perfect for salads, stir-fries, curries o
 yield: "Serves 2-4"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

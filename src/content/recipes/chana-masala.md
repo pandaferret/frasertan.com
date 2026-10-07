@@ -3,6 +3,9 @@ title: "Chana Masala"
 description: "From Deb."
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian

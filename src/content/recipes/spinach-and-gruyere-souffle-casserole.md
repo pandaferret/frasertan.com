@@ -4,7 +4,7 @@ description: "From a lovely cooking class we took at Tablespoons of Love in Half
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 ---
 
 ## Ingredients

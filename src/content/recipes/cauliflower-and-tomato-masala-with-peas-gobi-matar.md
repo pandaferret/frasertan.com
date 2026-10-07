@@ -3,7 +3,7 @@ title: "Cauliflower and Tomato Masala with Peas (Gobi Matar)"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 dietary:
   - V
   - DF

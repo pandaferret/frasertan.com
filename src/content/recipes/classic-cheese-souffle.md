@@ -4,7 +4,7 @@ description: "Souffles have a reputation for being delicate, but that's very far
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 source:
   name: "Cook's Illustrated"
   url: "https://www.cooksillustrated.com/recipes/7670-cheese-souffle?incode=MCSCD00L0&ref=new_search_experience_1"

@@ -4,7 +4,7 @@ description: "A delicious mild curry from 5 Spices, 50 Recipes. For details on m
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Vegetarian

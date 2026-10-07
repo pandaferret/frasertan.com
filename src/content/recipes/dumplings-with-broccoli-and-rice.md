@@ -5,7 +5,7 @@ yield: "Serves 3"
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Eric-friendly

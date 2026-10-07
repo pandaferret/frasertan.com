@@ -4,7 +4,7 @@ description: "Very much worth the effort! Thanks America's Test Kitchen! Do not 
 categories:
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 tags:
   - Seasonal Treats
   - Fall

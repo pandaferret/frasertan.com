@@ -5,7 +5,7 @@ categories:
   - Salads
   - Main Dishes
 subcategories:
-  - Sundries
+  - Vegetarian
 dietary:
   - V*
   - GF

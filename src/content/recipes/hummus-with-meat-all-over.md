@@ -6,6 +6,7 @@ categories:
   - Main Dishes
 subcategories:
   - Sundries
+  - Beans
 tags:
   - Weeknight Meals
   - Eric-friendly

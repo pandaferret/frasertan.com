@@ -5,6 +5,8 @@ yield: "Serves 4-6"
 categories:
   - Starters
   - Main Dishes
+subcategories:
+  - Vegetarian
 tags:
   - Weeknight Meals
   - Owen fav

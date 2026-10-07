@@ -4,6 +4,9 @@ description: "This is a great way to snarf cheesy dip with tortilla chips withou
 yield: "Serves 8"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Make Ahead

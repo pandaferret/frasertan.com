@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+  - Beans
 tags:
   - Weeknight Meals
   - Eric-friendly

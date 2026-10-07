@@ -4,6 +4,9 @@ description: "Pairs well with garlic bread! Deb calls this a vegetable-rich bake
 yield: "Serves 8"
 categories:
   - Main Dishes
+subcategories:
+  - Vegetarian
+  - Beans
 tags:
   - Weeknight Meals
   - Vegetarian
