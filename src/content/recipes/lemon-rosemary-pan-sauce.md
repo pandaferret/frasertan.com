@@ -16,4 +16,10 @@ categories:
 
 ## Directions
 
-1. Pour off all but 2 teaspoons oil from skillet. Return skillet to medium heat and add shallot; cook, stirring occasionally, until shallot is softened, about 2 minutes. Add flour and cook, stirring constantly, for 30 seconds. Increase heat to medium-high, add broth and lemon juice, and bring to simmer, scraping up any browned bits. Simmer until thickened, 2 to 3 minutes. Stir in any accumulated chicken juices; return to simmer and cook for 30 seconds. Remove skillet from heat and whisk in butter and rosemary; season with salt and pepper to taste. Spoon sauce around breasts and serve.
+1. Pour off all but 2 teaspoons oil from skillet.
+2. Return skillet to medium heat and add shallot; cook, stirring occasionally, until shallot is softened, about 2 minutes.
+3. Add flour and cook, stirring constantly, for 30 seconds.
+4. Increase heat to medium-high, add broth and lemon juice, and bring to simmer, scraping up any browned bits. Simmer until thickened, 2 to 3 minutes.
+5. Stir in any accumulated chicken juices; return to simmer and cook for 30 seconds.
+6. Remove skillet from heat and whisk in butter and rosemary; season with salt and pepper to taste.
+7. Spoon sauce around breasts and serve.

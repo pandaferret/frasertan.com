@@ -22,7 +22,8 @@ source:
 
 ## Directions
 
-1. In a mixing bowl cream together the room temperature butter and the powdered sugar using a whisk. It will feel like it's not coming together, but just keep at it. Whisk it until it's nice and fluffy. Add the egg yolk and room temperature ristretto (espresso) coffee and whisk to combine.
+1. In a mixing bowl cream together the room temperature butter and the powdered sugar using a whisk. It will feel like it's not coming together, but just keep at it. Whisk it until it's nice and fluffy.
+2. Add the egg yolk and room temperature ristretto (espresso) coffee and whisk to combine.
 
 ## Notes
 

@@ -19,4 +19,8 @@ source:
 
 ## Directions
 
-1. Bring carrots, salt, 1 tablespoon sugar, and chicken broth to boil, covered, in 12-inch nonstick skillet over medium-high heat; reduce heat to medium and simmer, stirring occasionally, until carrots are almost tender when poked with tip of paring knife, about 5 minutes. Uncover, increase heat to high, and simmer rapidly, stirring occasionally, until liquid is reduced to about 2 tablespoons, 1 to 2 minutes. Add butter and remaining 2 tablespoons sugar to skillet; toss carrots to coat and cook, stirring frequently, until carrots are completely tender and glaze is light gold, about 3 minutes. Off heat, add lemon juice; toss to coat. Transfer carrots to serving dish, scraping glaze from pan. Season to taste with pepper and serve immediately.
+1. Bring carrots, salt, 1 tablespoon sugar, and chicken broth to boil, covered, in 12-inch nonstick skillet over medium-high heat; reduce heat to medium and simmer, stirring occasionally, until carrots are almost tender when poked with tip of paring knife, about 5 minutes.
+2. Uncover, increase heat to high, and simmer rapidly, stirring occasionally, until liquid is reduced to about 2 tablespoons, 1 to 2 minutes.
+3. Add butter and remaining 2 tablespoons sugar to skillet; toss carrots to coat and cook, stirring frequently, until carrots are completely tender and glaze is light gold, about 3 minutes.
+4. Off heat, add lemon juice; toss to coat.
+5. Transfer carrots to serving dish, scraping glaze from pan. Season to taste with pepper and serve immediately.

@@ -20,7 +20,11 @@ tags:
 
 ## Directions
 
-1. Heat the water and dashi granules over medium high heat until boiling. Reduce heat to medium and add the tofu to warm. Using about 0.5 c of the broth, add to the miso in a small bowl and mix to loosen the miso paste. Add back to broth and stir to mix. Off heat, add scallions and wakame. Serve.
+1. Heat the water and dashi granules over medium high heat until boiling.
+2. Reduce heat to medium and add the tofu to warm.
+3. Using about 0.5 c of the broth, add to the miso in a small bowl and mix to loosen the miso paste.
+4. Add back to broth and stir to mix.
+5. Off heat, add scallions and wakame. Serve.
 
 ## Notes
 

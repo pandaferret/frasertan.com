@@ -36,7 +36,14 @@ Topping (optional):
 
 ## Directions
 
-1. Heat oven to 325 degrees F. Line bottom and sides of an 9×13-inch rectangular baking pan with 2 sheets of foil (crisscrossed), leaving a 2-inch overhang on all sides. Make crust: Combine crumbs, sugar, butter, salt and vanilla in a bowl with a fork until evenly mixed. Press firmly into bottom of prepared pan. Bake for 10 minutes. Make cheesecake: While crust is baking, beat cream cheese until fluffy with sugar, then beat in eggs, one at a time, until thoroughly mixed, scraping down the sides and bottom of your bowl between each addition. Beat in vanilla. Pour over prepared crust (still hot is fine) and bake for 25 minutes, until puffed but still jiggly like Jell-O when shimmied. Let cool on rack for 5 minutes, and while it does… Make topping: Whisk together sour cream, sugar, and vanilla. Drop spoonfuls of topping all over bars and spread gently in one thin layer. Bake bars with topping for 10 minutes. Set pan on a cooling rack and let cool; refrigerate at least 2 hours or ideally overnight. To serve: Use foil sling to carefully lift bars out of pan and transfer them to a cutting board. If you can, carefully slide them off their foil — this should be doable, but I did manage to crack my whole slab of bars while doing so, so proceed at your own risk. Scatter berries all over cake. Cut gently into 2×2-ish-inch squares with a serrated knife. Keep leftovers in fridge.
+1. Heat oven to 325 degrees F. Line bottom and sides of an 9×13-inch rectangular baking pan with 2 sheets of foil (crisscrossed), leaving a 2-inch overhang on all sides.
+2. Make crust: Combine crumbs, sugar, butter, salt and vanilla in a bowl with a fork until evenly mixed. Press firmly into bottom of prepared pan. Bake for 10 minutes.
+3. Make cheesecake: While crust is baking, beat cream cheese until fluffy with sugar, then beat in eggs, one at a time, until thoroughly mixed, scraping down the sides and bottom of your bowl between each addition. Beat in vanilla.
+4. Pour over prepared crust (still hot is fine) and bake for 25 minutes, until puffed but still jiggly like Jell-O when shimmied. Let cool on rack for 5 minutes, and while it does…
+5. Make topping: Whisk together sour cream, sugar, and vanilla. Drop spoonfuls of topping all over bars and spread gently in one thin layer. Bake bars with topping for 10 minutes.
+6. Set pan on a cooling rack and let cool; refrigerate at least 2 hours or ideally overnight.
+7. To serve: Use foil sling to carefully lift bars out of pan and transfer them to a cutting board. If you can, carefully slide them off their foil — this should be doable, but I did manage to crack my whole slab of bars while doing so, so proceed at your own risk.
+8. Scatter berries all over cake. Cut gently into 2×2-ish-inch squares with a serrated knife. Keep leftovers in fridge.
 
 ## Notes
 

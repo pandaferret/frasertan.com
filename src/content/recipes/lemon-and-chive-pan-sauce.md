@@ -18,4 +18,9 @@ source:
 
 ## Directions
 
-1. Add shallot to now-empty skillet and cook over medium heat until softened, about 2 minutes. Add flour and cook, stirring constantly, 30 seconds. Add broth, increase heat to medium-high, and bring to simmer, scraping pan bottom to loosen browned bits. Simmer rapidly until reduced to ¾ cup, 3 to 5 minutes. Stir in any accumulated chicken juices; return to simmer and cook 30 seconds. Off heat, whisk in lemon juice, chives, and butter; season with salt and pepper. Spoon over chicken and serve immediately.
+1. Add shallot to now-empty skillet and cook over medium heat until softened, about 2 minutes.
+2. Add flour and cook, stirring constantly, 30 seconds.
+3. Add broth, increase heat to medium-high, and bring to simmer, scraping pan bottom to loosen browned bits. Simmer rapidly until reduced to ¾ cup, 3 to 5 minutes.
+4. Stir in any accumulated chicken juices; return to simmer and cook 30 seconds.
+5. Off heat, whisk in lemon juice, chives, and butter; season with salt and pepper.
+6. Spoon over chicken and serve immediately.

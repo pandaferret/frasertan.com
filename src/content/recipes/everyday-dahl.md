@@ -31,7 +31,13 @@ source:
 
 ## Directions
 
-1. Drain the dal (split peas) and place in a large saucepan. Add the tomato and 3 cups of water and bring to a boil. Reduce the heat to a simmer, cover and cook until peas are tender, 45 minutes to 1 hour. Pick out any tomato skins and whisk dal to emulsify it. Keep warm over very low heat. Heat the oil in a medium skillet over high heat. When the oil begins to smoke, add the cumin seeds, covering the pan with a lid or splatter screen. After the seeds have stopped sputtering, add the onion and saute over medium heat. About 3 minutes later, add the garlic and saute until most of the onion has turned dark brown, about 5 minutes altogether. Add the coriander, turmeric and cayenne, stir and pour mixture over the dal. Add the cilantro, butter and salt to the dal and simmer for another 5 minutes. Serve hot.
+1. Drain the dal (split peas) and place in a large saucepan. Add the tomato and 3 cups of water and bring to a boil.
+2. Reduce the heat to a simmer, cover and cook until peas are tender, 45 minutes to 1 hour.
+3. Pick out any tomato skins and whisk dal to emulsify it. Keep warm over very low heat.
+4. Heat the oil in a medium skillet over high heat. When the oil begins to smoke, add the cumin seeds, covering the pan with a lid or splatter screen.
+5. After the seeds have stopped sputtering, add the onion and saute over medium heat. About 3 minutes later, add the garlic and saute until most of the onion has turned dark brown, about 5 minutes altogether.
+6. Add the coriander, turmeric and cayenne, stir and pour mixture over the dal.
+7. Add the cilantro, butter and salt to the dal and simmer for another 5 minutes. Serve hot.
 
 ## Notes
 

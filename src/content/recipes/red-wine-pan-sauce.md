@@ -20,4 +20,9 @@ source:
 
 ## Directions
 
-1. Pour off all but 2 teaspoons fat from pan used to cook meat. Add shallot to pan and cook over medium-high heat, stirring frequently, until softened, 1 to 2 minutes. Add wine and simmer rapidly, scraping up any browned bits, until liquid is reduced to glaze, about 30 seconds. Stir in broth and sugar and simmer until reduced to 1/3 cup, 4 to 6 minutes. Stir in any accumulated meat juices. Off heat, whisk in butter, 1 piece at a time, until melted and sauce is thickened and glossy. Stir in rosemary and vinegar. Season with salt and pepper to taste, spoon over meat, and serve.
+1. Pour off all but 2 teaspoons fat from pan used to cook meat.
+2. Add shallot to pan and cook over medium-high heat, stirring frequently, until softened, 1 to 2 minutes.
+3. Add wine and simmer rapidly, scraping up any browned bits, until liquid is reduced to glaze, about 30 seconds.
+4. Stir in broth and sugar and simmer until reduced to 1/3 cup, 4 to 6 minutes. Stir in any accumulated meat juices.
+5. Off heat, whisk in butter, 1 piece at a time, until melted and sauce is thickened and glossy.
+6. Stir in rosemary and vinegar. Season with salt and pepper to taste, spoon over meat, and serve.

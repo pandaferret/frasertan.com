@@ -22,4 +22,7 @@ tags:
 
 ## Directions
 
-1. In a small bowl combine juice of lemon, garlic and salt & pepper to taste. Add salad oil. Stir and let stand for 3 hours. In a skillet saute the bacon and drain on a paper towel. In a large salad bowl, combine romaine, tomatoes, cheeses, almonds and bacon. Toss with dressing and sprinkle with croutons if desired.
+1. In a small bowl combine juice of lemon, garlic and salt & pepper to taste. Add salad oil. Stir and let stand for 3 hours.
+2. In a skillet saute the bacon and drain on a paper towel.
+3. In a large salad bowl, combine romaine, tomatoes, cheeses, almonds and bacon.
+4. Toss with dressing and sprinkle with croutons if desired.

@@ -18,4 +18,6 @@ tags:
 
 ## Directions
 
-1. Melt the butter in a 10" skillet over medium heat. Add the shallot, thyme and garlic and cook until softened, about 1 minute. Stir in frozen peas and sugar. Cover and cook until peas are heated through, about 3 minutes. Season with salt and pepper and serve.
+1. Melt the butter in a 10" skillet over medium heat. Add the shallot, thyme and garlic and cook until softened, about 1 minute.
+2. Stir in frozen peas and sugar. Cover and cook until peas are heated through, about 3 minutes.
+3. Season with salt and pepper and serve.

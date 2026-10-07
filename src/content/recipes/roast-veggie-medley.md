@@ -5,6 +5,28 @@ categories:
   - Side Dishes
 ---
 
+## Ingredients
+
+All your favorite veggies! almost anything can be roasted, just keep in mind the water content of each veggies to cook it appropriately! i tend to like:
+
+- a bunch of new potatoes- Trader joe's has a nice medley bag with several varieties in it, including purple ones!
+- carrots- i like baby cause i'm lazy, but you can also use big carrots, peeled (or not) and cut into smallish sections
+- onion- red or sweet, cut into half rings
+- brocolli
+- fennel
+
 ## Directions
 
-1. Spring comes pretty early for us Californians. This past week has been a breezy balmy sunny mid 70s kind of week - the kind where you want nothing more than to bask in the sun. Sounds like what veggies like to do to! and now's when all the glorious fresh fruits and veggies that have made our (heavily irrigated) state famous are starting to come out. (Just a pitch - eat local! support your local farmer's market!)I like to enjoy the natural flavors of my veggies, not dress them up too much. Roasting is a great technique that brings out their natural flavors, but deepens and intensifies them. It doesn't take too much besides time - but it's time well worth it!Note: if you don't have a Dutch oven, a) get one! or b) use a pyrex baking dish (a large one) and cover with tinfoil for the first part of the roasting. Ingredients: all your favorite veggies! almost anything can be roasted, just keep in mind the water content of each veggies to cook it appropriately! i tend to like:a bunch of new potatoes- Trader joe's has a nice medley bag with several varieties in it, including purple ones!carrots- i like baby cause i'm lazy, but you can also use big carrots, peeled (or not) and cut into smallish sectionsonion- red or sweet, cut into half ringsbrocollifennelLook over your veggies and roughly divide them into two groups; those that should steam a bit before roasting and those that shouldn't. For example; potatoes, carrots, fennel and onions usually benefit from some softening. Brocolli can be done either way, while zucchinis and other water heavy veggies should probably not be steamed beforehand, as they will release so much water as to keep the other veggies from really roasting.Cut up your potatoes, carrots, onion, fennel etc into smallish chunks. Toss in your Dutch oven with a generous amount of olive oil (enough to lightly coat the veggies). Roast with the lid on in a 375° oven for 30 minutes.Remove the Dutch oven from the oven. Add brocolli and other late ingredients. Add more olive oil, garlic powder, ginger powder and any other seasons you like. Toss thoroughly.Return Dutch oven to oven and roast, uncovered, for another 45 minutes, or until things look done. Serve over garlic couscous (from Near East, available at Safeway and Whole Foods, cooks in 5 minutes on your stovetop). Heavenly!
+1. Look over your veggies and roughly divide them into two groups; those that should steam a bit before roasting and those that shouldn't. For example; potatoes, carrots, fennel and onions usually benefit from some softening. Brocolli can be done either way, while zucchinis and other water heavy veggies should probably not be steamed beforehand, as they will release so much water as to keep the other veggies from really roasting.
+2. Cut up your potatoes, carrots, onion, fennel etc into smallish chunks. Toss in your Dutch oven with a generous amount of olive oil (enough to lightly coat the veggies).
+3. Roast with the lid on in a 375° oven for 30 minutes.
+4. Remove the Dutch oven from the oven. Add brocolli and other late ingredients.
+5. Add more olive oil, garlic powder, ginger powder and any other seasons you like. Toss thoroughly.
+6. Return Dutch oven to oven and roast, uncovered, for another 45 minutes, or until things look done.
+7. Serve over garlic couscous (from Near East, available at Safeway and Whole Foods, cooks in 5 minutes on your stovetop). Heavenly!
+
+## Notes
+
+- Spring comes pretty early for us Californians. This past week has been a breezy balmy sunny mid 70s kind of week - the kind where you want nothing more than to bask in the sun. Sounds like what veggies like to do to! and now's when all the glorious fresh fruits and veggies that have made our (heavily irrigated) state famous are starting to come out. (Just a pitch - eat local! support your local farmer's market!)
+- I like to enjoy the natural flavors of my veggies, not dress them up too much. Roasting is a great technique that brings out their natural flavors, but deepens and intensifies them. It doesn't take too much besides time - but it's time well worth it!
+- Note: if you don't have a Dutch oven, a) get one! or b) use a pyrex baking dish (a large one) and cover with tinfoil for the first part of the roasting.
