@@ -5,7 +5,7 @@ categories:
   - Desserts
 tags:
   - Seasonal Treats
-  - Thanksgiving
+  - Fall
 ---
 
 ## Ingredients
