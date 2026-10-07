@@ -1,6 +1,5 @@
 ---
 title: "Pineapple Fried Rice"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Main Dishes
   - Side Dishes

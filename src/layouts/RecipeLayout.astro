@@ -99,6 +99,11 @@ const breadcrumbs = [
           <meta data-pagefind-filter="category[content]" content={cat} />
         ))
       }
+      {
+        tags?.map((tag) => (
+          <meta data-pagefind-filter="tag[content]" content={tag} />
+        ))
+      }
     </div>
     <hr />
     <slot />

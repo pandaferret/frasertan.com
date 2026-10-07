@@ -1,0 +1,317 @@
+---
+import RecipeCard from "./RecipeCard.astro";
+import type { CollectionEntry } from "astro:content";
+
+// A Notion-style view of a set of recipes: a search box scoped to these
+// recipes, then a row of tab buttons ("All" first) that show one group at a
+// time. Groups are subcategories on category pages and categories on tag
+// pages. The selected tab lives in the URL hash (#sub-<slug>), which keeps
+// the breadcrumb links from recipe pages working.
+
+interface Props {
+  recipes: CollectionEntry<"recipes">[];
+  groups: string[];
+  groupsOf: (recipe: CollectionEntry<"recipes">) => string[];
+  // Pagefind filter that limits search to this page's recipes.
+  filter: { name: string; value: string };
+  searchLabel: string;
+}
+
+const { recipes, groups, groupsOf, filter, searchLabel } = Astro.props;
+
+const slugify = (s: string) => s.toLowerCase().replace(/ /g, "-");
+const OTHER = "Other";
+
+const items = recipes.map((recipe) => {
+  const own = groupsOf(recipe).filter((g) => groups.includes(g));
+  return { recipe, groups: own.length > 0 ? own : [OTHER] };
+});
+const tabs = [
+  ...groups.filter((g) => items.some((i) => i.groups.includes(g))),
+  // Only worth an "Other" tab when there are real groups to sit beside.
+  ...(groups.length > 0 && items.some((i) => i.groups.includes(OTHER))
+    ? [OTHER]
+    : []),
+];
+---
+
+<div
+  class="recipe-browser"
+  data-filter-name={filter.name}
+  data-filter-value={filter.value}
+>
+  <div class="browser-search">
+    <svg
+      class="browser-search-icon"
+      viewBox="0 0 20 20"
+      width="16"
+      height="16"
+      aria-hidden="true"
+    >
+      <circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor"
+      ></circle>
+      <path d="M12.5 12.5 17 17" stroke="currentColor" stroke-linecap="round"
+      ></path>
+    </svg>
+    <input
+      type="search"
+      class="browser-search-input"
+      placeholder={searchLabel}
+      aria-label={searchLabel}
+      autocomplete="off"
+    />
+  </div>
+
+  {
+    tabs.length > 0 && (
+      <nav class="browser-tabs" aria-label="Filter recipes">
+        <a href="#all" class="browser-tab is-active" data-tab="all">
+          All recipes
+        </a>
+        {tabs.map((tab) => (
+          <a
+            href={`#sub-${slugify(tab)}`}
+            class="browser-tab"
+            data-tab={slugify(tab)}
+          >
+            {tab}
+          </a>
+        ))}
+      </nav>
+    )
+  }
+
+  <p class="browser-count" aria-live="polite">
+    {recipes.length} recipes
+  </p>
+
+  <div class="recipe-grid">
+    {
+      items.map(({ recipe, groups }) => (
+        <div
+          class="recipe-item"
+          data-groups={groups.map(slugify).join(" ")}
+          data-url={`/recipes/${recipe.id}/`}
+          data-title={recipe.data.title.toLowerCase()}
+        >
+          <RecipeCard
+            title={recipe.data.title}
+            slug={recipe.id}
+            dietary={recipe.data.dietary}
+            cover={recipe.data.cover}
+          />
+        </div>
+      ))
+    }
+  </div>
+  <p class="browser-empty" hidden>No recipes match your search.</p>
+</div>
+
+<style>
+  .browser-search {
+    position: relative;
+    margin: 0 0 1rem;
+  }
+  .browser-search-icon {
+    position: absolute;
+    left: 0.85rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #999;
+    pointer-events: none;
+  }
+  .browser-search-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.6rem 0.9rem 0.6rem 2.4rem;
+    font: inherit;
+    font-size: 0.95rem;
+    color: var(--color-heading);
+    background: var(--color-bg-alt);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    outline: none;
+    transition:
+      border-color 0.15s,
+      background 0.15s;
+  }
+  .browser-search-input:focus {
+    background: var(--color-bg);
+    border-color: var(--color-border);
+  }
+  .browser-tabs {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--color-bg);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.5rem 0 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .browser-tab {
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    font-size: 0.85rem;
+    color: var(--color-text);
+    white-space: nowrap;
+  }
+  .browser-tab:hover {
+    background: var(--color-bg-alt);
+    color: var(--color-heading);
+    text-decoration: none;
+  }
+  .browser-tab.is-active {
+    background: var(--color-heading);
+    border-color: var(--color-heading);
+    color: #fff;
+  }
+  .recipe-browser.is-searching .browser-tab {
+    opacity: 0.5;
+  }
+  .browser-count {
+    margin: 0.75rem 0;
+    font-size: 0.85rem;
+    color: #999;
+  }
+  .recipe-item[hidden],
+  .browser-empty[hidden] {
+    display: none;
+  }
+  .recipe-item > :global(.recipe-card) {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  @media (max-width: 600px) {
+    /* One scrollable row on phones instead of several wrapped ones. */
+    .browser-tabs {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+      margin: 0 -1rem;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+    .browser-tabs::-webkit-scrollbar {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  type Pagefind = {
+    search: (
+      query: string,
+      options?: { filters?: Record<string, string> },
+    ) => Promise<{ results: { data: () => Promise<{ url: string }> }[] }>;
+  };
+
+  let pagefindPromise: Promise<Pagefind | null> | undefined;
+  const loadPagefind = () => {
+    pagefindPromise ??= import(
+      /* @vite-ignore */ new URL("/pagefind/pagefind.js", location.href).href
+    ).catch(() => null);
+    return pagefindPromise;
+  };
+
+  document.addEventListener("astro:page-load", () => {
+    const root = document.querySelector<HTMLElement>(".recipe-browser");
+    if (!root) return;
+
+    const input = root.querySelector<HTMLInputElement>(
+      ".browser-search-input",
+    )!;
+    const tabs = [...root.querySelectorAll<HTMLAnchorElement>(".browser-tab")];
+    const items = [...root.querySelectorAll<HTMLElement>(".recipe-item")];
+    const count = root.querySelector<HTMLElement>(".browser-count")!;
+    const empty = root.querySelector<HTMLElement>(".browser-empty")!;
+    const filters = { [root.dataset.filterName!]: root.dataset.filterValue! };
+
+    const currentTab = () => {
+      const hash = location.hash.replace(/^#(sub-)?/, "");
+      return tabs.some((t) => t.dataset.tab === hash) ? hash : "all";
+    };
+
+    const show = (visible: HTMLElement[], noun: string) => {
+      const set = new Set(visible);
+      for (const item of items) item.hidden = !set.has(item);
+      count.textContent = `${visible.length} ${noun}`;
+      empty.hidden = visible.length > 0;
+    };
+
+    const showTab = () => {
+      const tab = currentTab();
+      for (const t of tabs) {
+        t.classList.toggle("is-active", t.dataset.tab === tab);
+        t.setAttribute("aria-current", String(t.dataset.tab === tab));
+      }
+      for (const item of items) item.style.order = "";
+      show(
+        tab === "all"
+          ? items
+          : items.filter((i) => i.dataset.groups!.split(" ").includes(tab)),
+        "recipes",
+      );
+    };
+
+    // Searches every recipe on this page, whichever tab is selected, and
+    // lists matches in relevance order.
+    let searchId = 0;
+    const runSearch = async () => {
+      const query = input.value.trim();
+      const id = ++searchId;
+      root.classList.toggle("is-searching", query !== "");
+      if (!query) return showTab();
+
+      let urls: string[];
+      const pagefind = await loadPagefind();
+      if (pagefind) {
+        const { results } = await pagefind.search(query, { filters });
+        urls = (await Promise.all(results.map((r) => r.data()))).map(
+          (d) => d.url,
+        );
+      } else {
+        // Search index unavailable (e.g. dev server): match titles instead.
+        const q = query.toLowerCase();
+        urls = items
+          .filter((i) => i.dataset.title!.includes(q))
+          .map((i) => i.dataset.url!);
+      }
+      if (id !== searchId) return;
+
+      const rank = new Map(urls.map((u, n) => [u, n]));
+      const matches = items.filter((i) => rank.has(i.dataset.url!));
+      for (const item of matches)
+        item.style.order = String(rank.get(item.dataset.url!));
+      show(matches, matches.length === 1 ? "result" : "results");
+    };
+
+    let timer: number | undefined;
+    input.addEventListener("input", () => {
+      clearTimeout(timer);
+      timer = window.setTimeout(runSearch, 150);
+    });
+    input.addEventListener("focus", loadPagefind, { once: true });
+
+    for (const tab of tabs) {
+      tab.addEventListener("click", (event) => {
+        event.preventDefault();
+        history.replaceState(null, "", tab.getAttribute("href"));
+        input.value = "";
+        root.classList.remove("is-searching");
+        showTab();
+      });
+    }
+    // Dropped when view transitions swap in the next page.
+    const cleanup = new AbortController();
+    window.addEventListener("hashchange", showTab, { signal: cleanup.signal });
+    document.addEventListener("astro:before-swap", () => cleanup.abort(), {
+      once: true,
+    });
+
+    showTab();
+  });
+</script>

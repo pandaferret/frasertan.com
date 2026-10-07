@@ -1,7 +1,7 @@
 ---
 title: "Marry Me Chicken"
 description: "Despite the slightly cringe name, this is a delicious and easy weeknight chicken skillet dinner."
-yield: "Serves XX"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 tags:

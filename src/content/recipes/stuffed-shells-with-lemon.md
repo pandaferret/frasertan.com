@@ -1,6 +1,5 @@
 ---
 title: "Stuffed Shells with Lemon"
-description: "zest of one lemon Sauce: 3 tbsp olive oil 1 1/2 teaspoons crushed red pepper flakes 3/4 teaspoon fine grain sea salt 4 medium cloves of garlic, finely chopped 1 28-ounce can crushed red tomatoes 1..."
 categories:
   - Main Dishes
 source:

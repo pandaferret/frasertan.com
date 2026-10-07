@@ -1,6 +1,5 @@
 ---
 title: "Cornflake Crunch"
-description: "FRASER ELISABETH TAN, PHD"
 categories:
   - Main Dishes
 source:

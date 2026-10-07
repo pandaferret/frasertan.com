@@ -1,7 +1,7 @@
 ---
 title: "Smitten Kitchen's Old-School Baked Ziti"
 description: "Delish and quick - especially when you put the fresh ricotta on top rather than mixing it in!"
-yield: "Serves XX"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 source:
