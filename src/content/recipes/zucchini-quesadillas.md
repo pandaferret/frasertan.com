@@ -9,6 +9,8 @@ tags:
 source:
   url: "https://smittenkitchen.com/2019/07/zucchini-quesadillas/?fbclid=IwAR0Js8u3e_aaCudBsDNDXfXjP5joGp6ppRuhamq2Q_nhZUbqsUrOHwq2OkY"
 cover: "/images/recipes/zucchini-quesadillas.jpg"
+dietary:
+  - V*
 ---
 
 ## Ingredients

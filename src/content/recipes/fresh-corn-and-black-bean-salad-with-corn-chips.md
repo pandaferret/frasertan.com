@@ -6,7 +6,6 @@ categories:
   - Salads
 tags:
   - Make Ahead
-  - Vegan
 dietary:
   - V
   - DF

@@ -9,6 +9,7 @@ tags:
   - Make Ahead
   - Vegetarian
 dietary:
+  - V*
   - GF
 source:
   name: "Smitten Kitchen"

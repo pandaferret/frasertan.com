@@ -12,9 +12,9 @@ tags:
   - Fall
   - Winter
 dietary:
+  - V
   - GF
   - DF
-  - V
 ---
 
 ## Ingredients

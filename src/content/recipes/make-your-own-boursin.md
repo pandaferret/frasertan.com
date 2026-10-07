@@ -3,7 +3,7 @@ title: "Make-Your-Own Boursin"
 categories:
   - Starters
 dietary:
-  - V
+  - VEG
 source:
   url: "http://www.itsalwaysautumn.com/2012/04/26/cook-soft-and-chewy-french-bread-with-garlic-spread.html"
 ---

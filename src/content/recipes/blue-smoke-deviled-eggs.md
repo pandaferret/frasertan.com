@@ -4,7 +4,7 @@ description: "I inherited this recipe from my friend Alyssa, and it makes the be
 categories:
   - Starters
 dietary:
-  - V
+  - VEG
   - GF
 ---
 

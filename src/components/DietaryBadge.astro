@@ -10,8 +10,12 @@ const labels: Record<string, string> = {
   DF: "Dairy-Free",
   EF: "Egg-Free",
   V: "Vegan",
+  VEG: "Vegetarian",
 };
-const label = labels[base] || code;
+// A trailing * means the recipe gets there with a swap or two.
+const label = labels[base]
+  ? (code.endsWith("*") ? "Can Be " : "") + labels[base]
+  : code;
 const cssClass = `badge badge-${base.toLowerCase()}`;
 ---
 

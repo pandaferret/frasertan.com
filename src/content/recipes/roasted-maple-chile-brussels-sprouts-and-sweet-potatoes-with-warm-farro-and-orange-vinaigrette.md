@@ -7,7 +7,7 @@ categories:
 subcategories:
   - Sundries
 dietary:
-  - V
+  - V*
   - GF*
   - DF*
   - EF

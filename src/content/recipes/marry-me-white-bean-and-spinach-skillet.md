@@ -8,6 +8,7 @@ tags:
   - Weeknight Meals
   - Vegetarian
 dietary:
+  - V*
   - GF
 source:
   name: "EatingWell"

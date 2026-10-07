@@ -7,7 +7,7 @@ tags:
   - Seasonal Treats
   - Summer
 dietary:
-  - V
+  - V*
   - DF
 ---
 

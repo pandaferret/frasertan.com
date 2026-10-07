@@ -8,6 +8,8 @@ tags:
   - Vegetarian
 source:
   url: "https://www.cooksillustrated.com/recipes/1958-basic-polenta"
+dietary:
+  - V*
 ---
 
 ## Ingredients

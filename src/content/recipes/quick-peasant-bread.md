@@ -3,11 +3,11 @@ title: "Quick Peasant Bread"
 description: "First introduced to us by Jeanne, this easy bread bakes in a bowl, and is great for semi-last minute dinner bread needs! Note: You will need 2 1 qt oven-proof clear bowls, such as Pyrex."
 categories:
   - Main Dishes
-tags:
-  - Vegan
 source:
   url: "https://alexandracooks.com/2012/11/07/my-mothers-peasant-bread-the-best-easiest-bread-you-will-ever-make/"
 cover: "/images/recipes/quick-peasant-bread.jpg"
+dietary:
+  - V
 ---
 
 ## Ingredients

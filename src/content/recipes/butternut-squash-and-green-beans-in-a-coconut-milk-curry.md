@@ -9,9 +9,9 @@ tags:
   - Weeknight Meals
   - Vegetarian
 dietary:
+  - V
   - GF
   - DF
-  - V
 ---
 
 ## Ingredients

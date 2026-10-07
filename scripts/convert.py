@@ -510,7 +510,7 @@ def parse_category_page(filepath):
             codes = diet_match.group(1)
             for code in re.split(r"[,\s]+", codes):
                 code = code.strip()
-                if code and code.upper() in ("GF", "DF", "EF", "V", "GF*", "DF*", "EF*"):
+                if code and code.upper() in ("GF", "DF", "EF", "V", "VEG", "GF*", "DF*", "EF*"):
                     dietary.append(code.upper())
 
         result[recipe_slug] = {

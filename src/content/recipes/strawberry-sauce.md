@@ -5,9 +5,8 @@ categories:
   - Desserts
 subcategories:
   - Frostings and Sauces
-tags:
-  - Vegan
 dietary:
+  - V
   - GF
   - DF
   - EF
