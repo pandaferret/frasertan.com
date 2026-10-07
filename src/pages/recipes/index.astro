@@ -1,10 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Search from "../../components/Search.astro";
-import { getCollection } from "astro:content";
-import { dietsOf } from "../../diets";
 
-const recipes = await getCollection("recipes");
 const categories = [
   "Starters",
   "Salads",
@@ -24,11 +21,6 @@ const tags = [
   "Seasonal Treats",
   "Special Diets",
 ];
-// Special Diets gathers recipes by their diet badges rather than a tag.
-const inTag = (tag: string, r: (typeof recipes)[number]) =>
-  tag === "Special Diets"
-    ? dietsOf(r).length > 0
-    : !!r.data.tags?.includes(tag);
 ---
 
 <BaseLayout
@@ -45,15 +37,9 @@ const inTag = (tag: string, r: (typeof recipes)[number]) =>
     {
       categories.map((cat) => {
         const slug = cat.toLowerCase().replace(/ /g, "-");
-        const count = recipes.filter((r) =>
-          r.data.categories.includes(cat),
-        ).length;
         return (
           <li>
-            <a href={`/categories/${slug}/`}>
-              {cat}
-              <span class="count">{count} recipes</span>
-            </a>
+            <a href={`/categories/${slug}/`}>{cat}</a>
           </li>
         );
       })
@@ -65,13 +51,9 @@ const inTag = (tag: string, r: (typeof recipes)[number]) =>
     {
       tags.map((tag) => {
         const slug = tag.toLowerCase().replace(/ /g, "-");
-        const count = recipes.filter((r) => inTag(tag, r)).length;
         return (
           <li>
-            <a href={`/tags/${slug}/`}>
-              {tag}
-              <span class="count">{count} recipes</span>
-            </a>
+            <a href={`/tags/${slug}/`}>{tag}</a>
           </li>
         );
       })
