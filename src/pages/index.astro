@@ -1,22 +1,16 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { getCollection } from "astro:content";
-
-const recipeCount = (await getCollection("recipes")).length;
-
 const cards = [
   {
     href: "/recipes/",
     title: "Recipes",
-    blurb: `${recipeCount} recipes I cook and bake`,
   },
   {
     href: "/curriculum-vitae/",
     title: "Curriculum Vitae",
-    blurb: "Experience, education and publications",
   },
   // Hidden; page still exists at /personal-projects/
-  // { href: "/personal-projects/", title: "Personal Projects", blurb: "" },
+  // { href: "/personal-projects/", title: "Personal Projects" },
 ];
 ---
 
@@ -55,11 +49,10 @@ const cards = [
   </div>
   <ul class="home-cards">
     {
-      cards.map(({ href, title, blurb }) => (
+      cards.map(({ href, title }) => (
         <li>
           <a href={href}>
             <span class="card-title">{title}</span>
-            <span class="card-blurb">{blurb}</span>
           </a>
         </li>
       ))
@@ -132,11 +125,5 @@ const cards = [
     display: block;
     font-weight: 600;
     font-size: 1.1rem;
-  }
-  .card-blurb {
-    display: block;
-    margin-top: 0.25rem;
-    font-size: 0.9rem;
-    color: var(--color-text);
   }
 </style>
