@@ -1,7 +1,6 @@
 ---
 title: "Mom's Weight Watcher Potatoes"
 description: "Easy and delicious!"
-yield: "Serves XX"
 categories:
   - Side Dishes
 source:
