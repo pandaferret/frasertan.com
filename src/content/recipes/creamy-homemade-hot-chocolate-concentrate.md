@@ -23,7 +23,7 @@ source:
 - 1/2 to 1 cup cream
 - Milk, for serving
 
-## Instructions
+## Directions
 
 1. In a small saucepan, combine the sugar, cocoa powder and salt. Whisk in the boiling water. Place over medium heat and bring to a simmer, stirring constantly to prevent scorching. Simmer for 2 minutes.
 2. Off heat, stir in the vanilla and the cream.

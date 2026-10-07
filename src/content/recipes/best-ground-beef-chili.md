@@ -13,31 +13,31 @@ source:
 
 ## Ingredients
 
-2 pounds 85 percent lean ground beef
-2 tablespoons plus 2 cups water
-Salt and pepper
-¾ teaspoon baking soda
-6 dried ancho chiles, stemmed, seeded, and torn into 1-inch pieces
-1 ounce tortilla chips, crushed (¼ cup)
-2 tablespoons ground cumin
-1 tablespoon paprika
-1 tablespoon garlic powder
-1 tablespoon ground coriander
-2 teaspoons dried oregano
-½ teaspoon dried thyme
-1 (14.5-ounce) can whole peeled tomatoes
-1 tablespoon vegetable oil
-1 onion, chopped fine
-3 garlic cloves, minced
-1—2 teaspoons minced canned chipotle chiles in adobo sauce
-1 (15-ounce) can pinto beans
-2 teaspoons sugar
-2 tablespoons cider vinegar
-Lime wedges
-Coarsely chopped cilantro
-Chopped red onion
+- 2 pounds 85 percent lean ground beef
+- 2 tablespoons plus 2 cups water
+- Salt and pepper
+- ¾ teaspoon baking soda
+- 6 dried ancho chiles, stemmed, seeded, and torn into 1-inch pieces
+- 1 ounce tortilla chips, crushed (¼ cup)
+- 2 tablespoons ground cumin
+- 1 tablespoon paprika
+- 1 tablespoon garlic powder
+- 1 tablespoon ground coriander
+- 2 teaspoons dried oregano
+- ½ teaspoon dried thyme
+- 1 (14.5-ounce) can whole peeled tomatoes
+- 1 tablespoon vegetable oil
+- 1 onion, chopped fine
+- 3 garlic cloves, minced
+- 1—2 teaspoons minced canned chipotle chiles in adobo sauce
+- 1 (15-ounce) can pinto beans
+- 2 teaspoons sugar
+- 2 tablespoons cider vinegar
+- Lime wedges
+- Coarsely chopped cilantro
+- Chopped red onion
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to lower-middle position and heat oven to 275 degrees. Toss beef with 2 tablespoons water, 1 1/2 teaspoons salt, and baking soda in bowl until thoroughly combined. Set aside for 20 minutes.
 

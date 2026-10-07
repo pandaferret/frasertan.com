@@ -37,7 +37,7 @@ source:
 
 - 14-inch wok (or a 12-inch nonstick or carbon-steel skillet) with a tight-fitting lid
 
-## Instructions
+## Directions
 
 1. Whisk 1 teaspoon vegetable oil, 1 teaspoon Shaoxing wine, 2 teaspoons oyster sauce, soy sauce, cornstarch, sesame oil, and 1/4 teaspoon white pepper together in a medium bowl. Slice pork tenderloin crosswise 1/4 inch thick, then cut each slice into 1/4-inch-wide strips. Add pork to marinade and stir well to combine. Cover and refrigerate for 30 minutes or up to 2 hours. Prepare the other ingredients while the pork marinates.
 2. Combine remaining 4 teaspoons Shaoxing wine and 4 teaspoons oyster sauce in a small bowl and set aside.

@@ -4,25 +4,25 @@ description: "from Cook's Illustrated. Their favorite brand of rice noodles are 
 categories:
   - Main Dishes
 source:
-  name: "Cook's Illustrated; You can also use regular broccoli in place of broccollini."
+  name: "Cook's Illustrated"
 ---
 
 ## Ingredients
 
-2 (6 ounce) boneless skinless chicken breasts, trimmed and cut against the grain into 1/4" thick strips
-8 ounces wide (1/4") rice noodles
-1/4 cup vegetable oil
-1/4 cup oyster sauce
-1 tablespoon plus 2 teaspoons soy sauce
-2 tablespoons packed dark brown sugar
-1 tablespoon white vinegar
-1 teaspoon molasses
-1 teaspoon fish sauce
-3 garlic cloves, sliced thin
-3 large eggs, lightly scrambled
-10 ounces broccolini, florets cut into 1" pieces, stalks cut on the bias into 1/2" pieces
+- 2 (6 ounce) boneless skinless chicken breasts, trimmed and cut against the grain into 1/4" thick strips
+- 8 ounces wide (1/4") rice noodles
+- 1/4 cup vegetable oil
+- 1/4 cup oyster sauce
+- 1 tablespoon plus 2 teaspoons soy sauce
+- 2 tablespoons packed dark brown sugar
+- 1 tablespoon white vinegar
+- 1 teaspoon molasses
+- 1 teaspoon fish sauce
+- 3 garlic cloves, sliced thin
+- 3 large eggs, lightly scrambled
+- 10 ounces broccolini, florets cut into 1" pieces, stalks cut on the bias into 1/2" pieces
 
-## Instructions
+## Directions
 
 1. Bring 6 cups of water to a boil. Place the noodles in a large bowl. Pour the boiling water over the noodles. Stir, then soak until noodles are almost tender, about 8 minutes, stirring once halfway through. Drain and rinse with cold water. Drain well and toss with 2 teaspoons oil.
 
@@ -33,3 +33,7 @@ source:
 4. Heat 2 teaspoons oil in the now empty skillet until smoking. Add broccolini and 2 tablespoons sauce and toss to coat. Cover skillet and cook for 2 minutes, stirring once halfway through cooking. Remove lid and continue to cook until broccolini is crisp and very brown in spots, 2 to 3 minutes, stirring once halfway through cooking. Transfer broccolini to bowl with chicken and egg.
 
 5. Heat 2 teaspoons oil in now empty skillet until smoking. Add half of the noodles and 2 tablespoons sauce and toss to coat. Cook until noodles are starting to brown in spots, about 2 minutes, stirring once about halfway through cooking. Transfer noodles to bowl. Repeat with remaining noodles and sauce. Add back the contents of the bowl to skillet and toss to combine. Cook without stirring until everything is warmed through, 1 to 2 minutes. Transfer to platter and serve immediately.
+
+## Notes
+
+- You can also use regular broccoli in place of broccollini.

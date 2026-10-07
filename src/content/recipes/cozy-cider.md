@@ -11,12 +11,12 @@ source:
 
 ## Ingredients
 
-6 cups unfiltered sweet cider
-12 allspice berries
-12 whole cloves
-2 sticks cinnamon, broken into pieces
-6 tablespoons bourbon (optional)
+- 6 cups unfiltered sweet cider
+- 12 allspice berries
+- 12 whole cloves
+- 2 sticks cinnamon, broken into pieces
+- 6 tablespoons bourbon (optional)
 
-## Instructions
+## Directions
 
-Place all ingredients but the bourbon in a saucepan and heat over medium heat until the mixture is just below a boil. Cover, remove from the heat and let steep 5 minutes. At that point, you will notice that the allspice and cloves have floated to the top; remove and discard them. Pour a tablespoon of bourbon, if desired, into each of six mugs and pour the cider mixture over it. Spoon a few cinnamon pieces into each mug, and serve immediately.
+1. Place all ingredients but the bourbon in a saucepan and heat over medium heat until the mixture is just below a boil. Cover, remove from the heat and let steep 5 minutes. At that point, you will notice that the allspice and cloves have floated to the top; remove and discard them. Pour a tablespoon of bourbon, if desired, into each of six mugs and pour the cider mixture over it. Spoon a few cinnamon pieces into each mug, and serve immediately.

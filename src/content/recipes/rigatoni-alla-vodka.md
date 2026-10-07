@@ -11,33 +11,27 @@ source:
 
 ## Ingredients
 
-Kosher salt
-1 medium onion, diced
-4 garlic cloves, minced
-4 oz. Parmesan cheese, grated
-2 Tbsp. extra-virgin olive oil, plus more for drizzling
-1 4.5-oz. tube double-concentrated tomato paste
-½ tsp. crushed red pepper flakes
-2 oz. vodka
-¾ cup heavy cream
-1 lb. rigatoni
-Basil leaves (for serving)
+- Kosher salt
+- 1 medium onion, diced
+- 4 garlic cloves, minced
+- 4 oz. Parmesan cheese, grated
+- 2 Tbsp. extra-virgin olive oil, plus more for drizzling
+- 1 4.5-oz. tube double-concentrated tomato paste
+- ½ tsp. crushed red pepper flakes
+- 2 oz. vodka
+- ¾ cup heavy cream
+- 1 lb. rigatoni
+- Basil leaves (for serving)
 
-## Instructions
+## Directions
 
-Bring a pot of water seasoned generously with salt to a boil. Add the rigatoni and cook until al dente, saving 1 cup of the water.
-
-Meanwhile, heat 2 tbsp olive oil in a Dutch oven over medium heat. Add the onion and garlic and cook until the onion is just browning around the edges, 5 to 7 minutes.
-
-Add the entire 4.5 oz tube of tomato paste and the red pepper flakes. Continue to cook until the paste turns dark red and is starting to brown on the bottom of the pot.
-
-Add the vodka and scrape to deglaze the bottom of the pot. Reduce the heat to low.
-
-Thin the cream with 1/4 cup of the water from the rigatoni. Slowly add the warmed cream to the pot and stir to incorporate. Stir constantly until a smooth sauce forms. Remove from the heat.
-
-Add in the rigatoni; use a spider skimmer to pull the rigatoni directly from the pot, along with any remaining water, and add directly to the sauce. Add 1/2 cup of the pasta water to the sauce, along with half the Parmesan cheese and stir to combine. If the sauce is too thick, thin with additional past water.
-
-Season with salt and pepper to taste. To serve, drizzle with a little olive oil and top with remaining Parmesan and basil, if desired.
+1. Bring a pot of water seasoned generously with salt to a boil. Add the rigatoni and cook until al dente, saving 1 cup of the water.
+2. Meanwhile, heat 2 tbsp olive oil in a Dutch oven over medium heat. Add the onion and garlic and cook until the onion is just browning around the edges, 5 to 7 minutes.
+3. Add the entire 4.5 oz tube of tomato paste and the red pepper flakes. Continue to cook until the paste turns dark red and is starting to brown on the bottom of the pot.
+4. Add the vodka and scrape to deglaze the bottom of the pot. Reduce the heat to low.
+5. Thin the cream with 1/4 cup of the water from the rigatoni. Slowly add the warmed cream to the pot and stir to incorporate. Stir constantly until a smooth sauce forms. Remove from the heat.
+6. Add in the rigatoni; use a spider skimmer to pull the rigatoni directly from the pot, along with any remaining water, and add directly to the sauce. Add 1/2 cup of the pasta water to the sauce, along with half the Parmesan cheese and stir to combine. If the sauce is too thick, thin with additional past water.
+7. Season with salt and pepper to taste. To serve, drizzle with a little olive oil and top with remaining Parmesan and basil, if desired.
 
 ## Notes
 

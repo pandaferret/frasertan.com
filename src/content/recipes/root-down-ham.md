@@ -23,7 +23,7 @@ source:
 - Sous vide (optional)
 - Roasting pan with rack (or cookie rack and cookie sheet)
 
-## Instructions
+## Directions
 
 1. Cook the ham in a sous vide cooker set to 140°F for at least 3 and up to 8 hours. Remove the ham from the sous vide and place on a rack set in a roasting pan.
 2. Meanwhile, combine the orange juice and the sugar in a small saucepan and simmer over medium heat until thickened.

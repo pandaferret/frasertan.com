@@ -16,17 +16,19 @@ source:
 
 ## Ingredients
 
-4 cups apple cider
-1/2 teaspoon cinnamon
-1 teaspoon table salt
-8 tablespoons (1 stick) unsalted butter, cut into 1/2" chunks
-1 1/2 cups sugar
-1/3 cup heavy cream
-neutral oil for the knife
-Items:
-Candy thermometer
+- 4 cups apple cider
+- 1/2 teaspoon cinnamon
+- 1 teaspoon table salt
+- 8 tablespoons (1 stick) unsalted butter, cut into 1/2" chunks
+- 1 1/2 cups sugar
+- 1/3 cup heavy cream
+- neutral oil for the knife
 
-## Instructions
+Items:
+
+- Candy thermometer
+
+## Directions
 
 1. Boil the apple cider until it reduced to 1/2 to 1/3 cup in volume and has become thick and syrupy. This usually takes 30 to 40 minutes. Pay closer attention to the syrup as it reduces - it can burn. Set aside while making caramel.
 

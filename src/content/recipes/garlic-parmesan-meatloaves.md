@@ -29,7 +29,7 @@ source:
 - 1/4 cup marinara sauce
 - 1/4 cup shredded mozzarella cheese
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.
 2. In a large bowl, combine the ground chicken, parmesan, breadcrumbs, garlic, egg, milk, parsley, oregano, onion powder, salt, and pepper. Mix until just combined—avoid overmixing for a tender texture.

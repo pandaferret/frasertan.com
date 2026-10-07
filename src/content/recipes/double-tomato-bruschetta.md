@@ -12,18 +12,18 @@ dietary:
 
 ## Ingredients
 
-6 roma tomatoes, chopped
-0.5 c sun dried tomatoes packed in oil, chopped
-3 cloves garlic, minced
-0.25 c olive oil (or oil from tomatoes)
-2 tbsp balsamic vinegar
-0.25 c fresh basil, stems removed, julienned
-0.25 tsp salt
-0.25 tsp pepper
-1 baguette
-2 c shredded mozzarella
+- 6 roma tomatoes, chopped
+- 0.5 c sun dried tomatoes packed in oil, chopped
+- 3 cloves garlic, minced
+- 0.25 c olive oil (or oil from tomatoes)
+- 2 tbsp balsamic vinegar
+- 0.25 c fresh basil, stems removed, julienned
+- 0.25 tsp salt
+- 0.25 tsp pepper
+- 1 baguette
+- 2 c shredded mozzarella
 
-## Instructions
+## Directions
 
 1. Preheat oven to broiler setting.
 

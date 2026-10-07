@@ -13,16 +13,16 @@ source:
 
 ## Ingredients
 
-6 ounces bittersweet chocolate or semi-sweet chocolate, chopped coarse
-4 tablespoons unsalted butter, cut into 4 sections
-pinch table salt
-1 teaspoon vanilla extract
-2 tablespoons strong coffee
-4 large eggs, separated, yolks kept individually
-2 tablespoons granulated sugar
-1/2 cup heavy cream, plus extra for garnish
+- 6 ounces bittersweet chocolate or semi-sweet chocolate, chopped coarse
+- 4 tablespoons unsalted butter, cut into 4 sections
+- pinch table salt
+- 1 teaspoon vanilla extract
+- 2 tablespoons strong coffee
+- 4 large eggs, separated, yolks kept individually
+- 2 tablespoons granulated sugar
+- 1/2 cup heavy cream, plus extra for garnish
 
-## Instructions
+## Directions
 
 1. Melt chocolate any of the following three ways: in medium bowl set over large saucepan of barely simmering water; in uncovered Pyrex measuring cup microwaved at 50 percent heat for 3 minutes, stirring once at 2 minute mark; or in ovenproof bowl set in 350-degree oven for 15 minutes. Whisk butter into melted chocolate, 1 tablespoon at a time; stir in salt, vanilla, and coffee until completely incorporated. Whisk in yolks, one at a time, making sure that each is fully incorporated before adding the next; set chocolate mixture aside.
 

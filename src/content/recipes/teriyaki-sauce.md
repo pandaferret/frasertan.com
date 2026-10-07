@@ -18,7 +18,7 @@ source:
 - 1 1/2 tbsp cornstarch
 - 3 tbsp room temperature water
 
-## Instructions
+## Directions
 
 1. Heat the sake, mirin, soy sauce, and sugar in a medium saucepan over medium high heat until it just comes to a boil.
 2. Add the garlic and ginger, if using.

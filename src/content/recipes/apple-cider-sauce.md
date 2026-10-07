@@ -9,18 +9,18 @@ source:
 
 ## Ingredients
 
-1½ cups apple cider
-1 cup low-sodium chicken broth
-2 teaspoons cider vinegar
-1 cinnamon stick
-4 tablespoons unsalted butter, cut into 4 pieces
-2 large shallots, minced (about ½ cup)
-1 tart apple, such as Granny Smith, cored, peeled, and diced small
-¼ cup Calvados or apple-flavored brandy
-1 teaspoon minced fresh thyme leaves
-Salt and ground black pepper
+- 1½ cups apple cider
+- 1 cup low-sodium chicken broth
+- 2 teaspoons cider vinegar
+- 1 cinnamon stick
+- 4 tablespoons unsalted butter, cut into 4 pieces
+- 2 large shallots, minced (about ½ cup)
+- 1 tart apple, such as Granny Smith, cored, peeled, and diced small
+- ¼ cup Calvados or apple-flavored brandy
+- 1 teaspoon minced fresh thyme leaves
+- Salt and ground black pepper
 
-## Instructions
+## Directions
 
 1. Combine cider, broth, vinegar, and cinnamon stick in medium saucepan; simmer over medium-high heat until liquid is reduced to 1 cup, 10 to 12 minutes. Remove cinnamon stick and discard. Set sauce aside until pork is cooked.
 

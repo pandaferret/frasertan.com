@@ -12,30 +12,33 @@ tags:
 ## Ingredients
 
 Biscuits:
-1 cup unbleached all purpose flour
-1 cup plain cake flour
-2 teaspoons baking powder
-1/4 teaspoon baking soda
-1 teaspoon sugar
-1/2 teaspoon salt
-8 tablespoons (1 stick) unsalted butter, cold, cut into 1/4" pieces
-3/4 cup cold buttermilk, plus 1 to 2 tablespoons if needed
-Filling:
-1 1/2 pounds boneless skinless chicken breasts, each cut into three pieces
-4 cups low sodium chicken broth
-1 1/2 tablespoons vegetable oil
-1 medium onion, chopped fine
-3 medium carrots, peeled and cut crosswise 1/4" thick
-2 small celery ribs, cut crosswise 1/4" thick
-4 tablespoons unsalted butter
-1/2 cup unbleached all purpose flour
-1 1/2 cups milk
-1/2 teaspoon dried thyme
-3 tablespoons dry sherry
-3/4 cup frozen peas, thawed
-3 tablespoons fresh parsley, minced
 
-## Instructions
+- 1 cup unbleached all purpose flour
+- 1 cup plain cake flour
+- 2 teaspoons baking powder
+- 1/4 teaspoon baking soda
+- 1 teaspoon sugar
+- 1/2 teaspoon salt
+- 8 tablespoons (1 stick) unsalted butter, cold, cut into 1/4" pieces
+- 3/4 cup cold buttermilk, plus 1 to 2 tablespoons if needed
+
+Filling:
+
+- 1 1/2 pounds boneless skinless chicken breasts, each cut into three pieces
+- 4 cups low sodium chicken broth
+- 1 1/2 tablespoons vegetable oil
+- 1 medium onion, chopped fine
+- 3 medium carrots, peeled and cut crosswise 1/4" thick
+- 2 small celery ribs, cut crosswise 1/4" thick
+- 4 tablespoons unsalted butter
+- 1/2 cup unbleached all purpose flour
+- 1 1/2 cups milk
+- 1/2 teaspoon dried thyme
+- 3 tablespoons dry sherry
+- 3/4 cup frozen peas, thawed
+- 3 tablespoons fresh parsley, minced
+
+## Directions
 
 Biscuits: 1. Pulse dry ingredients together in a food processor fitted with a metal blade. Add the butter and pulse until the mixture resembles coarse cornmeal with a few slightly larger lumps.
 
@@ -54,8 +57,6 @@ Assembly and Baking: 5. Pour the mixture into a 9" by 13" baking dish. Top with 
 ## Notes
 
 - You can make the filling a day ahead and keep it in the fridge overnight; reheat it before topping and baking. The biscuits need a warm filling to bake fully.
-- The biscuits need a warm filling to bake fully.
 - You can also make individual pot pies in ramekins. Cut the dough rounds to just cover the ramekins and freeze, well wrapped in plastic. Portion the filling in plastic Ziploc bags and freeze. To make, slowly thaw the filling (to prevent the roux from breaking) and heat. Pour into ramekin, top with biscuit and bake 20 to 24 minutes at 400 degrees.
-- If you don't have a food processor, make the biscuits as follows:Mix dry ingredients in a bowl with whisk. Chop _frozen_ butter into small shards. Mix butter into dry ingredients with whisk. Add buttermilk and mix with a fork until mostly dry, Knead briefly with hands then roll out and punch biscuits. Be careful not to warm the dough too much with your hands.
-- Mix dry ingredients in a bowl with whisk. Chop _frozen_ butter into small shards. Mix butter into dry ingredients with whisk. Add buttermilk and mix with a fork until mostly dry, Knead briefly with hands then roll out and punch biscuits. Be careful not to warm the dough too much with your hands.
+- If you don't have a food processor, make the biscuits as follows: Mix dry ingredients in a bowl with whisk. Chop _frozen_ butter into small shards. Mix butter into dry ingredients with whisk. Add buttermilk and mix with a fork until mostly dry, Knead briefly with hands then roll out and punch biscuits. Be careful not to warm the dough too much with your hands.
 - OK, 8 is not nearly enough biscuits - you can 1.5X the recipe to make 12, or double to make 16 and freeze 4 for next time!

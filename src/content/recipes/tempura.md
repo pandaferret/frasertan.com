@@ -36,7 +36,7 @@ For frying:
 - Temperature probe
 - Spider skimmer
 
-## Instructions
+## Directions
 
 1. Prep all the veggies and set up a station near the stove.
 2. Heat the oil in a wide and shallow saucepan to around 350°F. You want roughly 3" depth of oil, but the sides of the pan should be high enough to contain splatters. Wider is better than taller.

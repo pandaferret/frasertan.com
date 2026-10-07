@@ -13,24 +13,24 @@ dietary:
 
 ## Ingredients
 
-2 15 ounce cans black-eyed peas, drained
-2 tablespoons canola oil
-1 small yellow onion, minced
-1 teaspoon coriander, seeds, finely ground
-1/2 teaspoon finely grated garlic, about 1 clove
-1/2 teaspoon freshly grated ginger, about 1" piece
-1/2 teaspoon ground turmeric
-1/2 teaspoon cayenne
-1/2 teaspoon cumin seeds, finely ground
-1/4 cup minced tomato, about 1 small tomato (Romas are nice)
-1 cup hot water
-1/2 teaspoon salt, or to taste
-1/2 teaspoon sugar
-1 cup coconut milk
-2 tablespoons minced cilantro leaves
-1 tablespoon lemon juice
+- 2 15 ounce cans black-eyed peas, drained
+- 2 tablespoons canola oil
+- 1 small yellow onion, minced
+- 1 teaspoon coriander, seeds, finely ground
+- 1/2 teaspoon finely grated garlic, about 1 clove
+- 1/2 teaspoon freshly grated ginger, about 1" piece
+- 1/2 teaspoon ground turmeric
+- 1/2 teaspoon cayenne
+- 1/2 teaspoon cumin seeds, finely ground
+- 1/4 cup minced tomato, about 1 small tomato (Romas are nice)
+- 1 cup hot water
+- 1/2 teaspoon salt, or to taste
+- 1/2 teaspoon sugar
+- 1 cup coconut milk
+- 2 tablespoons minced cilantro leaves
+- 1 tablespoon lemon juice
 
-## Instructions
+## Directions
 
 1. In a large saucepan, heat the oil over medium-low heat and saute the onion until it turns dark brown, about 8 minutes. Add the coriander, garlic, ginger, turmeric, cayenne and cumin and stir for 2 minutes. Add the tomato and stir over low heat until it disintegrates.
 

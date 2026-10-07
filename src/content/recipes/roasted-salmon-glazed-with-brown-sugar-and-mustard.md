@@ -14,18 +14,14 @@ source:
 
 ## Ingredients
 
-Salmon fillets, preferably wild or farmed organically
-Dijon mustard
-Brown sugar
-Salt and black pepper
-Equipment
+- Salmon fillets, preferably wild or farmed organically
+- Dijon mustard
+- Brown sugar
+- Salt and black pepper
 
-## Instructions
+## Directions
 
-Step 1 Heat your oven to 400 degrees.
-
-Step 2 Make a mixture of Dijon mustard and brown sugar to the degree of spicy-sweetness that pleases you. Salt and pepper the salmon fillets.
-
-Step 3 Place the salmon fillets skin-side down on a lightly oiled, foil-lined baking sheet. Slather the tops of the fillets with the mustard and brown sugar glaze and slide them into the top half of your oven. Roast for about 12 minutes, then serve.
-
-Alternatively, you can broil the salmon for 6 to 8 minutes.
+1. Step 1 Heat your oven to 400 degrees.
+2. Step 2 Make a mixture of Dijon mustard and brown sugar to the degree of spicy-sweetness that pleases you. Salt and pepper the salmon fillets.
+3. Step 3 Place the salmon fillets skin-side down on a lightly oiled, foil-lined baking sheet. Slather the tops of the fillets with the mustard and brown sugar glaze and slide them into the top half of your oven. Roast for about 12 minutes, then serve.
+4. Alternatively, you can broil the salmon for 6 to 8 minutes.

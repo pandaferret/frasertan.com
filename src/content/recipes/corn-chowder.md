@@ -11,19 +11,19 @@ tags:
 
 ## Ingredients
 
-8 ears corn, husks and silk removed
-3 tbsp unsalted butter
-1 onion, chopped fine
-4 slices bacon
-2 tsp minced fresh thyme
-1/4 cup flour
-5 cups water
-3/4 lb red potatoes, cut into 1/2 inch pieces
-1 cup half-and-half
-sugar
-3 tbsp fresh chopped basil
+- 8 ears corn, husks and silk removed
+- 3 tbsp unsalted butter
+- 1 onion, chopped fine
+- 4 slices bacon
+- 2 tsp minced fresh thyme
+- 1/4 cup flour
+- 5 cups water
+- 3/4 lb red potatoes, cut into 1/2 inch pieces
+- 1 cup half-and-half
+- sugar
+- 3 tbsp fresh chopped basil
 
-## Instructions
+## Directions
 
 1. Using chef's knife or corn stripper, cut the kernels from the corn cobs; transfer to a bowl and set aside. Holding cobs over another bowl, use the back of a butter knife to scrape off remaining pulp. Transfer pulp to a clean kitchen towel set in a medium bowl. Wrap towel tightly around pulp and squeeze tightly until dry. Discard pulp in towel and set corn juice aside. (You should have about 2/3 cup of juice.)
 

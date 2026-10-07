@@ -27,7 +27,7 @@ source:
 
 - Ice cream maker
 
-## Instructions
+## Directions
 
 1. In a cold bowl, whisk together milk and sugar until sugar is dissolved. Stir in heavy cream and vanilla.
 2. Pour mixture into the ice cream maker's freezer bowl. Let it churn for about 20 minutes (or according to your machine's instructions).

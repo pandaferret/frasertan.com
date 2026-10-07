@@ -12,12 +12,12 @@ dietary:
 
 ## Ingredients
 
-2 tbsp (or more) olive oil or butter
-1 medium onion, chopped fine
-1/2 cup dry white wine
-1 cup arborio rice
-4 cups chicken broth
+- 2 tbsp (or more) olive oil or butter
+- 1 medium onion, chopped fine
+- 1/2 cup dry white wine
+- 1 cup arborio rice
+- 4 cups chicken broth
 
-## Instructions
+## Directions
 
-Heat the oil in a large flat-bottomed non-stickpan like a skillet over medium to medium low heat (4 or 5). Add the onion and cook until softened and translucent. Add the rice and stir for a few minutes to let the rice "crack". Heat the broth to just below a simmer in a saucepan. Add the wine to the rice and stir. Let simmer gently until wine is absorbed by the rice. Add broth a ladleful at a time, stirring after adding, and keep the rice at a gently simmer until the liquid is absorbed. Continue until all the broth is absorbed. The rice should be al dente and have a creamy sauce. Sprinkle with some parmesan and enjoy!
+1. Heat the oil in a large flat-bottomed non-stickpan like a skillet over medium to medium low heat (4 or 5). Add the onion and cook until softened and translucent. Add the rice and stir for a few minutes to let the rice "crack". Heat the broth to just below a simmer in a saucepan. Add the wine to the rice and stir. Let simmer gently until wine is absorbed by the rice. Add broth a ladleful at a time, stirring after adding, and keep the rice at a gently simmer until the liquid is absorbed. Continue until all the broth is absorbed. The rice should be al dente and have a creamy sauce. Sprinkle with some parmesan and enjoy!

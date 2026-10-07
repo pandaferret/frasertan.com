@@ -8,14 +8,14 @@ source:
 
 ## Ingredients
 
-1/4 cup soy sauce
-2 tablespoons rice vinegar
-2 tablespoons mirin
-2 tablespoons water
-1 teaspoon chili oil, (optional)
-1/2 teaspoon toasted sesame oil
-1 medium scallion, white and green parts, minced
+- 1/4 cup soy sauce
+- 2 tablespoons rice vinegar
+- 2 tablespoons mirin
+- 2 tablespoons water
+- 1 teaspoon chili oil, (optional)
+- 1/2 teaspoon toasted sesame oil
+- 1 medium scallion, white and green parts, minced
 
-## Instructions
+## Directions
 
-Combine all ingredients in bowl and serve.
+1. Combine all ingredients in bowl and serve.

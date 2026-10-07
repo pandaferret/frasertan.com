@@ -10,9 +10,9 @@ dietary:
 
 ## Ingredients
 
-12 eggs
+- 12 eggs
 
-## Instructions
+## Directions
 
 1. Place eggs in the bottom of a large saucepan in a single layer. Cover with water plus one inch. Bring water to a boil, then cover, remove from heat and let sit for 10 minutes. Dunk eggs in cold water and shell. Cut in half lengthwise and use a spoon to remove yolks to a large bowl.
 

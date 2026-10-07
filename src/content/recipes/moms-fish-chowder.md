@@ -21,7 +21,7 @@ source:
 - 1 can evaporated milk
 - Salt and pepper
 
-## Instructions
+## Directions
 
 1. In a large Dutch oven over medium heat, sauté the onions in a generous amount of butter until translucent. If using carrots, add to the onions and sauté until tender.
 2. Add the diced potatoes and cover with water (about 4 cups). Bring to a boil, then reduce to a simmer until the potatoes are tender, roughly 15 minutes.

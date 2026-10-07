@@ -12,22 +12,22 @@ source:
 
 ## Ingredients
 
-8 ounces (1 cup) whole-milk ricotta cheese
-2 ounces Parmesan cheese, grated (1 cup)
-1 teaspoon grated lemon zest
-Salt and pepper
-1 tablespoon extra-virgin olive oil
-1½ pounds butternut squash, peeled, seeded, and cut into ½-inch pieces (5 cups)
-1 pound leeks, white and light green parts only, halved lengthwise, sliced thin, and washed thoroughly
-2 garlic cloves, minced
-Pinch cayenne pepper
-¼ cup dry white wine
-4 cups water
-1 cup heavy cream
-12 ounces jumbo pasta shells
-2 tablespoons chopped fresh basil
+- 8 ounces (1 cup) whole-milk ricotta cheese
+- 2 ounces Parmesan cheese, grated (1 cup)
+- 1 teaspoon grated lemon zest
+- Salt and pepper
+- 1 tablespoon extra-virgin olive oil
+- 1½ pounds butternut squash, peeled, seeded, and cut into ½-inch pieces (5 cups)
+- 1 pound leeks, white and light green parts only, halved lengthwise, sliced thin, and washed thoroughly
+- 2 garlic cloves, minced
+- Pinch cayenne pepper
+- ¼ cup dry white wine
+- 4 cups water
+- 1 cup heavy cream
+- 12 ounces jumbo pasta shells
+- 2 tablespoons chopped fresh basil
 
-## Instructions
+## Directions
 
 1. Heat oil in 12-inch oven-safe nonstick skillet over medium heat until shimmering. Add squash, leeks, and ½ teaspoon salt and cook until leeks are softened, about 5 minutes. Stir in garlic and cayenne and cook until fragrant, about 30 seconds. Add wine and cook until almost completely evaporated, about 1 minute.
 

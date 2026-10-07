@@ -13,25 +13,18 @@ dietary:
 
 ## Ingredients
 
-6-7 small stone fruit (pluot size or smaller)
+- 6-7 small stone fruit (pluot size or smaller)
 
-## Instructions
+## Directions
 
-Whisk the farmer's cheese, semolina flour, egg and melted butter together until they come together to form a sticky shaggy dough. You can use the whisk attachment on a stand mixer. Let the dough stand for an hour uncovered.
-
-Meanwhile, toast the breadcrumbs with sugar in a little melted butter until golden brown. Set aside to cool.
-
-Clean and dry the fruit.
-
-Set a few pots of water to boil. You'll want deep wide pots, so that each knodel will have room to "dance about" as it cooks.
-
-When the dough is ready, take a piece of fruit and wrap it bit by bit in a coating of dough at least 0.25" thick. Any thinner, we've found, and the dough breaks while cooking. Dust the knodel in all purpose flour to make it not sticky and set aside. Repeat until all fruit has been enrobed. If desired, you can freeze the knodel for later; freeze individually on a plate, then wrap well for long term storage.
-
-Cook knodel in boiling water for about 20 minutes. Do not put too many knodel in a single pot; they should not be crowded, and the knodel should have room to move about gently. If boiling from frozen, add 5-10 minutes to the cooking time. When the dumplings float, cook for an additional 5 minutes or so.
-
-Remove the dumplings from the water with a slotted spoon to let the water drain, then roll in breadcrumbs. Serve warm with sugar on the side.
-
-To eat, split each knodel down the middle and remove the pit of the fruit. Sprinkle with sugar to taste.
+1. Whisk the farmer's cheese, semolina flour, egg and melted butter together until they come together to form a sticky shaggy dough. You can use the whisk attachment on a stand mixer. Let the dough stand for an hour uncovered.
+2. Meanwhile, toast the breadcrumbs with sugar in a little melted butter until golden brown. Set aside to cool.
+3. Clean and dry the fruit.
+4. Set a few pots of water to boil. You'll want deep wide pots, so that each knodel will have room to "dance about" as it cooks.
+5. When the dough is ready, take a piece of fruit and wrap it bit by bit in a coating of dough at least 0.25" thick. Any thinner, we've found, and the dough breaks while cooking. Dust the knodel in all purpose flour to make it not sticky and set aside. Repeat until all fruit has been enrobed. If desired, you can freeze the knodel for later; freeze individually on a plate, then wrap well for long term storage.
+6. Cook knodel in boiling water for about 20 minutes. Do not put too many knodel in a single pot; they should not be crowded, and the knodel should have room to move about gently. If boiling from frozen, add 5-10 minutes to the cooking time. When the dumplings float, cook for an additional 5 minutes or so.
+7. Remove the dumplings from the water with a slotted spoon to let the water drain, then roll in breadcrumbs. Serve warm with sugar on the side.
+8. To eat, split each knodel down the middle and remove the pit of the fruit. Sprinkle with sugar to taste.
 
 ## Notes
 

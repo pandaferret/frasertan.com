@@ -34,7 +34,7 @@ source:
 - 6 to 8 ounces (1 1/2 to 2 cups) coarsely grated Monterey Jack or pepper jack cheese
 - Tortilla chips
 
-## Instructions
+## Directions
 
 1. Heat your largest ovenproof skillet or sauté pan over medium-high heat. Once hot, add oil, and once the oil is hot, add the onion, garlic, jalapeño, and bell pepper and cook until the ingredients begin to soften, 4 to 5 minutes. Add the cumin, first 2 teaspoons chili powder, and tomato paste, and cook for 1 minute. Add diced tomatoes and let simmer for 1 minute, then add the beans and simmer for 2 to 3 minutes. Taste the mixture and add salt; Deb needs between 2 to 3 teaspoons of kosher salt (Diamond brand) to get the level right but adjust it to your taste. Add the last 1 teaspoon chili powder if needed for your desired heat level. Add the corn and spinach and stir until the spinach has wilted and everything is warm. Taste for seasoning again and adjust as needed. Squeeze juice of half a lime over.
 2. Meanwhile, heat your oven's broiler, and if it doesn't have a broiler, heat it as hot as it goes.

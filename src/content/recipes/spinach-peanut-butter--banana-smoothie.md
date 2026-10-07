@@ -7,18 +7,20 @@ categories:
 
 ## Ingredients
 
-1 cup plain kefir
-1 tablespoon peanut butter
-1 cup spinach
-1 frozen banana
-1 tablespoon honey (optional)
-protein powder (optional)
-Equipment
-Blender
+- 1 cup plain kefir
+- 1 tablespoon peanut butter
+- 1 cup spinach
+- 1 frozen banana
+- 1 tablespoon honey (optional)
+- protein powder (optional)
 
-## Instructions
+## Equipment
 
-Blend all ingredients until smooth.
+- Blender
+
+## Directions
+
+1. Blend all ingredients until smooth.
 
 ## Notes
 

@@ -24,6 +24,31 @@ const {
   source,
 } = Astro.props;
 
+// Friendly names for common recipe sites, used when a source has a URL but
+// no name. Anything else falls back to the site's domain.
+const siteNames: Record<string, string> = {
+  "smittenkitchen.com": "Smitten Kitchen",
+  "cooksillustrated.com": "Cook's Illustrated",
+  "cooking.nytimes.com": "NYT Cooking",
+  "americastestkitchen.com": "America's Test Kitchen",
+  "cookscountry.com": "Cook's Country",
+  "allrecipes.com": "Allrecipes",
+  "eatingwell.com": "EatingWell",
+  "bonappetit.com": "Bon Appétit",
+  "foodnetwork.com": "Food Network",
+  "washingtonpost.com": "The Washington Post",
+  "thekitchn.com": "The Kitchn",
+  "kingarthurbaking.com": "King Arthur Baking",
+  "food52.com": "Food52",
+  "seriouseats.com": "Serious Eats",
+  "youtube.com": "YouTube",
+};
+const sourceHost = source?.url
+  ? new URL(source.url).hostname.replace(/^www\./, "")
+  : undefined;
+const sourceLabel =
+  source?.name || (sourceHost && (siteNames[sourceHost] ?? sourceHost));
+
 const category = categories[0];
 const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
 const subcategory = subcategories?.[0];
@@ -74,7 +99,7 @@ const breadcrumbs = [
           Source:{" "}
           {source.url ? (
             <a href={source.url} target="_blank" rel="noopener">
-              {source.name || source.url}
+              {sourceLabel}
             </a>
           ) : (
             source.name

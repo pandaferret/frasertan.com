@@ -14,25 +14,28 @@ source:
 ## Ingredients
 
 For the pastry:
-1 1/4 cups all-purpose flour
-1/4 teaspoon salt
-8 tablespoons (1 stick) unsalted butter, cut into
-pieces
-1/4 cup sour cream
-2 teaspoons fresh lemon juice
-1/4 cup ice water
-For the filling:
-1 small butternut squash (about one pound)
-2 tablespoons olive oil
-1 to 2 tablespoons butter (if you have only non-stick, the smaller amount will do)
-1 large onion, halved and thinly sliced in half-moons
-1 teaspoon salt
-Pinch of sugar
-1/4 teaspoon cayenne, or to taste
-3/4 cup fontina cheese (about 2 1/2 ounces), grated or cut into small bits
-1 1/2 teaspoons chopped fresh sage leaves
 
-## Instructions
+- 1 1/4 cups all-purpose flour
+- 1/4 teaspoon salt
+- 8 tablespoons (1 stick) unsalted butter, cut into
+- pieces
+- 1/4 cup sour cream
+- 2 teaspoons fresh lemon juice
+- 1/4 cup ice water
+
+For the filling:
+
+- 1 small butternut squash (about one pound)
+- 2 tablespoons olive oil
+- 1 to 2 tablespoons butter (if you have only non-stick, the smaller amount will do)
+- 1 large onion, halved and thinly sliced in half-moons
+- 1 teaspoon salt
+- Pinch of sugar
+- 1/4 teaspoon cayenne, or to taste
+- 3/4 cup fontina cheese (about 2 1/2 ounces), grated or cut into small bits
+- 1 1/2 teaspoons chopped fresh sage leaves
+
+## Directions
 
 1. Make pastry: In a bowl, combine the flour and salt. Place the butter in another bowl. Place both bowls in the freezer for 1 hour. Remove the bowls from the freezer and make a well in the center of the flour. Add the butter to the well and, using a pastry blender, cut it in until the mixture resembles coarse meal. Make another well in the center. In a small bowl, whisk together the sour cream, lemon juice and water and add half of this mixture to the well. With your fingertips, mix in the liquid until large lumps form. Remove the large lumps and repeat with the remaining liquid and flour-butter mixture. Pat the lumps into a ball; do not overwork the dough. Cover with plastic wrap and refrigerate for 1 hour.
 

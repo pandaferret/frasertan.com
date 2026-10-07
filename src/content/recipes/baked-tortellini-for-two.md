@@ -7,22 +7,22 @@ categories:
 
 ## Ingredients
 
-3/4 cup panko bread crumbs
-4 teaspoons olive oil
-8 ounces dried tortellini
-2 slices bacon, diced
-2 shallots, minced
-3 garlic cloves, minced
-1 teaspoon minced fresh thyme
-2 tablespoons all-purpose flour
-1/4 cup white wine
-1 1/2 cups low-sodium chicken broth
-1/2 cup heavy cream
-1 ounce Parmesan cheese, grated (~ 1/2 cup)
-1/2 small head radicchio, cored and cut into 1/2" pieces
-1/2 cup frozen peas
+- 3/4 cup panko bread crumbs
+- 4 teaspoons olive oil
+- 8 ounces dried tortellini
+- 2 slices bacon, diced
+- 2 shallots, minced
+- 3 garlic cloves, minced
+- 1 teaspoon minced fresh thyme
+- 2 tablespoons all-purpose flour
+- 1/4 cup white wine
+- 1 1/2 cups low-sodium chicken broth
+- 1/2 cup heavy cream
+- 1 ounce Parmesan cheese, grated (~ 1/2 cup)
+- 1/2 small head radicchio, cored and cut into 1/2" pieces
+- 1/2 cup frozen peas
 
-## Instructions
+## Directions
 
 1. Stir together panko crumbs, 1 tablespoon olive oil and a pinch of salt in a bowl and set aside. Adjust oven rack to middle position and heat oven to 400°.
 

@@ -14,23 +14,18 @@ source:
 
 ## Ingredients
 
-1 whole chicken, 3 - 3.5 lbs, giblet packet removed
-salt and pepper
-water
+- 1 whole chicken, 3 - 3.5 lbs, giblet packet removed
+- salt and pepper
+- water
 
-## Instructions
+## Directions
 
-Pat the chicken dry. Place on a plate or small pan and generously season all sides with kosher salt, including inside the cavity. Place, uncovered, in the refrigerator for at least 8 and up to 24 hours.
-
-The next day, lower the rack to the lower third of the oven and preheat to 450°. Place the chicken in a Dutch oven or heavy pot and season generously with pepper.
-
-Roast, uncovered, for 35 to 40 minutes, until the chicken is golden brown.
-
-Transfer the chicken from the Dutch oven to the Instant Pot insert. Add in any juice and fat that has rendered during roasting. Add enough water to just cover the chicken. Set the slow cooker function high and cook for at least 8 hours. (When I did 12 hours the meat literally shredded from the bone.)
-
-Remove the chicken from the broth; pull off all the meat and save. Strain the broth and discard any solids. Optionally, you can also skim the fat and save it for future use (it is amazing never throw out chicken fat!).
-
-The meat and broth will keep refrigerated for up to 5 days; the broth can be stored frozen for a year.
+1. Pat the chicken dry. Place on a plate or small pan and generously season all sides with kosher salt, including inside the cavity. Place, uncovered, in the refrigerator for at least 8 and up to 24 hours.
+2. The next day, lower the rack to the lower third of the oven and preheat to 450°. Place the chicken in a Dutch oven or heavy pot and season generously with pepper.
+3. Roast, uncovered, for 35 to 40 minutes, until the chicken is golden brown.
+4. Transfer the chicken from the Dutch oven to the Instant Pot insert. Add in any juice and fat that has rendered during roasting. Add enough water to just cover the chicken. Set the slow cooker function high and cook for at least 8 hours. (When I did 12 hours the meat literally shredded from the bone.)
+5. Remove the chicken from the broth; pull off all the meat and save. Strain the broth and discard any solids. Optionally, you can also skim the fat and save it for future use (it is amazing never throw out chicken fat!).
+6. The meat and broth will keep refrigerated for up to 5 days; the broth can be stored frozen for a year.
 
 ## Notes
 

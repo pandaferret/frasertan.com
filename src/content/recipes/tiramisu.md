@@ -13,19 +13,19 @@ source:
 
 ## Ingredients
 
-2 ½ cups strong black coffee, room temperature
-1 ½ tablespoons instant espresso powder
-9 tablespoons dark rum
-6 large egg yolks
-⅔ cup sugar
-¼ teaspoon table salt
-1 ½ pounds mascarpone cheese
-¾ cup heavy cream (cold)
-14 ounces ladyfingers (42 to 60, depending on size)
-3½ tablespoons cocoa, preferably Dutch-processed
-¼ cup semisweet or bittersweet chocolate, grated (optional)
+- 2 ½ cups strong black coffee, room temperature
+- 1 ½ tablespoons instant espresso powder
+- 9 tablespoons dark rum
+- 6 large egg yolks
+- ⅔ cup sugar
+- ¼ teaspoon table salt
+- 1 ½ pounds mascarpone cheese
+- ¾ cup heavy cream (cold)
+- 14 ounces ladyfingers (42 to 60, depending on size)
+- 3½ tablespoons cocoa, preferably Dutch-processed
+- ¼ cup semisweet or bittersweet chocolate, grated (optional)
 
-## Instructions
+## Directions
 
 1. Stir coffee, espresso, and 5 tablespoons rum in wide bowl or baking dish until espresso dissolves; set aside.
 

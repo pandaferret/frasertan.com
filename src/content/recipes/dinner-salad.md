@@ -14,14 +14,14 @@ dietary:
 
 ## Ingredients
 
-3 hearts of romaine
-6 eggs
-1/2 lb green beans
-2 bell peppers
-1 cucumber
-1/2 cup almond slivers
+- 3 hearts of romaine
+- 6 eggs
+- 1/2 lb green beans
+- 2 bell peppers
+- 1 cucumber
+- 1/2 cup almond slivers
 
-## Instructions
+## Directions
 
 1. Chop and wash lettuce. Spin dry in a salad spinner and add to salad bowl.
 

@@ -10,14 +10,14 @@ tags:
 
 ## Ingredients
 
-3 ears of corn, steamed
-1 cup (or more) cherry tomatoes, halved
-1-2 tbsp minced shallots or dried shallots
-A dash of sherry vinegar
-A loooong dribble of olive oil
-some lemon zest (optional)
-salt and pepper
+- 3 ears of corn, steamed
+- 1 cup (or more) cherry tomatoes, halved
+- 1-2 tbsp minced shallots or dried shallots
+- A dash of sherry vinegar
+- A loooong dribble of olive oil
+- some lemon zest (optional)
+- salt and pepper
 
-## Instructions
+## Directions
 
-Combine ingredients, season to taste!
+1. Combine ingredients, season to taste!

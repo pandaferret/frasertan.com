@@ -11,19 +11,19 @@ source:
 
 ## Ingredients
 
-8 tablespoons (1 stick) unsalted butter, plus more for casserole
-6 slices white bread, crusts removed, torn into 1/4- to l/2-inch pieces
-5 1/2 cups milk
-1/2 cup all-purpose flour
-2 teaspoons coarse salt, plus more for water
-1/4 teaspoon ground nutmeg
-1/4 teaspoon freshly ground black pepper
-1/4 teaspoon cayenne pepper
-4 1/2 cups (about 18 ounces) grated sharp white cheddar cheese
-2 cups (about 8 ounces) grated Gruyère or 1 1/4 cups (about 5 ounces) grated Pecorino Romano cheese
-1 pound elbow macaroni
+- 8 tablespoons (1 stick) unsalted butter, plus more for casserole
+- 6 slices white bread, crusts removed, torn into 1/4- to l/2-inch pieces
+- 5 1/2 cups milk
+- 1/2 cup all-purpose flour
+- 2 teaspoons coarse salt, plus more for water
+- 1/4 teaspoon ground nutmeg
+- 1/4 teaspoon freshly ground black pepper
+- 1/4 teaspoon cayenne pepper
+- 4 1/2 cups (about 18 ounces) grated sharp white cheddar cheese
+- 2 cups (about 8 ounces) grated Gruyère or 1 1/4 cups (about 5 ounces) grated Pecorino Romano cheese
+- 1 pound elbow macaroni
 
-## Instructions
+## Directions
 
 1. Preheat oven to 375°F. Butter a 3-quart casserole dish; set aside. Place the bread in a medium bowl. In a small saucepan over medium heat, melt 2 tablespoons butter. Pour the melted butter into the bowl with the bread, and toss. Set the breadcrumbs aside.
 

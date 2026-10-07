@@ -9,19 +9,19 @@ source:
 
 ## Ingredients
 
-½ cup unbleached all-purpose flour
-½ cup whole-wheat flour
-2 teaspoons granulated sugar
-½ teaspoon table salt
-½ teaspoon baking powder
-¼ teaspoon baking soda
-¾ cup buttermilk
-¼ cup milk (plus an extra tablespoon or so if batter is too thick)
-1 large egg, separated
-2 tablespoons unsalted butter, melted
-vegetable oil (for brushing griddle)
+- ½ cup unbleached all-purpose flour
+- ½ cup whole-wheat flour
+- 2 teaspoons granulated sugar
+- ½ teaspoon table salt
+- ½ teaspoon baking powder
+- ¼ teaspoon baking soda
+- ¾ cup buttermilk
+- ¼ cup milk (plus an extra tablespoon or so if batter is too thick)
+- 1 large egg, separated
+- 2 tablespoons unsalted butter, melted
+- vegetable oil (for brushing griddle)
 
-## Instructions
+## Directions
 
 1. Mix dry ingredients in medium bowl. Pour buttermilk and milk into 2-cup Pyrex measuring cup. Whisk in egg white; mix yolk with melted butter, then stir into milk mixture. Dump wet ingredients into dry ingredients all at once; whisk until just mixed.
 

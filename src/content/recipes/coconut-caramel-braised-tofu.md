@@ -33,7 +33,7 @@ source:
 - 1 - 1 1/2 tablespoons lime juice, plus wedges for serving
 - Steamed rice and hot sauce, for serving
 
-## Instructions
+## Directions
 
 1. In a 12-inch nonstick skillet, heat 1 tablespoon of the oil over medium-high. Add green beans, season with salt and pepper, and cook, stirring occasionally, until softened and lightly charred in spots, about 5 minutes. Transfer green beans to a plate.
 2. Add 1 tablespoon of the oil and the tofu to the skillet and cook, stirring occasionally, until golden, about 5 minutes. Push tofu to one side of the skillet and reduce heat to medium. To the empty side, add the remaining 1 tablespoon oil, the shallot, garlic and ginger; stir until well combined and coated in the oil, then mix into the tofu until well incorporated.

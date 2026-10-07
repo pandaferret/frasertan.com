@@ -19,7 +19,7 @@ tags:
 - 1/2 tsp salt
 - 2 packets Splenda, or 4 tsp cup-for-cup Splenda, or 4 tsp sugar
 
-## Instructions
+## Directions
 
 On the stovetop:
 

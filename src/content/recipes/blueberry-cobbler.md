@@ -11,26 +11,27 @@ dietary:
 
 ## Ingredients
 
-Filling
-36 oz frozen blueberries
-1/2 cup sugar
-1 tbsp cornstarch
-pinch ground cinnamon
-1 1/2 tsp grated lemon zest
-1 tbsp lemon juice
-Biscuit Topping
-1 cup flour
-2 tbsp stone-ground cornmeal
-1/4 cup sugar plus 2 tsp for sprinkling
-2 tsp baking powder
-1/4 tsp baking soda
-1/4 tsp table salt
-4 tbsp (1/2 stick) butter, melted
-1/3 cup buttermilk
-1/2 tsp vanilla extract
-1/8 tsp cinnamon
+Filling:
 
-## Instructions
+- 36 oz frozen blueberries
+- 1/2 cup sugar
+- 1 tbsp cornstarch
+- pinch ground cinnamon
+- 1 1/2 tsp grated lemon zest
+- 1 tbsp lemon juice
+- Biscuit Topping
+- 1 cup flour
+- 2 tbsp stone-ground cornmeal
+- 1/4 cup sugar plus 2 tsp for sprinkling
+- 2 tsp baking powder
+- 1/4 tsp baking soda
+- 1/4 tsp table salt
+- 4 tbsp (1/2 stick) butter, melted
+- 1/3 cup buttermilk
+- 1/2 tsp vanilla extract
+- 1/8 tsp cinnamon
+
+## Directions
 
 Directions: 1. Thaw frozen blueberries in a colander set over a bowl to catch juices. Transfer juices (roughly 1 cup) to a small saucepan and simmer over medium heat until syrupy and thick enough to coat the back of a spoon, about 10 minutes.
 

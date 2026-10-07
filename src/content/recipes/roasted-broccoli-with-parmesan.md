@@ -23,7 +23,7 @@ source:
 - Freshly ground black pepper
 - 1/4 cup grated Parmesan cheese, or to taste
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 425°F (220°C).
 2. In a large bowl, toss the broccoli florets and minced garlic with the olive oil and lemon juice until lightly coated. Sprinkle salt over the broccoli and toss to coat.

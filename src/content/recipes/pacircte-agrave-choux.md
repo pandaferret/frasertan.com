@@ -9,16 +9,16 @@ source:
 
 ## Ingredients
 
-2 large eggs
-1 large egg white
-5 tablespoons unsalted butter, cut into 10 pieces
-1 ounce whole milk (2 tablespoons)
-3ounces water (6 tablespoons)
-1 ½teaspoons granulated sugar
-¼teaspoon table salt
-2 ½ounces unbleached all-purpose flour(½ cup), sifted
+- 2 large eggs
+- 1 large egg white
+- 5 tablespoons unsalted butter, cut into 10 pieces
+- 1 ounce whole milk (2 tablespoons)
+- 3ounces water (6 tablespoons)
+- 1 ½teaspoons granulated sugar
+- ¼teaspoon table salt
+- 2 ½ounces unbleached all-purpose flour(½ cup), sifted
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 425 degrees. Spray large (12-by 18-inch) baking sheet with nonstick cooking spray and line with parchment paper; set aside. Beat eggs and egg white in measuring cup or small bowl; you should have 1/2 cup (discard excess). Set aside.
 

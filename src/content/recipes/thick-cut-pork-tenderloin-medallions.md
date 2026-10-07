@@ -12,10 +12,10 @@ dietary:
 
 ## Ingredients
 
-2 pork tenderloins (1 to 1 ¼ pounds each), trimmed of fat and silver skin, cut crosswise into 1 ½-inch pieces, and tied; thinner end pieces removed and tied together (see below)
-Kosher salt and ground black pepper
-2 tablespoons vegetable oil
+- 2 pork tenderloins (1 to 1 ¼ pounds each), trimmed of fat and silver skin, cut crosswise into 1 ½-inch pieces, and tied; thinner end pieces removed and tied together (see below)
+- Kosher salt and ground black pepper
+- 2 tablespoons vegetable oil
 
-## Instructions
+## Directions
 
-Season pork with salt and pepper. Heat oil in 12-inch skillet over medium-high heat until shimmering. Add pork cut side down and cook, without moving pieces, until well-browned, 3 to 5 minutes. Turn pork and brown on second side, 3 to 5 minutes more. Reduce heat to medium. Using tongs, stand each piece on its side and cook, turning pieces as necessary, until sides are well browned and internal temperature registers 145 to 150 degrees on instant-read thermometer, 8 to 12 minutes. Transfer pork to platter and tent lightly with foil; let rest while making pan sauce, then serve.
+1. Season pork with salt and pepper. Heat oil in 12-inch skillet over medium-high heat until shimmering. Add pork cut side down and cook, without moving pieces, until well-browned, 3 to 5 minutes. Turn pork and brown on second side, 3 to 5 minutes more. Reduce heat to medium. Using tongs, stand each piece on its side and cook, turning pieces as necessary, until sides are well browned and internal temperature registers 145 to 150 degrees on instant-read thermometer, 8 to 12 minutes. Transfer pork to platter and tent lightly with foil; let rest while making pan sauce, then serve.

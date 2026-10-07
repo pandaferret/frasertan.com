@@ -11,14 +11,14 @@ source:
 
 ## Ingredients
 
-6 cups of large chunks of watermelon
-100g feta, sliced or crumbled into chunks
-a handful of basil leaves, schiffonaded
-1 small shallot, sliced very thinly
-generous drizzle of olive oil
-dash of coarse sea salt
-dash of coarse ground pepper
+- 6 cups of large chunks of watermelon
+- 100g feta, sliced or crumbled into chunks
+- a handful of basil leaves, schiffonaded
+- 1 small shallot, sliced very thinly
+- generous drizzle of olive oil
+- dash of coarse sea salt
+- dash of coarse ground pepper
 
-## Instructions
+## Directions
 
-On a large platter, arrange the watermelon chunks, feta, shallot and basil. Immediately before serving, drizzle olive oil over the salad, and sprinkle a pinch of coarse sea salt and a pinch of coarse ground black pepper.
+1. On a large platter, arrange the watermelon chunks, feta, shallot and basil. Immediately before serving, drizzle olive oil over the salad, and sprinkle a pinch of coarse sea salt and a pinch of coarse ground black pepper.

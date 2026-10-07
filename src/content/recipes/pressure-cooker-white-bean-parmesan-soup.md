@@ -11,27 +11,25 @@ source:
 
 ## Ingredients
 
-¼ cup olive oil
-1 large onion, finely chopped
-Kosher salt and black pepper
-1 fennel bulb, cored and finely chopped, fronds roughly chopped and reserved
-3 celery stalks, sliced 1/2-inch thick
-6 garlic cloves, roughly chopped
-1 teaspoon fennel seeds
-1 teaspoon red-pepper flakes
-2 sprigs fresh rosemary or 1 teaspoon dried rosemary, crushed
-½ cup dry white wine
-7 to 8 cups chicken stock or broth
-1 pound dried cannellini beans
-1 cup wheat berries or farro
-8 ounces Parmesan, rind removed and reserved
-1 small bunch flat-leaf parsley, stems discarded and leaves chopped
-3 tablespoons fresh lemon juice (from 1 large lemon)
+- ¼ cup olive oil
+- 1 large onion, finely chopped
+- Kosher salt and black pepper
+- 1 fennel bulb, cored and finely chopped, fronds roughly chopped and reserved
+- 3 celery stalks, sliced 1/2-inch thick
+- 6 garlic cloves, roughly chopped
+- 1 teaspoon fennel seeds
+- 1 teaspoon red-pepper flakes
+- 2 sprigs fresh rosemary or 1 teaspoon dried rosemary, crushed
+- ½ cup dry white wine
+- 7 to 8 cups chicken stock or broth
+- 1 pound dried cannellini beans
+- 1 cup wheat berries or farro
+- 8 ounces Parmesan, rind removed and reserved
+- 1 small bunch flat-leaf parsley, stems discarded and leaves chopped
+- 3 tablespoons fresh lemon juice (from 1 large lemon)
 
-## Instructions
+## Directions
 
-Using the sauté setting, heat the oil in the pot of a 6- to 8-quart pressure cooker. Add the onion and cook, stirring occasionally, until softened, about 5 minutes. Season generously with salt. Add the fennel and cook, stirring often, until the fennel is softened and the onion is lightly browned, about 5 minutes. Add the celery, garlic, fennel seeds and red-pepper flakes and cook, stirring often, until fragrant, 2 minutes. Add the rosemary and the wine. Bring to a simmer and reduce by half, about 2 minutes.
-
-Add the stock, using 7 cups if you have a 6-quart pressure cooker or 8 cups if you have an 8-quart pressure cooker. Season with 1/2 teaspoon salt. Stir in the beans, wheat berries and Parmesan rind. Cover and set steam valve to sealed position. Pressure cook on high for 70 minutes.
-
-Allow the pressure to release naturally for 15 minutes then release the remaining pressure manually. Taste the beans to make sure they are soft. If they are not as soft as you would like, cover and set steam valve to sealed position. Pressure cook on high for 10 more minutes and then quick-release the pressure. Before serving, remove and discard the rosemary sprigs. Stir in the chopped parsley, lemon juice and reserved fennel fronds. Season to taste with salt and pepper. Divide among bowls and top generously with grated Parmesan.
+1. Using the sauté setting, heat the oil in the pot of a 6- to 8-quart pressure cooker. Add the onion and cook, stirring occasionally, until softened, about 5 minutes. Season generously with salt. Add the fennel and cook, stirring often, until the fennel is softened and the onion is lightly browned, about 5 minutes. Add the celery, garlic, fennel seeds and red-pepper flakes and cook, stirring often, until fragrant, 2 minutes. Add the rosemary and the wine. Bring to a simmer and reduce by half, about 2 minutes.
+2. Add the stock, using 7 cups if you have a 6-quart pressure cooker or 8 cups if you have an 8-quart pressure cooker. Season with 1/2 teaspoon salt. Stir in the beans, wheat berries and Parmesan rind. Cover and set steam valve to sealed position. Pressure cook on high for 70 minutes.
+3. Allow the pressure to release naturally for 15 minutes then release the remaining pressure manually. Taste the beans to make sure they are soft. If they are not as soft as you would like, cover and set steam valve to sealed position. Pressure cook on high for 10 more minutes and then quick-release the pressure. Before serving, remove and discard the rosemary sprigs. Stir in the chopped parsley, lemon juice and reserved fennel fronds. Season to taste with salt and pepper. Divide among bowls and top generously with grated Parmesan.

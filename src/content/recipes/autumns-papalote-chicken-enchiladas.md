@@ -33,7 +33,7 @@ Tortillas and toppings:
 - 5 leaves romaine lettuce, washed, dried, and shredded
 - 2 limes, quartered
 
-## Instructions
+## Directions
 
 1. Add the salsa and chicken to a medium saucepan and stir to separate the chicken pieces. Bring to a simmer, then reduce heat to medium-low; simmer uncovered, stirring occasionally, until the chicken is cooked through and the flavors have melded, about 15 minutes. Remove the meat with tongs and set the sauce aside. Transfer the chicken to a large plate and freeze for 10 minutes to cool, then combine with the cheese, black beans and corn in a medium bowl and set aside.
 2. Adjust oven racks to the upper and lower-middle positions and heat the oven to 300 degrees. Lay tortillas on a cookie sheet, spray with cooking spray on both sides, then warm in the oven for 3 minutes. Fill and roll each batch while the next set of tortillas is warming.

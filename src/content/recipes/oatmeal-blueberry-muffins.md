@@ -12,20 +12,19 @@ source:
 
 ## Ingredients
 
-1 cup oat flour
-1 cup all-purpose flour
-2 tsp baking powder
-1 tsp baking soda
-¼ cup brown sugar
-1 tsp cinnamon
-¼ tsp nutmeg
-¼ tsp salt
-1 cup + 1 Tbls unsweetened applesauce
-2 Tbls maple syrup
-¾ cup blueberries
+- 1 cup oat flour
+- 1 cup all-purpose flour
+- 2 tsp baking powder
+- 1 tsp baking soda
+- ¼ cup brown sugar
+- 1 tsp cinnamon
+- ¼ tsp nutmeg
+- ¼ tsp salt
+- 1 cup + 1 Tbls unsweetened applesauce
+- 2 Tbls maple syrup
+- ¾ cup blueberries
 
-## Instructions
+## Directions
 
-Mix all dry ingredients in a large mixing bowl. Mix the wet ingredients in another smaller bowl. Combine the wet and the dry and mix until combined. Fold in blueberries.
-
-Use a tablespoon to drop level spoonfuls into a greased mini muffin pan. Bake at 350 degrees for 12-15 minutes.
+1. Mix all dry ingredients in a large mixing bowl. Mix the wet ingredients in another smaller bowl. Combine the wet and the dry and mix until combined. Fold in blueberries.
+2. Use a tablespoon to drop level spoonfuls into a greased mini muffin pan. Bake at 350 degrees for 12-15 minutes.

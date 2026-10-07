@@ -9,10 +9,10 @@ source:
 
 ## Ingredients
 
-2 medium russet potatoes, (1 pound) scrubbed and dried
-Butter, (for serving)
+- 2 medium russet potatoes, (1 pound) scrubbed and dried
+- Butter, (for serving)
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 450 degrees. Poke several holes in each potato with tines of fork and microwave potatoes on high until slightly soft to the touch, 6 to 12 minutes, turning them over halfway through.
 

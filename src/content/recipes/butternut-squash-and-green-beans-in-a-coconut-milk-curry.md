@@ -15,17 +15,17 @@ dietary:
 
 ## Ingredients
 
-8 ounces butternut squash, peeled and chopped into 1 inch cubes
-1/2 cup water
-salt
-8 ounces green beans, trimmed and chopped into 1" pieces
-1 cup (15 ounces) canned coconut milk
-2 tablespoons canola oil
-1/2 teaspoon mustard seeds
-2 medium serrano chiles, minced
-2 tablespoons cashews, coarsely chopped
+- 8 ounces butternut squash, peeled and chopped into 1 inch cubes
+- 1/2 cup water
+- salt
+- 8 ounces green beans, trimmed and chopped into 1" pieces
+- 1 cup (15 ounces) canned coconut milk
+- 2 tablespoons canola oil
+- 1/2 teaspoon mustard seeds
+- 2 medium serrano chiles, minced
+- 2 tablespoons cashews, coarsely chopped
 
-## Instructions
+## Directions
 
 1. Place the cubed squash in a medium saucepan with the water and a pinch of salt and bring to a boil over high heat. Lower the heat to medium, cover and steam until the squash is tender, about 6 minutes. Remove the squash with a slotted spoon, add the green beans to the pan and steam for another 6 minutes, adding water to the pan if necessary.
 

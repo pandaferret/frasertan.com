@@ -13,17 +13,15 @@ dietary:
 
 ## Ingredients
 
-3/4 cup sugar
-1 lb silken tofu (not any other type of tofu!)
-8 oz semisweet or bittersweet chocolate, melted
-1 tsp vanilla extract
-1 1/2 tsp cinnamon
-1/2 tsp chili powder
+- 3/4 cup sugar
+- 1 lb silken tofu (not any other type of tofu!)
+- 8 oz semisweet or bittersweet chocolate, melted
+- 1 tsp vanilla extract
+- 1 1/2 tsp cinnamon
+- 1/2 tsp chili powder
 
-## Instructions
+## Directions
 
-In a small saucepan set over medium heat, combine the sugar with 3/4 cup water and heat until al the sugar is dissolved. Let cool slightly.
-
-Combine everything in a blender and blend until smooth. Divide into 6-8 ramekins and let cool in the fridge until set, roughly 30 minutes.
-
-Serve with whipped cream and/or chocolate shavings.
+1. In a small saucepan set over medium heat, combine the sugar with 3/4 cup water and heat until al the sugar is dissolved. Let cool slightly.
+2. Combine everything in a blender and blend until smooth. Divide into 6-8 ramekins and let cool in the fridge until set, roughly 30 minutes.
+3. Serve with whipped cream and/or chocolate shavings.

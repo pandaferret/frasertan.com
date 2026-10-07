@@ -14,25 +14,25 @@ source:
 
 ## Ingredients
 
-RICE AND DRESSING
-1½ cups black rice
-Salt and pepper
-¼ cup rice vinegar
-¼ cup mirin
-1 tablespoon white miso
-1 teaspoon grated fresh ginger
-½ teaspoon grated lime zest plus 2 tablespoons juice
-SALMON AND VEGETABLES
-4 (4- to 6-ounce) skin-on wild-caught salmon fillets, 1 inch thick
-1 teaspoon expeller-pressed canola oil (see page 35)
-Salt and pepper
-1 (8- by 7½-inch) sheet nori, crumbled (optional)
-4 radishes, trimmed, halved, and sliced thin
-1 avocado, halved, pitted, and sliced thin
-1 cucumber, halved lengthwise, seeded, and sliced thin
-2 scallions, sliced thin
+- RICE AND DRESSING
+- 1½ cups black rice
+- Salt and pepper
+- ¼ cup rice vinegar
+- ¼ cup mirin
+- 1 tablespoon white miso
+- 1 teaspoon grated fresh ginger
+- ½ teaspoon grated lime zest plus 2 tablespoons juice
+- SALMON AND VEGETABLES
+- 4 (4- to 6-ounce) skin-on wild-caught salmon fillets, 1 inch thick
+- 1 teaspoon expeller-pressed canola oil (see page 35)
+- Salt and pepper
+- 1 (8- by 7½-inch) sheet nori, crumbled (optional)
+- 4 radishes, trimmed, halved, and sliced thin
+- 1 avocado, halved, pitted, and sliced thin
+- 1 cucumber, halved lengthwise, seeded, and sliced thin
+- 2 scallions, sliced thin
 
-## Instructions
+## Directions
 
 1. FOR THE RICE AND DRESSING: Bring 4 quarts water to boil in Dutch oven over medium-high heat. Add rice and 1 teaspoon salt and cook until rice is tender, 20 to 25 minutes. Drain rice and transfer to large bowl.
 

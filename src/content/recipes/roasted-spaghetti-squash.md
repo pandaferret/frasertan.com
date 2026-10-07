@@ -18,7 +18,7 @@ source:
 - 3/4 teaspoon kosher salt, plus more as needed
 - 1/4 teaspoon freshly ground black pepper, plus more as needed
 
-## Instructions
+## Directions
 
 1. Arrange a rack in the middle of the oven and heat the oven to 450°F.
 2. Cut the spaghetti squash in half lengthwise and scoop out the seeds with a spoon. Brush the cut sides of the squash with the olive oil. Sprinkle with the salt and pepper.

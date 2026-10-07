@@ -13,31 +13,28 @@ source:
 
 ## Ingredients
 
-10 ounces bittersweet chocolate, (see note above) chopped fine
-5 large egg yolks
-5 tablespoons sugar
-1/4 teaspoon table salt
-1 1/2 cups heavy cream
-3/4 cup half-and-half
-1 tablespoon vanilla extract
-1/2 teaspoon instant espresso powder mixed with 1 tablespoon water
+- 10 ounces bittersweet chocolate, (see note above) chopped fine
+- 5 large egg yolks
+- 5 tablespoons sugar
+- 1/4 teaspoon table salt
+- 1 1/2 cups heavy cream
+- 3/4 cup half-and-half
+- 1 tablespoon vanilla extract
+- 1/2 teaspoon instant espresso powder mixed with 1 tablespoon water
+
 , Whipped Cream:
-1/2 cup heavy cream, (cold)
-2 teaspoons sugar
-1/2 teaspoon vanilla extract
-Cocoa powder for dusting
-Chocolate shavings for sprinkling
 
-## Instructions
+- 1/2 cup heavy cream, (cold)
+- 2 teaspoons sugar
+- 1/2 teaspoon vanilla extract
+- Cocoa powder for dusting
+- Chocolate shavings for sprinkling
 
-FOR THE POTS DE CRÈME: Place chocolate in medium heatproof bowl; set fine-mesh strainer over bowl and set aside.
+## Directions
 
-Whisk yolks, sugar, and salt in medium bowl until combined; whisk in heavy cream and half-and-half. Transfer mixture to medium saucepan. Cook mixture over medium-low heat, stirring constantly and scraping bottom of pot with wooden spoon, until thickened and silky and custard registers 175 to 180 degrees on instant-read thermometer, 8 to 12 minutes (see photos, below). Do not let custard overcook or simmer.
-
-Immediately pour custard through strainer over chocolate. Let mixture stand to melt chocolate, about 5 minutes. Whisk gently until smooth, then whisk in vanilla and espresso. Divide mixture evenly among eight 5-ounce ramekins. Gently tap ramekins against counter to remove air bubbles.
-
-Cool pots de crème to room temperature, then cover with plastic wrap and refrigerate until chilled, at least 4 hours or up to 72 hours. Before serving, let pots de crème stand at room temperature 20 to 30 minutes.
-
-FOR THE WHIPPED CREAM: Using hand mixer or standing mixer fitted with whisk attachment, beat cream, sugar, and vanilla on low speed until bubbles form, about 30 seconds. Increase speed to medium; continue beating until beaters leave trail, about 30 seconds longer. Increase speed to high; continue beating until nearly doubled in volume and whipped cream forms soft peaks, 30 to 45 seconds longer.
-
-Dollop each pot de crème with about 2 tablespoons whipped cream; garnish with cocoa or chocolate shavings, if using. Serve.
+1. FOR THE POTS DE CRÈME: Place chocolate in medium heatproof bowl; set fine-mesh strainer over bowl and set aside.
+2. Whisk yolks, sugar, and salt in medium bowl until combined; whisk in heavy cream and half-and-half. Transfer mixture to medium saucepan. Cook mixture over medium-low heat, stirring constantly and scraping bottom of pot with wooden spoon, until thickened and silky and custard registers 175 to 180 degrees on instant-read thermometer, 8 to 12 minutes (see photos, below). Do not let custard overcook or simmer.
+3. Immediately pour custard through strainer over chocolate. Let mixture stand to melt chocolate, about 5 minutes. Whisk gently until smooth, then whisk in vanilla and espresso. Divide mixture evenly among eight 5-ounce ramekins. Gently tap ramekins against counter to remove air bubbles.
+4. Cool pots de crème to room temperature, then cover with plastic wrap and refrigerate until chilled, at least 4 hours or up to 72 hours. Before serving, let pots de crème stand at room temperature 20 to 30 minutes.
+5. FOR THE WHIPPED CREAM: Using hand mixer or standing mixer fitted with whisk attachment, beat cream, sugar, and vanilla on low speed until bubbles form, about 30 seconds. Increase speed to medium; continue beating until beaters leave trail, about 30 seconds longer. Increase speed to high; continue beating until nearly doubled in volume and whipped cream forms soft peaks, 30 to 45 seconds longer.
+6. Dollop each pot de crème with about 2 tablespoons whipped cream; garnish with cocoa or chocolate shavings, if using. Serve.

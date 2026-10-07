@@ -25,7 +25,7 @@ source:
 
 - Rimmed baking sheet
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 425°F.
 2. Peel the carrots. Remove the ends, and halve any large ones.

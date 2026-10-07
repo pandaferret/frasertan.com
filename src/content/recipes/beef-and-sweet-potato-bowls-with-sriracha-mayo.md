@@ -33,7 +33,7 @@ For the sriracha dressing:
 - 1 tbsp sriracha
 - Juice from half a lime
 
-## Instructions
+## Directions
 
 1. Preheat oven to 375°. Toss the diced sweet potatoes with olive oil and salt and pepper to taste. Spread the potatoes in an even layer on a sheet pan, then roast for 30 minutes, stirring halfway through.
 2. Meanwhile, heat a saucepan on medium with 1 tbsp olive oil. Add the ground beef, roughly break up into a single layer, and let brown and crisp on one side. Flip the pieces and let brown on the other side, then break up and cook until no pink remains.

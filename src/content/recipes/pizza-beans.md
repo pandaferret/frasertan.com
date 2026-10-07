@@ -30,7 +30,7 @@ source:
 - 1/3 cup (35 grams) grated Parmesan
 - 2 tablespoons (5 grams) roughly chopped fresh flat-leaf parsley, for garnish (optional)
 
-## Instructions
+## Directions
 
 1. Prepare the beans and vegetables: Heat the oven to 475 degrees. In a 2 1/2-to-3-quart (ideally oven-safe) deep sauté pan, braiser, or shallow Dutch oven, heat the olive oil on medium-high. Add the onion, celery, and carrots.
 2. Season well with salt and black or red pepper. Cook, sautéing, until the vegetables brown lightly, about 10 minutes. Add the garlic, and cook for 1 minute more. Add the wine, if using, to scrape up any stuck bits, then simmer until it disappears, 1 to 2 minutes. Add the kale, and cook for 1 to 2 minutes, until collapsed, then add the tomatoes and bring to a simmer. Add the beans, and, if the mixture looks too dry or thick (canned tomatoes range quite a bit in juiciness), add up to 3/4 cup broth, 1/4 cup at a time. Simmer the mixture together over medium for about 10 minutes, adjusting the seasonings as needed.

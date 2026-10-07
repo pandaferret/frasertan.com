@@ -24,7 +24,7 @@ source:
 - 1 cup unsalted butter, cold and cut into cubes
 - Coarse sugar, for topping (optional)
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 350°F and line an 8x8-inch pan with parchment on all sides. Set aside.
 2. In a food processor, combine the flour, sugar, salt, vanilla, almond extract, and butter. Pulse until just combined and the mixture starts to form a dough around the blades of the food processor.

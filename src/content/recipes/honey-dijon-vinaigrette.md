@@ -6,12 +6,12 @@ categories:
 
 ## Ingredients
 
-3 tbsp dijon mustard
-2 tsbp honey
-3 tsbp champagne vinegar
-1/2 cup olive oil
-salt & pepper
+- 3 tbsp dijon mustard
+- 2 tsbp honey
+- 3 tsbp champagne vinegar
+- 1/2 cup olive oil
+- salt & pepper
 
-## Instructions
+## Directions
 
 1. Whisk together ingredients.

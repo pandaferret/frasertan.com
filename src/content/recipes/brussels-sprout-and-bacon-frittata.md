@@ -25,7 +25,7 @@ source:
 - 1 cup shredded gruyère cheese
 - 1/4 cup snipped chives, divided
 
-## Instructions
+## Directions
 
 1. Preheat your broiler and position a rack 6 inches from the heat. No broiler? Just crank your oven up as hot as it goes, usually 450-475°F.
 2. In a 10-inch ovenproof skillet, cook the bacon over moderately high heat, stirring occasionally, until darker in color and almost fully crisp, 5 minutes. Add the shallots and cook, stirring occasionally, until softened, about 3 minutes. Add the brussels sprouts, season with salt and pepper and cook, tossing occasionally, until crisp-tender and lightly browned, about 5 minutes.

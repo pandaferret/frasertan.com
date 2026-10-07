@@ -7,17 +7,17 @@ categories:
 
 ## Ingredients
 
-6 tablespoons unsalted butter, softened, plus more for pie plate
-1 1/2 cups flour
-1 1/2 teaspoons baking powder
-1/2 teaspoon salt
-1 cup plus two tablespoons sugar, divided
-1 large egg
-1/2 cup milk
-1 teaspoon pure vanilla extract
-1 pound strawberries, hulled and halved
+- 6 tablespoons unsalted butter, softened, plus more for pie plate
+- 1 1/2 cups flour
+- 1 1/2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 1 cup plus two tablespoons sugar, divided
+- 1 large egg
+- 1/2 cup milk
+- 1 teaspoon pure vanilla extract
+- 1 pound strawberries, hulled and halved
 
-## Instructions
+## Directions
 
 1. Preheat oven to 350°. Butter a pie plate.
 

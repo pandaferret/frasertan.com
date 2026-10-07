@@ -13,28 +13,25 @@ source:
 
 ## Ingredients
 
-3 slices bacon, cut into 1/4-inch pieces
-½ cup panko bread crumbs
-Salt and pepper
-2 tablespoons vegetable oil
-1 large head cauliflower (3 pounds), cored and cut into 1-inch florets
-1 onion, chopped fine
-½ teaspoon minced fresh thyme
-1 pound campanelle
-5 ½ cups chicken broth
-½ cup dry white wine
-3 tablespoons minced fresh parsley
-1 teaspoon lemon juice, plus lemon wedges for serving
+- 3 slices bacon, cut into 1/4-inch pieces
+- ½ cup panko bread crumbs
+- Salt and pepper
+- 2 tablespoons vegetable oil
+- 1 large head cauliflower (3 pounds), cored and cut into 1-inch florets
+- 1 onion, chopped fine
+- ½ teaspoon minced fresh thyme
+- 1 pound campanelle
+- 5 ½ cups chicken broth
+- ½ cup dry white wine
+- 3 tablespoons minced fresh parsley
+- 1 teaspoon lemon juice, plus lemon wedges for serving
 
-## Instructions
+## Directions
 
-Cook bacon in 12-inch skillet over medium-high heat until crispy, 5 to 7 minutes. Add panko and 1/4 teaspoon pepper and cook, stirring frequently, until panko is well browned, 2 to 4 minutes. Transfer panko mixture to bowl and wipe out skillet.
-
-Heat 5 teaspoons oil in now-empty skillet over medium-high heat until shimmering. Add cauliflower and 1 teaspoon salt; cook, stirring occasionally, until cauliflower is crisp-tender and browned in spots, 10 to 12 minutes. Remove pan from heat and cover to keep warm.
-
-Heat remaining 1 teaspoon oil in Dutch oven over medium heat until shimmering. Add onion, thyme, and 1/2 teaspoon salt; cook, stirring frequently, until onion has softened, 4 to 7 minutes. Increase heat to high, add pasta, broth, and wine, and bring to simmer. Cook pasta, stirring frequently, until most of liquid is absorbed and pasta is al dente, 8 to 10 minutes.
-
-Remove pot from heat; stir in parsley, lemon juice, and cauliflower; and season with salt and pepper to taste. Serve, passing panko mixture and lemon wedges separately.
+1. Cook bacon in 12-inch skillet over medium-high heat until crispy, 5 to 7 minutes. Add panko and 1/4 teaspoon pepper and cook, stirring frequently, until panko is well browned, 2 to 4 minutes. Transfer panko mixture to bowl and wipe out skillet.
+2. Heat 5 teaspoons oil in now-empty skillet over medium-high heat until shimmering. Add cauliflower and 1 teaspoon salt; cook, stirring occasionally, until cauliflower is crisp-tender and browned in spots, 10 to 12 minutes. Remove pan from heat and cover to keep warm.
+3. Heat remaining 1 teaspoon oil in Dutch oven over medium heat until shimmering. Add onion, thyme, and 1/2 teaspoon salt; cook, stirring frequently, until onion has softened, 4 to 7 minutes. Increase heat to high, add pasta, broth, and wine, and bring to simmer. Cook pasta, stirring frequently, until most of liquid is absorbed and pasta is al dente, 8 to 10 minutes.
+4. Remove pot from heat; stir in parsley, lemon juice, and cauliflower; and season with salt and pepper to taste. Serve, passing panko mixture and lemon wedges separately.
 
 ## Notes
 

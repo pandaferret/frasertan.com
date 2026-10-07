@@ -32,7 +32,7 @@ source:
 
 - Slow cooker
 
-## Instructions
+## Directions
 
 1. Rinse and pat dry the pork with a paper towel. Cut the pork into 2" pieces.
 2. In the bowl of a 6-quart slow cooker, add the pork, salt, pepper, oregano, cumin, onion, garlic, lime juice, orange juice, Coke, and bay leaves.

@@ -35,7 +35,7 @@ source:
 
 - Large rimmed baking sheet
 
-## Instructions
+## Directions
 
 1. Whisk honey, soy sauce (or tamari), garlic, vinegar and crushed red pepper in a small bowl. Place chicken and half of the honey mixture (about 1/4 cup) in a zip-top plastic bag; remove excess air and seal bag. Massage the chicken in the sealed bag until well coated. Refrigerate for at least 30 minutes and up to 2 hours. Reserve the remaining honey mixture.
 2. Preheat oven to 400˚F. Line a large rimmed baking sheet with foil; coat with cooking spray. Remove the chicken from the marinade (discard marinade); arrange on 1 side of the prepared pan. Combine carrots and 1 tablespoon oil in a medium bowl; toss well to coat. Spread the carrots in an even layer on the other side of the pan. Bake the chicken and carrots for 15 minutes. Remove from the oven; stir the carrots.

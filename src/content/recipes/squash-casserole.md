@@ -23,7 +23,7 @@ source:
 
 - 2-3 quart baking dish
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 350°F.
 2. Cook the onion in the butter over medium heat until limp.

@@ -7,13 +7,13 @@ categories:
 
 ## Ingredients
 
-1 head read leaf lettuce
-2 apples
-2 bell peppers (not green)
-8 oz fresh mozzarella balls (ciliegene)
-Balsamic Vinaigrette
+- 1 head read leaf lettuce
+- 2 apples
+- 2 bell peppers (not green)
+- 8 oz fresh mozzarella balls (ciliegene)
+- Balsamic Vinaigrette
 
-## Instructions
+## Directions
 
 1. Rip the lettuce into bite sized pieces and wash thoroughly. Dry with a salad spinner. (No one likes grit in their teeth!)
 

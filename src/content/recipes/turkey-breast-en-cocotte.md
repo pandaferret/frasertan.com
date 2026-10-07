@@ -8,25 +8,24 @@ tags:
 dietary:
   - GF
 source:
-  name: "the pot and toss in all the veggies and herbs. I let those brown nicely for about 10 minutes, then put the turkey back in and proceed with roasting it. This adds about 20ish minutes to the total recipe time.One year I made a thyme butter mix and spread it all under the turkey breast skin - it was amazing!"
   url: "https://www.americastestkitchen.com/recipes/5279-turkey-breast-en-cocotte-with-pan-gravy?sqn=CAPdxese8Ps83U7nDwFfqefS6rUMoSSqVNOOCBjAVXo%3D%0A&extcode=NSAKB09FB&utm_source=facebook&utm_medium=photo&utm_content=turkeyencocotte&utm_campaign=atkseason18#"
 ---
 
 ## Ingredients
 
-1turkey breast, whole, bone-in (6- to 7-pound)
-Salt and ground black pepper
-2tablespoons olive oil
-1medium onion, chopped medium
-1medium carrot, chopped medium
-1celery rib, chopped medium
-6medium garlic cloves, peeled and crushed
-2sprigs fresh thyme
-1bay leaf
-¼cup unbleached all-purpose flour
-4cups low-sodium chicken broth
+- 1turkey breast, whole, bone-in (6- to 7-pound)
+- Salt and ground black pepper
+- 2tablespoons olive oil
+- 1medium onion, chopped medium
+- 1medium carrot, chopped medium
+- 1celery rib, chopped medium
+- 6medium garlic cloves, peeled and crushed
+- 2sprigs fresh thyme
+- 1bay leaf
+- ¼cup unbleached all-purpose flour
+- 4cups low-sodium chicken broth
 
-## Instructions
+## Directions
 
 1. Adjust an oven rack to the lowest position and heat the oven to 275 degrees on convection (see Notes) . Using kitchen shears or a chef’s knife, trim the rib bones and any excess fat from the turkey. Pat the turkey dry with paper towels and season with salt and pepper.
 

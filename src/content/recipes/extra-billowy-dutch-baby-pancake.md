@@ -18,7 +18,7 @@ source:
 - 1/4 teaspoon kosher salt
 - Optional: 1 tablespoon granulated sugar (for sweet) or freshly ground black pepper (for savory)
 
-## Instructions
+## Directions
 
 1. Heat oven to 425 degrees F with one 12-inch round ovenproof skillet, two 9-inch round ovenproof skillets, or the equivalent sized baking dishes inside.
 2. In a large bowl, beat eggs thoroughly with a whisk or fork. Add salt and flour, whisk until lumps disappear. Add milk, whisking until smooth. If you know you'd like your pancake to end up sweet, you can add 1 tablespoon granulated sugar to the batter; if you know you'd like it to be savory, you can add freshly ground black pepper. But, you can also choose your own adventure when it comes out.

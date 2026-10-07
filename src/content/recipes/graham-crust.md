@@ -9,14 +9,14 @@ source:
 
 ## Ingredients
 
-190g (1 1/2 cups) graham cracker crumbs
-20g (1/4 cup) milk powder
-25g (2 tbsp) sugar
-3g (3/4 tsp) kosher salt
-55g (4 tbsp/1/2 stick) butter, melted
-55g (1/4 cup) heavy cream
+- 190g (1 1/2 cups) graham cracker crumbs
+- 20g (1/4 cup) milk powder
+- 25g (2 tbsp) sugar
+- 3g (3/4 tsp) kosher salt
+- 55g (4 tbsp/1/2 stick) butter, melted
+- 55g (1/4 cup) heavy cream
 
-## Instructions
+## Directions
 
 1. Toss the graham crumbs, milk powder, sugar and salt with your hands in a medium bowl to evenly distribute dry ingredients.
 

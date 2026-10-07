@@ -24,7 +24,7 @@ source:
 - 2 tablespoons unsalted butter
 - Chopped fresh parsley, for garnish (optional)
 
-## Instructions
+## Directions
 
 1. Pat the chicken dry. Season all over with salt and pepper.
 2. Heat the oil in a large (12-inch) skillet over medium-high for 1 to 2 minutes until hot and shimmering. Add the chicken and cook without moving until it's golden brown on the bottom, about 5 minutes. Use tongs to flip the chicken and cook until just cooked through, about 4 minutes.

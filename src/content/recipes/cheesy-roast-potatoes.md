@@ -25,7 +25,7 @@ source:
 - Chopped fresh cilantro and dill, for serving (optional)
 - Ranch dressing, for serving (optional)
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position and heat oven to 400 degrees. Toss potatoes, oil, granulated garlic, onion powder, salt, and pepper together in a bowl.
 2. Arrange potatoes in a single layer on a rimmed baking sheet. Roast until potatoes are tender and deep golden brown on bottoms, 35 to 40 minutes. Sprinkle potatoes with cheddar, return sheet to oven, and continue to roast until cheese is melted, about 3 minutes longer.

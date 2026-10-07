@@ -9,24 +9,20 @@ source:
 
 ## Ingredients
 
-1 cup (2 sticks) unsalted butter, softened
-3 cups sugar
-6 eggs
-3 cups flour
-1 cup heavy cream
-2 tsp vanilla
+- 1 cup (2 sticks) unsalted butter, softened
+- 3 cups sugar
+- 6 eggs
+- 3 cups flour
+- 1 cup heavy cream
+- 2 tsp vanilla
 
-## Instructions
+## Directions
 
-In the bowl of a stand mixer, beat together the softened butter and sugar on medium high until white and fluffy, at LEAST five minutes.
-
-Reduce speed to slow and add the eggs one at a time, incorporating each egg fully before adding the next.
-
-Add the flour and cream in alternating portions. Add in vanilla.
-
-Dollop into a greased 10 cup Bundt pan.
-
-Place in the oven and THEN turn the oven to 325°. Bake for 1 hour and 15 minutes. Let the cake cool in the pan for 5 minutes, then invert onto a cooling rack. Let cool (about 2 hours) and then serve (barely warm or at room temperature).
+1. In the bowl of a stand mixer, beat together the softened butter and sugar on medium high until white and fluffy, at LEAST five minutes.
+2. Reduce speed to slow and add the eggs one at a time, incorporating each egg fully before adding the next.
+3. Add the flour and cream in alternating portions. Add in vanilla.
+4. Dollop into a greased 10 cup Bundt pan.
+5. Place in the oven and THEN turn the oven to 325°. Bake for 1 hour and 15 minutes. Let the cake cool in the pan for 5 minutes, then invert onto a cooling rack. Let cool (about 2 hours) and then serve (barely warm or at room temperature).
 
 ## Notes
 

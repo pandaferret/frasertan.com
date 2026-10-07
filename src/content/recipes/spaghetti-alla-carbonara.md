@@ -11,19 +11,19 @@ tags:
 
 ## Ingredients
 
-1/4 cup extra virgin olive oil
-8 ounces bacon (about 8 slices), halved lengthwise and then cut into 1/4" pieces
-1/2 cup dry white wine
-3 large eggs
-1 3/4 oz (3/4 cup) grated Parmesan
-1/2 oz (1/4 cup) grated Pecorino Romano
-3 small garlic cloves, pressed through a garlic press
-1 pound spaghetti
-salt
-pepper
-chopped parsley to taste
+- 1/4 cup extra virgin olive oil
+- 8 ounces bacon (about 8 slices), halved lengthwise and then cut into 1/4" pieces
+- 1/2 cup dry white wine
+- 3 large eggs
+- 1 3/4 oz (3/4 cup) grated Parmesan
+- 1/2 oz (1/4 cup) grated Pecorino Romano
+- 3 small garlic cloves, pressed through a garlic press
+- 1 pound spaghetti
+- salt
+- pepper
+- chopped parsley to taste
 
-## Instructions
+## Directions
 
 1. Adjust oven rack to middle position. Set a large heat proof bowl on the rack and heat oven to 200 degrees.
 

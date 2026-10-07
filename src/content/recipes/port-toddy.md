@@ -11,16 +11,15 @@ source:
 
 ## Ingredients
 
-3 ounces ruby port
-1 teaspoon brown sugar
-1 teaspoon freshly squeezed lemon juice
-1 teaspoon freshly squeezed orange juice
-1 cinnamon stick
-Water just off the boil
-1 1-inch-wide ribbon of orange peel studded with 3-5 cloves (optional)
+- 3 ounces ruby port
+- 1 teaspoon brown sugar
+- 1 teaspoon freshly squeezed lemon juice
+- 1 teaspoon freshly squeezed orange juice
+- 1 cinnamon stick
+- Water just off the boil
+- 1 1-inch-wide ribbon of orange peel studded with 3-5 cloves (optional)
 
-## Instructions
+## Directions
 
-In a mug or heatproof glass, stir the port, sugar and juices together with the cinnamon stick, leaving the cinnamon in the vessel.
-
-Add hot water to taste (I start with 3 oz), and garnish with the clove-studded orange peel, if using.
+1. In a mug or heatproof glass, stir the port, sugar and juices together with the cinnamon stick, leaving the cinnamon in the vessel.
+2. Add hot water to taste (I start with 3 oz), and garnish with the clove-studded orange peel, if using.

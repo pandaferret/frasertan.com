@@ -11,18 +11,20 @@ source:
 
 ## Ingredients
 
-1 medium to large cabbage (6-8 cups shredded)
-1 package ramen noodles, chicken flavored
-4-5 green onions including green tops, sliced or chopped
-½ cup sunflower seeds, toasted
-½ cup sliced almonds
+- 1 medium to large cabbage (6-8 cups shredded)
+- 1 package ramen noodles, chicken flavored
+- 4-5 green onions including green tops, sliced or chopped
+- ½ cup sunflower seeds, toasted
+- ½ cup sliced almonds
+
 Dressing:
-½ cup salad oil
-3 Tbsps rice vinegar
-2 Tbsps sugar
-½ tsp salt
-½ tsp black pepper
 
-## Instructions
+- ½ cup salad oil
+- 3 Tbsps rice vinegar
+- 2 Tbsps sugar
+- ½ tsp salt
+- ½ tsp black pepper
 
-Shred cabbage to desired coarseness. Crumble ramen noodles with your fingers and add to cabbage. Toast sunflower seeds in a sauté pan and cool before adding to the cabbage mixture. Add chopped green onions and sliced almonds. Mix together the other ingredients, including the seasoning package from the ramen noodles. When well mixed, add to cabbage mixture. Can serve immediately or cool, as desired. This salad lasts several days in the refrigerator, but the dry noodles will soften over time.
+## Directions
+
+1. Shred cabbage to desired coarseness. Crumble ramen noodles with your fingers and add to cabbage. Toast sunflower seeds in a sauté pan and cool before adding to the cabbage mixture. Add chopped green onions and sliced almonds. Mix together the other ingredients, including the seasoning package from the ramen noodles. When well mixed, add to cabbage mixture. Can serve immediately or cool, as desired. This salad lasts several days in the refrigerator, but the dry noodles will soften over time.

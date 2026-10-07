@@ -19,7 +19,7 @@ dietary:
 - 3 salmon fillets
 - 1 tbsp oil
 
-## Instructions
+## Directions
 
 1. Gently pat the spice rub on both sides of the salmon fillets.
 2. Heat the oil over medium heat. When hot, add the salmon. Cook 3-4 minutes per side (depending on thickness).

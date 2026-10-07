@@ -22,7 +22,7 @@ source:
 - Salt and ground black pepper to taste
 - 1 pound lean ground beef
 
-## Instructions
+## Directions
 
 1. Place cabbage, tomatoes with juice, onion, Italian seasoning, salt, and pepper into a Dutch oven or large pot over low heat; cook and stir until it begins to simmer.
 2. Add the ground beef on top; cover and cook, stirring occasionally, until cabbage is tender and ground beef is cooked through, about 45 minutes.

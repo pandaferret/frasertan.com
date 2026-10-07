@@ -26,7 +26,7 @@ source:
 - 3/4 cup nonpareil sprinkles
 - 25 Hershey's Kisses, unwrapped
 
-## Instructions
+## Directions
 
 1. Preheat the oven to 350 degrees F. Line baking sheets with parchment paper or Silpat baking mats and set aside.
 2. In a medium bowl, whisk together the flour, cocoa, and salt. Set aside.
