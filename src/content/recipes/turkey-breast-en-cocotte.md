@@ -5,6 +5,9 @@ categories:
   - Main Dishes
 tags:
   - Seasonal Treats
+  - Thanksgiving
+  - Fall
+  - Winter
 dietary:
   - GF
 source:

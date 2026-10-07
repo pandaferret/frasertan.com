@@ -5,6 +5,8 @@ categories:
   - Desserts
 tags:
   - Seasonal Treats
+  - Christmas
+  - Winter
 dietary:
   - DF
 source:

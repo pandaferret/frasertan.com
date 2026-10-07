@@ -7,6 +7,9 @@ subcategories:
   - Cookies
 tags:
   - Seasonal Treats
+  - Christmas
+  - Fall
+  - Winter
 dietary:
   - EF
 source:

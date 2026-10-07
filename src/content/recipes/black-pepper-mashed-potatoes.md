@@ -5,6 +5,9 @@ categories:
   - Side Dishes
 tags:
   - Seasonal Treats
+  - Thanksgiving
+  - Fall
+  - Winter
 ---
 
 ## Ingredients

@@ -5,6 +5,8 @@ categories:
   - Drinks
 tags:
   - Seasonal Treats
+  - Christmas
+  - Winter
 dietary:
   - EF
   - GF

@@ -8,6 +8,8 @@ subcategories:
   - Soups
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 source:
   name: "Peggy"
 ---

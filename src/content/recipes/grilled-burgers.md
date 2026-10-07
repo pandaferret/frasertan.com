@@ -7,6 +7,8 @@ subcategories:
   - Beef
 tags:
   - Seasonal Treats
+  - Spring
+  - Summer
 dietary:
   - GF
   - DF

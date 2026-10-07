@@ -5,6 +5,7 @@ categories:
   - Drinks
 tags:
   - Seasonal Treats
+  - Summer
 source:
   name: "Smitten Kitchen"
   url: "https://smittenkitchen.com/2018/07/bourbon-peach-smash/"

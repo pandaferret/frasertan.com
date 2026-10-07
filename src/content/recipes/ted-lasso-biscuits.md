@@ -7,6 +7,8 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
   - Seasonal Treats
+  - Christmas
+  - Winter
 dietary:
   - EF
 source:

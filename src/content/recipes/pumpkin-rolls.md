@@ -5,6 +5,9 @@ categories:
   - Breads and Baked Goods
 tags:
   - Seasonal Treats
+  - Thanksgiving
+  - Fall
+  - Winter
 dietary:
   - EF
 ---

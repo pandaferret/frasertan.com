@@ -7,6 +7,8 @@ subcategories:
   - Soups
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 source:
   url: "https://smittenkitchen.com/2007/10/sweet-potato-and-sausage-soup/"
 cover: "/images/recipes/sweet-potato-and-sausage-soup.jpg"

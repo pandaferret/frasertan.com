@@ -7,6 +7,7 @@ subcategories:
   - Soups
 tags:
   - Seasonal Treats
+  - Summer
 ---
 
 ## Ingredients

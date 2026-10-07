@@ -7,6 +7,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
+  - Christmas
+  - Winter
   - Make Ahead
 dietary:
   - EF

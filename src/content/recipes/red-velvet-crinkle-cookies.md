@@ -8,6 +8,8 @@ subcategories:
   - Cookies
 tags:
   - Seasonal Treats
+  - Christmas
+  - Winter
 source:
   name: "Broma Bakery"
   url: "https://bromabakery.com/red-velvet-crinkle-cookies/"

@@ -7,6 +7,8 @@ subcategories:
   - Pastas and Grains
 tags:
   - Seasonal Treats
+  - Fall
+  - Winter
 ---
 
 ## Ingredients

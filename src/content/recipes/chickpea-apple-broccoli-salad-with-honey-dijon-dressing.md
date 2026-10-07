@@ -7,6 +7,10 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Spring
+  - Summer
+  - Fall
+  - Winter
   - Eric-friendly
   - Vegetarian
 source:

@@ -7,6 +7,8 @@ subcategories:
   - Pies and Tarts
 tags:
   - Seasonal Treats
+  - Spring
+  - Summer
 ---
 
 ## Ingredients

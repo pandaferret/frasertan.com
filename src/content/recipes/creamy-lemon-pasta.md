@@ -6,6 +6,8 @@ categories:
 tags:
   - Weeknight Meals
   - Seasonal Treats
+  - Spring
+  - Winter
   - Vegetarian
 source:
   url: "https://cooking.nytimes.com/recipes/8355-creamy-lemon-pasta?action=click&module=Collection+Page+Recipe+Card&region=Ridiculously+Easy+Recipes+for+When+You%27ve+Lost+an+Hour%E2%80%99s+Sleep+&pgType=collection&rank=25"

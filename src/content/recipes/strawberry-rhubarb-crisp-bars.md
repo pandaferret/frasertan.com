@@ -7,6 +7,8 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
   - Seasonal Treats
+  - Spring
+  - Summer
 source:
   url: "https://smittenkitchen.com/2014/05/strawberry-rhubarb-crisp-bars/"
 cover: "/images/recipes/strawberry-rhubarb-crisp-bars.jpg"

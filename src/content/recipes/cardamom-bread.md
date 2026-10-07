@@ -5,6 +5,11 @@ categories:
   - Main Dishes
 tags:
   - Seasonal Treats
+  - Christmas
+  - Spring
+  - Summer
+  - Fall
+  - Winter
   - Eric-friendly
 source:
   name: "guide"

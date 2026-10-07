@@ -5,6 +5,8 @@ categories:
   - Sauces and Dips
 tags:
   - Seasonal Treats
+  - Thanksgiving
+  - Fall
 ---
 
 ## Ingredients

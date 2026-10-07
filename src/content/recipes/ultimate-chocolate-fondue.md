@@ -6,6 +6,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Seasonal Treats
+  - "New Year's Eve"
+  - Winter
 dietary:
   - GF
   - EF

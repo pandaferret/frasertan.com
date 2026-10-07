@@ -5,6 +5,8 @@ categories:
   - Desserts
 tags:
   - Seasonal Treats
+  - Spring
+  - Summer
 source:
   name: "Cook's Illustrated Baking Book"
 ---
