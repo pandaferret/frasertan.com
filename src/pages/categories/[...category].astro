@@ -93,7 +93,6 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
               <RecipeCard
                 title={recipe.data.title}
                 slug={recipe.id}
-                description={recipe.data.description}
                 dietary={recipe.data.dietary}
               />
             ))}
@@ -111,7 +110,6 @@ const subcategories = Array.from(subcategoryMap.entries()).sort(([a], [b]) =>
             <RecipeCard
               title={recipe.data.title}
               slug={recipe.id}
-              description={recipe.data.description}
               dietary={recipe.data.dietary}
             />
           ))}
