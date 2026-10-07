@@ -386,13 +386,6 @@ main {
   text-decoration: none;
 }
 
-.category-list li .count {
-  display: block;
-  font-weight: 400;
-  font-size: 0.85rem;
-  color: #999;
-}
-
 /* Search */
 .search-container {
   margin-bottom: 2rem;

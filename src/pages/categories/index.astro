@@ -1,8 +1,5 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getCollection } from "astro:content";
-
-const recipes = await getCollection("recipes");
 
 const categories = [
   "Starters",
@@ -17,10 +14,9 @@ const categories = [
   "Drinks",
 ];
 
-const categoryCounts = categories.map((cat) => ({
+const categoryLinks = categories.map((cat) => ({
   name: cat,
   slug: cat.toLowerCase().replace(/ /g, "-"),
-  count: recipes.filter((r) => r.data.categories.includes(cat)).length,
 }));
 ---
 
@@ -35,12 +31,9 @@ const categoryCounts = categories.map((cat) => ({
   <h1>Recipe Categories</h1>
   <ul class="category-list">
     {
-      categoryCounts.map(({ name, slug, count }) => (
+      categoryLinks.map(({ name, slug }) => (
         <li>
-          <a href={`/categories/${slug}/`}>
-            {name}
-            <span class="count">{count} recipes</span>
-          </a>
+          <a href={`/categories/${slug}/`}>{name}</a>
         </li>
       ))
     }
