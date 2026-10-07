@@ -5,6 +5,8 @@ categories:
   - Breads and Baked Goods
 tags:
   - Eric-friendly
+  - Weeknight Meals
+  - Vegetarian
 ---
 
 ## Ingredients
