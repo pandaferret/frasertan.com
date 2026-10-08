@@ -9,6 +9,7 @@ dietary:
   - VEG*
   - EF
   - DF
+cover: "/images/recipes/pineapple-fried-rice.jpg"
 source:
   url: "http://damndelicious.net/2014/06/25/pineapple-fried-rice/"
 ---

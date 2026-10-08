@@ -9,6 +9,7 @@ tags:
 dietary:
   - VEG
   - EF
+cover: "/images/recipes/colcannon.jpg"
 source:
   url: "http://www.saveur.com/article/Recipes/Classic-Colcannon"
 ---

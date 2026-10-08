@@ -15,6 +15,7 @@ dietary:
   - V*
   - GF
   - EF
+cover: "/images/recipes/marry-me-white-bean-and-spinach-skillet.jpg"
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/marry-me-white-bean-spinach-skillet-8786693"

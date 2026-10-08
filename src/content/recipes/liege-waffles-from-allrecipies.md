@@ -5,6 +5,7 @@ categories:
   - Breakfast
 dietary:
   - VEG
+cover: "/images/recipes/liege-waffles-from-allrecipies.jpg"
 source:
   url: "https://www.allrecipes.com/recipe/213251/liege-belgian-waffles-with-pearl-sugar/"
 ---

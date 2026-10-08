@@ -5,6 +5,7 @@ categories:
 dietary:
   - V*
   - EF
+cover: "/images/recipes/baked-parmesan-zucchini.jpg"
 source:
   url: "http://damndelicious.net/2014/06/21/baked-parmesan-zucchini/"
 ---

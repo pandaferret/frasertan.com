@@ -11,6 +11,7 @@ tags:
 dietary:
   - VEG
   - EF
+cover: "/images/recipes/cookies-n-cream-ice-cream.jpg"
 source:
   name: "Chew Out Loud"
   url: "https://www.chewoutloud.com/cookies-and-cream-ice-cream/"

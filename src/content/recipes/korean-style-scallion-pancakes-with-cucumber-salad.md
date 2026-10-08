@@ -5,6 +5,7 @@ categories:
 dietary:
   - V*
   - DF
+cover: "/images/recipes/korean-style-scallion-pancakes-with-cucumber-salad.jpg"
 source:
   url: "https://www.blueapron.com/recipes/korean-style-scallion-pancakes-with-cucumber-salad"
 ---
