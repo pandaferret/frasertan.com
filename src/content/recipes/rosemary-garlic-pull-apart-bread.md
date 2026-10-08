@@ -6,6 +6,7 @@ categories:
   - Breads and Baked Goods
 dietary:
   - VEG
+cover: "/images/recipes/rosemary-garlic-pull-apart-bread.jpg"
 source:
   url: "https://sallysbakingaddiction.com/rosemary-garlic-pull-apart-bread/"
 ---

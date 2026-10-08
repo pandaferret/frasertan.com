@@ -8,6 +8,7 @@ subcategories:
 dietary:
   - GF
   - EF
+cover: "/images/recipes/sous-vide-pork-tenderloin.jpg"
 source:
   url: "https://www.seriouseats.com/recipes/2016/07/sous-vide-pork-tenderloin-recipe.html"
 ---

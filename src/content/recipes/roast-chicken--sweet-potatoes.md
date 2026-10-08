@@ -13,6 +13,7 @@ dietary:
   - GF
   - DF
   - EF
+cover: "/images/recipes/roast-chicken--sweet-potatoes.jpg"
 source:
   url: "http://www.eatingwell.com/recipes/chicken_sweet_potatoes.html"
 ---

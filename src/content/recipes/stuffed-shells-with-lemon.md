@@ -6,6 +6,7 @@ subcategories:
   - Pastas and Grains
 dietary:
   - VEG
+cover: "/images/recipes/stuffed-shells-with-lemon.jpg"
 source:
   url: "http://www.101cookbooks.com/archives/stuffed-shells-recipe.html"
 ---
