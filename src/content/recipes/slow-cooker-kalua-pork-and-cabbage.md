@@ -9,6 +9,7 @@ dietary:
   - GF
   - DF
   - EF
+cover: "/images/recipes/slow-cooker-kalua-pork-and-cabbage.jpg"
 source:
   url: "https://www.favfamilyrecipes.com/slow-cooker-kalua-pork-cabbage/"
 ---

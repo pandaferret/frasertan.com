@@ -6,6 +6,7 @@ dietary:
   - V
   - EF
   - DF
+cover: "/images/recipes/slow-cooker-spaghetti-squash.jpg"
 source:
   url: "http://allrecipes.com/recipe/240068/slow-cooker-spaghetti-squash/"
 ---
