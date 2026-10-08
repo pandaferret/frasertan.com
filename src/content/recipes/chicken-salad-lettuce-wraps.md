@@ -10,6 +10,7 @@ tags:
   - Chicken
 dietary:
   - GF
+cover: "/images/recipes/chicken-salad-lettuce-wraps.jpg"
 source:
   url: "https://damndelicious.net/2018/02/04/chicken-salad-lettuce-wraps/"
 ---

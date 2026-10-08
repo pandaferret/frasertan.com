@@ -6,6 +6,7 @@ categories:
 dietary:
   - V*
   - EF
+cover: "/images/recipes/crispy-roasted-potatoes-with-rosemary.jpg"
 source:
   url: "http://www.williams-sonoma.com/recipe/crispy-roast-potatoes-rosemary.html?crlt.pid=camp.lZbm1lzZLgPX"
 ---

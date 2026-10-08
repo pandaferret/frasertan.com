@@ -11,6 +11,7 @@ tags:
 dietary:
   - GF
   - EF
+cover: "/images/recipes/garlic-and-oregano-salmon.jpg"
 source:
   url: "https://www.allrecipes.com/recipe/189058/super-simple-salmon/"
 ---

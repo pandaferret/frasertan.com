@@ -5,6 +5,7 @@ categories:
 dietary:
   - V*
   - DF
+cover: "/images/recipes/french-bread.jpg"
 source:
   url: "http://allrecipes.com/recipe/6882/french-bread/"
 ---

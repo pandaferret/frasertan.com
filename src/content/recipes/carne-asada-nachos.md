@@ -10,6 +10,7 @@ tags:
   - Beef
 dietary:
   - EF
+cover: "/images/recipes/carne-asada-nachos.jpg"
 source:
   url: "https://damndelicious.net/2020/01/21/carne-asada-nachos/"
 ---

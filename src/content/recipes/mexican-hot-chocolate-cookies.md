@@ -8,6 +8,7 @@ subcategories:
   - Cookies
 dietary:
   - VEG
+cover: "/images/recipes/mexican-hot-chocolate-cookies.jpg"
 source:
   url: "https://www.marthastewart.com/336516/mexican-hot-chocolate-cookies"
 ---

@@ -5,6 +5,7 @@ categories:
   - Main Dishes
 subcategories:
   - Pizzas
+cover: "/images/recipes/fig-prosciutto-pizza-with-arugula.jpg"
 source:
   url: "http://www.foodnetwork.com/recipes/ree-drummond/fig-prosciutto-pizza-with-arugula-recipe.html"
 ---

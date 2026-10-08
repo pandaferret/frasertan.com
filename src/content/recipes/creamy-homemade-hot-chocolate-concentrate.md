@@ -10,6 +10,7 @@ dietary:
   - VEG
   - EF
   - GF
+cover: "/images/recipes/creamy-homemade-hot-chocolate-concentrate.jpg"
 source:
   name: "Allrecipes"
   url: "https://www.allrecipes.com/recipe/20211/creamy-hot-cocoa/"

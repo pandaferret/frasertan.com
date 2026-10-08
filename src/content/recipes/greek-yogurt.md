@@ -6,6 +6,7 @@ categories:
 dietary:
   - VEG
   - EF
+cover: "/images/recipes/greek-yogurt.jpg"
 source:
   name: "A Mind Full Mom"
   url: "https://amindfullmom.com/instant-pot-yogurt/"
