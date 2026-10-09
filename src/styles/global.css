@@ -218,7 +218,9 @@ main {
   display: inline-flex;
 }
 
-.badge {
+/* #search copies outrank Pagefind's style reset on search results. */
+.badge,
+#search .badge {
   display: inline-block;
   font-size: 0.7rem;
   font-weight: 600;
@@ -227,23 +229,28 @@ main {
   text-transform: uppercase;
 }
 
-.badge-gf {
+.badge-gf,
+#search .badge-gf {
   background: #fff6cc;
   color: #7a5a00;
 }
-.badge-df {
+.badge-df,
+#search .badge-df {
   background: #e3f2fd;
   color: #1565c0;
 }
-.badge-ef {
+.badge-ef,
+#search .badge-ef {
   background: #fff3e0;
   color: #e65100;
 }
-.badge-v {
+.badge-v,
+#search .badge-v {
   background: #f3e5f5;
   color: #7b1fa2;
 }
-.badge-veg {
+.badge-veg,
+#search .badge-veg {
   background: #f1f8e9;
   color: #558b2f;
 }
@@ -439,6 +446,21 @@ main {
 }
 #search .pagefind-ui__result {
   padding: 0.9rem 0;
+}
+#search .search-badges {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: 0.4rem;
+}
+#search .search-category {
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 0.05rem 0.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  color: var(--color-text);
 }
 
 @media (max-width: 600px) {

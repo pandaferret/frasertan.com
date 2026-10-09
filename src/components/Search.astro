@@ -12,12 +12,64 @@
     const element = document.querySelector("#search");
     if (!element || element.childElementCount > 0) return;
 
+    // Pagefind UI has no template hook, so remember each result's categories
+    // and dietary codes as it loads and add them under its title once rendered.
+    const filtersByUrl = new Map();
+    const labels = {
+      GF: "Gluten-Free",
+      DF: "Dairy-Free",
+      EF: "Egg-Free",
+      V: "Vegan",
+      VEG: "Vegetarian",
+    };
+    const addBadges = () => {
+      for (const link of element.querySelectorAll(
+        ".pagefind-ui__result-link",
+      )) {
+        const { category = [], dietary = [] } =
+          filtersByUrl.get(link.getAttribute("href")) ?? {};
+        const title = link.parentElement;
+        let badges = title.querySelector(".search-badges");
+        if (badges?.dataset.for === link.getAttribute("href")) continue;
+        badges?.remove();
+        if (category.length + dietary.length === 0) continue;
+        badges = document.createElement("span");
+        badges.className = "search-badges";
+        badges.dataset.for = link.getAttribute("href");
+        for (const name of category) {
+          const tag = document.createElement("span");
+          tag.className = "search-category";
+          tag.textContent = name;
+          badges.append(tag);
+        }
+        for (const code of dietary) {
+          const base = code.replace(/\*$/, "").toUpperCase();
+          const badge = document.createElement("span");
+          badge.className = `badge badge-${base.toLowerCase()}`;
+          badge.title = labels[base]
+            ? (code.endsWith("*") ? "Can Be " : "") + labels[base]
+            : code;
+          badge.textContent = code;
+          badges.append(badge);
+        }
+        title.append(badges);
+      }
+    };
+    new MutationObserver(addBadges).observe(element, {
+      childList: true,
+      subtree: true,
+    });
+
     const init = () =>
       new PagefindUI({
         element: "#search",
         showSubResults: false,
         showImages: false,
         translations: { placeholder: "Search recipes" },
+        processResult: (result) => {
+          filtersByUrl.set(result.url, result.filters ?? {});
+          return result;
+        },
       });
 
     if (window.PagefindUI) {
