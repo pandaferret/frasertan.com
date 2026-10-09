@@ -224,7 +224,7 @@ const tabs = [
   let pagefindPromise: Promise<Pagefind | null> | undefined;
   const loadPagefind = () => {
     pagefindPromise ??= import(
-      /* @vite-ignore */ new URL("/pagefind/pagefind.js", location.href).href
+      /* @vite-ignore */ new URL("/search/pagefind.js", location.href).href
     ).catch(() => null);
     return pagefindPromise;
   };

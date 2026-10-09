@@ -63,6 +63,8 @@
     const init = () =>
       new PagefindUI({
         element: "#search",
+        // Whole-word matching around the generated bundle; see the file.
+        bundlePath: "/search/",
         showSubResults: false,
         showImages: false,
         translations: { placeholder: "Search recipes" },
