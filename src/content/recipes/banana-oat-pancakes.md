@@ -2,6 +2,8 @@
 title: "Banana Oat Pancakes"
 description: "Another delicious way to use up all those leftover bananas :P Owen says these are so delicious all on their own, he doesn't need maple syrup! (I did cheat and sprinkle on some mini chocolate chips too.)"
 yield: "Serves 6-8"
+prep: "15 min"
+cook: "30 min"
 categories:
   - Breakfast
 dietary:

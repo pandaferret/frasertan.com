@@ -1,6 +1,9 @@
 ---
 title: "Garlic and Thyme Pan Sauce"
 description: "Goes well with [Sauteed Chicken Breast Cutlets](/recipes/sauteed-chicken-breast-cutlets/)"
+prep: "5 min"
+cook: "10 min"
+yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
 source:

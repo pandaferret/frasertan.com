@@ -1,6 +1,9 @@
 ---
 title: "Crispy Roasted Potatoes with Rosemary"
 description: "This recipe makes owning - and using - a mandoline worth it."
+prep: "25 min"
+cook: "1 hr"
+yield: "Serves 6-8"
 categories:
   - Side Dishes
 dietary:

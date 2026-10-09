@@ -1,5 +1,7 @@
 ---
 title: "Horseradish Cream"
+prep: "5 min"
+yield: "Makes 3/4 cup"
 categories:
   - Sauces and Dips
 dietary:

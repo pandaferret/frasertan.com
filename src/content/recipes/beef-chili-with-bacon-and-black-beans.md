@@ -4,6 +4,9 @@ quote:
   author: "Cook's Illustrated"
   text: |
     Good choices for condiments include diced fresh tomatoes, diced avocado, sliced scallions, chopped red onion, chopped cilantro leaves, sour cream, and shredded Monterey Jack or cheddar cheese. If you are a fan of spicy food, consider using a little more of the red pepper flakes or cayenne--or both. The flavor of the chili improves with age; if possible, make it a day or up to five days in advance and reheat before serving. Leftovers can be frozen for up to a month. MAKES ABOUT 3 QUARTS, SERVING 8 TO 10
+prep: "20 min"
+cook: "2 hr 30 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

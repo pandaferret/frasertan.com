@@ -1,5 +1,8 @@
 ---
 title: "Fresh Tomato Sauce"
+prep: "20 min"
+cook: "30 min"
+yield: "Makes 2 1/2 cups"
 categories:
   - Main Dishes
 subcategories:

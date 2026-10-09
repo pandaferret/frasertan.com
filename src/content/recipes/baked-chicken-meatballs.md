@@ -1,6 +1,9 @@
 ---
 title: "Baked Chicken Meatballs"
 description: "Eric really likes these chicken meatballs from Smitten Kitchen."
+prep: "20 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

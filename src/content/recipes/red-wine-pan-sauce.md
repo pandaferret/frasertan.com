@@ -1,6 +1,9 @@
 ---
 title: "Red Wine Pan Sauce"
 description: "Best with steak or pork chops."
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Sauces and Dips
 source:

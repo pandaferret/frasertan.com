@@ -1,6 +1,9 @@
 ---
 title: "Warm Spinach Salad with Bacon, Onions and Egg"
 description: "Another easy classic a la Deb! This makes a delicious, more-healthy-than-some-other-things, quick weeknight dinner! Or serve with a simple steak or sauteed fish."
+prep: "15 min"
+cook: "20 min"
+yield: "Serves 2-4"
 categories:
   - Salads
 tags:

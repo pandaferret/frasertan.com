@@ -1,6 +1,10 @@
 ---
 title: "Everyday Chocolate Cake"
 description: "Easy to make one bowl one pan chocolate cake! The only not-so-everyday ingredient is the buttermilk."
+prep: "15 min"
+cook: "1 hr 5 min"
+rest: "Cool 1 hr"
+yield: "Makes 1 loaf"
 categories:
   - Desserts
 subcategories:

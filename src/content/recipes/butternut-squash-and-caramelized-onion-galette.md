@@ -1,6 +1,10 @@
 ---
 title: "Butternut Squash and Caramelized Onion Galette"
 description: "from Smitten Kitchen"
+prep: "40 min"
+cook: "1 hr 10 min"
+rest: "Freeze 1 hr, chill 1 hr"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

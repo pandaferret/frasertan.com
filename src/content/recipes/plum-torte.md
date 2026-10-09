@@ -1,6 +1,10 @@
 ---
 title: "Plum Torte"
 description: "Om nom ermagherd this is an amazing cake. Make it now. With plums. With peaches. With any fruit really. Ahh! Even Eric was happy with this cake. This is a classic recipe saved for posterity by Deb."
+prep: "20 min"
+cook: "50 min"
+rest: "Cool 1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Pecan Sandies"
 description: "These cookies from Bravetart's Stella Parks are easier than the roll-out ones from Smitten Kitchen, but sacrifice none of the flavor."
+prep: "20 min"
+cook: "25 min"
+rest: "Cool 25 min"
+yield: "Makes about 24 cookies"
 categories:
   - Desserts
 subcategories:

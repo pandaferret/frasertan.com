@@ -2,6 +2,10 @@
 title: "Tuna Ring Salad"
 description: "A beloved Seidel family tradition!"
 added: 2025-01-23
+prep: "20 min"
+cook: "15 min"
+rest: "Chill 1 hr"
+yield: "Serves 4-6"
 categories:
   - Salads
 dietary:

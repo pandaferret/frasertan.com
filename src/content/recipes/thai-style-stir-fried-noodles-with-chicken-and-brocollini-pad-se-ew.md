@@ -1,6 +1,9 @@
 ---
 title: "Thai Style Stir-Fried Noodles with Chicken and Broccolini (Pad Se Ew)"
 description: "From Cook's Illustrated. Their favorite brand of rice noodles are from A Taste of Thai, the straight cut noodles. For proper char, don't stir the noodles as they fry."
+prep: "25 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,8 @@
 title: "Triple Chocolate Pan-Banged Cookies"
 description: "While strange-sounding, the pan-banging does give these cookies a lovely texture alternating between crunchy and chewy."
 yield: "Makes 12-16 cookies"
+prep: "20 min"
+cook: "1 hr"
 categories:
   - Desserts
 subcategories:

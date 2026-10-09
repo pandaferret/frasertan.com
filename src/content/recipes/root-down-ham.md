@@ -1,6 +1,9 @@
 ---
 title: "Root Down Ham"
 description: "Easy and amazingly delicious, the key to this is the ham itself. Root Down is a local all organic grass fed farm in Pescadero, and their smoked ham is meaty and full of flavor."
+prep: "10 min"
+cook: "3 hr 30 min (up to 8 hr sous vide)"
+yield: "Serves 10-12"
 categories:
   - Main Dishes
 subcategories:

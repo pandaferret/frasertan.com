@@ -2,6 +2,8 @@
 title: "Classic Pie Dough"
 description: "Always trust Cook's Illustrated! :) Though... they do have a lot of pie crust recipes. This Classic recipe does not rely on vodka as does the crust from the [Strawberry-Rhubarb Pie](/recipes/strawberry-rhubarb-pie/). This recipe makes 2 rounds of dough for a double crust pie - to make a single round, just halve everything. This recipe works best with a food processor - CI has a separate recipe for hand-made pie dough, but I like the dough from the [Extra-flaky Pie Crust](/recipes/extra-flaky-pie-crust/), or the [Peach Hand Pies](/recipes/peach-hand-pies/)."
 yield: 'Makes 2 dough rounds, enough for one 9" double crust pie'
+prep: "15 min"
+rest: "Chill 1 hr"
 categories:
   - Desserts
 subcategories:

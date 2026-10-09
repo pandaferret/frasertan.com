@@ -1,6 +1,9 @@
 ---
 title: "Banana Oat Toddler Muffins"
 description: "Make these full sized for Mom and Dad, or in mini muffin tins for the little one!"
+prep: "15 min"
+cook: "15 min"
+yield: "Makes 48 mini muffins"
 categories:
   - Breads and Baked Goods
 dietary:

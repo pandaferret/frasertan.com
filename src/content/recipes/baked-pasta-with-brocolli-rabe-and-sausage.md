@@ -1,6 +1,9 @@
 ---
 title: "Baked Pasta with Brocolli Rabe and Sausage"
 description: "This delicious recipe comes to me courtesy of Smitten Kitchen. I added a few spices I like (courtesy of John and Autumn), and the result is a wonderful (and healthier!) version of one of my favorite comfort foods, mac 'n' cheese."
+prep: "20 min"
+cook: "45 min"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 subcategories:

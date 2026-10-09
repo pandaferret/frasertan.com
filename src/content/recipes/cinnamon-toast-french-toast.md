@@ -1,6 +1,10 @@
 ---
 title: "Cinnamon Toast French Toast"
 description: 'A casserole style French toast recipe from Deb! This recipe avoids the dreaded "I''m standing in the kitchen making French toast while my guests are all somewhere else" brunch phenomenon. Easily made ahead in the evening, all you have to do is pop it in the oven in the morning!'
+prep: "20 min"
+cook: "40 min"
+rest: "Soak 15 min to overnight"
+yield: "Serves 8"
 categories:
   - Breakfast
 dietary:

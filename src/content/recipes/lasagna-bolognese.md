@@ -1,6 +1,10 @@
 ---
 title: "Lasagna Bolognese"
 description: "This is a decadent and delicious lasagna made with a hearty meat sauce and a bechamel - no mozzarella or ricotta. From Cook's Illustrated."
+prep: "45 min"
+cook: "2 hr"
+rest: "Cool 45 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Garlic and Oregano Salmon"
 description: "Simple, easy and delicious!"
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

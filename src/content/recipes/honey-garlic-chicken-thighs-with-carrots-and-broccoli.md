@@ -2,6 +2,9 @@
 title: "Honey-Garlic Chicken Thighs with Carrots and Broccoli"
 description: "A sweet and savory baked honey-garlic chicken thigh recipe with a side of veggies that cook on the same sheet pan as the chicken for the perfect weeknight dinner. The marinade does double duty: half flavors the chicken, and the rest becomes a glaze for drizzling over everything at the end."
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "35 min"
+rest: "Marinate 30 min to 2 hr"
 categories:
   - Main Dishes
 subcategories:

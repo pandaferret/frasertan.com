@@ -1,5 +1,8 @@
 ---
 title: "Slow Cooker Spaghetti Squash"
+prep: "5 min"
+cook: "5 hr"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

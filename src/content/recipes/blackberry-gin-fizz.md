@@ -1,6 +1,8 @@
 ---
 title: "Blackberry Gin Fizz"
 description: "A fresh summery spritz for warm summer days! Gin optional!"
+prep: "10 min"
+yield: "Makes 2 drinks"
 categories:
   - Drinks
 dietary:

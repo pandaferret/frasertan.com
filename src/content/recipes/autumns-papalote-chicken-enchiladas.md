@@ -3,6 +3,8 @@ title: "Autumn's Papalote Chicken Enchiladas"
 description: "These rely on a delicious store-bought tomato salsa to streamline this dish for easy weeknight prep! Buy Papalote House salsa (the black label, which has great flavor and almost no spice), then follow the Cook's Illustrated chicken enchiladas method, simmering the chicken in the salsa instead of making the enchilada sauce from scratch."
 yield: "Serves 6-8"
 added: 2026-08-04
+prep: "30 min"
+cook: "40 min"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "The Easiest Brownies"
 description: "Courtesy of Deb, these brownies are a cinch to make - one bowl only! Also toddler-friendly :)"
+prep: "10 min"
+cook: "25 min"
+yield: "Makes 24 mini brownies"
 categories:
   - Desserts
 subcategories:

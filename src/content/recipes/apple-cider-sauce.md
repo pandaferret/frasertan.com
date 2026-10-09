@@ -4,6 +4,9 @@ quote:
   author: "Cook's Illustrated"
   text: |
     We wanted a pork tenderloin recipe that would be fast enough for a weeknight dinner and still offer maximum flavor. Cutting the tenderloins into 1 ½-inch-thick medallions and tying the medallions or wrapping blanched bacon around them, fastened with toothpicks, allowed us to create a beautiful sear on all sides of these neat packages in the time it took the meat to reach an internal temperature of 145 to 150 degrees. The searing process had the extra benefit of producing enough fond to create several easy, flavorful pan sauces for our pork tenderloin medallions recipe.
+prep: "10 min"
+cook: "20 min"
+yield: "Makes 1 1/4 cups"
 categories:
   - Sauces and Dips
 source:

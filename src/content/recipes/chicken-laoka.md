@@ -2,6 +2,9 @@
 title: "Chicken Laoka"
 description: "This simple Malagasy chicken stew is delicious - thanks to our neighbors for introducing this to us!"
 added: 2026-09-27
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

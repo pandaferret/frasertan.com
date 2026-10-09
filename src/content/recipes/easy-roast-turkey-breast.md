@@ -5,6 +5,9 @@ quote:
   text: |
     Our challenge in developing the best easy roast turkey breast recipe was to get moist, juicy meat and crisp skin. To do so, we had to determine the best roasting technique, with a high temperature to crisp the skin and a low temperature for moist meat. The optimal combination for our turkey breast recipe was to start the turkey breast in a 425-degree oven for the first half-hour of cooking and then reduce the heat to 325 degrees for the remaining hour.
 added: 2026-08-20
+prep: "15 min"
+cook: "1 hr 30 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

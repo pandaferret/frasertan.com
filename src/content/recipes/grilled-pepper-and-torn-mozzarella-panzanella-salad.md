@@ -1,6 +1,9 @@
 ---
 title: "Grilled Pepper and Torn Mozzarella Panzanella Salad"
 description: "While grilling then skinning the peppers takes some time and patience, the results are well worth the wait!"
+prep: "20 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Salads
 dietary:

@@ -2,6 +2,8 @@
 title: "S'mores Blossom Cookies"
 description: "A lovely riff on S'mores with only a smidge more work than a regular drop cookie."
 yield: "Makes 24 cookies"
+prep: "30 min"
+cook: "35 min"
 categories:
   - Desserts
 subcategories:

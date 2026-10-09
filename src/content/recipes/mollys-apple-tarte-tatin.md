@@ -1,6 +1,10 @@
 ---
 title: "Molly's Apple Tarte Tatin"
 description: "This recipe features a really easy pate brisee. After flipping the apples, I was able to fit an additional 6 quarters in my pan (woot!) however I suspect that it may have made the caramel a bit too wet, so next time I will extend the second boil to try to reduce the wetness of the apples a bit more."
+prep: "45 min"
+cook: "1 hr"
+rest: "Cool 30 min"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

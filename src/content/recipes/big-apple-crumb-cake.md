@@ -2,6 +2,9 @@
 title: "Big Apple Crumb Cake"
 description: "Always trust Deb: I thought the amount of crumble topping was a lot, but once I added it all and baked it, I loved the crunch!"
 yield: "Serves 12-16"
+prep: "25 min"
+cook: "55 min"
+rest: "Cool 1 hr"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Bacon and Tomato Chop Salad with Lemon-Garlic Vinaigrette"
 description: "Another delicious salad courtesy of Peggy!"
+prep: "20 min"
+cook: "10 min"
+rest: "Steep dressing 3 hr"
+yield: "Serves 6"
 categories:
   - Salads
 tags:

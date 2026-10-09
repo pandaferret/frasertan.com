@@ -3,6 +3,8 @@ title: "Baked Tofu"
 description: "Crispy baked tofu that's perfect for salads, stir-fries, curries or rice bowls topped with sauce. Both firm and extra-firm tofu work well, though extra-firm has more bite. Skip lining the sheet pan here: direct contact with the metal pan creates more crispiness. For a shortcut, freeze your tofu first to skip the pressing step entirely."
 yield: "Serves 2-4"
 added: 2025-05-28
+prep: "15 min"
+cook: "30 min"
 categories:
   - Main Dishes
 subcategories:

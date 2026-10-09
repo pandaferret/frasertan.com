@@ -1,6 +1,8 @@
 ---
 title: "Shallot Sherry Vinaigrette"
 description: "From Via Carota's Green Salad. This makes a lot of dressing, so keep it around for insta-salads all week."
+prep: "10 min"
+yield: "Makes about 1 1/4 cups"
 categories:
   - Salads
 dietary:

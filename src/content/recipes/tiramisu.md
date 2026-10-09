@@ -1,6 +1,9 @@
 ---
 title: "Tiramisu"
 description: "Surprisingly easy and delicious! I do like it with a decent amount of rum :) Note: this makes a huuuuge amount of food! A half-recipe (8x8 dish) will make plenty. Brandy and even whiskey can stand in for the dark rum. The test kitchen prefers a tiramisù with a pronounced rum flavor; for a less potent rum flavor, halve the amount of rum added to the coffee mixture in step 1. Do not allow the mascarpone to warm to room temperature before using it; it has a tendency to break if allowed to do so. Be certain to use hard, not soft ladyfingers."
+prep: "30 min"
+rest: "Chill 6 hr to overnight"
+yield: "Serves 10-12"
 categories:
   - Desserts
 subcategories:

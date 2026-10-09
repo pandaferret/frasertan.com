@@ -1,6 +1,9 @@
 ---
 title: "Brown Sugar Cookies"
 description: "These cookies are a butterscotch bomb - a delicious riff on a traditional sugar cookie! The browned butter makes all the difference here, so don't skip this step. The most efficient way to bake these cookies is to portion and bake half of the dough. While the first batch is in the oven, the remaining dough can be prepared for baking. Avoid using a nonstick skillet to brown the butter. The dark color of the nonstick coating makes it difficult to gauge when the butter is sufficiently browned. Use fresh brown sugar, as older (read: harder and drier) brown sugar will make the cookies too dry."
+prep: "30 min"
+cook: "30 min"
+yield: "Makes 24 cookies"
 categories:
   - Desserts
 subcategories:

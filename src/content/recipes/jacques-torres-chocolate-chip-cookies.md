@@ -1,6 +1,10 @@
 ---
 title: "Jacques Torres Chocolate Chip Cookies"
 description: "Now, these are the *best* chocolate chip cookies, edging just past Cook's Illustrated. BUUUUT you have to wait 36 hours for them (no, sob!!). So, if you want cookies *now*, head over here. But, if you have more patience than me, these are worth the wait."
+prep: "20 min"
+cook: "1 hr"
+rest: "Chill 24-36 hr"
+yield: "Makes about 18 large cookies"
 categories:
   - Desserts
 subcategories:

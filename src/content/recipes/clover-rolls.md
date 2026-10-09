@@ -1,6 +1,10 @@
 ---
 title: "Clover Rolls"
 description: "Another delicious Peggy recipe! These rolls freeze well, so make a batch and then pull them out when needed."
+prep: "40 min"
+cook: "10 min"
+rest: "Rise 2 1/2 hr"
+yield: "Makes 24 rolls"
 categories:
   - Breads and Baked Goods
 tags:

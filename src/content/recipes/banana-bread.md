@@ -2,6 +2,9 @@
 title: "Banana Bread"
 description: "a very moist banana bread recipe."
 added: 2025-01-23
+prep: "15 min"
+cook: "1 hr 10 min"
+yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
 dietary:

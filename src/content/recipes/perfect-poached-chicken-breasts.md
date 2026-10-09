@@ -1,5 +1,9 @@
 ---
 title: "Perfect Poached Chicken Breasts"
+prep: "10 min"
+cook: "40 min"
+rest: "Brine 30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

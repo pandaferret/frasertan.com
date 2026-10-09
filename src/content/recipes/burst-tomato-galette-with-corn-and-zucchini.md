@@ -1,6 +1,10 @@
 ---
 title: "Burst Tomato Galette with Corn and Zucchini"
 description: "This is a gem of a recipe from Smitten Kitchen. It captures the essence of summer, full of ripe vegetables bursting with flavor! Who said galettes are just for dessert? The cheese grated onto the crust makes this one especially scrumptious."
+prep: "40 min"
+cook: "50 min"
+rest: "Chill 1 hr"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

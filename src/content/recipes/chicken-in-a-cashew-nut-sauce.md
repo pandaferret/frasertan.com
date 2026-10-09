@@ -1,6 +1,9 @@
 ---
 title: "Chicken in a Cashew Nut Sauce"
 description: "A delicious chicken recipe from 5 Spices, 50 Recipes."
+prep: "15 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

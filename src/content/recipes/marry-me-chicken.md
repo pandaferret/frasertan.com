@@ -2,6 +2,8 @@
 title: "Marry Me Chicken"
 description: "Despite the slightly cringe name, this is a delicious and easy weeknight chicken skillet dinner."
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

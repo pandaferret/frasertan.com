@@ -1,6 +1,10 @@
 ---
 title: "Pecan Sandies"
 description: "I've never been a huge fan of nuts in desserts.... and then I made [Peach and Pecan Sandy Crumble](/recipes/peach-and-pecan-sandy-crumble/), and the toasted pecans blew my mind! So, of course I made these next, and devoured almost the entire batch on my own."
+prep: "40 min"
+cook: "40 min"
+rest: "Chill 3 hr"
+yield: "Makes about 160 small cookies"
 categories:
   - Desserts
 subcategories:

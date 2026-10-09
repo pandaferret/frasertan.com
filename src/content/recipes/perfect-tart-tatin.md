@@ -2,6 +2,9 @@
 title: "Smitten Kitchen's Perfect Tart Tatin"
 description: "Simplicity itself - if you get all the details right! Thankfully Deb did a lot of the legwork for us! You should definitely read her copious notes here to learn the details on why to do things the way she outlines."
 yield: "Serves 8"
+prep: "30 min"
+cook: "45 min"
+rest: "Cool 30 min to 1 hr"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Grapefruit Tart"
 description: "From Cook's Country, this is a very tart tart. Very tart. You have been warned ;)"
+prep: "30 min"
+cook: "20 min"
+rest: "Cool 30 min, chill 1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

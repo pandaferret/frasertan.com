@@ -1,6 +1,10 @@
 ---
 title: "Cream Cheese Pound Cake"
 description: "This is a great recipe that makes a HUGE 12-cup pound cake in a full sized Bundt pan. The tang of the cream cheese is beautiful - this may just be my go-to pound cake from now. Try halving the recipe for a 6 cup Bundt pan or a loaf pan, or three mini loaf pans."
+prep: "25 min"
+cook: "1 hr 30 min"
+rest: "Cool 2 hr"
+yield: "Serves 16"
 categories:
   - Desserts
 subcategories:

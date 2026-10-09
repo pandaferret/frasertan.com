@@ -1,6 +1,9 @@
 ---
 title: "Famous Waffles Clarence, Steve remix"
 description: "We got this recipe from a friend when we needed to get more fiber into our little one. These waffles are a-MAY-zing! They are sturdy yet tender, with a delicious chew and a lovely sweet/savory flavor balance. They reheat wonderfully in the toaster oven too so make a big batch and freeze 'em!"
+prep: "10 min"
+cook: "20 min"
+yield: "Makes about 12 waffles"
 categories:
   - Breakfast
 dietary:

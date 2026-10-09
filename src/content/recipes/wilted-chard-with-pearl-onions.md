@@ -1,6 +1,9 @@
 ---
 title: "Wilted Chard with Pearl Onions"
 description: "If making these the same day as the short ribs, cook the onions while the beef ribs are coming up to room temperature."
+prep: "20 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

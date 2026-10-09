@@ -1,6 +1,9 @@
 ---
 title: "Corn on the Cob, Many Ways"
 description: "Corn on the cob is the best thing in the world!! Here are a few easy ways to cook it."
+prep: "5 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 tags:

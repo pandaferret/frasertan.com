@@ -1,6 +1,9 @@
 ---
 title: "Lentil Soup with Sausage, Chard and Garlic"
 description: "OMG this is delicious stop reading this intro and go make this soup now"
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

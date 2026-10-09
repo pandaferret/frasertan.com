@@ -2,6 +2,9 @@
 title: "Garlic Butter Steak Bites"
 description: "Inspired by the bite-size steak tips beloved in New England, these are marinated in soy sauce and olive oil, then finished in the pan with a swirl of butter, garlic and parsley. Make this on a weeknight by setting it to marinate in the morning! Serve with bread to swipe up the rich sauce, or with toothpicks for easy snacking."
 yield: "Serves 4"
+prep: "10 min"
+cook: "15 min"
+rest: "Marinate 30 min to overnight"
 categories:
   - Main Dishes
   - Starters

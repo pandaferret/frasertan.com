@@ -1,6 +1,10 @@
 ---
 title: "Chicken Curry (inspired by tikka masala)"
 description: "Not fully tikka masala, but delicious nonetheless!"
+prep: "20 min"
+cook: "50 min"
+rest: "Marinate up to 1 day"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

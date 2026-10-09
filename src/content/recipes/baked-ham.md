@@ -1,6 +1,9 @@
 ---
 title: "Baked Ham"
 description: "The best ham I've ever had comes from Root Down Farms, and now I get one for Christmas dinner each year. This is less of a direct recipe and more of an inspiration. You can warm your ham in the sous vide, or in the oven. The relevant part is the high heat and glazing."
+prep: "10 min"
+cook: "3 hr 30 min"
+yield: "Serves 10-12"
 categories:
   - Main Dishes
 subcategories:

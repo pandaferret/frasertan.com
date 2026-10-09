@@ -3,6 +3,7 @@ title: "Fresh Corn and Black Bean Salad With Corn Chips"
 description: "A superquick corn and black bean salad enlivened with crackly corn chips, in the spirit of fattoush and panzanella. The corn, beans, cilantro, and dressing can mingle up to 4 hours ahead — add the corn chips and avocado just before serving so they stay crisp."
 yield: "Serves 4-6"
 added: 2026-09-14
+prep: "20 min"
 categories:
   - Salads
 tags:

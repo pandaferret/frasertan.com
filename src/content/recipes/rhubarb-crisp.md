@@ -3,6 +3,8 @@ title: "Rhubarb Crisp"
 description: "Mark Bittman's take on rhubarb crisp — a lower-effort alternative to [strawberry-rhubarb pie](/recipes/strawberry-rhubarb-pie/). Fresh rhubarb is tossed with a little sugar and citrus, then topped with a food-processor crumble of butter, brown sugar, flour, cinnamon, oats and pecans, and baked until golden."
 yield: "Serves 6-8"
 added: 2026-09-15
+prep: "20 min"
+cook: "50 min"
 categories:
   - Desserts
 subcategories:

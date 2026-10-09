@@ -2,6 +2,9 @@
 title: "Banana Pecan Muffins"
 description: "Modified from an excellent Cook's Illustrated recipe!"
 added: 2025-01-22
+prep: "15 min"
+cook: "20 min"
+yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
 dietary:

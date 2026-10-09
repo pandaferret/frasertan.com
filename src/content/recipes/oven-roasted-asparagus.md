@@ -1,5 +1,8 @@
 ---
 title: "Oven-Roasted Asparagus"
+prep: "5 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 tags:

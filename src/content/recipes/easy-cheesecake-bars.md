@@ -1,6 +1,10 @@
 ---
 title: "Easy Cheesecake Bars"
 description: "From Smitten Kitchen! What more do you need to know? You can play around with all the elements of this recipe to create your perfect bar!"
+prep: "25 min"
+cook: "45 min"
+rest: "Chill 2 hr to overnight"
+yield: "Makes 24 bars"
 categories:
   - Desserts
 subcategories:

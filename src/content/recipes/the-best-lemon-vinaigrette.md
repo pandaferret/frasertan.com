@@ -1,6 +1,8 @@
 ---
 title: "The Best Lemon Vinaigrette"
 description: "From Jeanne!"
+prep: "5 min"
+yield: "Makes about 1 cup"
 categories:
   - Salads
 dietary:

@@ -2,6 +2,9 @@
 title: "No-Bake Chocolate Cheesecake"
 description: "This is the most delicious and easiest cheesecake ever...... oh my god so good. But so rich - so very very rich."
 yield: "Serves 16"
+prep: "30 min"
+cook: "5 min"
+rest: "Chill 6 hr"
 categories:
   - Desserts
 subcategories:

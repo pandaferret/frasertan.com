@@ -1,6 +1,9 @@
 ---
 title: "Slow Cooker Split Pea Soup"
 description: "This is an amazing recipe from Cook's Illustrated. It's really simple to get started. I serve this with homemade rolls."
+prep: "15 min"
+cook: "12 hr"
+yield: "Serves 8"
 categories:
   - Soups and Stews
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Kaiserschmarrn (Austrian torn fluffy pancake)"
 description: "I came across this gem from Deb while we're holed up in the great COVID-19 shelter in place of 2020. It's swiftly becoming one of my comfort foods in this trying time."
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 2-3"
 categories:
   - Breakfast
 dietary:

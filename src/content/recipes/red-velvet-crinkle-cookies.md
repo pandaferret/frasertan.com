@@ -2,6 +2,8 @@
 title: "Red Velvet Crinkle Cookies"
 description: "These were a hit from Holiday Baking 2023 with Jess!"
 yield: "Makes 24 cookies"
+prep: "20 min"
+cook: "20 min"
 categories:
   - Desserts
 subcategories:

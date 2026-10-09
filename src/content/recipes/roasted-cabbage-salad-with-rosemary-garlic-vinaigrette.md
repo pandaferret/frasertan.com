@@ -3,6 +3,8 @@ title: "Roasted Cabbage Salad with Rosemary-Garlic Vinaigrette"
 description: "OMG this was so delicious I made it two days in a row!"
 yield: "Serves 6"
 added: 2026-02-17
+prep: "15 min"
+cook: "20 min"
 categories:
   - Salads
   - Side Dishes

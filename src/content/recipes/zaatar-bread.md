@@ -1,6 +1,10 @@
 ---
 title: "Za'atar Bread"
 description: "This bread is easy, all you need is a bit of time (at least 24 hours). I plan to try additional toppings - but the za'atar was delicious!"
+prep: "20 min"
+cook: "25 min"
+rest: "Chill 24 hr, rest 2 hr"
+yield: "Serves 8-10"
 categories:
   - Breads and Baked Goods
 dietary:

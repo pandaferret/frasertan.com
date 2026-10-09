@@ -1,6 +1,9 @@
 ---
 title: "Thick and Chewy Chocolate Chip Cookies"
 description: "These are *the* go-to cookies in my house! From (where else?) Cook's Illustrated."
+prep: "15 min"
+cook: "35 min"
+yield: "Makes 18 cookies"
 categories:
   - Desserts
 subcategories:

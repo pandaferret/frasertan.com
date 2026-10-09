@@ -1,6 +1,10 @@
 ---
 title: "Cast Iron Skillet Chocolate Chip Cookie"
 description: "This seems to be all the rage right now, so I thought I'd try it out. As the minority Thin and Crispy cookie lover in the house, I was a bit skeptical about a single large cookie, and my fears were proven correct as I nibbled on the interior portion of my cookie wedge. Then I got to the outside edge and everything changed - it was thick yet crispy, and ultimately satisfying. So this recipe stays in the family - I call dibs on the edges!"
+prep: "20 min"
+cook: "25 min"
+rest: "Cool 30 min"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

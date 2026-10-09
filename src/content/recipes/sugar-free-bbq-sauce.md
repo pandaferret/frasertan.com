@@ -1,6 +1,9 @@
 ---
 title: "Sugar-Free BBQ Sauce"
 description: "This sugar-free BBQ sauce recipe comes to us courtesy of Da Boyz! Use it to make Instant Pot Shredded BBQ Chicken. Tweak to make this your own!"
+prep: "5 min"
+cook: "1 hr 30 min"
+yield: "Makes about 2 cups"
 categories:
   - Sauces and Dips
 tags:

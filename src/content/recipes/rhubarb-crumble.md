@@ -2,6 +2,8 @@
 title: "Rhubarb Crumble"
 description: "Easy and delicious and so wonderful in spring!"
 yield: "Serves 6-8"
+prep: "20 min"
+cook: "1 hr"
 categories:
   - Desserts
 subcategories:

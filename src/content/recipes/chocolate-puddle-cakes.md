@@ -1,6 +1,9 @@
 ---
 title: "Chocolate Puddle Cakes"
 description: "These are another take on [molten chocolate lava cakes](/recipes/molten-chocolate-lava-cakes/), but this time gluten free!"
+prep: "15 min"
+cook: "10 min"
+yield: "Serves 2"
 categories:
   - Desserts
 subcategories:

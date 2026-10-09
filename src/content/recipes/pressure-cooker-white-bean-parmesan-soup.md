@@ -1,6 +1,9 @@
 ---
 title: "Pressure Cooker White Bean-Parmesan Soup"
 description: "The Instant Pot makes this an easy soup to prep - no long soaking of dried beans! A pressure cooker renders dried beans buttery soft in a fraction of the time the stovetop would take. For this recipe, seek out whole wheat berries — not hulled or pearled — because they stand up to the long cook time, developing a pleasant chewiness while maintaining their shape. You can substitute whole farro or spelt, but make sure the farro is not pearled. The key to this soup’s flavor is the Parmesan rind, which infuses the soup with an earthy saltiness. Finally, don’t forget the finishing touches of lemon and parsley: They add brightness and bring other deeper flavors into sharper focus. You can also make this recipe in a slow cooker. Find that recipe here."
+prep: "20 min"
+cook: "2 hr"
+yield: "Serves 8"
 categories:
   - Soups and Stews
 subcategories:

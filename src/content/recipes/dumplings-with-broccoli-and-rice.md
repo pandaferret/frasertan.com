@@ -2,6 +2,8 @@
 title: "Dumplings with Broccoli and Rice"
 description: "This may be as close to a weeknight staple as we have."
 yield: "Serves 3"
+prep: "5 min"
+cook: "30 min"
 categories:
   - Main Dishes
 subcategories:

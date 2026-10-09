@@ -1,6 +1,9 @@
 ---
 title: "Sausages and Greens"
 description: "This is one of those simple recipes that almost doesn't even need a recipe. It's also infinitely flexible, so try out different variations 'til you hit on the one you love!"
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

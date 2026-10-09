@@ -1,6 +1,9 @@
 ---
 title: "Baked Tortellini for Two"
 description: "From Cook's Illustrated. So yummy! and lovingly sized for two, or for one with leftovers! The sauce would also stand well on its own."
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 2"
 categories:
   - Main Dishes
 subcategories:

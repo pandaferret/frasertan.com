@@ -1,6 +1,9 @@
 ---
 title: "Skillet Chicken Fajitas"
 description: "Quick easy and delicious!"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

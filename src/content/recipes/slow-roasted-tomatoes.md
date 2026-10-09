@@ -1,6 +1,9 @@
 ---
 title: "Slow Roasted Tomatoes"
 description: "This is more of a miscellaneous than a side dish, but either way is delish! I'll let Deb of Smitten Kitchen fully describe how to turn fresh grape tomatoes into small nuggets of pure bliss."
+prep: "15 min"
+cook: "3 hr"
+yield: "Makes about 2 cups"
 categories:
   - Side Dishes
 tags:

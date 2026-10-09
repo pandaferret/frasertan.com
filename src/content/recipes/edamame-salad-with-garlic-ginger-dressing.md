@@ -2,6 +2,7 @@
 title: "Edamame Salad with Garlic Ginger Dressing"
 yield: "Serves 4-6"
 added: 2025-08-15
+prep: "15 min"
 categories:
   - Salads
 tags:

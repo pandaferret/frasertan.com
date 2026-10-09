@@ -5,6 +5,10 @@ quote:
   author: "Cook's Illustrated"
   text: |
     We wanted a voluptuously creamy chocolate cream pie recipe, with a well-balanced chocolate flavor somewhere between milkshake and melted candy bar. We also wanted our chocolate cream pie to have an easy-to-slice crust. A combination of semisweet and unsweetened chocolate produced the ultimate rounded, intense chocolate flavor. Custard texture depended upon carefully pouring the egg yolk mixture into simmering half-and-half, then whisking in cold butter. After testing every type of cookie on the market, we hit on pulverized Oreos and a bit of melted butter for the tastiest, most tender, sliceable crumb crust. For the best chocolate flavor and texture, we recommend either Callebaut semisweet and unsweetened chocolates or Hershey's Special Dark and Hershey's unsweetened chocolates. Do not combine the yolks and sugar in advance of making the filling--the sugar will begin to denature the yolks, and the finished cream will be pitted.
+prep: "40 min"
+cook: "15 min"
+rest: "Chill 3 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

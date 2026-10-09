@@ -1,6 +1,10 @@
 ---
 title: "Better Chocolate Babka"
 description: "Chocolate babkas are amazing - well, any babka is amazing. This recipe from Deb helps streamline a few of the more finicky steps, but the time and effort is worth it!"
+prep: "1 hr"
+cook: "30 min"
+rest: "Chill 12 hr to overnight, rise 1 1/2 hr"
+yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
 dietary:

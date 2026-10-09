@@ -1,6 +1,9 @@
 ---
 title: "Tomato and Zucchini Casserole"
 description: "When you plant tomatoes and zucchini in California... you need a way to use them all up!"
+prep: "15 min"
+cook: "45 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 dietary:

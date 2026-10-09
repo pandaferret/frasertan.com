@@ -1,6 +1,9 @@
 ---
 title: "Coffee Toffee Cookies"
 description: "Two of my favorite flavors in one easy-to-make cookie! What more could I ask for? From America's Test Kitchen: You can substitute espresso granules for the espresso powder; however, they might not dissolve as readily in the water. These cookies taste great at room temperature, but they're best when served still warm from the oven."
+prep: "15 min"
+cook: "35 min"
+yield: "Makes about 24 cookies"
 categories:
   - Desserts
 subcategories:

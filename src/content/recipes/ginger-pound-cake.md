@@ -5,6 +5,10 @@ quote:
   author: "Cook's Illustrated"
   text: |
     We retooled the classic pound cake recipe to make it ultra-plush every time. Our first big discovery was to start with chilly 60-degree butter, since room-temperature butter became too warm after all the creaming that was needed to combine the large quantities of butter and sugar in the cake. We found the eggs also needed to be at 60 degrees so they would not deflate the batter as they were added. Finally, we chose cake flour (all-purpose flour was too protein-rich and delivered dry, tough cakes), but the flour's softness required that we not overwork the batter when adding the flour. Sifting the flour over the batter and folding it in by hand was the method that worked best.
+prep: "30 min"
+cook: "1 hr 15 min"
+rest: "Cool 2 hr"
+yield: "Makes 1 loaf"
 categories:
   - Desserts
 subcategories:

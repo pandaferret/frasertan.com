@@ -1,6 +1,9 @@
 ---
 title: "Instant Pot Indian Veggie Curry"
 description: "I'm slowly teching up with my Instant Pot; I seem to be in the minority who neither love nor hate this contraption. This recipe has definitely tipped me towards the lurve side; delicious, healthy, easy (aside from all the chopping) - if you prep the veggies beforehand, this could come together easily for a weeknight meal."
+prep: "20 min"
+cook: "30 min (5 hr slow cook)"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
   - Side Dishes

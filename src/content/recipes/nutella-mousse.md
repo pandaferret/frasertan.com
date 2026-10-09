@@ -1,6 +1,9 @@
 ---
 title: "Nutella Mousse"
 description: "This recipe has been cobbled together from a few sources on the web, primarily from My Baking Addiction. Best of all - no raw eggs! Soooooooooo delicious!"
+prep: "10 min"
+rest: "Chill 1 hr"
+yield: "Serves 4"
 categories:
   - Desserts
 subcategories:

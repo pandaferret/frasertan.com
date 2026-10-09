@@ -1,6 +1,10 @@
 ---
 title: "Liege Waffles (from Allrecipes)"
 description: "While Smitten Kitchen's recipe is great, it does take a bit of planning. These come together the same morning as you want them (well, if you wake up with the sun like I do thanks to a very cheerful four-year-old) and are deeeeeeeelicous!"
+prep: "20 min"
+cook: "30 min"
+rest: "Rise 45 min"
+yield: "Makes about 12 waffles"
 categories:
   - Breakfast
 dietary:

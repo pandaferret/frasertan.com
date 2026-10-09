@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Financiers"
 description: "These delicious treats are gluten free! Thanks Deb!"
+prep: "15 min"
+cook: "15 min"
+rest: "Cool 30 min"
+yield: "Makes 24 financiers"
 categories:
   - Desserts
 subcategories:

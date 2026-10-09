@@ -2,6 +2,9 @@
 title: "Easy Cornbread"
 description: "from the Internet - thank you Google!"
 added: 2025-01-23
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 9"
 categories:
   - Breads and Baked Goods
 dietary:

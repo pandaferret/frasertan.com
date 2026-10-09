@@ -1,5 +1,8 @@
 ---
 title: "Creamy Mashed Potatoes"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 dietary:

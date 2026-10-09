@@ -2,6 +2,8 @@
 title: "Lemony Orzo With Asparagus and Garlic Bread Crumbs"
 description: "Every spoonful of this pasta has a happy jumble of lemony orzo, grassy asparagus, garlicky bread crumbs, fresh herbs and salty Parmesan. The pasta and thinly sliced asparagus cook together in the same pot, then rest in a lemony dressing while the garlic bread crumbs are toasted, so the pasta has time to absorb as much flavor as possible."
 yield: "Serves 4"
+prep: "15 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

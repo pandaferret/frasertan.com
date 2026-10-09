@@ -1,6 +1,9 @@
 ---
 title: "Brown Butter Skillet Cornbread"
 description: "This is a sweet and moist cornbread that pairs well with spicy chilis. From the New York Times. While the original recipe calls for an 11-12 inch cast iron skillet, this recipe has routinely overfilled my skillet. Thus, I'd recommend a bigger skillet; either cast iron or enameled (like Le Creuset). You can also use a 9 x 13 baking dish; preheat it in the oven before adding the batter."
+prep: "15 min"
+cook: "40 min"
+yield: "Serves 8-10"
 categories:
   - Breads and Baked Goods
 tags:

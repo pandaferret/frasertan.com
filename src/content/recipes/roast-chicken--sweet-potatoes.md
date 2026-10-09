@@ -2,6 +2,9 @@
 title: "Roast Chicken & Sweet Potatoes (A sheet pan recipe)"
 description: "Made for us by Autumn! Very versatile - also had broccolini. Can play with the veggies and the sauce."
 added: 2025-02-11
+prep: "15 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

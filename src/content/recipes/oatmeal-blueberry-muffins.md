@@ -2,6 +2,9 @@
 title: "Oatmeal Blueberry Muffins"
 description: "More yummy toddler muffins! Bonus: these are vegan!"
 added: 2025-01-23
+prep: "10 min"
+cook: "15 min"
+yield: "Makes about 30 mini muffins"
 categories:
   - Breads and Baked Goods
 dietary:

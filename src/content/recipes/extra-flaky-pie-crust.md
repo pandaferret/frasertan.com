@@ -1,6 +1,9 @@
 ---
 title: "Extra-flaky Pie Crust"
 description: "This is by far the best pie crust I've ever made; Deb asked me to trust her, and I did, and it was so worth it! Previously, my pie dough rules were: use all butter (it’s very flaky if used well, and tasty too), keep everything cold, use a pastry blender, work the butter into the flour until the largest bits are the size of small peas, and only use enough water to pull the dough together. I am still loyal to all-butter crusts, but I’ve come around to mixing your dough with your fingers (with a satisfying squash of each cube, although I’m never giving up my pastry blender), I’ve added a little folding to the rolling-out steps, which improves structure and increases the expansion of flaky layer, and that with this, you can get away with leaving the butter in larger, lima bean-sized pieces. Finally, I actually get the dough pretty damp — you’ll be sure it’s too soft and sticky, but I promise, it’s not — and it’s not a problem at all. In fact, because we’re using a higher proportion of butter in this dough, and butter is very hard when it’s cold, I find that this extra moisture makes what would otherwise be a very firm dough easier to roll."
+prep: "20 min"
+rest: "Chill 1-2 hr"
+yield: "Makes 2 crusts"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Cast Iron Fried Onion Hamburgers"
 description: "Cook's Illustrated points out that this technique was pioneered to save meat during the Depression, but it's just too delicious to pass up! These make a great non-grill-requiring hamburger for colder winter months."
+prep: "15 min"
+cook: "15 min"
+rest: "Salt onions 30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

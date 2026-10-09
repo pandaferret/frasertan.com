@@ -1,6 +1,9 @@
 ---
 title: "Rigatoni alla Vodka"
 description: "Quick, easy and delicious!"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Red Wine Chocolate Cake"
 description: "Based on [Smitten Kitchen's Everyday Chocolate Cake](/recipes/everyday-chocolate-cake/), this is a boozy grown-up version. As Deb notes, the flavor of the wine comes through - not enough to make you tipsy, but certainly enough to preclude this cake from being served at children's birthday parties."
+prep: "15 min"
+cook: "30 min"
+rest: "Cool 1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

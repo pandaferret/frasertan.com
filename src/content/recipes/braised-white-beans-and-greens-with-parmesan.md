@@ -2,6 +2,8 @@
 title: "Braised White Beans and Greens With Parmesan"
 description: "Inspired by the Italian dish of sautéed puntarelle and white beans, this makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages. Kale or escarole work well in place of the Swiss chard. Serve in shallow bowls with toasted country bread to mop up the garlicky broth."
 yield: "Serves 4"
+prep: "15 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

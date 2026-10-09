@@ -1,6 +1,10 @@
 ---
 title: "Essential Raised Waffles"
 description: "With just a tweak or two, these waffles have a lovely tang and great crispy crunch - another winner from Deb!"
+prep: "15 min"
+cook: "30 min"
+rest: "Rise overnight"
+yield: "Makes 8-10 waffles"
 categories:
   - Breakfast
 dietary:

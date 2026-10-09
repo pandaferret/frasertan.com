@@ -1,6 +1,10 @@
 ---
 title: "Nutella-Stuffed Brown Butter + Sea Salt Chocolate Chip Cookies"
 description: "Yes, these are a bit over the top but they are sooooo worth it."
+prep: "40 min"
+cook: "35 min"
+rest: "Chill 2 hr"
+yield: "Makes about 30 cookies"
 categories:
   - Desserts
 subcategories:

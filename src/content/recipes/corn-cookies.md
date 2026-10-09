@@ -1,6 +1,10 @@
 ---
 title: "Corn Cookies"
 description: "From Momofuku Milk Bar"
+prep: "20 min"
+cook: "40 min"
+rest: "Chill 1 hr to 1 week"
+yield: "Makes about 15 cookies"
 categories:
   - Desserts
 subcategories:

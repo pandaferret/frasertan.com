@@ -1,6 +1,9 @@
 ---
 title: "Chutney Curry Chicken Spread"
 description: "A delicious warm dip, courtesy of Peggy."
+prep: "10 min"
+cook: "15 min"
+yield: "Serves 6-8"
 categories:
   - Starters
 dietary:

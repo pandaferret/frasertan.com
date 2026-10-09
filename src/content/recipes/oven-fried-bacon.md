@@ -1,6 +1,9 @@
 ---
 title: "Oven-Fried Bacon"
 description: "Perfect bacon every time, courtesy of Cook's Illustrated!"
+prep: "5 min"
+cook: "20 min"
+yield: "Serves 4-6"
 categories:
   - Breakfast
 dietary:

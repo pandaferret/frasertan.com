@@ -1,6 +1,9 @@
 ---
 title: "Pasta with Bolognese Sauce"
 description: "Another gem from Cook's Illustrated! This recipe gave me a good excuse to explore Luca's Italian grocery in the Mission."
+prep: "25 min"
+cook: "1 hr"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

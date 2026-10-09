@@ -1,6 +1,8 @@
 ---
 title: "Weeknight Sausage Pasta with Spinach"
 yield: "Serves 6"
+prep: "10 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

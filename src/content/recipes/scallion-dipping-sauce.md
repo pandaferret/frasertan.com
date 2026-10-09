@@ -1,5 +1,7 @@
 ---
 title: "Scallion Dipping Sauce"
+prep: "5 min"
+yield: "Makes about 3/4 cup"
 categories:
   - Sauces and Dips
 dietary:

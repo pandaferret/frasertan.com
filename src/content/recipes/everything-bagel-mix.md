@@ -1,5 +1,7 @@
 ---
 title: "Everything Bagel Mix"
+prep: "5 min"
+yield: "Makes about 1/4 cup"
 categories:
   - Breads and Baked Goods
 dietary:

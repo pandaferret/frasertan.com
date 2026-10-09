@@ -1,6 +1,10 @@
 ---
 title: "Everyday Meatballs"
 description: "These are easy and delicious - they're already a staple in our meal rotation!! Thanks as always, Deb!"
+prep: "20 min"
+cook: "40 min"
+rest: "Chill 30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

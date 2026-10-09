@@ -1,5 +1,8 @@
 ---
 title: "Momofuku Milk Bar Bagel Bombs"
+prep: "30 min"
+cook: "30 min"
+yield: "Makes 8 bagel bombs"
 categories:
   - Breads and Baked Goods
 ---

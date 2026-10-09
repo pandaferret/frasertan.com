@@ -1,6 +1,8 @@
 ---
 title: "Elote-Inspired Pasta Salad"
 yield: "Serves 6"
+prep: "15 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

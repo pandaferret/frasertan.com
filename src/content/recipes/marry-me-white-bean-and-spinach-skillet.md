@@ -3,6 +3,8 @@ title: "Marry Me White Bean & Spinach Skillet"
 description: "A one-pan vegetarian dinner winner, perfect for a quick, meatless weeknight meal. Creamy white beans marry with tangy sun-dried tomatoes, garlic and sweet shallots in a rich, velvety sauce. Any creamy white bean works, or use chickpeas; kale or Swiss chard can stand in for the spinach."
 yield: "Serves 4"
 added: 2025-06-01
+prep: "10 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

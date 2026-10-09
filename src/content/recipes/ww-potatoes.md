@@ -1,6 +1,9 @@
 ---
 title: "Mom's Weight Watcher Potatoes"
 description: "Easy and delicious!"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

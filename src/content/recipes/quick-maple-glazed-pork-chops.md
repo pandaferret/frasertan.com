@@ -1,6 +1,9 @@
 ---
 title: "Quick Maple-Glazed Pork Chops"
 description: "Delicious and easy from America's Test Kitchen! I'm learning not to be afraid of cooking pork :)"
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Japanese Milk Bread Rolls"
 description: "Tangzhong makes these rolls extra sweet, soft and fluffy!"
+prep: "25 min"
+cook: "30 min"
+rest: "Rise 2 hr 15 min"
+yield: "Makes 8 rolls"
 categories:
   - Breads and Baked Goods
 dietary:

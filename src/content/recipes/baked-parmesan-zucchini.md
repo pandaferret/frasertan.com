@@ -1,5 +1,8 @@
 ---
 title: "Baked Parmesan Zucchini"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

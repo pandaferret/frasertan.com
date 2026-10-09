@@ -1,6 +1,9 @@
 ---
 title: "Basic Risotto"
 description: 'While you might think risotto is one of those dishes that only chefs at fancy restaurants can make, it''s not! It''s very simple to make at home, and you can throw anything you want into it. It''s another one of my "use up leftovers" dishes that can also be dressed up for company.'
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 3-4"
 categories:
   - Main Dishes
   - Side Dishes

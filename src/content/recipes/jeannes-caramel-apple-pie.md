@@ -1,6 +1,10 @@
 ---
 title: "Jeanne's Caramel Apple Pie"
 description: "This pie is AMAZING. The crust is easy to work with, and the caramel is a lovely addition to the traditional apple filling. Thanks Jeanne!!"
+prep: "1 hr"
+cook: "1 hr"
+rest: "Chill 1 hr, cool 2 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

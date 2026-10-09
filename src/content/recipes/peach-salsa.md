@@ -1,6 +1,8 @@
 ---
 title: "Peach Salsa"
 description: "A family favorite!"
+prep: "15 min"
+yield: "Serves 4-6"
 categories:
   - Sauces and Dips
   - Side Dishes

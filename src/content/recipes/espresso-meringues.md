@@ -1,6 +1,10 @@
 ---
 title: "Espresso Meringues"
 description: "From Cook's Illustrated. These were much easier than I anticipated and totally delicious. Because of the nature of the batter, you do have to bake the cookies as soon as possible, so don't double the batch unless you have double the oven space too. (In a related note, thank you to upstairs neighbors for emergency oven use!)"
+prep: "20 min"
+cook: "1 hr"
+rest: "Cool 1 hr"
+yield: "Makes 48 meringues"
 categories:
   - Desserts
 subcategories:

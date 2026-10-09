@@ -1,6 +1,8 @@
 ---
 title: "Dips for Dinner!"
 description: "Less a recipe than a game plan: a spread of dips and dippers makes a fun, easy dinner for however many people you like."
+prep: "30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

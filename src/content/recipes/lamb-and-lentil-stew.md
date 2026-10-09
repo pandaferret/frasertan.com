@@ -1,5 +1,8 @@
 ---
 title: "Lamb and Lentil Stew"
+prep: "15 min"
+cook: "7 hr"
+yield: "Serves 6-8"
 categories:
   - Soups and Stews
 subcategories:

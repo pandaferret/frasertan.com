@@ -1,5 +1,8 @@
 ---
 title: "Butternut Squash Risotto"
+prep: "20 min"
+cook: "45 min"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

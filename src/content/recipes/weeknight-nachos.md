@@ -1,6 +1,9 @@
 ---
 title: "Weeknight Nachos"
 description: 'With this recipe from Smitten Kitchen, you too can enjoy hearing these precious words from your four-year-old: "Mommy I love what you make for dinner!"'
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,8 @@
 title: "Steak Caesar Salad"
 description: "Easy peasy OMG delicious - a lovely anchovy-free Caesar salad"
 yield: "Serves 4-6"
+prep: "20 min"
+cook: "25 min"
 categories:
   - Salads
 tags:

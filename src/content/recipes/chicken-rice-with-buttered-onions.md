@@ -3,6 +3,8 @@ title: "Chicken Rice with Buttered Onions"
 description: "Another yummy one from Smitten Kitchen!"
 yield: "Serves 4 to 6"
 added: 2025-02-11
+prep: "15 min"
+cook: "1 hr 5 min"
 categories:
   - Main Dishes
 subcategories:

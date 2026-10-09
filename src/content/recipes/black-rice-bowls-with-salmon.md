@@ -1,6 +1,9 @@
 ---
 title: "Black Rice Bowls with Salmon"
 description: "Healthy and delicious - what more do you need? Plus, with the pop of the dark colored rice, this dish is visually stunning. Black rice is an ancient grain that was once reserved for the emperors of China. Its dark color signifies the presence of anthocyanins, and it contains more protein, fiber, and iron than other rice varieties. We decided to use it in a Japanese-style rice bowl. To ensure well-seasoned grains with a bit of chew, we boiled the rice like pasta, and then drizzled it with a mix of rice vinegar, mirin, miso, and ginger. We roasted wild salmon fillets until medium-rare and then arranged them atop the rice before garnishing our bowls with radishes, avocado, cucumber, nori, and scallions. Skin-on salmon fillets hold together best during cooking, and the skin helps keep the fish moist. If your salmon is less than 1 inch thick, start checking for doneness early. If using farmed salmon, cook until thickest part registers 125 degrees. Nori is seaweed that has been dried and pressed into sheets for rolling sushi; you can find it in the international foods aisle of the supermarket."
+prep: "25 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

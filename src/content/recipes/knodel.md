@@ -1,6 +1,10 @@
 ---
 title: "Knodel"
 description: "So, in Austria, these fruit dumplings are not technically a dessert. Served for lunch, people will sprinkle them with as much or as little sugar as they like and down up to 6 to 7 of them at once. But I like mine with LOTS of sugar, so I keep them in the Dessert bin in my head. This recipe comes from Eric's Austrian host mother, Christine, who kindly showed us the ropes."
+prep: "40 min"
+cook: "30 min"
+rest: "Rest dough 1 hr"
+yield: "Makes 6-7 dumplings"
 categories:
   - Desserts
 subcategories:

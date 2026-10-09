@@ -2,6 +2,9 @@
 title: "Beef and Sweet Potato Bowls with Sriracha Mayo"
 description: "This was a hit with Eric and Owen! 15-ish mins to chop the sweet potatoes, then 30 to roast them."
 added: 2026-01-04
+prep: "20 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

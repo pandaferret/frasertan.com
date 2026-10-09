@@ -2,6 +2,9 @@
 title: "Chicken Katsu"
 description: "Bringing easy delicious food to your home, one recipe at a time! Thanks ATK! This is one of the easier fried chicken recipes - no double dipping."
 added: 2025-02-11
+prep: "25 min"
+cook: "15 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

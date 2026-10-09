@@ -1,5 +1,8 @@
 ---
 title: "Duck Fat-Roasted Potatoes"
+prep: "15 min"
+cook: "45 min"
+yield: "Serves 6"
 categories:
   - Side Dishes
 dietary:

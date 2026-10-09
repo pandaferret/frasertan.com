@@ -1,5 +1,8 @@
 ---
 title: "Modern Succotash"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 tags:

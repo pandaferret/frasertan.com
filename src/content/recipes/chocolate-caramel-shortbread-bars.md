@@ -1,5 +1,9 @@
 ---
 title: "Chocolate Caramel Shortbread Bars"
+prep: "30 min"
+cook: "45 min"
+rest: "Cool 1 hr, chill 30 min"
+yield: "Makes 24 bars"
 categories:
   - Desserts
 subcategories:

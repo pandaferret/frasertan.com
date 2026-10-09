@@ -1,6 +1,8 @@
 ---
 title: "Watermelon and Feta Salad"
 description: "Autumn brought this to a summer barbecue, and at first I was skeptical; watermelon.. and feta? With olive oil? Turns out, you should always trust Autumn - this is delicious and refreshing on a hot summer's day!"
+prep: "15 min"
+yield: "Serves 4-6"
 categories:
   - Salads
 tags:

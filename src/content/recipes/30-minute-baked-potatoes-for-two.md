@@ -4,6 +4,9 @@ quote:
   author: "Cook's Illustrated"
   text: |
     For this recipe, look for evenly sized russet potatoes with firm, unblemished skin. You can substitute sweet potatoes or yams for the potatoes. If you don’t want to use the microwave, place the potatoes directly on the middle rack of a 350-degree oven and bake until tender, about 1 hour and 15 minutes.
+prep: "5 min"
+cook: "30 min"
+yield: "Serves 2"
 categories:
   - Side Dishes
 dietary:

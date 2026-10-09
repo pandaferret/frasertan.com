@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Swirl Buns"
 description: "This is smitten kitchen's easier take on a chocolate babka. Having tried a full on babka, I can say that yes, this is easier!"
+prep: "45 min"
+cook: "20 min"
+rest: "Rise 1 1/2 hr"
+yield: "Makes 12 buns"
 categories:
   - Breads and Baked Goods
 dietary:

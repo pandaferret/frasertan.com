@@ -1,6 +1,10 @@
 ---
 title: "Coffee Crunch Ice Cream"
 description: "Makes about 1 quart"
+prep: "10 min"
+cook: "25 min"
+rest: "Chill 4 hr, freeze 2 hr"
+yield: "Makes 1 quart"
 categories:
   - Desserts
 subcategories:

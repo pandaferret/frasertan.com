@@ -2,6 +2,8 @@
 title: "Creamy Chicken Orzo"
 description: "Easy and delicious on a weeknight!"
 yield: "Serves 6-8"
+prep: "15 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

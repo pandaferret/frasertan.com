@@ -1,6 +1,10 @@
 ---
 title: "Cardamom Bread"
 description: "This is one of Peggy's favorite bread recipes. We all look forward to it at the holidays!"
+prep: "30 min"
+cook: "35 min"
+rest: "Rise 4 hr"
+yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
 tags:

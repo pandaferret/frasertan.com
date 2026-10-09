@@ -1,5 +1,8 @@
 ---
 title: "Mustard-Cream Pan Sauce"
+prep: "5 min"
+cook: "10 min"
+yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
 dietary:

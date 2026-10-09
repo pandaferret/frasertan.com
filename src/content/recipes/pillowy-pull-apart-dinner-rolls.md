@@ -1,6 +1,10 @@
 ---
 title: "Pillowy Pull-Apart Dinner Rolls"
 description: "These rolls turned out super soft and delicious! But due to having only a single rise, they're not *quite* as fluffy as [ATK's Fluffy Dinner Rolls](/recipes/fluffy-dinner-rolls-atk/) - if you have the time, I recommend those. But these are still wonderful!"
+prep: "30 min"
+cook: "20 min"
+rest: "Rise 45 min"
+yield: "Makes 24 rolls"
 categories:
   - Breads and Baked Goods
 dietary:

@@ -1,6 +1,8 @@
 ---
 title: "Graham Crust"
 description: "Makes 2 cups."
+prep: "10 min"
+yield: "Makes 1 crust"
 categories:
   - Desserts
 subcategories:

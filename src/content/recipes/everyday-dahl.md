@@ -1,6 +1,10 @@
 ---
 title: "Everyday Dahl"
 description: "Deb's quick - and easy dahl goes well with other Indian dishes and pairs well with her easy yogurt flatbreads!"
+prep: "15 min"
+cook: "1 hr"
+rest: "Soak 1 hr"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

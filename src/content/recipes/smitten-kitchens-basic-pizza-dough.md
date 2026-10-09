@@ -1,5 +1,8 @@
 ---
 title: "Smitten Kitchen's Basic Pizza Dough"
+prep: "15 min"
+rest: "Rise 1 hr 30 min"
+yield: "Makes 1 pizza"
 categories:
   - Main Dishes
 subcategories:

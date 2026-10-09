@@ -1,6 +1,9 @@
 ---
 title: "French Toast"
 description: "Yeah, pretty much everyone can make French toast by throwing together some beaten egg and toast in a pan. But, like all good things, even a basic recipe will yield better, more consistent results!"
+prep: "10 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Breakfast
 dietary:

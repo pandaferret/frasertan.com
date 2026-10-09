@@ -2,6 +2,8 @@
 title: "Mexican Hot Chocolate Cookies"
 description: "A simple but delicious cookie!"
 yield: "Makes roughly 4 dozen"
+prep: "20 min"
+cook: "40 min"
 categories:
   - Desserts
 subcategories:

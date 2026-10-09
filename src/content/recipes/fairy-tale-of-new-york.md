@@ -1,6 +1,7 @@
 ---
 title: "Fairy Tale of New York"
-yield: "Serves XX"
+yield: "Makes 1 drink"
+prep: "5 min"
 categories:
   - Drinks
 dietary:

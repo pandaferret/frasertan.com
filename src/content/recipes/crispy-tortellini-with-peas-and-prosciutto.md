@@ -1,6 +1,9 @@
 ---
 title: "Crispy Tortellini with Peas and Prosciutto"
 description: "Oh Deb you hit the trifecta here; quick, easy and delicious!"
+prep: "5 min"
+cook: "15 min"
+yield: "Serves 2-3"
 categories:
   - Main Dishes
 subcategories:

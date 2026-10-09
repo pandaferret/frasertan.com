@@ -1,7 +1,10 @@
 ---
 title: "Cream Cheese Cinnamon Rolls"
 description: "Now these are a real indulgence, but worth all the effort and every bite. These are Dana's favorite!"
-yield: "Serves XX"
+yield: "Makes 8 rolls"
+prep: "1 hr"
+cook: "30 min"
+rest: "Rise 4 hr"
 categories:
   - Breads and Baked Goods
 dietary:

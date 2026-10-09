@@ -1,6 +1,9 @@
 ---
 title: "Pasta with Butternut Squash and Sage"
 description: "Continuing my obsession with butternut squash and sage. This comes together pretty quickly and is delicious! OM NOM NOM! From Cook's Illustrated."
+prep: "20 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

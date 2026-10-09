@@ -1,6 +1,9 @@
 ---
 title: "Shallot Butter Sauce"
 description: "Pairs with [Sauteed Chicken Breast Cutlets](/recipes/sauteed-chicken-breast-cutlets/) and [Pan Seared Steaks](/recipes/pan-seared-steaks/)"
+prep: "5 min"
+cook: "5 min"
+yield: "Serves 4"
 categories:
   - Sauces and Dips
 dietary:

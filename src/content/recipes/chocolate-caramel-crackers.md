@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Caramel Crackers (aka Crack)"
 description: "These are a Christmas staple - sprinkle them with Maldon sea salt or with your favorite themed sprinkles before the chocolate sets!"
+prep: "15 min"
+cook: "20 min"
+rest: "Cool 1 hr"
+yield: "Makes about 40 pieces"
 categories:
   - Desserts
 subcategories:

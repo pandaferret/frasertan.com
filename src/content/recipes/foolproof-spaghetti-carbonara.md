@@ -1,5 +1,8 @@
 ---
 title: "Foolproof Spaghetti Carbonara"
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Sauteed Chicken Breast Cutlets"
 description: "Goes with a variety of pan sauces, but is also yummy alone!"
+prep: "10 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

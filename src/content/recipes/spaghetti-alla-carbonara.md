@@ -2,6 +2,8 @@
 title: "Spaghetti alla Carbonara"
 yield: "Serves 4 to 6"
 description: "From the all-knowing always perfect Bible of cooking - America's Test Kitchen's New Best Recipes. This recipe is delicious, but not at all good for you :)"
+prep: "10 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

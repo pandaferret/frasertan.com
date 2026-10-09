@@ -1,5 +1,9 @@
 ---
 title: "Cornflake Crunch"
+prep: "10 min"
+cook: "20 min"
+rest: "Cool 30 min"
+yield: "Makes about 4 cups"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Slow-Cooker French Onion Soup"
 description: "A very good onion soup for minimal effort. A little on the sweet side, I suspect due to the apple butter. Try decreasing the amount of that ingredient next time. Also, I easily added an extra 2 cups of beef broth."
+prep: "30 min"
+cook: "10 hr 30 min"
+yield: "Serves 6-8"
 categories:
   - Soups and Stews
 subcategories:

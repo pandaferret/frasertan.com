@@ -1,6 +1,9 @@
 ---
 title: "Steel-Cut Oatmeal"
 description: "Rolled oats never did it for me; I just couldn't get past the mushy texture and bland flavor. I thought I'd never be an oatmeal lover, until I discovered steel-cut oatmeal. Unlike the flat-pressed..."
+prep: "5 min"
+cook: "30 min"
+yield: "Serves 3-4"
 categories:
   - Breakfast
 dietary:

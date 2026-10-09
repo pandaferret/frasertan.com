@@ -1,5 +1,8 @@
 ---
 title: "Ultimate Chocolate Fondue"
+prep: "10 min"
+cook: "5 min"
+yield: "Serves 6-8"
 categories:
   - Desserts
 subcategories:

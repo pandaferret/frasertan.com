@@ -1,5 +1,9 @@
 ---
 title: "Vanilla Ice Cream"
+prep: "45 min"
+cook: "20 min"
+rest: "Chill 4 hr, freeze 2 hr"
+yield: "Makes about 1 quart"
 categories:
   - Desserts
 subcategories:

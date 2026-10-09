@@ -2,6 +2,8 @@
 title: "Three-Bean Chili"
 description: "Owen keeps asking for chili, so here 'tis! Made with dried beans, no soaking required."
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "3 hr 15 min"
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,8 @@
 title: "Garlic Butter Chicken Thighs with Green Beans"
 description: "Another easy delicious weeknight meal! It's worth deboning the thighs yourself so you retain the fatty skin, or you can ask your butcher to do it for you. You can also just leave them in, and increase the cook time a bit."
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "35 min"
 categories:
   - Main Dishes
 subcategories:

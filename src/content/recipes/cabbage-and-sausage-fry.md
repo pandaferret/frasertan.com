@@ -1,6 +1,9 @@
 ---
 title: "Cabbage and Sausage Fry"
 description: "Easy peasy weeknight dinner!"
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

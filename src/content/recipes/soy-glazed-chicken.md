@@ -2,6 +2,8 @@
 title: "Soy Glazed Chicken"
 description: "If using chicken breast cutlets, pound or slice them thinner so that they cook faster. A mixture of unseasoned rice vinegar and black vinegar is lovely, but use whatever you have; the glaze will be lighter in color with only rice vinegar."
 yield: "Serves 3-4 with sides"
+prep: "10 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

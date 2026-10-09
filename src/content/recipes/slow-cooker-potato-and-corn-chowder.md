@@ -1,5 +1,8 @@
 ---
 title: "Slow Cooker Potato and Corn Chowder"
+prep: "10 min"
+cook: "8 hr"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

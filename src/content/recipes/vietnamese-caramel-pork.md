@@ -7,6 +7,8 @@ dietary:
   - EF
 yield: "Serves 4"
 added: 2025-02-03
+prep: "15 min"
+cook: "1 hr 45 min"
 categories:
   - Main Dishes
 subcategories:

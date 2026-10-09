@@ -1,6 +1,9 @@
 ---
 title: "Shepherd's Pie"
 description: "Eric's new favorite dish - he requested it for his birthday dinner :) It beat out our [Chicken Pot Pie with Fluffy Buttermilk Biscuits](/recipes/chicken-pot-pie-with-fluffy-buttermilk-biscuits/)! Serves 4 to 6. You will need to use a shallow casserole dish with a 2- to 2 1/2 quart capacity, such as an 11 by 7-inch baking dish, an oval casserole, or a 9- to 10-inch deep-dish pie plate (carefully measure its volume first; some pie plates are not deep enough). The lamb drippings intensify the lamb flavor, but if you prefer a less intense lamb flavor you can substitute 2 tablespoons of vegetable oil for the reserved lamb drippings. To add a little color, sprinkle the dish with some minced parsley before serving."
+prep: "25 min"
+cook: "50 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

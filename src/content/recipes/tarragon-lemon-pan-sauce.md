@@ -1,5 +1,8 @@
 ---
 title: "Tarragon-Lemon Pan Sauce"
+prep: "5 min"
+cook: "10 min"
+yield: "Makes 3/4 cup"
 categories:
   - Sauces and Dips
 source:

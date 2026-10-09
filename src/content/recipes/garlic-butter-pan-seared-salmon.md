@@ -2,6 +2,8 @@
 title: "Garlic Butter Pan-Seared Salmon"
 description: "Moar garlic, moar buttah! Don't be scared about the amount of butter in this recipe - it poaches and bastes the fish wonderfully and you don't eat that much of it."
 yield: "Serves 4"
+prep: "10 min"
+cook: "10 min"
 categories:
   - Main Dishes
 subcategories:

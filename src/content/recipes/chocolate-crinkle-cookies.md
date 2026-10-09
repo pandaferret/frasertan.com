@@ -1,6 +1,9 @@
 ---
 title: "Chocolate Crinkle Cookies"
 description: "These cookies have a rich, dense chocolate flavor and look great! From Cook's Illustrated."
+prep: "25 min"
+cook: "40 min"
+yield: "Makes 22 cookies"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Hearty Butternut Squash Soup"
 description: "From Cook's Illustrated, here's another fall favorite, a good soup to stock up in the freezer."
+prep: "30 min"
+cook: "1 hr"
+yield: "Serves 6-8"
 categories:
   - Soups and Stews
 subcategories:

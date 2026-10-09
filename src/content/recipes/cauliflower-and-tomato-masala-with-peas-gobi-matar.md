@@ -1,5 +1,8 @@
 ---
 title: "Cauliflower and Tomato Masala with Peas (Gobi Matar)"
+prep: "20 min"
+cook: "40 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

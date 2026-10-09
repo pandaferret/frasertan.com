@@ -3,6 +3,9 @@ title: "My Favorite Brownies"
 description: "There's no such thing as too many brownie recipes! This recipe captures that delicious box-made taste - just the right chewiness with the shiny crackly top. Not too cakey, not too fudgy, just rich enough."
 yield: "Makes 16-24 brownies"
 added: 2026-06-28
+prep: "20 min"
+cook: "25 min"
+rest: "Cool 1 hr"
 categories:
   - Desserts
 subcategories:

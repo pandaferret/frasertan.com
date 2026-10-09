@@ -1,5 +1,8 @@
 ---
 title: "The Mothership Tomato Salad"
+prep: "15 min"
+rest: "Drain 15 min"
+yield: "Serves 4-6"
 categories:
   - Salads
 tags:

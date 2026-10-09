@@ -1,6 +1,9 @@
 ---
 title: "Chinese Cabbage Salad"
 description: "This is one of my favorite dishes that Peggy makes! It's cool and crunchy and has an amazing dressing."
+prep: "20 min"
+cook: "5 min"
+yield: "Serves 6-8"
 categories:
   - Salads
 tags:

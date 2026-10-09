@@ -3,6 +3,8 @@ title: "Easy Roasted Carrots"
 description: "Apparently the Little One likes cooked carrots, but not raw carrots. He pronounced these yummy - win!"
 yield: "Serves 4"
 added: 2025-03-22
+prep: "10 min"
+cook: "20 min"
 categories:
   - Side Dishes
 tags:

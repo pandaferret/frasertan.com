@@ -1,6 +1,9 @@
 ---
 title: "Roast Pork Tenderloin with Gravy"
 description: "This is a pretty easy (and delicious!) pork tenderloin recipe!"
+prep: "10 min"
+cook: "40 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Slow Cooker Vegetarian Chili"
 description: "Another winning recipe from Cook's Illustrated, this chili is thick and hearty - you won't miss the meat! Only use diced tomatoes here, as they are critical for the right texture of the chili."
+prep: "20 min"
+cook: "8 hr"
+yield: "Serves 8"
 categories:
   - Soups and Stews
   - Main Dishes

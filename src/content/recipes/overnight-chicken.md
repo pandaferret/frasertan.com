@@ -2,6 +2,10 @@
 title: "Overnight Chicken"
 description: "From the Washington Post comes an easy peasy method for making delicious chicken (and broth!) - where you decide to go from there is up to you!"
 added: 2026-08-20
+prep: "10 min"
+cook: "8 hr 45 min"
+rest: "Dry-brine 8-24 hr"
+yield: "Makes about 4 cups meat plus broth"
 categories:
   - Main Dishes
 subcategories:

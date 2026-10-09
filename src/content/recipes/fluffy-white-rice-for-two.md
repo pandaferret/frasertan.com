@@ -1,6 +1,9 @@
 ---
 title: "Fluffy White Rice for Two"
 description: "another quick side from Cook's Illustrated!"
+prep: "5 min"
+cook: "35 min"
+yield: "Serves 2"
 categories:
   - Side Dishes
 tags:

@@ -1,6 +1,9 @@
 ---
 title: "Cinnamon Scones"
 description: "The best parts of cinnamon rolls, without the muss and fuss! And so pretty! Thanks Deb!"
+prep: "20 min"
+cook: "15 min"
+yield: "Makes 6 scones"
 categories:
   - Breads and Baked Goods
 dietary:

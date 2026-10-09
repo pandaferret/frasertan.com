@@ -1,6 +1,9 @@
 ---
 title: "Shaved Asparagus Pizza"
 description: "A light and delicious pizza! Everything Deb makes is delicious....."
+prep: "20 min"
+cook: "15 min"
+yield: "Serves 2-4"
 categories:
   - Main Dishes
 subcategories:

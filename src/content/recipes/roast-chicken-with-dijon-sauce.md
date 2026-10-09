@@ -1,6 +1,9 @@
 ---
 title: "Roast Chicken with Dijon Sauce"
 description: "This is a great way to roast a few chicken pieces for an easy weeknight meal. This technique works well with bone-in, skin-on pieces - I don't know how well the ubiquitous boneless skinless chicken breasts would do here. Save those for a quick cutlet saute."
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

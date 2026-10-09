@@ -1,6 +1,9 @@
 ---
 title: "Cabbage and Farro Soup"
 description: "While the name might not be inspiring, the taste definitely is!"
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 4-6"
 categories:
   - Soups and Stews
 subcategories:

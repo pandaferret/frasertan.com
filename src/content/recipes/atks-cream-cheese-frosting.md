@@ -2,6 +2,7 @@
 title: "ATK's Cream Cheese Frosting"
 description: "For pairing with ATK's various carrot cake incarnations"
 yield: "Makes 5 cups (enough for a 2-layer cake)"
+prep: "15 min"
 categories:
   - Desserts
 subcategories:

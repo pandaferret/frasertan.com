@@ -1,6 +1,9 @@
 ---
 title: "Peach and Pecan Sandy Crumble"
 description: "The peaches are just gorgeous this year - and to celebrate I found this amazing crumble recipe from, where else, Smitten Kitchen! The topping is one of the best I've encountered."
+prep: "30 min"
+cook: "1 hr"
+yield: "Serves 8-10"
 categories:
   - Desserts
 subcategories:

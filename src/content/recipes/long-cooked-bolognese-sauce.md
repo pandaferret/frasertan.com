@@ -1,6 +1,10 @@
 ---
 title: "Long Cooked Bolognese Sauce"
 description: "This delicious sauce freezes well, so we make a huge amount and store it in our freezer for easy weeknight meals."
+prep: "15 min"
+cook: "4 hr"
+rest: "Cool 45 min"
+yield: "Makes about 6 cups"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Zucchini Quesadillas"
 description: "Deb from Smitten Kitchen continues to fuel my easy weeknight recipe search!"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

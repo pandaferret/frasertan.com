@@ -1,6 +1,10 @@
 ---
 title: "Peach Dumplings with Bourbon Hard Sauce"
 description: "From the first Smitten Kitchen cookbook!"
+prep: "45 min"
+cook: "45 min"
+rest: "Chill 2 hr"
+yield: "Makes 6 dumplings"
 categories:
   - Desserts
 subcategories:

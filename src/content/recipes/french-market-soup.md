@@ -2,6 +2,9 @@
 title: "French Market Soup"
 description: "This soup takes all day, but very little attention, and makes the house smell wonderful! It makes a lot, so freeze leftovers for later enjoyment."
 yield: "Serves about 10 (2 cups each)"
+prep: "20 min"
+cook: "4 hr 30 min"
+rest: "Soak overnight"
 categories:
   - Soups and Stews
 subcategories:

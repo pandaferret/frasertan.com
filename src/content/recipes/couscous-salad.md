@@ -1,6 +1,7 @@
 ---
 title: "Couscous Salad"
 yield: "Serves 10"
+prep: "20 min"
 categories:
   - Salads
 dietary:

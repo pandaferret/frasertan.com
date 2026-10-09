@@ -1,5 +1,8 @@
 ---
 title: "Pan Roasted Fish Fillets With Herb Butter"
+prep: "5 min"
+cook: "5 min"
+yield: "Serves 2"
 categories:
   - Main Dishes
 subcategories:

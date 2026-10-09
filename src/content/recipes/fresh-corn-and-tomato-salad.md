@@ -1,7 +1,9 @@
 ---
 title: "Fresh Corn and Tomato Salad"
 description: "A friend whipped this quick and easy salad up for lunch and it was amazing! Fresh and summery goodness in every bite!"
-yield: "Serves XX"
+yield: "Serves 4"
+prep: "10 min"
+cook: "10 min"
 categories:
   - Side Dishes
 tags:

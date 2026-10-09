@@ -3,6 +3,9 @@ title: "Strawberry Tiramisu"
 description: "Like a classier Strawberry Shortcake."
 yield: "Serves 8-12"
 added: 2025-07-05
+prep: "30 min"
+cook: "10 min"
+rest: "Chill 8 hr to overnight"
 categories:
   - Desserts
 subcategories:

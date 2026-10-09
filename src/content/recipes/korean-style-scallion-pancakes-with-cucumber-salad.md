@@ -1,5 +1,8 @@
 ---
 title: "Korean-Style Scallion Pancakes with Cucumber Salad"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 2"
 categories:
   - Starters
 dietary:

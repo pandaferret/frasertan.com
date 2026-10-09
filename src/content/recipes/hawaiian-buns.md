@@ -1,6 +1,10 @@
 ---
 title: "Hawaiian Buns"
 description: "A delicious recipe inspired by a lovely place!"
+prep: "30 min"
+cook: "30 min"
+rest: "Rise 2-3 hr"
+yield: "Makes 15 buns"
 categories:
   - Breads and Baked Goods
 dietary:

@@ -1,6 +1,10 @@
 ---
 title: "Strawberry Rhubarb Crisp Bars"
 description: "When you're craving the taste of summer but can't find the energy for a full day of pie making, these bars are easy peasy!"
+prep: "20 min"
+cook: "35 min"
+rest: "Cool 1 hr"
+yield: "Makes 16 bars"
 categories:
   - Desserts
 subcategories:

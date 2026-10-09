@@ -1,5 +1,8 @@
 ---
 title: "EFN's Favorite Pizza Dough"
+prep: "20 min"
+rest: "Rise 45 min"
+yield: "Makes 2 large pizza crusts"
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,9 @@
 title: "PCC Honey Nut Clusters"
 description: "I was introduced to these by my sister-in-law up in Seattle - they are delicious protein-rich snacks, and keep pretty well in the freezer."
 yield: "Makes 45 clusters"
+prep: "30 min"
+cook: "30 min"
+rest: "Cool 30 min"
 categories:
   - Desserts
 subcategories:

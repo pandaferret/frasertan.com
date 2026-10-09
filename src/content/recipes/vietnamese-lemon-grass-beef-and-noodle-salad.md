@@ -1,6 +1,9 @@
 ---
 title: "Vietnamese Lemon Grass Beef and Noodle Salad"
 description: "This recipe from the New York Times perfectly captures the complex and rich flavors of Vietnamese Beef Noodle salad - especially the dressing! Bun Bo Xao, a zesty stir-fry of marinated beef hot from the wok paired with room temperature rice noodles, makes a satisfying main-course salad year-round. Dressed with a classic Vietnamese dipping sauce and topped with roasted peanuts, the flavors are clean, bright and restorative. Yes, this recipe calls for a lot of ingredients, but the prep is simple, and it’s an easy introduction to Vietnam cooking for the uninitiated."
+prep: "40 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

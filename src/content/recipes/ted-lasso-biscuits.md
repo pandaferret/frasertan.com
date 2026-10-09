@@ -1,6 +1,10 @@
 ---
 title: "Ted Lasso Biscuits"
 description: "These are deceptively delicious for how easy they are!"
+prep: "10 min"
+cook: "40 min"
+rest: "Cool 1 hr"
+yield: "Makes 16 bars"
 categories:
   - Desserts
 subcategories:

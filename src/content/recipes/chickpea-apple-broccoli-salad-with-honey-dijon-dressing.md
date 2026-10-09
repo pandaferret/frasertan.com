@@ -2,6 +2,7 @@
 title: "Chickpea Apple Broccoli Salad with Honey Dijon Dressing"
 description: "This delicious salad comes together quickly, and thanks to the chickpeas it's hearty enough to stand as a meal!"
 yield: "Serves 4"
+prep: "25 min"
 categories:
   - Salads
 tags:

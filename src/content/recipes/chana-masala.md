@@ -1,6 +1,9 @@
 ---
 title: "Chana Masala"
 description: "From Deb."
+prep: "15 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

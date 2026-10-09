@@ -1,5 +1,8 @@
 ---
 title: "Colcannon"
+prep: "15 min"
+cook: "40 min"
+yield: "Serves 6"
 categories:
   - Side Dishes
 tags:

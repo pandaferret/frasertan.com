@@ -1,6 +1,10 @@
 ---
 title: "Quick Peasant Bread"
 description: "First introduced to us by Jeanne, this easy bread bakes in a bowl, and is great for semi-last minute dinner bread needs! Note: You will need 2 1 qt oven-proof clear bowls, such as Pyrex."
+prep: "10 min"
+cook: "30 min"
+rest: "Rise 1 hr 15 min"
+yield: "Makes 2 small loaves"
 categories:
   - Breads and Baked Goods
 source:

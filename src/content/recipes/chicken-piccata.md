@@ -1,6 +1,9 @@
 ---
 title: "Chicken Piccata"
 description: "Cook's Illustrated wins again!"
+prep: "25 min"
+cook: "25 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

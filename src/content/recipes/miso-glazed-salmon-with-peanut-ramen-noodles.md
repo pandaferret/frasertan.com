@@ -1,6 +1,9 @@
 ---
 title: "Miso-Glazed Salmon with Peanut Ramen Noodles"
 description: "Easy and delicious! Even easier if you make the Asian dressing ahead of time. It's a bit strong, but it evens out."
+prep: "20 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

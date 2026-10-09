@@ -1,6 +1,9 @@
 ---
 title: "Warm Orzo with Red Onion and Scallions"
 description: "From the mind of Autumn Quinn! Very yummy light side dish."
+prep: "10 min"
+cook: "15 min"
+yield: "Serves 6"
 categories:
   - Side Dishes
 tags:

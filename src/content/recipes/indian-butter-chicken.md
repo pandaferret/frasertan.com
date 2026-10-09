@@ -1,6 +1,9 @@
 ---
 title: "Murgh Makhani (Indian Butter Chicken)"
 description: "This recipe is definitely worth the effort! Probably best for a weekend or a day where you have time to spread cooking out over the whole day, as trying to interleave this with cooking side dishes could be difficult."
+prep: "15 min"
+cook: "45 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

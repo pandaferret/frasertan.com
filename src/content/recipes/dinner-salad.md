@@ -1,6 +1,9 @@
 ---
 title: "Dinner Salad"
 description: 'Heartier than "normal" dinner salad, this salad is easily filling enough for a meal.'
+prep: "20 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Salads
   - Main Dishes

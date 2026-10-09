@@ -1,6 +1,10 @@
 ---
 title: "Buttermilk Roasted Chicken"
 description: "This is a super easy dish, especially if you prep the chicken the night before!"
+prep: "10 min"
+cook: "35 min"
+rest: "Marinate 2 hr to overnight"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -3,6 +3,9 @@ title: "Dark Cocoa Brownies"
 description: "Autumn first made these with King Arthur's Double Dark cocoa powder, and we'll never go back - it makes the deepest, moistest, most chocolatey brownies you've ever had. Deep, rich, fudgy - these are sinfully easy and delicious. And to make them even better, throw in some peppermint juniors or peppermint pieces, or chocolate chips. (But never nuts! No nuts in my brownies!)"
 yield: "Makes 16-25 brownies"
 added: 2025-12-06
+prep: "15 min"
+cook: "30 min"
+rest: "Cool 1 hr 30 min"
 categories:
   - Desserts
 subcategories:

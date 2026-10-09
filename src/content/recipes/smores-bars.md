@@ -3,6 +3,9 @@ title: "S'mores Bars"
 description: "A great discovery from Dan Schimpf!"
 yield: "Serves 16"
 added: 2026-06-10
+prep: "20 min"
+cook: "25 min"
+rest: "Cool 2 hr"
 categories:
   - Desserts
 subcategories:

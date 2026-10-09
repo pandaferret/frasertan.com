@@ -1,6 +1,9 @@
 ---
 title: "Butternut Squash Gratin"
 description: "I love butternut squash, in case you didn't know :) Thank you Betty Crocker (of all sites!) for this new way to eat it!"
+prep: "20 min"
+cook: "40 min"
+yield: "Serves 6"
 categories:
   - Side Dishes
 dietary:

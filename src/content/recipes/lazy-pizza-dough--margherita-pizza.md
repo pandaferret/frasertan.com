@@ -1,6 +1,10 @@
 ---
 title: "Lazy Pizza Dough + Margherita Pizza"
 description: "From Deb at Smitten Kitchen! This recipe can be made 24, 12 or 6 hours before you need. Of course, more time means more flavor!"
+prep: "30 min"
+cook: "15 min"
+rest: "Rise 6-24 hr"
+yield: "Makes 2 pizzas"
 categories:
   - Main Dishes
 subcategories:

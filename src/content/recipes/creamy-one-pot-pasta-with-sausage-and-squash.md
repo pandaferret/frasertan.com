@@ -1,6 +1,9 @@
 ---
 title: "Creamy One-Pot Pasta with Sausage and Squash"
 description: "This was easy and really delicious! The sage and butternut squash combination always does it for me. I did reduce the salt a bit, and it was plenty salted enough."
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

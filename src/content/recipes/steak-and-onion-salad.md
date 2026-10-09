@@ -1,6 +1,9 @@
 ---
 title: "Steak and Onion Salad"
 description: "Adapted from Epicurious with inspiration from the steak salad at Calafia."
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 2"
 categories:
   - Salads
 tags:

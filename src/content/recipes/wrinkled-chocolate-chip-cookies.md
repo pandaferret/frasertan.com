@@ -1,6 +1,10 @@
 ---
 title: "Wrinkled Chocolate Chip Cookies"
 description: "These cookies use an interesting technique to get a lovely surface and a great balance between crisp and chew."
+prep: "20 min"
+cook: "40 min"
+rest: "Freeze 15 min"
+yield: "Makes 20 cookies"
 categories:
   - Desserts
 subcategories:

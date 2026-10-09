@@ -1,6 +1,10 @@
 ---
 title: "The Chocolate Cheesecake"
 description: 'This recipe has become my "signature" dessert, but it''s so easy, it would be criminal not to share it!'
+prep: "25 min"
+cook: "45 min"
+rest: "Cool 1 hr, chill overnight"
+yield: "Serves 12"
 categories:
   - Desserts
 subcategories:

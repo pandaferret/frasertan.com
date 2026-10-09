@@ -2,6 +2,9 @@
 title: "Strawberry, Lime, and Basil Pavlova with Whipped Cream"
 description: "It just so happens this pavlova requires the exact number of egg whites leftover from the [Chocolate Creme Pie](/recipes/chocolate-creme-pie/).... ;)"
 yield: "Serves 10"
+prep: "40 min"
+cook: "1 hr 30 min"
+rest: "Cool 1 hr 45 min"
 categories:
   - Desserts
 subcategories:

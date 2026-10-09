@@ -1,6 +1,9 @@
 ---
 title: "Fast Buttery Peas for Two"
 description: "A quick side dish from Cook's Illustrated, specially sized for two! Note: Do not thaw the peas before adding them to the skillet."
+prep: "5 min"
+cook: "5 min"
+yield: "Serves 2"
 categories:
   - Side Dishes
 tags:

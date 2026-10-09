@@ -1,6 +1,10 @@
 ---
 title: "Maple Pecan Monkey Bread"
 description: "Sinfully delicious, this great treat is a welcome addition to all brunches!"
+prep: "45 min"
+cook: "45 min"
+rest: "Rise 2 hr 15 min"
+yield: "Serves 10-12"
 categories:
   - Breads and Baked Goods
 dietary:

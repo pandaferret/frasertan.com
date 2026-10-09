@@ -1,6 +1,9 @@
 ---
 title: "Chocolate Peanut Butter Cup Cookies"
 description: "Despite not being the biggest chocolate peanut butter fan, these cookies hit a sweet spot that is so satisfying!"
+prep: "40 min"
+cook: "20 min"
+yield: "Makes about 20 cookies"
 categories:
   - Desserts
 subcategories:

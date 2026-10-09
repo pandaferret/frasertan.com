@@ -2,6 +2,8 @@
 title: "Rigatoni with Eggplant Puree"
 description: "Another great find from Deb! I'm learning to like eggplant more and more as I try it in more ways, and this is a delicious addition to my repertoire - even my kid agrees!"
 yield: "Serves 6"
+prep: "15 min"
+cook: "40 min"
 categories:
   - Main Dishes
 subcategories:

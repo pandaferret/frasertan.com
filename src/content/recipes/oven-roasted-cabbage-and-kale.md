@@ -1,6 +1,9 @@
 ---
 title: "Oven-Roasted Cabbage and Chard"
 description: "Ok, I get it - the name of this dish alone makes you grimace. But in my quest to eat healthier and find cabbage recipes for the hubby, this one turned out amazingly delicious!"
+prep: "15 min"
+cook: "40 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 tags:

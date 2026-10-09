@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Mousse"
 description: "Chocolate mousse is like the little black dress of desserts - everyone needs one in their collection. This one comes from Cook's Illustrated and had my family literally licking out the bowl. For an extra creamy chocolate mousse, fold in one cup of heavy cream that’s been whipped instead of the one-half cup called for here. Make this mousse at least two hours before you wish to serve it to let the flavors develop, but serve it within twenty-four hours because flavor and texture will begin to deteriorate."
+prep: "30 min"
+cook: "5 min"
+rest: "Chill 2 hr"
+yield: "Serves 6-8"
 categories:
   - Desserts
 subcategories:

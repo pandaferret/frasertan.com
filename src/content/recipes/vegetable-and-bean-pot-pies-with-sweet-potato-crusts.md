@@ -2,6 +2,8 @@
 title: "Vegetable and Bean Pot Pies with Sweet Potato Crusts"
 description: "A wonderful find from the Washington Post that is delicious - oh, and vegan! My 7 year old counts this as one of his favorites - and I will always make him this, the way he scarfs it down! Using thinly sliced sweet potato as the crust also eliminates the need for pastry or biscuits, making this an easy weeknight meal."
 yield: "Serves 4-6"
+prep: "25 min"
+cook: "45 min"
 categories:
   - Main Dishes
 subcategories:

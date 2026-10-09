@@ -1,6 +1,10 @@
 ---
 title: "Fig, Olive Oil and Sea Salt Challah"
 description: "from Smitten Kitchen"
+prep: "45 min"
+cook: "40 min"
+rest: "Rise 2 hr, cool 1 hr"
+yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
 dietary:

@@ -2,6 +2,9 @@
 title: "Slow-Cooker Carnitas"
 description: "This is easy and delicious, and freezes well, so make a lot!"
 added: 2025-02-09
+prep: "20 min"
+cook: "8 hr 30 min"
+yield: "Serves 10-12"
 categories:
   - Main Dishes
 subcategories:

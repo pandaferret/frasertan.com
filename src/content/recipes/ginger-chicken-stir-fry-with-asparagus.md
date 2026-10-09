@@ -1,5 +1,8 @@
 ---
 title: "Ginger Chicken Stir-Fry with Asparagus"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

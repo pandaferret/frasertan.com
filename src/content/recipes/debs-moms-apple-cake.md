@@ -1,6 +1,10 @@
 ---
 title: "Deb's Mom's Apple Cake"
 description: "Also known as a Jewish Apple Cake; great fall flavors, and packs in a LOT of apples!"
+prep: "30 min"
+cook: "1 hr 30 min"
+rest: "Cool 2 hr"
+yield: "Serves 12-16"
 categories:
   - Desserts
 subcategories:

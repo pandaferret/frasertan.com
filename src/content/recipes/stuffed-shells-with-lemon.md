@@ -1,5 +1,8 @@
 ---
 title: "Stuffed Shells with Lemon"
+prep: "30 min"
+cook: "1 hr"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 subcategories:
