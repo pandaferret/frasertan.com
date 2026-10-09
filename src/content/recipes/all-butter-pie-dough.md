@@ -1,6 +1,6 @@
 ---
 title: "All Butter Pie Dough"
-description: "ATK's Classic Pie Dough uses both butter and shortening - for even more delicious flaky buttery goodness, try this all butter crust! You absolutely must freeze the butter as directed for this pie dough to work, but then you get to do the whole thing in the food processor - so easy! This recipe makes 2 rounds of dough for a double crust pie - I've noted the amounts to make a half recipe, and the directions are the same. This recipe works best with a food processor - CI has a separate recipe for hand-made pie dough, but I like the dough from the Extra-flaky Pie Crust, or the Peach Hand Pies."
+description: "ATK's [Classic Pie Dough](/recipes/classic-pie-dough/) uses both butter and shortening - for even more delicious flaky buttery goodness, try this all butter crust! You absolutely must freeze the butter as directed for this pie dough to work, but then you get to do the whole thing in the food processor - so easy! This recipe makes 2 rounds of dough for a double crust pie - I've noted the amounts to make a half recipe, and the directions are the same. This recipe works best with a food processor - CI has a separate recipe for hand-made pie dough, but I like the dough from the Extra-flaky Pie Crust, or the Peach Hand Pies."
 yield: "Makes 2 dough rounds, enough for one 9-inch double crust pie"
 categories:
   - Desserts

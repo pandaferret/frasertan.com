@@ -1,6 +1,6 @@
 ---
 title: "Sauteed Beets with Mustard and Lemon Juice"
-description: "A lovely light side dish from 5 Spices, 50 Recipes. For details on making a tadka, see Railway Potatoes."
+description: "A lovely light side dish from 5 Spices, 50 Recipes. For details on making a tadka, see [Railway Potatoes](/recipes/railway-potatoes/)."
 categories:
   - Side Dishes
 dietary:
