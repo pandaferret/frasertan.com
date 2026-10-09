@@ -2,6 +2,8 @@
 title: "Crispy Sheet-Pan Noodles With Glazed Tofu"
 description: "I was surprised at how much my family liked this - the noodles are definitely deliciously crisp! I suspect this, like a lot of sheet pan meals, is flexible as to toppings :)"
 yield: "Serves 2-4"
+prep: "15 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

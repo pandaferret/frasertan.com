@@ -1,6 +1,10 @@
 ---
 title: "The Browniest Cookies"
 description: "Chocolate + Deb = always delicious!"
+prep: "15 min"
+cook: "25 min"
+rest: "Chill 30 min"
+yield: "Makes 20 cookies"
 categories:
   - Desserts
 subcategories:

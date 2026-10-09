@@ -1,6 +1,9 @@
 ---
 title: "My Normal Brussels Sprouts"
 description: "For my sister-in-law Dana - here's how I usually throw together brussels sprouts."
+prep: "10 min"
+cook: "15 min"
+yield: "Serves 3-4"
 categories:
   - Side Dishes
 tags:

@@ -1,6 +1,10 @@
 ---
 title: "Chicken Parmesan"
 description: "Another winner from Cook's Illustrated!"
+added: 2026-08-20
+prep: "25 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

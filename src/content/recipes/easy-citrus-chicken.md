@@ -1,6 +1,9 @@
 ---
 title: "Easy Citrus Chicken"
 description: "An easy weeknight main dish with a great kick of flavor!"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

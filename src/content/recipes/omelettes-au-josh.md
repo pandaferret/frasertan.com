@@ -1,6 +1,9 @@
 ---
 title: "Omelettes au Josh"
 description: "Our friend Josh makes the best omelettes, and he recently shared his secrets with me!"
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 1"
 categories:
   - Breakfast
 dietary:

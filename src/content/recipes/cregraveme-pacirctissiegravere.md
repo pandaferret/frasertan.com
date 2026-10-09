@@ -1,6 +1,10 @@
 ---
 title: "Crème pâtissière"
 description: "This recipe makes juuuuust a wee bit too little to fill the 24 puffs made by the [Pâte à choux](/recipes/pacircte-agrave-choux/) recipe. By using every last little bit, we filled 22 of the 24 puffs."
+prep: "10 min"
+cook: "15 min"
+rest: "Chill 2 hr"
+yield: "Makes about 2 1/2 cups"
 categories:
   - Desserts
 subcategories:

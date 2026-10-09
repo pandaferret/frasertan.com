@@ -1,6 +1,9 @@
 ---
 title: "Easiest French Fries"
 description: "Don't let the frying scare you - these really are easy! Thanks Deb!"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

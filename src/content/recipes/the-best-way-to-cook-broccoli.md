@@ -1,6 +1,9 @@
 ---
 title: "The Best Way to Cook Broccoli"
 description: "Eric's favorite way to cook broccoli"
+prep: "10 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 tags:

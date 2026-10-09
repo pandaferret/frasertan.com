@@ -2,6 +2,9 @@
 title: "Peach Hand Pies"
 description: "These hand pies landed like a revelation, and a great way to use up the glorious yield from my mother-in-law's two peach trees. Freeze some of the filling for summer delight when it's cold out! The work is well worth it. Oh, and making the crust is a great way to work out some aggression :P"
 yield: "Serves 8"
+prep: "1 hr 15 min"
+cook: "30 min"
+rest: "Chill 1 1/2 hr, cool 20 min"
 categories:
   - Desserts
 subcategories:

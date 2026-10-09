@@ -2,6 +2,9 @@
 title: "Chocolate Raspberry Trifle"
 description: "OK this here is a whopper of a dessert - almost a full gallon of deliciousness! That being said, it's not too hard to put together. The individual components are quickly made, and, best of all, you can - and really should! - make it ahead of time!"
 yield: "Serves 16"
+prep: "1 hr 15 min"
+cook: "30 min"
+rest: "Chill 4 hr, then 6 hr"
 categories:
   - Desserts
 subcategories:

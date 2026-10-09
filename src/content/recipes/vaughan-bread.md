@@ -1,6 +1,10 @@
 ---
 title: "Vaughan Bread"
 description: "Classic bread made by Eric's mom, good for toast, sandwiches, everything. Deeeeelish!"
+prep: "20 min"
+cook: "30 min"
+rest: "Rise 1 hr 15 min"
+yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
 tags:

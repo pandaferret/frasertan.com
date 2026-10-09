@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Torte"
 description: "Another chocolate concoction! This one takes a while to make (though most of it is downtime). Also, it is super important to fully and completely butter and sugar the sides of the pan!!! The cake rises first and then settles back down, but if the sides aren't buttered and sugared, it'll stick to the pan rather than settle, leaving you with a big air bubble rather than a nice dense moist cake. Yeah, I figured this one out the hard way :) From The Silver Palate Cookbook."
+prep: "40 min"
+cook: "3 hr"
+rest: "Cool 2 hr, chill 2 hr"
+yield: "Serves 12"
 categories:
   - Desserts
 subcategories:

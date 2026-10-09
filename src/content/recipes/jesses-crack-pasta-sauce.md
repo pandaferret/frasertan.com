@@ -2,6 +2,8 @@
 title: "Jesse's Crack Pasta Sauce"
 description: 'This amazing deliciousness is less of a recipe and more of a state of being. What I have here is transcribed word for word from Jesse, so feel free to play around with things to make this exactly how you want it! Note: Eric has dubbed this "death by pasta sauce" :)'
 yield: "Serves 6"
+prep: "15 min"
+cook: "1 hr 15 min"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Filet Mignon"
 description: "Thanks to Jeanne, I now know the best and most foolproof way to cook filet mignon!"
+prep: "5 min"
+cook: "15 min"
+yield: "Serves 2"
 categories:
   - Main Dishes
 subcategories:

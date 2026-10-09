@@ -1,5 +1,8 @@
 ---
 title: "Herb-Crusted Salmon"
+prep: "20 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

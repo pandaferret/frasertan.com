@@ -1,6 +1,10 @@
 ---
 title: "Classic Pumpkin Pie"
 description: "Not gonna lie, I just straight up copied this from the Libby's website. If it ain't broke, don't fix it! Also, don't sub sweetened condensed milk for evaporated milk - that does not work!"
+prep: "10 min"
+cook: "55 min"
+rest: "Cool 2 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

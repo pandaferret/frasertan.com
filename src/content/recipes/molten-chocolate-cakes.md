@@ -1,6 +1,9 @@
 ---
 title: "Molten Chocolate Cakes"
 description: "This recipe comes from the New York Times, and features wonderful fluted metal ramekins that give the cakes a lovely shape! I prefer to dust with confectioner's sugar, as I feel that helps the cakes release much better than flour."
+prep: "15 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Desserts
 subcategories:

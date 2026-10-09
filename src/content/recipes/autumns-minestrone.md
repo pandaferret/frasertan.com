@@ -1,6 +1,9 @@
 ---
 title: "Autumn's Minestrone"
 description: "Autumn made this up on the fly and it was delicious!"
+prep: "20 min"
+cook: "40 min"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

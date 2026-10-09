@@ -1,6 +1,9 @@
 ---
 title: "Maple-Mustard Sauce"
 description: "Pairs with [Thick-Cut Pork Tenderloin Medallions](/recipes/thick-cut-pork-tenderloin-medallions/)"
+prep: "5 min"
+cook: "15 min"
+yield: "Makes 1 cup"
 categories:
   - Sauces and Dips
 source:

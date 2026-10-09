@@ -1,6 +1,9 @@
 ---
 title: "Rishia Zimmern’s Chicken With Shallots"
 description: "Easy and delicious :) What more do you need to know?"
+prep: "15 min"
+cook: "1 hr 15 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

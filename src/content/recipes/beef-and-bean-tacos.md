@@ -1,6 +1,9 @@
 ---
 title: "Beef and Bean Tacos"
 description: "Cook's Country makes full burritos with this recipe, but we're lazy so we just dollop the filling over warmed tortillas and chow down."
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

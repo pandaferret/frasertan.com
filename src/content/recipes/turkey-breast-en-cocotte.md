@@ -1,6 +1,9 @@
 ---
 title: "Turkey Breast en Cocotte"
 description: "I love Thanksgiving, and I especially love turkey! Because our family is so large, we don't get much in the way of leftovers, so I found this recipe to get my post-Thanksgiving second dose of deliciousness! P.S. The gravy is amazing.... Thank you America's Test Kitchen! We knew from our experience with chicken that cooking poultry in a covered pot over low heat for an extended period of time produces wonderful results, so we decided to develop a turkey breast recipe using this method. We chose a 6- to 7-pound bone-in turkey breast for our turkey breast en cocotte recipe because the bone lent the breast deep flavor and this size breast fit into the pot. As with chicken, we found that browning the turkey breast was an essential step in developing deep flavor. Adding some aromatics—in this case, onion, carrot, celery, garlic, thyme, and a bay leaf—to the pot further rounded out the flavor. Many supermarkets are now selling “hotel-style” turkey breasts. Try to avoid these if you can, as they still have the wings attached. If this is the only type of breast you can find, you will simply need to remove the wings before proceeding with the recipe. Be sure to use a 7- to 8-quart Dutch oven here. Don’t buy a turkey breast larger than 7 pounds; it won’t fit in the pot. For a smaller turkey breast, reduce the cooking time as necessary."
+prep: "15 min"
+cook: "2 hr 30 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Vegan Chocolate Cake"
 description: "This is a recipe that I got from my friend Liz, who makes it all the time for her more health conscious friends (as well as her vegan friends). It is a moist and succulent cake - not at all like what I thought a vegan cake would be!"
+prep: "10 min"
+cook: "35 min"
+yield: "Makes one 9-inch cake"
 categories:
   - Desserts
 subcategories:

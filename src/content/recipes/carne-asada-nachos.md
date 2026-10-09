@@ -1,6 +1,9 @@
 ---
 title: "Carne Asada Nachos"
 yield: "Serves 6-8"
+added: 2026-08-31
+prep: "15 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

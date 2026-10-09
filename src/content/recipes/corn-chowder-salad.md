@@ -1,6 +1,9 @@
 ---
 title: "Corn Chowder Salad"
 description: "This is a great side dish from Deb at Smitten Kitchen; sometimes we just eat it with polenta as a meal."
+prep: "25 min"
+cook: "25 min"
+yield: "Serves 6-8"
 categories:
   - Side Dishes
 source:

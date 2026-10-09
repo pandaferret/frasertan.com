@@ -2,6 +2,9 @@
 title: "Hot Buttered Soft Pretzels"
 description: "These are quick and easy and - in a pro for our family - makes just a few pretzels! But, the recipe easily scales for a crowd."
 yield: "Makes 8 medium pretzels"
+prep: "30 min"
+cook: "10 min"
+rest: "Rise 30 min"
 categories:
   - Breads and Baked Goods
 dietary:

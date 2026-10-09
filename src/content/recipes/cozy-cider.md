@@ -1,6 +1,9 @@
 ---
 title: "Cozy Cider"
 description: "Mulled cider is one of my favorite drinks during the cold dark winter months. (Yes, yes, I know, California winters aren't really winters, but I have thin blood.) A splash of bourbon makes this even better!"
+prep: "5 min"
+cook: "10 min"
+yield: "Makes 6 drinks"
 categories:
   - Drinks
 tags:

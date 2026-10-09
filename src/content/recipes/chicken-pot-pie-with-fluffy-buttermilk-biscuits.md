@@ -1,6 +1,9 @@
 ---
 title: "Chicken Pot Pie with Fluffy Buttermilk Biscuits"
 description: "Modified from America's Test Kitchen's New Best Recipes. This is hands down the best chicken pot pie I've ever tasted, and it's quickly become a comfort food."
+prep: "45 min"
+cook: "55 min"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 subcategories:

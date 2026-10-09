@@ -1,6 +1,9 @@
 ---
 title: "Black-eyed Peas in a Spicy Goan Curry"
 description: "A vegetarian curry from 5 Spices, 50 Recipes. I like to mix up the type of beans in this dish! I usually just use canned beans."
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

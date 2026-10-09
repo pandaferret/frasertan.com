@@ -2,6 +2,10 @@
 title: "Grilled Swordfish"
 description: "Swordfish marinated in lemon, garlic, olive oil and herbs, then seared on the grill until golden brown. Easy yet elegant."
 yield: "Serves 4-6"
+added: 2025-08-17
+prep: "10 min"
+cook: "15 min"
+rest: "Marinate 30 min to 8 hr"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Apple Sharlotka"
 description: "This is an easy peasy cake (no stand mixer!) that's not too sweet. Perfect for mornings with yogurt or dessert with a gentle dusting of powdered sugar. Thanks Deb!"
+prep: "20 min"
+cook: "1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

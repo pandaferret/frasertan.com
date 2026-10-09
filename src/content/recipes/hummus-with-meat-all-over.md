@@ -2,6 +2,8 @@
 title: "Hummus with Meat All Over"
 description: "If you use canned chickpeas, this dish comes together quickly, and makes a hearty meal paired with pita or other bread. Plus, it's delicious!"
 yield: "Serves 6-8"
+prep: "15 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

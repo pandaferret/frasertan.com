@@ -1,6 +1,10 @@
 ---
 title: "Ciambellone (Italian Lemon Tea Cake)"
 description: "Another great find from Deb! The set glaze is amazing!"
+prep: "20 min"
+cook: "40 min"
+rest: "Cool 1 hr"
+yield: "Serves 12"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
+import MoreLikeThis from "../../components/MoreLikeThis.astro";
 
 export async function getStaticPaths() {
   const recipes = await getCollection("recipes");
@@ -18,4 +19,5 @@ const { Content } = await render(recipe);
   <div class="recipe-body">
     <Content />
   </div>
+  <MoreLikeThis recipe={recipe} slot="after" />
 </RecipeLayout>

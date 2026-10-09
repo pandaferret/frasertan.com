@@ -1,5 +1,8 @@
 ---
 title: "Baked Chicken with Orange Sauce"
+prep: "10 min"
+cook: "50 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

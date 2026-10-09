@@ -222,6 +222,17 @@ main {
 
 /* Dietary badges. Spaces between them in the markup keep site search from
    reading "GF EF" as one word; flex hides those spaces on the page. */
+.recipe-times {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+}
+
+.recipe-meta strong {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
 .recipe-meta .badges {
   display: inline-flex;
 }
@@ -395,6 +406,109 @@ main {
 .recipe-body .notes p.subheading {
   font-weight: 600;
   color: var(--color-heading);
+}
+
+.cook-mode {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.cook-mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.8rem 0.35rem 0.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-bg);
+  color: var(--color-heading);
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.cook-mode-toggle:hover {
+  border-color: var(--color-accent);
+}
+
+.cook-mode-switch {
+  position: relative;
+  width: 1.9rem;
+  height: 1.1rem;
+  border-radius: 999px;
+  background: #ccc;
+  transition: background 0.15s;
+}
+
+.cook-mode-switch::after {
+  content: "";
+  position: absolute;
+  top: 0.15rem;
+  left: 0.15rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 50%;
+  background: #fff;
+  transition: transform 0.15s;
+}
+
+.cook-mode-toggle[aria-pressed="true"] .cook-mode-switch {
+  background: var(--color-accent);
+}
+
+.cook-mode-toggle[aria-pressed="true"] .cook-mode-switch::after {
+  transform: translateX(0.8rem);
+}
+
+.cook-mode-hint {
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.recipe-body.is-cooking .ingredients li,
+.recipe-body.is-cooking .directions li {
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.recipe-body li.is-done {
+  text-decoration: line-through;
+  opacity: 0.45;
+}
+
+/* One scrolling row of cards; a sliver of the next card shows there's more. */
+.recent-row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(240px, calc((100% - 2rem) / 3.25));
+  gap: 1rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 0.75rem;
+}
+
+.recent-row .recipe-card {
+  scroll-snap-align: start;
+}
+
+@media (max-width: 600px) {
+  .recent-row {
+    grid-auto-columns: 75%;
+  }
+}
+
+.more-like-this {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.more-like-this h2 {
+  margin-top: 0;
 }
 
 .recipe-source {

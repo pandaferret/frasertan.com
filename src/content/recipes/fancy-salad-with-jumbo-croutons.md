@@ -1,6 +1,9 @@
 ---
 title: "Fancy Salad with Jumbo Croutons"
 description: "I shamelessly stole* this recipe from Jeanne, just like her house color."
+prep: "20 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Salads
 dietary:

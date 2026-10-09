@@ -1,6 +1,8 @@
 ---
 title: "Balsamic Vinaigrette"
 description: "Adapted from my mother's off the cuff recipe. There's never any reason to buy salad dressing - none can match home-made!"
+prep: "5 min"
+yield: "Makes 3/4 cup"
 categories:
   - Salads
 dietary:

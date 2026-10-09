@@ -1,6 +1,8 @@
 ---
 title: "Vermontucky Lemonade"
 description: "Cool and refreshing and bourbon!"
+prep: "15 min"
+yield: "Makes 6 drinks"
 categories:
   - Drinks
 dietary:

@@ -1,6 +1,9 @@
 ---
 title: "Crispy Onions"
 description: "Easy peasy and so delicious! This is the best part of mujaddara, but could be great with anything."
+prep: "15 min"
+cook: "40 min"
+yield: "Makes about 2 cups"
 categories:
   - Side Dishes
 dietary:

@@ -2,6 +2,10 @@
 title: "Chocolate Lofthouse Cookies with Raspberry Buttercream"
 description: "My favorite flavor combination - the freeze dried raspberries make this frosting amazing!"
 yield: "Makes 1-2 dozen cookies"
+added: 2025-12-24
+prep: "45 min"
+cook: "30 min"
+rest: "Chill 2 hr to overnight"
 categories:
   - Desserts
 subcategories:

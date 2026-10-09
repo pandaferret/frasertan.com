@@ -2,6 +2,9 @@
 title: "Christmas Party Mix"
 description: "Every year at the holidays, Peggy makes a giant batch of this Party Mix and it disappears incredibly fast! It's easily customizable, so throw in your favorite mix-ins to suit your tastes."
 yield: "Makes a LOT"
+prep: "20 min"
+cook: "45 min"
+rest: "Cool 30 min"
 categories:
   - Desserts
 subcategories:

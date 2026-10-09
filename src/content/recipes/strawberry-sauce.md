@@ -1,6 +1,9 @@
 ---
 title: "Strawberry Sauce"
 description: "I kind of just made this one up, but it's really simple! And delicious!"
+prep: "15 min"
+cook: "30 min"
+yield: "Makes about 4 cups"
 categories:
   - Desserts
 subcategories:

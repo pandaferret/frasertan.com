@@ -1,6 +1,10 @@
 ---
 title: "Apple Cider Caramels"
 description: "These are Smitten Kitchen's famous Apple Cider Caramels. They are AMAZING! I stocked up on apple cider in the fall by going to Village Harvests with my friends Autumn and Jesse, just so I'd be able to make these anytime I wanted. I've made just a few tweaks to my version of the recipe below - mostly, I found that I couldn't tell when the brown sugar had melted, and I burned it too many times, so I use all white sugar in my recipe."
+prep: "15 min"
+cook: "1 hr"
+rest: "Cool 2 hr"
+yield: "Makes 64 caramels"
 categories:
   - Desserts
 subcategories:

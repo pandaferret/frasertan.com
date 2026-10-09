@@ -1,6 +1,9 @@
 ---
 title: "SweetFire Chicken a la Panda Express"
 description: "This is a great recipe from Damn Delicious that recreates Panda Express's SweetFire chicken!"
+prep: "20 min"
+cook: "20 min"
+yield: "Serves 3-4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Black Tea-Port Milk Punch"
 description: "Despite the name, this punch doesn't actually end up containing milk - the milk is used to clarify and smooth the mixture."
+prep: "15 min"
+rest: "Steep 30 min, strain 1 hr"
+yield: "Makes 4 cups"
 categories:
   - Drinks
 dietary:

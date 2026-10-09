@@ -1,6 +1,9 @@
 ---
 title: "Tomato-Glazed Mini Meatloaves"
 description: "From Smitten Kitchen. Deb recommends serving these with mashed potatoes."
+prep: "25 min"
+cook: "35 min"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

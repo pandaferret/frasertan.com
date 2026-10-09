@@ -1,6 +1,9 @@
 ---
 title: "Corn Salad with Chile and Lime"
 description: "A delicious riff on Mexican street corn from Smitten Kitchen!"
+prep: "20 min"
+cook: "15 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 tags:

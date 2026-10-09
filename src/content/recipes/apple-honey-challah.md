@@ -1,6 +1,10 @@
 ---
 title: "Apple Honey Challah"
 description: "I. Am. In. Love. With this bread. This is my childhood, distilled. After elementary school, my babysitter would pick me up and we would walk out of our way to go to Moishe's bakery on 2nd Ave around 11th street. As per my mother's request, we would pick up a loaf of challah to take home. Upon realizing that the only things that made it home were crumbs, she upped her request to two loaves. Sadly, even my voracious seven year old stomach could only devour one loaf during the walk home. Moishe's challah is special. It has a light flavor, and the most wonderful texture I've ever found. It's slightly wetter than most challahs and when you bite into it it's just a little less fluffy and a little more chewy than most challahs. I have been searching for a bread like this all my life, and have never found it. Until now. Thank you thank you Smitten Kitchen! You have fulfilled a dream deferred. I have changed very little from her recipe, but I did add some spices to the apples :) For some beautiful photos and a nice tutorial on weaving a round loaf, check out her lovely posting."
+prep: "40 min"
+cook: "45 min"
+rest: "Rise 2 1/2 hr, cool 1 hr"
+yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
 tags:

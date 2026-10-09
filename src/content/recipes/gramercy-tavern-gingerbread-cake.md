@@ -1,6 +1,10 @@
 ---
 title: "Gramercy Tavern Gingerbread Cake"
 description: "This is Smitten Kitchen's adaptation of the Gramercy Tavern gingerbread cake. It is intense!!! Deeply flavored and strongly spiced, this is nothing like bland gingerbread you find in stores. Caution; it's addictive!"
+prep: "20 min"
+cook: "55 min"
+rest: "Cool 2 hr"
+yield: "Serves 16-24"
 categories:
   - Desserts
 subcategories:

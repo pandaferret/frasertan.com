@@ -1,5 +1,8 @@
 ---
 title: "Rigatoni with Beef and Onion Ragu"
+prep: "25 min"
+cook: "2 hr 45 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

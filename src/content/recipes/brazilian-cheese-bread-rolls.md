@@ -1,6 +1,9 @@
 ---
 title: "Brazilian Cheese Bread Rolls"
 description: "These delicious bites are made with tapioca flour, making them naturally gluten free! From The How Can It Be Gluten Free cookbook by America's Test Kitchen."
+prep: "10 min"
+cook: "20 min"
+yield: "Makes 30-36 rolls"
 categories:
   - Breads and Baked Goods
 dietary:

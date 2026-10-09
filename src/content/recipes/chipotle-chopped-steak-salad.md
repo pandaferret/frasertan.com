@@ -1,6 +1,8 @@
 ---
 title: "Chipotle Chopped Steak Salad"
-yield: "Serves XX"
+yield: "Serves 4"
+prep: "15 min"
+cook: "15 min"
 categories:
   - Salads
 tags:

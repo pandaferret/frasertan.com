@@ -1,6 +1,9 @@
 ---
 title: "Orange-Glazed Salmon Fillets with Rosemary"
 description: 'Quick and easy! Just check the salmon for doneness - the timing will vary based on the thickness of your fillets. The listed timing works well for fillets about 1-1.5" thick.'
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Lemon Butter Chicken"
 description: "This is an easy and quick weeknight meal that is - as the recipe's author knows - damn delicious!"
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

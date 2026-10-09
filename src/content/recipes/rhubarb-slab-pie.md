@@ -1,6 +1,10 @@
 ---
 title: "Rhubarb Slab Pie"
 description: "This pie ends up nice and tart, which is good for a more breakfast-style snack, but you could probably adapt this to use different kinds of filling. Another hit from Deb!!"
+prep: "30 min"
+cook: "25 min"
+rest: "Cool 1 hr"
+yield: "Serves 12"
 categories:
   - Desserts
 subcategories:

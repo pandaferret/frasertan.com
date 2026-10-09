@@ -1,6 +1,9 @@
 ---
 title: "German Pancakes"
 description: "A slightly eggier, slightly easier version of a morning staple! Serve with maple syrup and fresh berries."
+prep: "10 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Breakfast
 dietary:

@@ -1,5 +1,9 @@
 ---
 title: "Thai Sticky Rice with Mango"
+prep: "15 min"
+cook: "40 min"
+rest: "Soak 4 hr to overnight, stand 30 min"
+yield: "Serves 6"
 categories:
   - Desserts
 subcategories:

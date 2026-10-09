@@ -1,6 +1,9 @@
 ---
 title: "Black Pepper Mashed Potatoes"
 description: "Christina Tosi of Momofuku Milk Bar is known for her confections, but also brings the same weirdness and creativity to savory dishes as well. This is a pretty tame recipe by her standards, but still delicious!"
+prep: "10 min"
+cook: "25 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 tags:

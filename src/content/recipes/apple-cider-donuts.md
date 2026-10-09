@@ -1,6 +1,10 @@
 ---
 title: "Apple Cider Donuts"
 description: "I miss apple cider and apple cider donuts most from my time on the East Coast, so when this recipe from smitten kitchen came across my way, I decided (with Deb's reassurance) to try some deep frying! It was so worth it :)"
+prep: "45 min"
+cook: "45 min"
+rest: "Freeze 20 min, chill 30 min"
+yield: "Makes 18 doughnuts"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Sheet Pan Chicken Tikka"
 description: "Now, I love all in one sheet pan meals since they are easy and quick. Here's a great take on a classic Indian dish from Smitten Kitchen."
+prep: "20 min"
+cook: "40 min"
+rest: "Marinate 15 min to overnight"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

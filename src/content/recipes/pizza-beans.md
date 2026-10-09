@@ -2,6 +2,8 @@
 title: "Pizza Beans"
 description: "Pairs well with garlic bread! Deb calls this a vegetable-rich baked ziti where the ziti is replaced by giant beans. Look for Royal Corona, fagioli corona or gigante beans; regular-sized white beans will work too, they just have a less dramatic texture. It reheats well from the fridge or freezer."
 yield: "Serves 8"
+prep: "20 min"
+cook: "40 min"
 categories:
   - Main Dishes
 subcategories:

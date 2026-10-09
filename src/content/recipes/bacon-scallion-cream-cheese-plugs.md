@@ -1,5 +1,9 @@
 ---
 title: "Bacon, Scallion, Cream Cheese Plugs"
+prep: "10 min"
+cook: "10 min"
+rest: "Freeze 1-3 hr"
+yield: "Makes 8 plugs"
 categories:
   - Breads and Baked Goods
 dietary:

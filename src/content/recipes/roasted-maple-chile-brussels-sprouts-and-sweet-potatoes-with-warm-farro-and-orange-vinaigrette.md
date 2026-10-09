@@ -1,6 +1,9 @@
 ---
 title: "Roasted Maple-Chile Brussels Sprouts and Sweet Potatoes with Warm Farro and Orange Vinaigrette"
 description: "This is a delicious warm fall grain bowl. It has a lot of fiddly bits that can be prepped in advance, but it comes together wonderfully and the full recipe will yield lots of leftovers."
+prep: "30 min"
+cook: "45 min"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
   - Side Dishes

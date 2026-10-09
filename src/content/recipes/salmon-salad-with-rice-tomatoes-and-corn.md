@@ -2,6 +2,8 @@
 title: "Salmon Salad with Rice, Tomatoes and Corn"
 description: "From the SF Chronicle"
 yield: "Serves 4"
+prep: "20 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

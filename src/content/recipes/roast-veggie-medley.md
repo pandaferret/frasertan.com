@@ -1,6 +1,9 @@
 ---
 title: "Roast Veggie Medley"
 description: "Spring comes pretty early for us Californians. This past week has been a breezy balmy sunny mid 70s kind of week - the kind where you want nothing more than to bask in the sun. Sounds like what..."
+prep: "20 min"
+cook: "1 hr 15 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 dietary:

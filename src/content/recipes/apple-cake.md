@@ -1,6 +1,9 @@
 ---
 title: "Apple Cake"
 description: "Danielle Murray's Apple Cake, from Jesse Imbach"
+prep: "25 min"
+cook: "1 hr 5 min"
+yield: "Serves 12"
 categories:
   - Desserts
 subcategories:

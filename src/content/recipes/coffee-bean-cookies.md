@@ -1,6 +1,10 @@
 ---
 title: "Coffee Bean Cookies"
 description: "These delightful little nibbles look exactly like their namesake! According to the author, they go great with afternoon tea/coffee. The original recipe is from abroad, where they (thankfully!) measure things by weight, not volume. I recommend doing this recipe by hand, as the amount is too small for a stand mixer to be worth it."
+prep: "45 min"
+cook: "15 min"
+rest: "Chill 1 hr"
+yield: "Makes 36-40 cookies"
 categories:
   - Desserts
 subcategories:

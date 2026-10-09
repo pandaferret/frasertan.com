@@ -1,6 +1,10 @@
 ---
 title: "Whipping Cream Pound Cake"
 description: "OK, yes, I admit, I have a FOURTH pound cake recipe. The base recipes are all slightly different, though I suspect in all honesty I could fuse them all. This one benefits from the addition of some cream - and it's also the least fussy of them all - no separating eggs or need for cake flour."
+prep: "20 min"
+cook: "1 hr 15 min"
+rest: "Cool 2 hr"
+yield: "Serves 16"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Extra Crispy Sweet Potato Wedges"
 description: "I modified the baking time on this recipe a bit as my oven is apparently very hot!"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

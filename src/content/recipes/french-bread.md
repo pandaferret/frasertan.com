@@ -1,5 +1,9 @@
 ---
 title: "French Bread"
+prep: "30 min"
+cook: "40 min"
+rest: "Rise 1 3/4 hr"
+yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
 dietary:

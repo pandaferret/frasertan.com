@@ -1,6 +1,10 @@
 ---
 title: "Cucumber Salad"
 description: "from the internet!"
+prep: "15 min"
+cook: "5 min"
+rest: "Chill 1 hr"
+yield: "Serves 6-8"
 categories:
   - Salads
 dietary:

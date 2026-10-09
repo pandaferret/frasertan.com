@@ -2,6 +2,8 @@
 title: "Crispy Gnocchi With Burst Tomatoes and Mozzarella"
 description: "The crispy gnocchi have a wonderful flavor - and you can dump them in the pan straight from the freezer!"
 yield: "Serves 4-6"
+prep: "10 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

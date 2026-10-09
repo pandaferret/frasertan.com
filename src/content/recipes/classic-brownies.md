@@ -1,6 +1,10 @@
 ---
 title: "Classic Brownies"
 description: "From Cook's Illustrated via Smitten Kitchen. Eric is particular about his brownies, so we're off on a quest...."
+prep: "20 min"
+cook: "35 min"
+rest: "Cool 2 hr"
+yield: "Makes 24 brownies"
 categories:
   - Desserts
 subcategories:

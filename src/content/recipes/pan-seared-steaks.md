@@ -1,5 +1,8 @@
 ---
 title: "Pan-Seared Steaks"
+prep: "5 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

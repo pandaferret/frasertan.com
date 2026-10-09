@@ -1,6 +1,8 @@
 ---
 title: "Port Toddy"
 description: "Another warm drink to combat cold nights! And colds. A port toddy is one of winter’s unsung delights. Replacing whiskey with port in a toddy leads to something surprising and special. Somehow, it feels more curative than one with harder spirits: it’s like the alcohol-fortified equivalent of a bowl of homemade chicken soup. This requires a ruby port, which is the cheapest and most easily found. (The New York Times)"
+prep: "5 min"
+yield: "Makes 1 drink"
 categories:
   - Drinks
 tags:

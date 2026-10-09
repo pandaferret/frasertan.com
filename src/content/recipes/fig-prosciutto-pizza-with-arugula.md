@@ -1,6 +1,9 @@
 ---
 title: "Fig-Prosciutto Pizza with Arugula"
 description: "I've never had this type of pizza with mozzarella - something to try next time!"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

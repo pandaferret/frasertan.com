@@ -1,5 +1,8 @@
 ---
 title: "Spicy Thai-Style Pumpkin and Butternut Ramen"
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 2-3"
 categories:
   - Soups and Stews
 subcategories:

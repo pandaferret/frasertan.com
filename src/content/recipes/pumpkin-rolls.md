@@ -1,6 +1,10 @@
 ---
 title: "Pumpkin Rolls"
 description: "From Peggy!"
+prep: "40 min"
+cook: "25 min"
+rest: "Rise 2 1/2 hr"
+yield: "Makes about 21 rolls"
 categories:
   - Breads and Baked Goods
 tags:

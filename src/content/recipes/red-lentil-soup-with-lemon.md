@@ -1,6 +1,9 @@
 ---
 title: "Red Lentil Soup with Lemon"
 description: "Simple and delicious, this soup comes together quickly for a yummy weeknight meal, adapted from the NYTimes! This is a lentil soup that defies expectations of what lentil soup can be. It is light, spicy and a bold red color (no murky brown here): a revelatory dish that takes less than an hour to make. The cooking is painless. Sauté onion and garlic in oil, then stir in tomato paste, cumin and chile powder and cook a few minutes more to intensify flavor. Add broth, water, red lentils (which cook faster than their green or black counterparts) and diced carrot, and simmer for 30 minutes. Purée half the mixture and return it to the pot for a soup that strikes the balance between chunky and pleasingly smooth. A hit of lemon juice adds an up note that offsets the deep cumin and chile flavors."
+prep: "10 min"
+cook: "40 min"
+yield: "Serves 4"
 categories:
   - Soups and Stews
 subcategories:

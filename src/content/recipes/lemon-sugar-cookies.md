@@ -2,6 +2,8 @@
 title: "Lemon Sugar Cookies"
 description: "These cookies were the surprise breakout star of Christmas 2022. While I love chocolate and spice and all things nice, the perfect texture and ethereal lemon flavor of these cookies won me over."
 yield: "Makes 14-16 cookies"
+prep: "20 min"
+cook: "35 min"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Salt-Packed Roast Beef"
 description: "This technique made an amazing roast!"
+prep: "20 min"
+cook: "1 hr 15 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

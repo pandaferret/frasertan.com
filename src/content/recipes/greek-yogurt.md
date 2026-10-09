@@ -1,6 +1,10 @@
 ---
 title: "Greek Yogurt"
 description: "Easy peasy Greek yogurt in your Instant Pot! All it takes is a little bit of time and a little bit of starter."
+prep: "15 min"
+cook: "1 hr"
+rest: "Cool 1 hr, incubate 8 hr, chill overnight, strain 3-4 hr"
+yield: "Makes about 2 quarts"
 categories:
   - Breakfast
 dietary:

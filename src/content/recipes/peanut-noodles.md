@@ -1,5 +1,8 @@
 ---
 title: "Peanut Noodles"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

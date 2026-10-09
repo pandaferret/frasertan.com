@@ -1,6 +1,9 @@
 ---
 title: "Molasses Spice Cookies"
 description: "From Cook's Illustrated! Make sure you take the cookies out when they look puffy and underdone - they'll finish cooking, and flatten out, while resting."
+prep: "20 min"
+cook: "35 min"
+yield: "Makes about 24 cookies"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Honey-Mustard and Tarragon Pan Sauce"
 description: "Pairs nicely with turkey cutlets."
+prep: "5 min"
+cook: "15 min"
+yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
 source:

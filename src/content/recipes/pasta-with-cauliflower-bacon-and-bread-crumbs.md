@@ -1,6 +1,9 @@
 ---
 title: "Pasta with Cauliflower, Bacon, and Bread Crumbs"
 description: "This makes for an easy delicious weeknight meal - especially for a little kid who loves cauliflower :)"
+prep: "15 min"
+cook: "35 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

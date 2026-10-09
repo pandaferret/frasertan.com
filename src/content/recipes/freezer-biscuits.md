@@ -1,6 +1,10 @@
 ---
 title: "Freezer Biscuits"
 description: "A great recipe to make, throw in the freezer, and then make only as many as you need when you need them! Cook's Illustrated points out that these cream biscuits benefit from stronger handling, which helps build gluten and make the biscuits fluffier, so no need to be super gentle with these yummies."
+prep: "20 min"
+cook: "25 min"
+rest: "Freeze 6 hr"
+yield: "Makes about 24 biscuits"
 categories:
   - Breads and Baked Goods
 dietary:

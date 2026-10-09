@@ -1,6 +1,9 @@
 ---
 title: "Roasted Cauliflower with Garlic"
 description: "A delicious way to prepare a healthy side dish!"
+prep: "10 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

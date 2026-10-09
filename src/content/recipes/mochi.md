@@ -1,6 +1,10 @@
 ---
 title: "Mochi"
 description: "Mochi is a traditional Japanese sweet made from glutinous rice flour. It is delicious! You may have encountered it in mochi ice cream or in moon cakes, where the mochi surrounds either ice cream or a red bean paste. It's easy to make at home! (from allrecipes.com)"
+prep: "15 min"
+cook: "1 hr"
+rest: "Cool overnight"
+yield: "Makes about 48 pieces"
 categories:
   - Desserts
 subcategories:

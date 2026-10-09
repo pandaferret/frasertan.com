@@ -1,6 +1,9 @@
 ---
 title: "Tamarind Chutney"
 description: "From our Sur la Table cooking class!"
+prep: "5 min"
+cook: "10 min"
+yield: "Makes about 1 1/4 cups"
 categories:
   - Sauces and Dips
 dietary:

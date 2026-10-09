@@ -1,6 +1,9 @@
 ---
 title: "Peanut Butter Kiss Cookies"
 description: "From Nancy via Peggy!"
+prep: "25 min"
+cook: "45 min"
+yield: "Makes 60-70 cookies"
 categories:
   - Desserts
 subcategories:

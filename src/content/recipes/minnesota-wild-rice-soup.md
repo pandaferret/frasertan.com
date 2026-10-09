@@ -1,6 +1,9 @@
 ---
 title: "Minnesota Wild Rice Soup"
 description: "Adapted from Peggy Seidel's recipe! Goes *very* well with dinner rolls!"
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

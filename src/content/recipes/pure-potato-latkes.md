@@ -1,6 +1,10 @@
 ---
 title: "Pure Potato Latkes"
 description: "These take only a little foresight, and make a great main along with oven-roasted cabbage."
+prep: "20 min"
+cook: "1 hr"
+rest: "Cool 30 min, chill 3 hr to overnight"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

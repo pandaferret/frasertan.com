@@ -2,6 +2,8 @@
 title: "Extra Billowy Dutch Baby Pancake"
 description: "This is a super easy thing to make for a sweet or savory breakfast or dinner. Top it with sweet or savory toppings to make whatever you want!"
 yield: "Serves 3-4"
+prep: "10 min"
+cook: "15 min"
 categories:
   - Breakfast
 dietary:

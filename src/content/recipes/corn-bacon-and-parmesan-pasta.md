@@ -1,6 +1,9 @@
 ---
 title: "Corn Bacon and Parmesan Pasta"
 description: "All my favorites in one easy quick dish - from Deb!"
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 2-3"
 categories:
   - Main Dishes
 subcategories:

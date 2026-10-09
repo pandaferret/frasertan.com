@@ -1,6 +1,9 @@
 ---
 title: "Skillet Chicken in Balsamic Caramelized Onion Cream Sauce"
 description: "Delicious and easy! Just make sure to take the time to caramelize the onions, to develop that complex flavor."
+prep: "10 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

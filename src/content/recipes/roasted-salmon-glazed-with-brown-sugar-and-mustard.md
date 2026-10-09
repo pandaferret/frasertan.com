@@ -2,6 +2,9 @@
 title: "Roasted Salmon Glazed With Brown Sugar and Mustard"
 description: "Literally the easiest salmon ever!"
 yield: "Serves 4"
+added: 2026-09-27
+prep: "5 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

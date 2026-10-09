@@ -1,6 +1,10 @@
 ---
 title: "Teriyaki Sauce"
 description: "Teriyaki sauce makes everything better."
+added: 2025-08-25
+prep: "5 min"
+cook: "10 min"
+yield: "Makes about 1 1/2 cups"
 categories:
   - Sauces and Dips
 dietary:

@@ -1,6 +1,9 @@
 ---
 title: "Pumpkin Sage Pasta Bake"
 description: "Discovered on Oh My Veggies by Autumn and John when they had multitudes of pumpkins to use up! This being them, they added crisped pancetta and spinach."
+prep: "15 min"
+cook: "45 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Avocado Toast"
 description: "I kinda just made this one up, with inspiration from lots of different places. Because, come on, what kind of millennial would I be without an avocado toast recipe?"
+prep: "5 min"
+cook: "5 min"
+yield: "Serves 2"
 categories:
   - Breakfast
 tags:

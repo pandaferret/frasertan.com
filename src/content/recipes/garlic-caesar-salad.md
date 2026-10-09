@@ -1,6 +1,9 @@
 ---
 title: "Garlic Caesar Salad"
 description: "If you like dressing you may want to double this recipe :) also - anchovy free!"
+prep: "15 min"
+cook: "5 min"
+yield: "Serves 4"
 categories:
   - Salads
 dietary:

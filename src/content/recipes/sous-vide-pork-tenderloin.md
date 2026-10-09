@@ -1,6 +1,9 @@
 ---
 title: "Sous Vide Pork Tenderloin"
 description: "This is by far the best way I know to make delicious juicy pork!"
+prep: "10 min"
+cook: "2 hr"
+yield: "Serves 3-4"
 categories:
   - Main Dishes
 subcategories:

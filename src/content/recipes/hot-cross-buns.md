@@ -1,6 +1,10 @@
 ---
 title: "Hot Cross Buns"
 description: "A sweet bun with the most amazing pillowy texture. Definitely need to make these more often than just for Easter!"
+prep: "40 min"
+cook: "20 min"
+rest: "Rise 2 hr"
+yield: "Makes 12 buns"
 categories:
   - Breads and Baked Goods
 dietary:

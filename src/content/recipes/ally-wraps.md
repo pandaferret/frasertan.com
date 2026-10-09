@@ -1,6 +1,9 @@
 ---
 title: "Ally Wraps"
 description: "This is less a recipe and more an outline, from my sister in law Ally. She made this for us on a visit and I swear I ate probably 7 or 8 wraps. It's super simple, easily varied, uses up lots of veggies and is delicious!"
+prep: "20 min"
+cook: "25 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

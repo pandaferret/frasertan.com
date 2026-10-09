@@ -1,6 +1,9 @@
 ---
 title: "Perfect Garlic Bread"
 description: "Garlic bread is delicious if done right, but when it comes to improvising, I never can seem to get the flavor I crave. Hence, this recipe from Smitten Kitchen!"
+prep: "10 min"
+cook: "5 min"
+yield: "Serves 6-8"
 categories:
   - Breads and Baked Goods
 dietary:

@@ -2,6 +2,8 @@
 title: "Braised Short Ribs with White Wine and Garlic"
 description: "From Cook's Country, cousin to Cook's Illustrated. This pairs well with buttered egg noodles or mashed potatoes."
 yield: "Serves 4-5"
+prep: "15 min"
+cook: "3 hr 30 min"
 categories:
   - Main Dishes
 subcategories:

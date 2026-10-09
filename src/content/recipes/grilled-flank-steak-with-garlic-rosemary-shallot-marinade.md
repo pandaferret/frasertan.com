@@ -1,6 +1,9 @@
 ---
 title: "Grilled Flank Steak with Garlic-Rosemary-Shallot Marinade"
 yield: "Serves 4-6. Time: 1 hour, plus 1 hour marinating"
+prep: "15 min"
+cook: "15 min"
+rest: "Marinate 1-24 hr"
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,9 @@
 title: "Grilled or Oven-Roasted Santa Maria Tri-Tip"
 description: "Any rub will do! An easy way to get delicious meat on the table"
 yield: "Serves 8-10. Timing: A few hours to season, 15-25 minutes to cook"
+prep: "10 min"
+cook: "25 min"
+rest: "Season 1 hr to overnight"
 categories:
   - Main Dishes
 subcategories:

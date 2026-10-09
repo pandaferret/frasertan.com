@@ -1,5 +1,8 @@
 ---
 title: "Balsamic Glazed Salmon"
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

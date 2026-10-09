@@ -1,6 +1,10 @@
 ---
 title: "Nut-Free Granola"
 description: "This is a great snack for the little ones - especially since it's nut-free! The rice krispies add a nice crunch, and overall it's not too sweet. This is a looser granola, not clumpy. It goes great on yogurt!"
+prep: "10 min"
+cook: "25 min"
+rest: "Cool 30 min"
+yield: "Makes about 8 cups"
 categories:
   - Breakfast
 dietary:

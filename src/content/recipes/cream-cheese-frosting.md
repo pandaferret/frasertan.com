@@ -1,6 +1,8 @@
 ---
 title: "Cream Cheese Frosting"
 description: "I made this to go with my [pumpkin cupcakes](/recipes/pumpkin-cupcakes/)."
+prep: "10 min"
+yield: "Makes about 4 cups"
 categories:
   - Desserts
 subcategories:

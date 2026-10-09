@@ -2,6 +2,9 @@
 title: "Brussels Sprout and Bacon Frittata"
 description: "A dinner frittata with an absolute clutter of vegetables and a bit of decadence. The brussels sprouts will be a significant part of the volume of the frittata - if you'd like more egg to come through, use only 1/2 pound. If you use a 12-inch skillet instead of a 10-inch, you'll only need to broil the frittata for 3 minutes."
 yield: "Serves 6"
+added: 2025-05-12
+prep: "15 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

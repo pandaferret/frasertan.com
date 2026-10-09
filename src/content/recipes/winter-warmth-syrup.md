@@ -2,6 +2,9 @@
 title: "Winter Warmth Syrup"
 description: "A lovely spiced syrup to capture the flavors of fall/winter!"
 yield: "Makes ~ 2 cups"
+prep: "10 min"
+cook: "20 min"
+rest: "Cool 1 hr"
 categories:
   - Drinks
 dietary:

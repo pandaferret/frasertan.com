@@ -1,6 +1,10 @@
 ---
 title: "Angel Food Cake"
 description: "I was inspired to try this after seeing how the contestants on the Great British Baking Show dealt with this technical challenge. Despite more time - and more directions! - it still took me a bit to master this cake. But, ultimately, it's an easy one to learn - and delicious!"
+prep: "25 min"
+cook: "45 min"
+rest: "Cool 3 hr"
+yield: "Serves 10-12"
 categories:
   - Desserts
 subcategories:

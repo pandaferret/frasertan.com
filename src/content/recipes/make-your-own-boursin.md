@@ -1,5 +1,8 @@
 ---
 title: "Make-Your-Own Boursin"
+prep: "10 min"
+rest: "Chill 1 hr"
+yield: "Makes 3 cups"
 categories:
   - Starters
 dietary:

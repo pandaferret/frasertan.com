@@ -1,6 +1,10 @@
 ---
 title: "Chai Spiced Ice Cream"
 description: "This recipe comes from a fun Indian food cooking class we took at Sur la Table."
+prep: "20 min"
+cook: "15 min"
+rest: "Steep 30 min, chill overnight, freeze 4 hr"
+yield: "Makes 1 quart"
 categories:
   - Desserts
 subcategories:

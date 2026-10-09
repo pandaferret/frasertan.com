@@ -1,6 +1,8 @@
 ---
 title: "Tangy Whipped Cream"
 description: "Sour cream makes plain ol' whipped cream more nuanced and flavorful!"
+prep: "5 min"
+yield: "Makes about 2 1/2 cups"
 categories:
   - Desserts
 subcategories:

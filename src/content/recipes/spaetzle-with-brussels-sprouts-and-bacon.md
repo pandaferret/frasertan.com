@@ -2,6 +2,9 @@
 title: "Spaetzle with Brussels Sprouts and Bacon"
 description: 'I love fresh pasta, and spaetzle is the best fresh pasta! It has nutmeg in it! You don''t have to roll it out! You do have to have the right tool to make it, but according to Cook''s Illustrated, the "right tool" is a disposable foil pan with holes poked in the bottom :) Or you can get a spaetzle maker, or you can just use your existing potato ricer, if you have one. Either way, you''ll want to soak/clean up asap, since the dough turns to concrete once dried. This delicious dish comes to us from Molly on the Range!'
 yield: "Serves 4"
+prep: "15 min"
+cook: "30 min"
+rest: "Chill 30 min"
 categories:
   - Main Dishes
 subcategories:

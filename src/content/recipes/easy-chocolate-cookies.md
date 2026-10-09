@@ -1,6 +1,9 @@
 ---
 title: "Easy Chocolate Cookies"
 description: "From Deb at Smitten Kitchen! These are dead easy to make and dead easy to eat :)"
+prep: "10 min"
+cook: "30 min"
+yield: "Makes about 50 cookies"
 categories:
   - Desserts
 subcategories:

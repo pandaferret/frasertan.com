@@ -2,6 +2,9 @@
 title: "Honey Garlic Chicken"
 description: "Delicious easy and fast!"
 yield: "Serves 4"
+added: 2025-02-11
+prep: "10 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

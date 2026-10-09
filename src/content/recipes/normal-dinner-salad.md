@@ -1,6 +1,8 @@
 ---
 title: '"Normal" Dinner Salad'
 description: "This is my staple salad, the only one I really made for many years. Since then, I've been exploring alternate salads, but this is the one I started with."
+prep: "15 min"
+yield: "Serves 4-6"
 categories:
   - Salads
 dietary:

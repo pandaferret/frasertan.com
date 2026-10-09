@@ -1,6 +1,8 @@
 ---
 title: "Strawberry Romaine Salad"
 description: "One of Eric's favorite salads from his mom. Sometimes we add bacon because bacon makes everything awesome!"
+prep: "20 min"
+yield: "Serves 8"
 categories:
   - Salads
 dietary:

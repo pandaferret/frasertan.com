@@ -1,6 +1,9 @@
 ---
 title: "Sausages with French Green Lentils"
 description: "A variation on this made for us by Autumn. Good low carb meal. Autumn didn't add the bacon, and cooked the lentils in chicken broth - much better! yummy! Autumn also notes that if we want it to be less soupy she would recommend reducing the liquid from 4 cups to 3 cups."
+prep: "15 min"
+cook: "1 hr 30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

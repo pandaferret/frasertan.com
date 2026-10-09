@@ -1,6 +1,9 @@
 ---
 title: "Breakfast Apple Granola Crisp"
 description: "A delicious way to start your day from Deb! There's a bit of sugar in the apples, and some honey in the granola, but you can try reducing these and see how it tastes."
+prep: "25 min"
+cook: "45 min"
+yield: "Serves 8"
 categories:
   - Breakfast
 tags:

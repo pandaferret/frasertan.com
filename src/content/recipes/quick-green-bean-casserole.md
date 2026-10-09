@@ -2,6 +2,8 @@
 title: 'Quick Green Bean "Casserole"'
 description: "Not a lick of cream of mushroom soup in sight for this Thanksgiving staple!"
 yield: "Serves 8"
+prep: "20 min"
+cook: "25 min"
 categories:
   - Side Dishes
 tags:

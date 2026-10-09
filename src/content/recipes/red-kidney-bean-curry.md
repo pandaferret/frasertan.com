@@ -1,6 +1,9 @@
 ---
 title: "Red Kidney Bean Curry"
 description: "Quick easy vegetarian and delicious - what more could you want? Goes great over basmati rice."
+prep: "15 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

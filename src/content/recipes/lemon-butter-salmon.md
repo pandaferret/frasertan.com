@@ -2,6 +2,8 @@
 title: "Lemon Butter Salmon"
 description: "Weeknight fancy: one skillet, a handful of ingredients and 15 minutes for tender salmon with a rich, tangy butter sauce. Pair it with a simple arugula salad and crusty bread or couscous to soak up every last drop of sauce."
 yield: "Serves 4"
+prep: "5 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

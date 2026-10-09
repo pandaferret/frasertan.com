@@ -1,6 +1,9 @@
 ---
 title: "Deb's Homemade Oreos"
 description: "Deb also makes giant versions of these cookies for her take on the classic icebox cake."
+prep: "45 min"
+cook: "30 min"
+yield: "Makes 25 sandwich cookies"
 categories:
   - Desserts
 subcategories:

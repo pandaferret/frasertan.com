@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Crumb"
 description: "Makes about 350 g (2 1/2 cups)"
+prep: "10 min"
+cook: "20 min"
+rest: "Cool 30 min"
+yield: "Makes about 2 1/2 cups"
 categories:
   - Desserts
 subcategories:

@@ -2,6 +2,9 @@
 title: "Ground Beef and Cabbage"
 description: "Super simple but totally delicious."
 yield: "Serves lots"
+added: 2026-09-27
+prep: "15 min"
+cook: "50 min"
 categories:
   - Main Dishes
 subcategories:

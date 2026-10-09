@@ -1,6 +1,9 @@
 ---
 title: "Grilled Cheese and Tomato Soup"
 description: "I will admit that I cheat here on weeknights and open up a can of Annie's Tomato Bisque... which is scrumptious. So don't feel like you have to make this whole thing from scratch - just the grilled cheese part."
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

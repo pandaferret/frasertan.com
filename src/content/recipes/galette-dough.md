@@ -2,6 +2,9 @@
 title: "Galette Dough"
 description: 'Jess and I made one of these Apple Honey galettes together and it was amazing - this is going in my Thanksgiving rotation! This all-butter dough is the book''s "A Good Crust", and it works for any galette.'
 yield: "Makes 2 standard disks or 1 XL disk"
+prep: "15 min"
+rest: "Chill 2 hr"
+added: 2025-10-14
 categories:
   - Desserts
 subcategories:

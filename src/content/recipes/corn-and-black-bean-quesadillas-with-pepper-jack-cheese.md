@@ -1,6 +1,9 @@
 ---
 title: "Corn and Black Bean Quesadillas with Pepper Jack Cheese"
 description: "Use a light hand when seasoning with kosher salt, as the cheese itself is rather salty. Cooling the quesadillas before cutting and serving is important; straight from the skillet, the cheese is molten and will ooze out. Serve the quesadillas with salsa, guacamole, or sour cream. Finished quesadillas can be held on a baking sheet in a 200-degree oven for up to 20 minutes."
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 2"
 categories:
   - Main Dishes
 subcategories:

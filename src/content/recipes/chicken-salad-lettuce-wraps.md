@@ -1,6 +1,9 @@
 ---
 title: "Chicken Salad Lettuce Wraps"
 description: "Damned Delicious lives up to the name with these healthy easy dinner bites!"
+prep: "20 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

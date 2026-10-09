@@ -1,6 +1,9 @@
 ---
 title: "Basmati Rice with Coconut Milk and Ginger"
 description: "A simple and easy way to spice up weeknight rice! No rice cooker necessary! A perfectly cooked pot of plain white rice is a beautiful thing indeed. But basmati rice that's been cooked in a mixture of chicken broth and coconut milk then seasoned with a little chopped fresh ginger and scallions? That's borderline transcendent. The ginger doesn't overpower the rice here – you'll taste the mellow coconut first and the kicky notes of ginger second – so it makes an ideal accompaniment to stir-fries and braises."
+prep: "10 min"
+cook: "20 min"
+yield: "Serves 6"
 categories:
   - Side Dishes
 source:

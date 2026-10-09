@@ -1,6 +1,10 @@
 ---
 title: "Compost Cookies"
 description: "Like anything else out of this cookbook, these cookies are crack incarnate - and worth the extra effort to make!"
+prep: "25 min"
+cook: "40 min"
+rest: "Chill 1 hr to 1 week"
+yield: "Makes about 15 cookies"
 categories:
   - Desserts
 subcategories:

@@ -1,5 +1,8 @@
 ---
 title: "Balsamic Glaze"
+prep: "2 min"
+cook: "20 min"
+yield: "Makes 1/3 cup"
 categories:
   - Sauces and Dips
 dietary:

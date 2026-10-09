@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Mousse Cake with Raspberries"
 description: "This is a DOOZY of a cake - rich chocolate cake, tangy chocolate mousse filling, fresh raspberries all enrobed in rich chocolate buttercream. It's worth the time and effort to make the layer cake, but I bet it could also do well in cupcake or trifle mode."
+prep: "1 hr 30 min"
+cook: "50 min"
+rest: "Cool 2 hr, chill 1 hr"
+yield: "Serves 12-16"
 categories:
   - Desserts
 subcategories:

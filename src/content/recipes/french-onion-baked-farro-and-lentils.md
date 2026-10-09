@@ -2,6 +2,8 @@
 title: "French Onion Baked Farro and Lentils"
 description: "Another winner from Smitten Kitchen! This takes time, but it's mostly hands off, and it is so worth it. Just as comforting as French Onion Soup, with a hearty warmth and chew from the farro and lentils."
 yield: "Serves 6-8. Time: 1 hr 45 min"
+prep: "15 min"
+cook: "1 hr 30 min"
 categories:
   - Main Dishes
 subcategories:

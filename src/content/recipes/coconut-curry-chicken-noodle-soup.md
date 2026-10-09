@@ -1,6 +1,9 @@
 ---
 title: "Coconut Curry Chicken Noodle Soup"
 description: "This one takes a bit of prep work and time, but is worth it for a nice twist on a comfort soup."
+prep: "25 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Soups and Stews
 subcategories:

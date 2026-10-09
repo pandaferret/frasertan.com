@@ -1,6 +1,10 @@
 ---
 title: "Miso Soup"
 description: "Quick, easy and delicious - a good soup for warming you up on a rainy night!"
+added: 2025-03-04
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Soups and Stews
 subcategories:

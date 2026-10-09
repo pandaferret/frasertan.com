@@ -1,6 +1,10 @@
 ---
 title: "Blueberry Cobbler"
 description: "Another delicious recipe from Cook's Illustrated!"
+prep: "25 min"
+cook: "1 hr"
+rest: "Thaw berries 1 hr, cool 20 min"
+yield: "Serves 6-8"
 categories:
   - Desserts
 subcategories:

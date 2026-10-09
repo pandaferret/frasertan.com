@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Cloud Cake with Raspberry Ripple Cream"
 description: "So light, so fluffy, and nary a speck of flour in sight! Unlike other flourless chocolate cakes, this one ends up light due to the whipped egg whites."
+prep: "30 min"
+cook: "45 min"
+rest: "Cool 2 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

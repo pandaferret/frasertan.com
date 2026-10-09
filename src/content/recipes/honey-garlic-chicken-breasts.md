@@ -1,6 +1,9 @@
 ---
 title: "Honey Garlic Chicken Breasts"
 yield: "Serves 4"
+added: 2026-08-20
+prep: "10 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

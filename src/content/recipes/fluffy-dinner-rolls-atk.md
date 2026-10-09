@@ -2,6 +2,9 @@
 title: "Fluffy Dinner Rolls"
 description: "Another winner from ATK! These rolls are soft, fluffy and oh so delicious, with just a hint of extra sweetness from the honey. While the original recipe calls for making 15 rolls (5 x 3), you can easily downsize them to make twenty four (6 x 4)."
 yield: "Makes 15 rolls (big ones)"
+prep: "30 min"
+cook: "30 min"
+rest: "Rise 2 1/2-3 1/2 hr"
 categories:
   - Breads and Baked Goods
 dietary:

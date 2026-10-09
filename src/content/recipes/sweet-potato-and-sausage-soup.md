@@ -1,6 +1,9 @@
 ---
 title: "Sweet Potato and Sausage Soup"
 description: "This is a great hearty soup from Deb (smitten kitchen). You can play with the various ingredients to suit your tastes!"
+prep: "20 min"
+cook: "55 min"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

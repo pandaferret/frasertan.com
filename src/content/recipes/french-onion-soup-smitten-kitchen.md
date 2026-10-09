@@ -1,6 +1,9 @@
 ---
 title: "French Onion Soup (Smitten Kitchen)"
 description: "Smitten Kitchen's version of French Onion soup turned out, well, superbly. Nothing less from Deb!"
+prep: "20 min"
+cook: "1 hr 45 min"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

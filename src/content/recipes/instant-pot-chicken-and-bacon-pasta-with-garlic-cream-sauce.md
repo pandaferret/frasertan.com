@@ -1,6 +1,9 @@
 ---
 title: "Instant Pot Chicken and Bacon Pasta with Garlic Cream Sauce"
 description: "Still perfecting my use of the Instant Pot!"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

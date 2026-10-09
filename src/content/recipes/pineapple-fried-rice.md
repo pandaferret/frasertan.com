@@ -1,5 +1,8 @@
 ---
 title: "Pineapple Fried Rice"
+prep: "15 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
   - Side Dishes

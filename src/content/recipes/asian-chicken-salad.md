@@ -1,6 +1,9 @@
 ---
 title: "Asian Chicken Salad"
 description: "Delicious! Worth all the chopping :)"
+prep: "30 min"
+cook: "20 min"
+yield: "Serves 4"
 categories:
   - Salads
 tags:

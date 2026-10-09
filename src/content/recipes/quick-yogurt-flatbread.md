@@ -1,6 +1,9 @@
 ---
 title: "Quick Yogurt Flatbread"
 description: "These are quick and have a lovely tang!"
+prep: "15 min"
+cook: "15 min"
+yield: "Makes 4 flatbreads"
 categories:
   - Breads and Baked Goods
 dietary:

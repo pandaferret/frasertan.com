@@ -1,6 +1,10 @@
 ---
 title: "Green Beans with Porcini Mushrooms"
 description: "This is not your grandma's green bean casserole."
+added: 2025-12-07
+prep: "25 min"
+cook: "45 min"
+yield: "Serves 8"
 categories:
   - Side Dishes
 tags:

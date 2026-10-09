@@ -9,6 +9,8 @@ dietary:
   - EF
   - DF
 yield: "Serves 4. Time: 25 minutes"
+prep: "10 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Chicken Enchiladas"
 description: "These are delicious - well worth the time! And they make great leftovers! Serve with rice and beans and lots of toppings."
+added: 2025-02-11
+prep: "40 min"
+cook: "55 min"
+yield: "Serves 5"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Artisan Bread in 5 Minutes a Day"
 description: "So, this is a great bread cookbook for its simplicity. This basic bread recipe (a boule) is delicious, and, compared to other breads, is very hands off! Instead, you just need time."
+prep: "10 min"
+cook: "30 min"
+rest: "Rise 2-4 hr, rest 30 min"
+yield: "Makes 4 loaves"
 categories:
   - Breads and Baked Goods
 dietary:

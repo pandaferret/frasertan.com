@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Guinness Cake"
 description: "A staple for St Patrick’s Day! Frost only the top of the cake so it resembles a head of Guinness."
+prep: "25 min"
+cook: "1 hr"
+rest: "Cool 2 hr"
+yield: "Serves 10-12"
 categories:
   - Desserts
 subcategories:

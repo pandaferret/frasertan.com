@@ -1,6 +1,8 @@
 ---
 title: "Caipirinha"
 description: "modified for my lightweight self by Dana"
+prep: "5 min"
+yield: "Makes 1 drink"
 categories:
   - Drinks
 dietary:

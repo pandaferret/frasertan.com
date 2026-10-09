@@ -1,6 +1,9 @@
 ---
 title: "Swedish Meatballs"
 description: "This is the traditional Christmas Eve meal in the Seidel household."
+prep: "25 min"
+cook: "30 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

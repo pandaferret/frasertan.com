@@ -1,6 +1,9 @@
 ---
 title: "Taco Torte"
 description: "Easy and delicious from Smitten Kitchen, this immediately earned a spot in our rotation!"
+prep: "20 min"
+cook: "40 min"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 subcategories:

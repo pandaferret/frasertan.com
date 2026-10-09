@@ -2,6 +2,8 @@
 title: "Southwestern Chicken Pasta Salad"
 description: "This is another beloved Peggy classic!"
 yield: "Serves 6-8"
+prep: "30 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

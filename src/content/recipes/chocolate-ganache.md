@@ -1,5 +1,8 @@
 ---
 title: "Chocolate Ganache"
+prep: "5 min"
+cook: "5 min"
+yield: "Makes about 1 cup"
 categories:
   - Desserts
 subcategories:

@@ -2,6 +2,9 @@
 title: "Simple Carrot Sheet Cake"
 description: "A winner from ATK as always! Carrot cake is a favorite of both my mother in law and my brother in law, so I thought I'd make sure the recipe is available for them!"
 yield: "Serves 12-15"
+prep: "30 min"
+cook: "40 min"
+rest: "Cool 2 hr"
 categories:
   - Desserts
 subcategories:

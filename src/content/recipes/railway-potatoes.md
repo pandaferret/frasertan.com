@@ -1,6 +1,9 @@
 ---
 title: "Railway Potatoes"
 description: "This is a delicious Indian recipe from a cookbook called 5 Spices 50 Recipes."
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

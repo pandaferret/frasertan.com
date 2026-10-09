@@ -1,6 +1,10 @@
 ---
 title: "Skillet Pizza"
 description: "This is an easy pizza with a nice crisp crust! Thanks Cook's Illustrated!"
+prep: "25 min"
+cook: "30 min"
+rest: "Rise 1 1/2 hr"
+yield: "Makes 2 pizzas"
 categories:
   - Main Dishes
 subcategories:

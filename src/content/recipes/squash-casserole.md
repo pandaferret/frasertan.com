@@ -2,6 +2,9 @@
 title: "Squash Casserole"
 description: "From Peggy."
 yield: "Serves 4-6"
+added: 2026-09-30
+prep: "15 min"
+cook: "45 min"
 categories:
   - Side Dishes
 dietary:

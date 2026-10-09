@@ -1,6 +1,9 @@
 ---
 title: "Chinese Noodle Pancake"
 description: "Thus was it christened by Eric, but the rest of the world knows this dish as Hong Kong Style Pan Fried Noodles. This is a very versatile dish; imagine a pancake of crispy noodles with whatever stir fry items you wish on top. This is a basic recipe but feel free to play around with the veggies, the meat, the sauce, everything. Cobbled together with help from Cook's Illustrated and an Asian Noodle cookbook from a friend."
+prep: "30 min"
+cook: "35 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

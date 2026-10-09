@@ -1,6 +1,9 @@
 ---
 title: "Mashed Sweet Potatoes"
 description: "This is a delicious recipe from the New Best Recipes cookbook. Their notes say: Cutting the sweet potatoes into slices of even thickness is important in getting them to cook at the same rate. The potatoes are best served immediately, but they can be covered tightly with plastic wrap and kept relatively hot for 30 minutes. This recipe can be doubled and prepared in a Dutch oven; the cooking time must be doubled as well."
+prep: "15 min"
+cook: "45 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 tags:

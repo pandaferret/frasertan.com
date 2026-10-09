@@ -1,6 +1,9 @@
 ---
 title: "Fluffy Scrambled Eggs"
 description: "Scrambled eggs are probably the easiest thing in the world, but when the cooks of America's Test Kitchen tell you how to make them, why mess with perfection? These eggs cook very quickly, so it's important to be ready to eat before you start to cook them"
+prep: "5 min"
+cook: "5 min"
+yield: "Serves 4"
 categories:
   - Breakfast
 dietary:

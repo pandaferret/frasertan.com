@@ -1,5 +1,8 @@
 ---
 title: "Baked Peaches"
+prep: "5 min"
+cook: "25 min"
+yield: "Serves 1-2"
 categories:
   - Desserts
 subcategories:

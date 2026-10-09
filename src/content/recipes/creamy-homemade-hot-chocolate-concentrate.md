@@ -1,6 +1,9 @@
 ---
 title: "Creamy Homemade Hot Chocolate Concentrate"
 description: "I riffed on the original recipe so I could make one cup at a time. Use the best possible cocoa powder you can - I like the high fat cocoa powder from Penzey's."
+prep: "5 min"
+cook: "5 min"
+yield: "Makes about 1 1/2 cups"
 categories:
   - Drinks
 tags:

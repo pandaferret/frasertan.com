@@ -1,6 +1,11 @@
 ---
 title: "Beef short ribs (with chard and mashed potatoes)"
 description: "This was the pièce de résistance of Christmas 2017! These take all day to make and are worth *every* moment. Start the day early, take your time and enjoy the art as well as the work of making these meltingly delicious short ribs. Hats off to Deb of smitten kitchen!"
+added: 2026-08-31
+prep: "30 min"
+cook: "4 hr"
+rest: "Season overnight"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

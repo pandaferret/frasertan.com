@@ -2,6 +2,9 @@
 title: "Pumpkin Spice Whoopie Pies"
 description: "These are delicious fall treats, and a nice twist on classic holiday flavors."
 yield: "Makes 24 pies"
+prep: "30 min"
+cook: "25 min"
+rest: "Cool 30 min"
 categories:
   - Desserts
 subcategories:

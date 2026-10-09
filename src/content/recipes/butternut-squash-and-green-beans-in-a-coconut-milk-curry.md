@@ -1,6 +1,9 @@
 ---
 title: "Butternut Squash and Green Beans in a Coconut Milk Curry"
 description: "A delicious mild curry from 5 Spices, 50 Recipes. For details on making a tadka, see [Railway Potatoes](/recipes/railway-potatoes/)."
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

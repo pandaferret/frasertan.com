@@ -1,6 +1,9 @@
 ---
 title: "Skillet-Baked Pasta with Five Cheeses"
 description: "Well, four for me, since I don't like blue cheese :)"
+prep: "15 min"
+cook: "30 min"
+yield: "Serves 6"
 categories:
   - Main Dishes
 subcategories:

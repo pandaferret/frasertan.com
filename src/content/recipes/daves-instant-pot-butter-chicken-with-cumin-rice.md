@@ -2,6 +2,8 @@
 title: "Dave's Instant Pot Butter Chicken with Cumin Rice"
 description: "This comes from our friend Dave, and is both quick and delicious! It will quickly become a staple in your rotation and might just be faster than takeout!"
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "45 min"
 categories:
   - Main Dishes
 subcategories:

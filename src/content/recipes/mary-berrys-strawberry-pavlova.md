@@ -1,6 +1,10 @@
 ---
 title: "Mary Berry's Strawberry Pavlova"
 description: "Easy and delicious! A top favourite with all ages. Traditionally the inside of the meringue is soft and marshmallow-like and the outside is crisp. Don't worry if the pavlova cracks on the top - this is all part of its charm."
+prep: "30 min"
+cook: "1 hr"
+rest: "Cool 2 hr, chill 1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

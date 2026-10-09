@@ -1,6 +1,10 @@
 ---
 title: "Scallion Pancake Challah"
 description: "The filling makes this a nicely savory challah. I had to use a lot more than 3 cups of flour in this recipe - possibly verging on 4.5 to 5 cups. You want the dough to at least not stick to the counter."
+prep: "30 min"
+cook: "25 min"
+rest: "Rise 2 hr"
+yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
 dietary:

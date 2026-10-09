@@ -1,6 +1,9 @@
 ---
 title: "Miso Sweet Potato and Broccoli Bowl"
 description: "Deb's creation; yummy, healthy, all in one! May take a bit of prep work, but if done on a weekend, this can come together quickly for a weeknight meal."
+prep: "20 min"
+cook: "45 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

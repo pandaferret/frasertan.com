@@ -1,5 +1,8 @@
 ---
 title: "Modern Succotash with Poblano, Bacon, and Cilantro"
+prep: "15 min"
+cook: "20 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 dietary:

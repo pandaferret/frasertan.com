@@ -1,6 +1,9 @@
 ---
 title: "Overnight Chicken Soup with Dumplings"
 description: "This recipe is an amalgamation of a few different things - it's versatile enough for you to adapt to your own tastes!"
+prep: "20 min"
+cook: "30 min"
+yield: "Serves 6"
 categories:
   - Soups and Stews
 subcategories:

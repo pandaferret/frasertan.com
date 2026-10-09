@@ -1,6 +1,9 @@
 ---
 title: "Sage-Vermouth Sauce"
 description: "Goes well with [Sauteed Chicken Breast Cutlets](/recipes/sauteed-chicken-breast-cutlets/)"
+prep: "5 min"
+cook: "10 min"
+yield: "Serves 4"
 categories:
   - Sauces and Dips
 source:

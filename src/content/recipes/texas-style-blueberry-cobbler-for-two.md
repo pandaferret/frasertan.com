@@ -1,6 +1,10 @@
 ---
 title: "Texas-Style Blueberry Cobbler for Two"
 description: "A nicely scaled dessert for two! You will need two 10 oz or 12 oz straight sided ramekins. From Cook's Illustrated."
+prep: "15 min"
+cook: "45 min"
+rest: "Cool 15 min"
+yield: "Serves 2"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Crispy Short Rib Carnitas with Sunset Slaw"
 description: "This recipe of Deb's cemented my utter adoration of short ribs. They are so easy - all they take is time and - if you're feeling fancy - a little more time - and they always come out so moist and flavorful. The richness of the meat pairs well with the slaw: eat it on the side or in your tacos!"
+added: 2026-08-31
+prep: "25 min"
+cook: "2 hr 45 min"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

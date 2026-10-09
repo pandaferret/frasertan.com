@@ -2,6 +2,10 @@
 title: "Chao Nian Gao (Stir-Fried Chinese Rice Cakes with Napa Cabbage and Pork)"
 description: "OMG so delicious - make sure to prep everything ahead of time so you can cook things quickly! Find sliced rice cakes, refrigerated or frozen, in Asian markets, some supermarkets, or online. If using frozen rice cakes, defrost them before cooking. Rinse the rice cakes just before cooking; if they sit with moisture clinging to them, they will stick together."
 yield: "Serves 6-8"
+added: 2026-08-13
+prep: "25 min"
+cook: "10 min"
+rest: "Marinate 30 min"
 categories:
   - Main Dishes
 subcategories:

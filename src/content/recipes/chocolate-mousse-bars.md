@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Mousse Bars"
 description: "These no bake bars are a total hit!"
+prep: "30 min"
+cook: "5 min"
+rest: "Chill 2 hr"
+yield: "Makes 24 bars"
 categories:
   - Desserts
 subcategories:

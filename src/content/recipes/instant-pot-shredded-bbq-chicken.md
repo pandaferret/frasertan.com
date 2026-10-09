@@ -1,5 +1,8 @@
 ---
 title: "Instant Pot Shredded BBQ Chicken"
+prep: "5 min"
+cook: "1 hr 15 min"
+yield: "Serves 6-8"
 categories:
   - Main Dishes
 subcategories:

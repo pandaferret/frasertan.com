@@ -2,6 +2,8 @@
 title: "Beef Stroganoff"
 description: "While I'm not normally a mushroom fan, I do like them in a stroganoff!"
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "30 min"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Cupcakes"
 description: "This recipe from Cook's Illustrated makes the best kind of cake for cupcakes; rich, moist, just dense enough, and not overly sweet. Top with your favorite frosting!"
+prep: "20 min"
+cook: "40 min"
+rest: "Cool 1 hr"
+yield: "Makes 24 cupcakes"
 categories:
   - Desserts
 subcategories:

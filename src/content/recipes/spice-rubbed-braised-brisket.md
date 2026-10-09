@@ -1,6 +1,9 @@
 ---
 title: "Spice-Rubbed Braised Brisket with Pomegranate"
 description: "A delicious recipe from the New York Times!"
+prep: "30 min"
+cook: "4 hr 45 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

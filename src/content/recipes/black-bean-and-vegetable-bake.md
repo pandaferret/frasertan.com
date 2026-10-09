@@ -2,6 +2,8 @@
 title: "Black Bean and Vegetable Bake"
 description: "This is a great way to snarf cheesy dip with tortilla chips without the guilt!"
 yield: "Serves 8"
+prep: "15 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

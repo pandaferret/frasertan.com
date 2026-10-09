@@ -1,6 +1,10 @@
 ---
 title: "Chocolate-Chocolate Cookies"
 description: "Makes 10 to 15 cookies"
+prep: "25 min"
+cook: "20 min"
+rest: "Chill 1 hr to 1 week"
+yield: "Makes 10-15 cookies"
 categories:
   - Desserts
 subcategories:

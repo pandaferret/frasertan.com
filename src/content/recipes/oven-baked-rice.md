@@ -1,6 +1,10 @@
 ---
 title: "Oven Baked Rice"
 description: "Making rice on the stovetop can feel a bit finicky, and not everyone has (or wants to use) a rice cooker. But, if you've got the oven free, this is an easy way to make rice for dinner."
+prep: "5 min"
+cook: "25 min"
+rest: "Stand 10 min"
+yield: "Serves 4"
 categories:
   - Side Dishes
 dietary:

@@ -1,6 +1,9 @@
 ---
 title: "Caramelized Cabbage Risotto"
 description: "Another diamond found in my search for delicious cabbage recipes! Thanks Deb!"
+prep: "15 min"
+cook: "1 hr"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

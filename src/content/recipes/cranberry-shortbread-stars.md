@@ -1,6 +1,10 @@
 ---
 title: "Cranberry Shortbread Stars"
 description: "Simple yet amazing! These are going on my Christmas cookie list from now on!"
+prep: "25 min"
+cook: "30 min"
+rest: "Chill 30 min"
+yield: "Makes about 30 cookies"
 categories:
   - Desserts
 subcategories:

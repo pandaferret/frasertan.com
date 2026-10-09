@@ -1,6 +1,10 @@
 ---
 title: "Cinnamon Star Bread"
 description: "This recipe is a bit of a mishmash, so the ratio of filling to dough may be a little off."
+prep: "45 min"
+cook: "25 min"
+rest: "Rise 3 hr"
+yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
 dietary:

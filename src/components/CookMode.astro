@@ -1,0 +1,85 @@
+---
+// A toggle for cooking from the page: keeps the screen awake (where the
+// browser supports it) and lets you tap ingredients and steps to cross them
+// off. Turning it off clears what was crossed off.
+---
+
+<div class="cook-mode">
+  <button type="button" class="cook-mode-toggle" aria-pressed="false">
+    <span class="cook-mode-switch" aria-hidden="true"></span>
+    Cook mode
+  </button>
+  <span class="cook-mode-hint" hidden>
+    Screen stays on. Tap ingredients and steps to cross them off.
+  </span>
+</div>
+
+<script>
+  type WakeLock = { release: () => Promise<void> };
+
+  document.addEventListener("astro:page-load", () => {
+    const root = document.querySelector<HTMLElement>(".cook-mode");
+    const found = document.querySelector<HTMLElement>(".recipe-body");
+    if (!root || !found) return;
+    const body = found;
+    const toggle = root.querySelector("button")!;
+    const hint = root.querySelector<HTMLElement>(".cook-mode-hint")!;
+    const items = body.querySelectorAll<HTMLElement>(
+      ".ingredients li, .directions li",
+    );
+
+    let on = false;
+    let lock: WakeLock | null = null;
+
+    async function keepAwake() {
+      const wakeLock = (navigator as any).wakeLock;
+      if (!wakeLock || lock || document.visibilityState !== "visible") return;
+      try {
+        lock = await wakeLock.request("screen");
+        (lock as any).addEventListener?.("release", () => (lock = null));
+      } catch {
+        // Denied (e.g. battery saver); crossing off still works.
+      }
+    }
+
+    function release() {
+      lock?.release();
+      lock = null;
+    }
+
+    function setOn(value: boolean) {
+      on = value;
+      toggle.setAttribute("aria-pressed", String(on));
+      hint.hidden = !on;
+      body.classList.toggle("is-cooking", on);
+      if (on) {
+        keepAwake();
+      } else {
+        release();
+        items.forEach((li) => li.classList.remove("is-done"));
+      }
+    }
+
+    toggle.addEventListener("click", () => setOn(!on));
+
+    body.addEventListener("click", (event) => {
+      if (!on) return;
+      const target = event.target as HTMLElement;
+      if (target.closest("a")) return;
+      const li = target.closest<HTMLElement>(".ingredients li, .directions li");
+      if (li) li.classList.toggle("is-done");
+    });
+
+    // The browser drops the lock when the tab is hidden; take it back.
+    const onVisible = () => on && keepAwake();
+    document.addEventListener("visibilitychange", onVisible);
+    document.addEventListener(
+      "astro:before-swap",
+      () => {
+        release();
+        document.removeEventListener("visibilitychange", onVisible);
+      },
+      { once: true },
+    );
+  });
+</script>

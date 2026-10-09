@@ -1,6 +1,9 @@
 ---
 title: "Homemade Ginger Ale"
 description: "A delicious and refreshing recipe from Crumpets and Cakes! You can make it the slow way and wait for a few days, or use a shortcut to make it for day-of drinking. For make-ahead ginger ale: 1c..."
+prep: "10 min"
+rest: "Ferment 2 days, chill overnight"
+yield: "Makes 2 liters"
 categories:
   - Drinks
 dietary:

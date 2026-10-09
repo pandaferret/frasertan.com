@@ -1,6 +1,11 @@
 ---
 title: "Peppermint Bark"
 description: "Why pay waaaay too much money at Williams Sonoma when you can make this easily at home?"
+added: 2025-12-27
+prep: "15 min"
+cook: "15 min"
+rest: "Chill 2 hr"
+yield: "Makes about 20 pieces"
 categories:
   - Desserts
 subcategories:

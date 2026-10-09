@@ -1,6 +1,10 @@
 ---
 title: "Strawberry Mousse (Pie)"
 description: "Easy peasy delicious squeezy! And with only 1/2 cup sugar in the whole thing, not too bad for you!"
+prep: "20 min"
+cook: "10 min"
+rest: "Cool 25 min, chill 2 hr"
+yield: "Serves 6-8"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,8 @@
 ---
 title: "Cranberry Apple Shrub"
 yield: "Makes ~2 cups"
+prep: "15 min"
+rest: "Steep 1-2 days"
 categories:
   - Drinks
 dietary:

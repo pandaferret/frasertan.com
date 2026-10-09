@@ -1,6 +1,10 @@
 ---
 title: "Strawberry Cake"
 description: "Courtesy of Martha Stewart. This is a denser type of cake, more like a torte, and shows off the flavor of the berries quite nicely!"
+prep: "15 min"
+cook: "1 hr 15 min"
+rest: "Cool 1 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

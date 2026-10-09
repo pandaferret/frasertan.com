@@ -1,6 +1,10 @@
 ---
 title: "Pork and Cabbage Dumplings"
 description: "This is a hybrid recipe; we first learned how to make dumplings from a Chinese friend. We then combined it with a great filling recipe from Cook's Illustrated."
+prep: "1 hr 30 min"
+cook: "45 min"
+rest: "Rest dough 1 hr"
+yield: "Makes about 40 dumplings"
 categories:
   - Starters
 dietary:

@@ -2,6 +2,8 @@
 title: "Chickpea Curry"
 description: "Easy and delicious, from Cook's Illustrated!"
 yield: "Serves 4"
+prep: "15 min"
+cook: "30 min"
 categories:
   - Main Dishes
 subcategories:

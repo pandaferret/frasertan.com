@@ -2,6 +2,9 @@
 title: "Sticky Miso Salmon Bowl"
 description: "Miso salmon taken to a whole other level with grapefruit and honey, which give the fish a sticky-tangy finish when broiled. The sushi rice is mixed with a pat of butter and sliced scallions, making it a comforting counterpart for an elegant weeknight dinner."
 yield: "Serves 4"
+added: 2025-08-15
+prep: "15 min"
+cook: "30 min"
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Champagne Poached Salmon"
 description: "Something delicious from Emeril Lagasse (and Google!)."
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

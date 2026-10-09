@@ -1,6 +1,10 @@
 ---
 title: "Pumpkin Chiffon Pie"
 description: "This is Eric's favorite pie - a recipe from his mother's aunt Libby. Thanks Peggy!"
+prep: "25 min"
+cook: "10 min"
+rest: "Chill 4 hr"
+yield: "Makes 2 pies"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,8 @@
 ---
 title: "Buttercream Frosting"
 description: "A very basic buttercream frosting - no eggs, no heating required!"
+prep: "10 min"
+yield: "Makes 2 1/2 cups"
 categories:
   - Desserts
 subcategories:

@@ -2,6 +2,8 @@
 title: "Braised Eggplant with Soy, Garlic and Ginger"
 description: "You know that delicious, meltingly tender wonderfully flavorful Spicy Garlic Eggplant you get at Asian restaurants? Yeah, this is better (and better for you!) - and soooooo easy. Pair with dumplings and rice!"
 yield: "Serves 2-4"
+prep: "10 min"
+cook: "30 min"
 categories:
   - Side Dishes
 tags:

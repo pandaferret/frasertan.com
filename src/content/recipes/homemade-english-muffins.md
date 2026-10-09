@@ -1,6 +1,10 @@
 ---
 title: "Homemade English Muffins"
 description: "This recipe rocks! With a bit of time but not too much effort, you can make English muffins that are loads better than the store bought ones. Even better, toss them in the freezer - after a quick stint in the microwave they're ready to be split and toasted."
+prep: "30 min"
+cook: "45 min"
+rest: "Ferment 1-12 hr, chill overnight, rise 2 hr"
+yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
 dietary:

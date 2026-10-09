@@ -2,6 +2,8 @@
 title: "Cookies 'n' Cream Ice Cream"
 description: "Owen's favorite flavor! While not quite as rich as a custard base, this ice cream turns out quite well! Especially when overloaded with more cookies than called for."
 yield: "Makes 1.5-2 quarts"
+prep: "10 min"
+rest: "Churn 30 min, freeze 2 hr"
 categories:
   - Desserts
 subcategories:

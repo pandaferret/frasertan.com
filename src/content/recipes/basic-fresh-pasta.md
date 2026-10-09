@@ -1,6 +1,9 @@
 ---
 title: "Basic Fresh Pasta"
 description: "from Jeanne! Please note you'll need a pasta maker to do the kneading and rolling of the dough."
+prep: "45 min"
+cook: "5 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

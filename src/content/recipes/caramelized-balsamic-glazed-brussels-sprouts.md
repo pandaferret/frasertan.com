@@ -1,6 +1,9 @@
 ---
 title: "Caramelized Balsamic Glazed Brussels Sprouts"
 description: "Caramelized brussels sprouts with bacon and onion tossed in a delicious balsamic glaze!"
+prep: "15 min"
+cook: "25 min"
+yield: "Serves 4-6"
 categories:
   - Side Dishes
 source:

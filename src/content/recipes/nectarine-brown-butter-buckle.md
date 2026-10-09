@@ -1,6 +1,9 @@
 ---
 title: "Nectarine Brown Butter Buckle"
 description: "This cake from Smitten Kitchen (where else?!?) is AMAZING. It's the first time I've really felt the flavor and deliciousness of the browned butter shine through. According to le interweb, a buckle is a cake topped with fruit and streusel; make sure you use browned butter for that topping as well!"
+prep: "30 min"
+cook: "55 min"
+yield: "Serves 8-10"
 categories:
   - Desserts
 subcategories:

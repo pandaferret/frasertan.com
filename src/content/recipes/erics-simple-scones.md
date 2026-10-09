@@ -1,6 +1,9 @@
 ---
 title: "Eric's Simple Scones"
 description: "Eric makes these, and they are the *best* scones ever. No, I'm not biased, why do you ask? From Allrecipes.com"
+prep: "15 min"
+cook: "15 min"
+yield: "Makes 8 scones"
 categories:
   - Breads and Baked Goods
 tags:

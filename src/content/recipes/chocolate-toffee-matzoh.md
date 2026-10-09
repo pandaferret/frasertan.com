@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Toffee Matzoh"
 description: "Inspired by a friend who makes this each Passover. It's similar to the saltine crack, but with a lighter hand on the toffee and chocolate. I personally prefer a semisweet chocolate here to a bittersweet."
+prep: "15 min"
+cook: "10 min"
+rest: "Freeze 30 min"
+yield: "Serves 8-10"
 categories:
   - Desserts
 subcategories:

@@ -2,6 +2,8 @@
 title: "Tuscan Salmon"
 description: "A surprise hit from Reddit! This is quick, easy and, most importantly, delicious!"
 yield: "Serves 4"
+prep: "10 min"
+cook: "20 min"
 categories:
   - Main Dishes
 subcategories:

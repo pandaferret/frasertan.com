@@ -1,6 +1,10 @@
 ---
 title: "British-Style Currant Scones"
 description: "Makes 12 scones."
+added: 2025-01-23
+prep: "20 min"
+cook: "15 min"
+yield: "Makes 12 scones"
 categories:
   - Breads and Baked Goods
 dietary:

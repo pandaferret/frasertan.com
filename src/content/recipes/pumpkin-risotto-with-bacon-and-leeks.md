@@ -1,6 +1,9 @@
 ---
 title: "Pumpkin Risotto with Bacon and Leeks"
 description: "At first I thought the pumpkin would be too sweet in this dish, but it is nicely balanced out by the bacon and adds a rich creaminess to this dish."
+prep: "15 min"
+cook: "40 min"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

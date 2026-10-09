@@ -2,6 +2,8 @@
 title: "Roasted Spaghetti Squash"
 description: "While better known as a spaghetti substitute, this is also delicious on its own, spiced nicely! Use whatever spice mixes you like."
 yield: "Serves 2-4"
+prep: "10 min"
+cook: "40 min"
 categories:
   - Side Dishes
 dietary:

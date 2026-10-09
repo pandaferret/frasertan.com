@@ -2,6 +2,10 @@
 title: "Earl Grey Cardamom Crumb Cake"
 description: "I do so love cardamom, and it really shines here!"
 yield: "Serves 16-24"
+added: 2025-12-24
+prep: "20 min"
+cook: "45 min"
+rest: "Cool 45 min"
 categories:
   - Desserts
 subcategories:

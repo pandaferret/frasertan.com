@@ -1,6 +1,10 @@
 ---
 title: "Cranberry Tart"
 description: "A twist on the classic tarte au citron, and a wonderful addition to any Thanksgiving spread!"
+prep: "45 min"
+cook: "50 min"
+rest: "Freeze 30 min, cool 1 hr"
+yield: "Serves 10-12"
 categories:
   - Desserts
 subcategories:

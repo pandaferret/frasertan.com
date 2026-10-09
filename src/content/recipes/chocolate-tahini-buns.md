@@ -1,6 +1,10 @@
 ---
 title: "Chocolate Tahini Buns"
 description: "Soft buttery challah meets deep chocolate flavor combined with the mild nuttiness of tahini. These are easy to make and easy to share!"
+prep: "40 min"
+cook: "30 min"
+rest: "Rise 3 1/2 hr"
+yield: "Makes 12 buns"
 categories:
   - Breads and Baked Goods
 dietary:

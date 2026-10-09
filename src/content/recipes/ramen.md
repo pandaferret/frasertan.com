@@ -1,6 +1,9 @@
 ---
 title: "Ramen"
 description: "Turns out making ramen at home is easy and delicious - and a great way to use up leftovers!"
+prep: "15 min"
+cook: "15 min"
+yield: "Serves 2-4"
 categories:
   - Soups and Stews
 subcategories:

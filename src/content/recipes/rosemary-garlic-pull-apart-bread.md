@@ -2,6 +2,9 @@
 title: "Rosemary Garlic Pull Apart Bread"
 description: "This came out so well! Beautiful presentation, and glorious strings of ooey gooey cheese as you pull apart the layers. For once, I did not add more garlic than the recipe calls for, and I was happy with my choice."
 yield: "Makes 1 9x5 loaf"
+prep: "40 min"
+cook: "50 min"
+rest: "Rise 2 hr"
 categories:
   - Breads and Baked Goods
 dietary:

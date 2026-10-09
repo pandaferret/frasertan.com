@@ -1,5 +1,8 @@
 ---
 title: "Seared Salmon Fillets with Balsamic Glaze"
+prep: "5 min"
+cook: "15 min"
+yield: "Serves 2"
 categories:
   - Main Dishes
 subcategories:

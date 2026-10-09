@@ -2,6 +2,9 @@
 title: "Classic Apple Pie"
 description: "This is a really nicely spiced filling! Just a classic hits-the-spot piece of pie. You can substitute Empire or Cortland apples for the Granny Smith apples. The pie is best eaten when cooled to room temperature. A metal pie plate works best here; if using a glass pie plate, skip the preheated baking sheet and place the pie plate directly on the rack starting at 425 degrees."
 yield: "Serves 8"
+prep: "45 min"
+cook: "1 hr"
+rest: "Chill 1 hr 30 min, cool 4 hr"
 categories:
   - Desserts
 subcategories:

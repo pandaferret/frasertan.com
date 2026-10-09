@@ -2,6 +2,8 @@
 title: "Chocolate Kiss Cookies"
 description: "Get nonpareils in colors to match the season - red and green for Christmas, pastels for Easter, rainbow for birthdays!"
 yield: "Makes 25 cookies"
+prep: "25 min"
+cook: "25 min"
 categories:
   - Desserts
 subcategories:

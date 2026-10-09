@@ -1,6 +1,10 @@
 ---
 title: "Apple Mosaic Tart with Salted Caramel"
 description: "Another hit from Smitten Kitchen! A mandoline helps enormously with the apple slicing."
+prep: "30 min"
+cook: "40 min"
+rest: "Cool 1 hr"
+yield: "Makes 12 squares"
 categories:
   - Desserts
 subcategories:

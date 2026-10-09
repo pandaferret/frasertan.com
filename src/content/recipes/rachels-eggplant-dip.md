@@ -1,6 +1,9 @@
 ---
 title: "Rachel's Eggplant Dip"
 description: "Our friend Rachel makes a wonderful eggplant dip. After many many attempts, I have concluded that nothing is quite as perfect as her dip, but that I can come pretty darned close :)"
+prep: "15 min"
+cook: "2 hr 15 min"
+yield: "Serves 6-8"
 categories:
   - Sauces and Dips
 dietary:

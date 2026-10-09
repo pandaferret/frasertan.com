@@ -7,6 +7,9 @@ tags:
 dietary:
   - VEG
 yield: "Serves 3-4"
+added: 2026-09-12
+prep: "10 min"
+cook: "15 min"
 categories:
   - Breakfast
 source:

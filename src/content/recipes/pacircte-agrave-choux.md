@@ -1,6 +1,9 @@
 ---
 title: "Pâte à choux"
 description: "Choux pastry is used for several different desserts that encase a soft tasty filling in a light but crunchy shell, such as profiteroles and eclairs."
+prep: "20 min"
+cook: "1 hr 10 min"
+yield: "Makes about 24 puffs"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "Spinach and Gruyere Souffle Casserole"
 description: "From a lovely cooking class we took at Tablespoons of Love in Half Moon Bay."
+prep: "30 min"
+cook: "50 min"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:

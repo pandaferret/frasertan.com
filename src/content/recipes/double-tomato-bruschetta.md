@@ -1,6 +1,9 @@
 ---
 title: "Double Tomato Bruschetta"
 description: "from the internet! 5 stars from 1837 reviews on allrecipes.com!"
+prep: "20 min"
+cook: "5 min"
+yield: "Serves 6-8"
 categories:
   - Starters
 tags:

@@ -2,6 +2,9 @@
 title: "Cheesy Roast Potatoes"
 description: "Adapted from an ATK recipe - delicious! I've reduced the salt a bit."
 yield: "Serves 4"
+added: 2026-02-12
+prep: "10 min"
+cook: "45 min"
 categories:
   - Side Dishes
 tags:

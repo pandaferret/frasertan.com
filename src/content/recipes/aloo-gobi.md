@@ -1,6 +1,9 @@
 ---
 title: "Aloo Gobi"
 description: "Spiced cauliflower and potatoes, courtesy of Deb!"
+prep: "20 min"
+cook: "35 min"
+yield: "Serves 3-4"
 categories:
   - Main Dishes
 subcategories:

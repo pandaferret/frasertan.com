@@ -2,6 +2,8 @@
 title: "Ginger Garlic Chicken Noodle Soup"
 description: "Who says a rich satisfying chicken noodle soup has to take forever? The broth for this one comes together relatively quickly, and makes a great base to explore with from there! Ginger and garlic add an Asian flavor to the soup that goes very well with ramen, udon or rice noodles. Throw in whatever veggies you have on hand! Though, as I found out the hard way, red onion and red cabbage will turn your soup.... blue...."
 yield: "Serves 4-6"
+prep: "15 min"
+cook: "30 min"
 categories:
   - Soups and Stews
 subcategories:

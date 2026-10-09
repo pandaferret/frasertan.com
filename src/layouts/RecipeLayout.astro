@@ -1,11 +1,15 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import DietaryBadge from "../components/DietaryBadge.astro";
+import CookMode from "../components/CookMode.astro";
 
 interface Props {
   title: string;
   description?: string;
   yield?: string;
+  prep?: string;
+  cook?: string;
+  rest?: string;
   categories: string[];
   subcategories?: string[];
   tags?: string[];
@@ -19,6 +23,9 @@ const {
   title,
   description,
   yield: recipeYield,
+  prep,
+  cook,
+  rest,
   categories,
   subcategories,
   tags,
@@ -67,6 +74,17 @@ const descriptionParts = description
       })
   : [];
 const plainDescription = description?.replace(linkPattern, "$1");
+
+// "Serves 4" or "Chill 2 hr": bold the first word, like Prep and Cook.
+const splitLabel = (text?: string) => {
+  if (!text) return undefined;
+  const match = /^(\S+)\s+(.*)$/.exec(text);
+  return match
+    ? { label: match[1], value: match[2] }
+    : { label: text, value: "" };
+};
+const restParts = splitLabel(rest);
+const yieldParts = splitLabel(recipeYield);
 
 const category = categories[0];
 const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
@@ -124,7 +142,34 @@ const breadcrumbs = [
         )
       }
       <div class="recipe-meta">
-        {recipeYield && <span>{recipeYield}</span>}
+        {
+          (prep || cook || restParts) && (
+            <span class="recipe-times">
+              {prep && (
+                <span>
+                  <strong>Prep</strong> {prep}
+                </span>
+              )}
+              {cook && (
+                <span>
+                  <strong>Cook</strong> {cook}
+                </span>
+              )}
+              {restParts && (
+                <span>
+                  <strong>{restParts.label}</strong> {restParts.value}
+                </span>
+              )}
+            </span>
+          )
+        }
+        {
+          yieldParts && (
+            <span>
+              <strong>{yieldParts.label}</strong> {yieldParts.value}
+            </span>
+          )
+        }
         {
           dietary && dietary.length > 0 && (
             <span class="badges">
@@ -152,6 +197,7 @@ const breadcrumbs = [
           <meta data-pagefind-filter="tag[content]" content={tag} />
         ))
       }
+      <CookMode />
     </div>
     <hr />
     <slot />
@@ -170,4 +216,5 @@ const breadcrumbs = [
       )
     }
   </article>
+  <slot name="after" />
 </BaseLayout>

@@ -1,6 +1,9 @@
 ---
 title: "Artichokes - Scary but Easy!"
 description: "What do you think of when you picture a thistle? something kinda purple, spikey, the national flower of Scotland... Dinner? not usually. But that's what you're eating when you eat an artichoke - a..."
+prep: "10 min"
+cook: "1 hr"
+yield: "Serves 2-4"
 categories:
   - Starters
 dietary:

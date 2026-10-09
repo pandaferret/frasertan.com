@@ -1,6 +1,10 @@
 ---
 title: "Saltine Crack Ice Cream Sandwiches"
 description: "Made with Jess. The saltine crack is amazing! It was a bit hard to cut - might have needed to be more frozen to achieve clean cuts."
+prep: "30 min"
+cook: "20 min"
+rest: "Freeze 4 1/2 hr to overnight"
+yield: "Makes 16 sandwiches"
 categories:
   - Desserts
 subcategories:

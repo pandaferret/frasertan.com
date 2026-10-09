@@ -1,6 +1,9 @@
 ---
 title: "French Lentils with Thyme"
 description: "An easy side dish to accompany any main - fresh or leftover!"
+prep: "5 min"
+cook: "35 min"
+yield: "Serves 6-8"
 categories:
   - Side Dishes
 tags:

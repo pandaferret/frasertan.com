@@ -1,6 +1,10 @@
 ---
 title: "Scallion Pull-Apart Rolls"
 description: "From Molly Yeh, these oil-based rolls keep quite well for several days!"
+prep: "30 min"
+cook: "35 min"
+rest: "Rise 2 1/2 hr"
+yield: "Makes about 12 rolls"
 categories:
   - Breads and Baked Goods
 dietary:

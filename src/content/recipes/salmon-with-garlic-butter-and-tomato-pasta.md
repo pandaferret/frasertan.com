@@ -2,6 +2,8 @@
 title: "Salmon With Garlic Butter and Tomato Pasta"
 description: "This recipe is easy peasy and delicious - a crucial combination to feed a hungry almost 8 year old on a busy weeknight!"
 yield: "Serves 3-4"
+prep: "10 min"
+cook: "15 min"
 categories:
   - Main Dishes
 subcategories:

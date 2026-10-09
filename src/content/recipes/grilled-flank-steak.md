@@ -1,6 +1,10 @@
 ---
 title: "Grilled Flank Steak"
 description: "Easy and delicious - thank you internet!"
+prep: "10 min"
+cook: "15 min"
+rest: "Marinate 1 hr to overnight"
+yield: "Serves 4-6"
 categories:
   - Main Dishes
 subcategories:

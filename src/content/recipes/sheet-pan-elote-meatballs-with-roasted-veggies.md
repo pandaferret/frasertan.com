@@ -2,6 +2,9 @@
 title: "Sheet Pan Elote Meatballs with Roasted Veggies"
 description: "Turkey meatballs infused with Mexican street corn flair, oven-baked alongside bell peppers, red onion, chickpeas and corn, then drizzled with a creamy, tangy, smoky yogurt sauce. Great as leftovers for lunch, too."
 yield: "Serves 4"
+added: 2025-11-03
+prep: "20 min"
+cook: "25 min"
 categories:
   - Main Dishes
 subcategories:

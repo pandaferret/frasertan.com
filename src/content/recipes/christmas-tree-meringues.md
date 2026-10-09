@@ -1,7 +1,10 @@
 ---
 title: "Christmas Tree Meringues"
 description: "These are (a) so easy and (b) so adorable!"
-yield: "Yield: ~ 50 cookies"
+yield: "Makes about 50 cookies"
+prep: "30 min"
+cook: "1 hr"
+rest: "Cool 1 hr"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,9 @@
 ---
 title: "French Toast Cakes"
 description: "These are basically just French Toast, but in hand-sized form. They're easy to make for a crowd of hungry kiddos (both full grown and small ones)."
+prep: "10 min"
+cook: "30 min"
+yield: "Serves 4"
 categories:
   - Breakfast
 dietary:

@@ -2,6 +2,8 @@
 title: "Roasted Broccoli with Parmesan"
 description: "Tender florets tossed with olive oil, lemon juice, and salt, roasted at high heat until nicely browned around the edges (with some crispy bits), then sprinkled generously with Parmesan. You can skip the lemon and cheese if you want - but don't skip the black pepper. Broccoli loves pepper! The measurements are just a guideline; adjust to taste."
 yield: "Serves 3-4"
+prep: "10 min"
+cook: "20 min"
 categories:
   - Side Dishes
 tags:

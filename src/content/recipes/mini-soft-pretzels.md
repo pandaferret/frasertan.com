@@ -1,6 +1,10 @@
 ---
 title: "Mini Soft Pretzels"
 description: "Another Smitten Kitchen hit!"
+prep: "45 min"
+cook: "30 min"
+rest: "Rise 1 hr 15 min"
+yield: "Makes 16 large or 32 mini pretzels"
 categories:
   - Breads and Baked Goods
 dietary:

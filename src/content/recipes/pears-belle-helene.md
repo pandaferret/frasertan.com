@@ -1,6 +1,10 @@
 ---
 title: "Pears Belle Helene"
 description: "This is a dessert I used to share with my friend Jean-Gab when he lived next door to me. He had the smallest kitchen I've ever seen (still had a gas stovetop though!) so we usually cooked simple recipes for dinner."
+prep: "20 min"
+cook: "30 min"
+rest: "Chill 2 hr"
+yield: "Serves 6"
 categories:
   - Desserts
 subcategories:

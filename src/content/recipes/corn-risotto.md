@@ -1,5 +1,8 @@
 ---
 title: "Corn Risotto"
+prep: "15 min"
+cook: "45 min (1 hr 15 min with homemade stock)"
+yield: "Serves 4"
 categories:
   - Main Dishes
 subcategories:

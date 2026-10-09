@@ -1,6 +1,10 @@
 ---
 title: "Blue Smoke Deviled Eggs"
 description: "I inherited this recipe from my friend Alyssa, and it makes the best Deviled Eggs I've ever tasted!"
+added: 2026-09-27
+prep: "25 min"
+cook: "15 min"
+yield: "Makes 24 halves"
 categories:
   - Starters
 dietary:

@@ -2,6 +2,9 @@
 title: "Peggy Cake aka The Birthday Cake"
 description: "This is the LEGENDARY Peggy cake, staple and standard of the Seidel family, requested and required at every birthday - and then some!"
 yield: "Serves 12-16"
+prep: "10 min"
+cook: "45 min"
+rest: "Cool 1 hr"
 categories:
   - Desserts
 subcategories:

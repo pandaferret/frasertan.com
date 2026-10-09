@@ -1,6 +1,9 @@
 ---
 title: "Banana Muffins (Egg Free)"
 description: "The crunchy streusel topping is a great contrast to the moist muffins!"
+prep: "15 min"
+cook: "30 min"
+yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
 dietary:

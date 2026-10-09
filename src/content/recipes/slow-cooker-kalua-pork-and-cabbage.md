@@ -1,6 +1,9 @@
 ---
 title: "Slow-Cooker Kalua Pork and Cabbage"
 description: "Inspired by our Hawai'ian vacation, these go really well with [Hawaiian Buns](/recipes/hawaiian-buns/)."
+prep: "10 min"
+cook: "9 hr"
+yield: "Serves 8-10"
 categories:
   - Main Dishes
 subcategories:
