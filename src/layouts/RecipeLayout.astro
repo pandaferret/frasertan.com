@@ -53,6 +53,21 @@ const sourceHost = source?.url
 const sourceLabel =
   source?.name || (sourceHost && (siteNames[sourceHost] ?? sourceHost));
 
+// Descriptions can include Markdown-style links, e.g.
+// "see [Railway Potatoes](/recipes/railway-potatoes/)". Split them into text
+// and link parts for the page, and strip the markup for the meta description.
+const linkPattern = /\[([^\]]+)\]\(([^)\s]+)\)/g;
+const descriptionParts = description
+  ? description
+      .split(/(\[[^\]]+\]\([^)\s]+\))/)
+      .filter(Boolean)
+      .map((part) => {
+        const match = /^\[([^\]]+)\]\(([^)\s]+)\)$/.exec(part);
+        return match ? { text: match[1], href: match[2] } : { text: part };
+      })
+  : [];
+const plainDescription = description?.replace(linkPattern, "$1");
+
 const category = categories[0];
 const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
 const subcategory = subcategories?.[0];
@@ -72,7 +87,11 @@ const breadcrumbs = [
 ];
 ---
 
-<BaseLayout title={title} description={description} breadcrumbs={breadcrumbs}>
+<BaseLayout
+  title={title}
+  description={plainDescription}
+  breadcrumbs={breadcrumbs}
+>
   {
     cover && (
       <div class="recipe-cover" slot="banner">
@@ -83,7 +102,15 @@ const breadcrumbs = [
   <article data-pagefind-body>
     <div class="recipe-header">
       <h1>{title}</h1>
-      {description && <p class="recipe-description">{description}</p>}
+      {
+        description && (
+          <p class="recipe-description">
+            {descriptionParts.map((part) =>
+              part.href ? <a href={part.href}>{part.text}</a> : part.text,
+            )}
+          </p>
+        )
+      }
       {
         quote && (
           <figure class="recipe-quote">
