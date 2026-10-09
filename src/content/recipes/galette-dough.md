@@ -10,7 +10,7 @@ dietary:
   - VEG
   - EF
 source:
-  name: 'Galette! by Rebecca Firkser, p. 27 ("A Good Crust")'
+  name: 'Galette! by Rebecca Firkser, pp. 27–32 ("A Good Crust")'
 ---
 
 ## Ingredients
@@ -24,6 +24,8 @@ source:
 
 ## Directions
 
+By hand:
+
 1. Stir the water and vinegar together and put them in the freezer while you work.
 2. In a large bowl, mix the flour, sugar and salt with your fingers or a fork.
 3. Toss the butter cubes in the flour to coat them. Smash and rub the butter into the flour with your fingers until most of it is in flat pieces about ¾ inch (2 cm) across, with some smaller bits. It should still look dry and crumbly.
@@ -33,6 +35,17 @@ source:
 7. Fold the dough over on itself with your hands or a bench scraper and press it back down to 1 inch thick. Repeat 2 or 3 more times, dusting with flour if it gets sticky. It should come together into a cohesive dough with streaks of butter, like marble or wood grain.
 8. **Standard disks:** cut the dough in half and put each half on plastic wrap. **XL disk:** keep it in one piece.
 9. Wrap tightly and press into a round or rectangle about ¾ inch (2 cm) thick. Refrigerate at least 2 hours and up to 5 days, or freeze for up to 3 months.
+
+Food processor method:
+
+This is faster, and it's the better choice when you're making more than one batch, the kitchen is warm, or your hands tend to melt the butter. It goes quickly, so don't get distracted and overwork the dough.
+
+1. Freeze the cubed butter in a small bowl for 10 minutes. Mix the water and vinegar as above. Pulse the flour, sugar and salt in a food processor (at least 7-cup) 3 times to mix.
+2. Add the butter (firm but not frozen solid) and pulse 3 or 4 times, 1 second each, until it's coated in flour and broken into chickpea-sized pieces, about ½ inch (13 mm).
+3. Drizzle half of the water-vinegar over the mixture and pulse twice, 1 second each. Drizzle in another splash and pulse 2 or 3 more times, just until it barely comes together. It should be crumbly, with moist pebbles of dough and no dry flour. If you still see dry flour, add more liquid a tablespoon at a time with 1-second pulses. You may not need all of it.
+4. Turn the dough out onto a clean counter and break up any large pieces with your fingers or a bench scraper so the crumbs are even. Continue from step 7 above. The butter pieces will be a little smaller than in the hand-mixed version, and the surface should look like terrazzo.
+
+For a completely hands-off version, skip the folding and tip the crumbly dough straight onto plastic wrap, wrap it up, and gently roll over it with a rolling pin until it's tightly pressed together and about ¾ inch (2 cm) thick. Folding gives you flakier layers, though.
 
 ## Notes
 
