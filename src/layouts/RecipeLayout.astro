@@ -87,7 +87,11 @@ const breadcrumbs = [
 ];
 ---
 
-<BaseLayout title={title} description={plainDescription} breadcrumbs={breadcrumbs}>
+<BaseLayout
+  title={title}
+  description={plainDescription}
+  breadcrumbs={breadcrumbs}
+>
   {
     cover && (
       <div class="recipe-cover" slot="banner">
