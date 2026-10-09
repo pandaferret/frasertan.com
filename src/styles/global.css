@@ -376,7 +376,8 @@ main {
 }
 
 .recipe-body .ingredients p,
-.recipe-body .directions p.subheading {
+.recipe-body .directions p.subheading,
+.recipe-body .notes p.subheading {
   font-weight: 600;
   color: var(--color-heading);
 }
