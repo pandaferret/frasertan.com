@@ -432,6 +432,15 @@ main {
   margin-bottom: 2rem;
 }
 
+/* List results by title only. Pagefind's excerpts are mostly ingredient and
+   direction text, which buries the recipe names. */
+#search .pagefind-ui__result-excerpt {
+  display: none;
+}
+#search .pagefind-ui__result {
+  padding: 0.9rem 0;
+}
+
 @media (max-width: 600px) {
   /* Pagefind stacks its Category, Dietary and Tag filters above the results
      on narrow screens, which pushes the results below the keyboard. Shrink
