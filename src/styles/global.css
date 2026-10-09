@@ -274,6 +274,13 @@ main {
   object-fit: cover;
 }
 
+/* On phones the cover pushes the recipe below the fold, so skip it there. */
+@media (max-width: 600px) {
+  .recipe-cover {
+    display: none;
+  }
+}
+
 .recipe-header h1 {
   margin-bottom: 0.25rem;
 }
