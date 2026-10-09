@@ -432,6 +432,53 @@ main {
   margin-bottom: 2rem;
 }
 
+@media (max-width: 600px) {
+  /* Pagefind stacks its Category, Dietary and Tag filters above the results
+     on narrow screens, which pushes the results below the keyboard. Shrink
+     the filters to one row of chips so results start right under the search
+     box; an opened filter takes the full width. */
+  #search .pagefind-ui__drawer {
+    gap: 0;
+  }
+  #search .pagefind-ui__filter-panel {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.75rem;
+  }
+  #search .pagefind-ui__filter-block {
+    padding: 0.3rem 0.8rem;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+  }
+  #search .pagefind-ui__filter-block[open] {
+    flex-basis: 100%;
+    border-radius: 10px;
+  }
+  #search .pagefind-ui__filter-name {
+    gap: 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 400;
+  }
+  #search .pagefind-ui__filter-name::after {
+    position: static;
+    margin-left: auto;
+    width: 6px;
+    height: 6px;
+    transform: translateY(-30%) rotate(-45deg);
+  }
+  #search .pagefind-ui__filter-block[open] .pagefind-ui__filter-name::after {
+    transform: translateY(30%) rotate(-225deg);
+  }
+  #search .pagefind-ui__filter-group {
+    gap: 0.75rem;
+    padding: 0.75rem 0 0.4rem;
+  }
+  #search .pagefind-ui__results-area {
+    margin-top: 0.25rem;
+  }
+}
+
 /* Tag list */
 .tag-list {
   display: flex;
