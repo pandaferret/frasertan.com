@@ -427,6 +427,30 @@ main {
   text-decoration: none;
 }
 
+/* Recipes page: fixed column counts on wide screens so every row is full */
+@media (min-width: 701px) {
+  .category-list--fives {
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 1fr;
+  }
+
+  .category-list--fours {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .category-list--fives li,
+  .category-list--fives li a {
+    height: 100%;
+  }
+
+  .category-list--fives li a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0.25rem;
+  }
+}
+
 /* Search */
 .search-container {
   margin-bottom: 2rem;

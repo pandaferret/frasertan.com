@@ -32,8 +32,8 @@ const tags = [
 
   <Search />
 
-  <h2>Categories</h2>
-  <ul class="category-list">
+  <h2>By Course</h2>
+  <ul class="category-list category-list--fives">
     {
       categories.map((cat) => {
         const slug = cat.toLowerCase().replace(/ /g, "-");
@@ -46,8 +46,8 @@ const tags = [
     }
   </ul>
 
-  <h2>Tags</h2>
-  <ul class="category-list">
+  <h2>By Specialties</h2>
+  <ul class="category-list category-list--fours">
     {
       tags.map((tag) => {
         const slug = tag.toLowerCase().replace(/ /g, "-");
