@@ -17,6 +17,8 @@ interface Props {
   source?: { name?: string; url?: string };
   cover?: string;
   quote?: { text: string; author: string };
+  // schema.org Recipe data for search engines.
+  schema?: Record<string, unknown>;
 }
 
 const {
@@ -33,6 +35,7 @@ const {
   source,
   cover,
   quote,
+  schema,
 } = Astro.props;
 
 // Friendly names for common recipe sites, used when a source has a URL but
@@ -108,6 +111,7 @@ const breadcrumbs = [
 <BaseLayout
   title={title}
   description={plainDescription}
+  image={cover}
   breadcrumbs={breadcrumbs}
 >
   {
@@ -216,5 +220,13 @@ const breadcrumbs = [
       )
     }
   </article>
+  {
+    schema && (
+      <script
+        type="application/ld+json"
+        set:html={JSON.stringify(schema).replace(/</g, "\\u003c")}
+      />
+    )
+  }
   <slot name="after" />
 </BaseLayout>

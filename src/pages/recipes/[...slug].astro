@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import RecipeLayout from "../../layouts/RecipeLayout.astro";
+import { recipeSchema } from "../../recipe-schema";
 import MoreLikeThis from "../../components/MoreLikeThis.astro";
 
 export async function getStaticPaths() {
@@ -15,7 +16,7 @@ const { recipe } = Astro.props;
 const { Content } = await render(recipe);
 ---
 
-<RecipeLayout {...recipe.data}>
+<RecipeLayout {...recipe.data} schema={recipeSchema(recipe, Astro.site!)}>
   <div class="recipe-body">
     <Content />
   </div>
