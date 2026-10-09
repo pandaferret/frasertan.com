@@ -11,7 +11,7 @@ dietary:
 
 ## Directions
 
-1. For vanilla ice cream, please see Coffee Crunch Ice Cream. Prepare with the following changes:
+1. For vanilla ice cream, please see [Coffee Crunch Ice Cream](/recipes/coffee-crunch-ice-cream/). Prepare with the following changes:
 2. Omit the coffee grounds
 3. Add only 1/4 cup sugar to the egg yolks
 4. Omit the additional 2 tbsp sugar

@@ -36,9 +36,9 @@ cover: "/images/recipes/beef-short-ribs-with-chard-and-mashed-potatoes.jpg"
 
 Serve with:
 
-- Wilted Chard with Pearl Onions
-- Creamy Mashed Potatoes
-- Horseradish Cream
+- [Wilted Chard with Pearl Onions](/recipes/wilted-chard-with-pearl-onions/)
+- [Creamy Mashed Potatoes](/recipes/creamy-mashed-potatoes/)
+- [Horseradish Cream](/recipes/horseradish-cream/)
 
 ## Directions
 

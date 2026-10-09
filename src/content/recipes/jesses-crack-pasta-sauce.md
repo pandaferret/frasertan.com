@@ -37,4 +37,4 @@ dietary:
 - I think I let it go for more than an hour, and I kept stirring occasionally so the bottom wouldn't burn (I have a hot stove).
 - Jesse says the cheese and cream are optional, I think they are required.
 - Drinking the other half of the bottle is definitely optional.
-- I want to try this with a sweeter white like a Riesling or a Sauternes, based on Pasta with Bolognese Sauce
+- I want to try this with a sweeter white like a Riesling or a Sauternes, based on [Pasta with Bolognese Sauce](/recipes/pasta-with-bolognese-sauce/)

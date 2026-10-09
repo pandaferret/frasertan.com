@@ -23,4 +23,4 @@ cover: "/images/recipes/sausages-and-greens.jpg"
 
 ## Notes
 
-- This feels extremely similar to my Cabbage and Sausage Fry and my Oven-roasted cabbage and kale recipes. Do I have too many cabbage recipes? No, no, I don't think so. Not yet.
+- This feels extremely similar to my [Cabbage and Sausage Fry](/recipes/cabbage-and-sausage-fry/) and my [Oven-roasted cabbage and kale](/recipes/oven-roasted-cabbage-and-kale/) recipes. Do I have too many cabbage recipes? No, no, I don't think so. Not yet.

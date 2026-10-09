@@ -46,8 +46,8 @@ cover: "/images/recipes/everyday-dahl.jpg"
 ## Notes
 
 - I've never been able to find split yellow peas, but I've successfully substituted red lentils (no soaking). I tried green split peas once, and it turned into a bit of a mush... though it still tasted delicious!
-- Railway Potatoes
-- Sauteed Beets with Mustard and Lemon Juice
-- Instant Pot Indian Veggie Curry
-- Cauliflower and Tomato Masala with Peas (Gobi Matar)
+- [Railway Potatoes](/recipes/railway-potatoes/)
+- [Sauteed Beets with Mustard and Lemon Juice](/recipes/sauteed-beets-with-mustard-and-lemon-juice/)
+- [Instant Pot Indian Veggie Curry](/recipes/instant-pot-indian-veggie-curry/)
+- [Cauliflower and Tomato Masala with Peas (Gobi Matar)](/recipes/cauliflower-and-tomato-masala-with-peas-gobi-matar/)
 - and more I'm sure, since I probably will forget to keep this list up to date :)

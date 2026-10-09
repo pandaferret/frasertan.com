@@ -14,7 +14,7 @@ dietary:
 - 2 apples
 - 2 bell peppers (not green)
 - 8 oz fresh mozzarella balls (ciliegine)
-- Balsamic Vinaigrette
+- [Balsamic Vinaigrette](/recipes/balsamic-vinaigrette/)
 
 ## Directions
 

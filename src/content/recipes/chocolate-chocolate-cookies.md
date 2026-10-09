@@ -25,7 +25,7 @@ cover: "/images/recipes/chocolate-chocolate-cookies.jpg"
 - 3 g baking powder (0.75 tsp)
 - 1.5 g baking soda (0.75 tsp)
 - 7 g kosher salt (1.75 tsp)
-- 1/2 recipe Momofuku Milk Bar Chocolate Crumb
+- 1/2 recipe [Momofuku Milk Bar Chocolate Crumb](/recipes/chocolate-crumb/)
 
 ## Directions
 

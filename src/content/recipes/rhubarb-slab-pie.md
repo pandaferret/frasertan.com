@@ -14,7 +14,7 @@ dietary:
 
 ## Ingredients
 
-- One recipe Extra-Flaky Pie Crust
+- One recipe [Extra-Flaky Pie Crust](/recipes/extra-flaky-pie-crust/)
 - 4 cups sliced rhubarb (~1/4" thick)
 - 3 tbsp tapioca starch
 - 1/3 cup sugar

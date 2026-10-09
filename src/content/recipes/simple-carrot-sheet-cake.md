@@ -27,7 +27,7 @@ source:
 - 1 1/2 cups vegetable oil
 - 1 pound carrots, peeled and grated
 - 1 1/2 cups chopped toasted walnuts (optional, but not according to my MIL)
-- 3 cups Cream Cheese Frosting
+- 3 cups [Cream Cheese Frosting](/recipes/atks-cream-cheese-frosting/)
 
 ## Equipment
 
