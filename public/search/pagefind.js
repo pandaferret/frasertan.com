@@ -50,10 +50,17 @@ export const searchTerms = (query) =>
 export const matchesWholeWords = (terms, content, locations) => {
   if (locations.length === 0) return true;
   const words = content.split(/\s+/);
+  const withFree = terms.includes("free");
   const matched = locations.flatMap((n) => {
     const word = fold(words[n] ?? "");
     // Hyphenated words are indexed whole and in parts.
-    return [word.replace(/[^a-z0-9]/g, ""), ...word.split(/[^a-z0-9]+/)];
+    const parts = word.split(/[^a-z0-9]+/).filter(Boolean);
+    // "Egg-Free" (a dietary badge, or a recipe saying so) is the opposite of
+    // what a search for "egg" wants, so it only counts when "free" is
+    // searched for too.
+    if (parts.length > 1 && parts.at(-1) === "free" && !withFree)
+      return ["free"];
+    return [parts.join(""), ...parts];
   });
   return terms.every((base) => matched.some((w) => matchesWord(base, w)));
 };
