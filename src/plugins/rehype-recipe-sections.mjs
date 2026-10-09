@@ -14,7 +14,7 @@ function textOf(node) {
 }
 
 // A short paragraph ending in a colon ("Filling:", "For the crust:") is a
-// sub-header inside Directions, as opposed to a prose aside.
+// sub-header inside Directions or Notes, as opposed to a prose aside.
 function isSubheading(node) {
   if (node.type !== "element" || node.tagName !== "p") return false;
   const text = textOf(node).trim();
@@ -39,7 +39,7 @@ export default function rehypeRecipeSections() {
         children.push(section);
       } else if (section) {
         if (
-          section.properties.className[0] === "directions" &&
+          ["directions", "notes"].includes(section.properties.className[0]) &&
           isSubheading(node)
         ) {
           node.properties = { ...node.properties, className: ["subheading"] };
