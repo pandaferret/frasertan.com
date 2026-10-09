@@ -1,6 +1,6 @@
 ---
 title: "Perfect Blueberry Muffin Loaf"
-description: "The same quick deliciousness as Smitten Kitchen's Perfect Blueberry Muffins, just in loaf form! Alas, it takes a bit longer to bake than the muffins. Any other kind of berry works here too."
+description: "The same quick deliciousness as [Smitten Kitchen's Perfect Blueberry Muffins](/recipes/smitten-kitchens-perfect-blueberry-muffins/), just in loaf form! Alas, it takes a bit longer to bake than the muffins. Any other kind of berry works here too."
 categories:
   - Breads and Baked Goods
   - Desserts

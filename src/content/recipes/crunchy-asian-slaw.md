@@ -1,6 +1,6 @@
 ---
 title: "Crunchy Asian Slaw"
-description: "This pairs well with strong sweet flavors, like Vietnamese Caramel Pork or braised short ribs."
+description: "This pairs well with strong sweet flavors, like [Vietnamese Caramel Pork](/recipes/vietnamese-caramel-pork/) or braised short ribs."
 yield: "Serves 6"
 categories:
   - Salads

@@ -1,6 +1,6 @@
 ---
 title: "Crème pâtissière"
-description: "This recipe makes juuuuust a wee bit too little to fill the 24 puffs made by the Pâte à choux recipe. By using every last little bit, we filled 22 of the 24 puffs."
+description: "This recipe makes juuuuust a wee bit too little to fill the 24 puffs made by the [Pâte à choux](/recipes/pacircte-agrave-choux/) recipe. By using every last little bit, we filled 22 of the 24 puffs."
 categories:
   - Desserts
 subcategories:

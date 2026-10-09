@@ -1,6 +1,6 @@
 ---
 title: "Salted Chocolate Chunk Cookies"
-description: "These are now my second favorite chocolate chip cookies (after Thin and Crispy Chocolate Chip Cookies). The salt adds a lovely tang, and if you can use it, the turbinado sugar makes for a great texture!"
+description: "These are now my second favorite chocolate chip cookies (after [Thin and Crispy Chocolate Chip Cookies](/recipes/thin-and-crispy-chocolate-chip-cookies/)). The salt adds a lovely tang, and if you can use it, the turbinado sugar makes for a great texture!"
 quote:
   author: "Deb, Smitten Kitchen"
   text: |

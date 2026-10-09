@@ -1,6 +1,6 @@
 ---
 title: "Peggy's Blueberry Muffins"
-description: "A must-have with Tuna Ring Salad."
+description: "A must-have with [Tuna Ring Salad](/recipes/tuna-ring-salad/)."
 yield: "15 muffins"
 categories:
   - Breads and Baked Goods

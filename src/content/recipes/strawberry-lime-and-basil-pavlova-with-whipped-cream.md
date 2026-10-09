@@ -1,6 +1,6 @@
 ---
 title: "Strawberry, Lime, and Basil Pavlova with Whipped Cream"
-description: "It just so happens this pavlova requires the exact number of egg whites leftover from the Chocolate Creme Pie.... ;)"
+description: "It just so happens this pavlova requires the exact number of egg whites leftover from the [Chocolate Creme Pie](/recipes/chocolate-creme-pie/).... ;)"
 yield: "Serves 10"
 categories:
   - Desserts

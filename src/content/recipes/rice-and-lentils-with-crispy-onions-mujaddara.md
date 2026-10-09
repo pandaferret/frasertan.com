@@ -1,6 +1,6 @@
 ---
 title: "Rice and Lentils with Crispy Onions (Mujaddara)"
-description: "Very much worth the effort! Thanks America's Test Kitchen! Do not substitute smaller French lentils for the green or brown lentils. When preparing the Crispy Onions, be sure to reserve 3 tablespoons of the onion cooking oil for cooking the rice and lentils."
+description: "Very much worth the effort! Thanks America's Test Kitchen! Do not substitute smaller French lentils for the green or brown lentils. When preparing the [Crispy Onions](/recipes/crispy-onions/), be sure to reserve 3 tablespoons of the onion cooking oil for cooking the rice and lentils."
 categories:
   - Main Dishes
 subcategories:

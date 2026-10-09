@@ -1,6 +1,6 @@
 ---
 title: "Cream Cheese Frosting"
-description: "I made this to go with my pumpkin cupcakes."
+description: "I made this to go with my [pumpkin cupcakes](/recipes/pumpkin-cupcakes/)."
 categories:
   - Desserts
 subcategories:

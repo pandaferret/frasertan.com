@@ -1,6 +1,6 @@
 ---
 title: "Maple-Mustard Sauce"
-description: "Pairs with Thick-Cut Pork Tenderloin Medallions"
+description: "Pairs with [Thick-Cut Pork Tenderloin Medallions](/recipes/thick-cut-pork-tenderloin-medallions/)"
 categories:
   - Sauces and Dips
 source:

@@ -1,6 +1,6 @@
 ---
 title: "Pillowy Pull-Apart Dinner Rolls"
-description: "These rolls turned out super soft and delicious! But due to having only a single rise, they're not *quite* as fluffy as ATK's Fluffy Dinner Rolls - if you have the time, I recommend those. But these are still wonderful!"
+description: "These rolls turned out super soft and delicious! But due to having only a single rise, they're not *quite* as fluffy as [ATK's Fluffy Dinner Rolls](/recipes/fluffy-dinner-rolls-atk/) - if you have the time, I recommend those. But these are still wonderful!"
 categories:
   - Breads and Baked Goods
 dietary:
