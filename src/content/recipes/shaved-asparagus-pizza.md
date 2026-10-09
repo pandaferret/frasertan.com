@@ -14,7 +14,7 @@ cover: "/images/recipes/shaved-asparagus-pizza.jpg"
 
 ## Ingredients
 
-- 1 recipe your favorite pizza dough
+- 1 recipe your favorite [pizza dough](/recipes/smitten-kitchens-basic-pizza-dough/)
 - 1/2 pound asparagus
 - 1/4 cup grated Parmesan
 - 1/2 pound mozzarella, shredded or cut into small cubes

@@ -20,7 +20,7 @@ cover: "/images/recipes/perfect-tart-tatin.jpg"
 - Juice of half a lemon
 - 4 tablespoons (55 grams or 2 ounces) unsalted butter, cubed, very cold
 - 3/4 cup (150 grams) granulated sugar
-- 1 sheet of defrosted puff pastry or a half recipe of extra-flaky pie crust
+- 1 sheet of defrosted puff pastry or a half recipe of [extra-flaky pie crust](/recipes/extra-flaky-pie-crust/)
 - 7 to 8 medium-large Pink Lady, Gala, or Fuji apples (3 to 3 1/2 pounds; 1.3 to 1.5kg)
 - Crème fraîche or softly whipped cream, unsweetened, for serving (optional)
 

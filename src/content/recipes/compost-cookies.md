@@ -26,7 +26,7 @@ cover: "/images/recipes/compost-cookies.jpg"
 - 4g (1 tsp) kosher salt
 - 150g (3/4 cup) mini chocolate chips
 - 100g (1/2 cup) mini butterscotch chips
-- 85g (1/2 cup) Graham crust
+- 85g (1/2 cup) [Graham crust](/recipes/graham-crust/)
 - 40g (1/3 cup) old fashioned rolled oats
 - 5g (2 1/2 tsp) ground coffee
 - 50g (2 cups) potato chips

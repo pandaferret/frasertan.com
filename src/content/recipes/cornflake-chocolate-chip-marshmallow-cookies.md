@@ -21,7 +21,7 @@ cover: "/images/recipes/cornflake-chocolate-chip-marshmallow-cookies.jpg"
 - 2 g baking powder (0.5 tsp)
 - 1.5 g baking soda (0.25 tsp)
 - 5 g kosher salt (1.25 tsp)
-- 270 g Cornflake crunch (3 c/3/4 recipe)
+- 270 g [Cornflake crunch](/recipes/cornflake-crunch/) (3 c/3/4 recipe)
 - 125 g mini chocolate chips (0.66 c)
 - 65 g mini marshmallows (1.25 c)
 

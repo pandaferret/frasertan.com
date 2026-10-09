@@ -35,6 +35,6 @@ cover: "/images/recipes/classic-pumpkin-pie.jpg"
 
 ## Notes
 
-- I decided to make my own pie shell, using Cook's Illustrated's recipe. You can probably use any of the Classic Pie Dough, All Butter Pie Dough or Foolproof Pie Dough (I used the Foolproof this last time).
+- I decided to make my own pie shell, using Cook's Illustrated's recipe. You can probably use any of the [Classic Pie Dough](/recipes/classic-pie-dough/), [All Butter Pie Dough](/recipes/all-butter-pie-dough/) or [Foolproof Pie Dough](/recipes/foolproof-pie-dough/) (I used the Foolproof this last time).
 - Don't use Pumpkin Pie filling; look for the pumpkin puree.
 - Libby's original recipe calls for baking in an unbaked pie shell, but I felt like this lessened the flavor in the crust. Next time I'll try a parbaked crust to see how that does.

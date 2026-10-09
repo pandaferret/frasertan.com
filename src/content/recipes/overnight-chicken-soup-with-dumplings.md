@@ -11,7 +11,7 @@ dietary:
 
 ## Ingredients
 
-- Overnight chicken, meat and broth separated, broth strained and defatted
+- [Overnight chicken](/recipes/overnight-chicken/), meat and broth separated, broth strained and defatted
 - a few tbsp chicken fat
 - one onion, diced
 - a few carrots, peeled and diced

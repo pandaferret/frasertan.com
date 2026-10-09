@@ -6,11 +6,11 @@ categories:
 
 ## Ingredients
 
-- 1/2 recipe Mother Dough, proofed
-- 1 recipe Bacon, Scallion Cream Cheese Plugs, frozen
+- 1/2 recipe [Mother Dough](/recipes/momofuku-milk-bar-mother-dough/), proofed
+- 1 recipe [Bacon, Scallion Cream Cheese Plugs](/recipes/bacon-scallion-cream-cheese-plugs/), frozen
 - 1 egg
 - 1 g water (1/2 tsp)
-- 1 recipe Everything Bagel Mix
+- 1 recipe [Everything Bagel Mix](/recipes/everything-bagel-mix/)
 
 ## Directions
 

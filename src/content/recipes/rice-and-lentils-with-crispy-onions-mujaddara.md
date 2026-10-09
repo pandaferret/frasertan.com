@@ -29,7 +29,7 @@ cover: "/images/recipes/rice-and-lentils-with-crispy-onions-mujaddara.jpg"
 - 8 ½ ounces (1 1/4 cups) green or brown lentils, picked over and rinsed
 - Salt and pepper
 - 1 ¼ cups basmati rice
-- 1 recipe Crispy Onions, plus 3 tablespoons reserved oil
+- 1 recipe [Crispy Onions](/recipes/crispy-onions/), plus 3 tablespoons reserved oil
 - 3 garlic cloves, minced
 - 1 teaspoon ground coriander
 - 1 teaspoon ground cumin

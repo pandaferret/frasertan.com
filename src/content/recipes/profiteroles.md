@@ -11,9 +11,9 @@ dietary:
 
 ## Ingredients
 
-- 1 recipe Pâte à choux
-- 1 recipe crème pâtissière
-- 1 recipe chocolate ganache
+- 1 recipe [Pâte à choux](/recipes/pacircte-agrave-choux/)
+- 1 recipe [crème pâtissière](/recipes/cregraveme-pacirctissiegravere/)
+- 1 recipe [chocolate ganache](/recipes/chocolate-ganache/)
 
 ## Directions
 

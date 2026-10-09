@@ -12,7 +12,7 @@ dietary:
 ## Ingredients
 
 - 1 piece of orange peel (about 1" x 2")
-- 3/4 oz Winter Warmth Syrup
+- 3/4 oz [Winter Warmth Syrup](/recipes/winter-warmth-syrup/)
 - 2 dashes of bitters\*
 - 2 ounces bourbon, rye or Canadian whiskey
 

@@ -34,4 +34,4 @@ cover: "/images/recipes/strawberry-mousse-pie.jpg"
 ## Notes
 
 - Pipe this into individual ramekins for a lovely mousse dessert
-- Put it in a 9-inch pie! It goes wonderfully with the Oreo crust from Chocolate Creme Pie or a shortbread or graham cracker crust.
+- Put it in a 9-inch pie! It goes wonderfully with the Oreo crust from [Chocolate Creme Pie](/recipes/chocolate-creme-pie/) or a shortbread or graham cracker crust.

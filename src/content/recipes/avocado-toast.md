@@ -31,4 +31,4 @@ dietary:
 ## Notes
 
 - I like thick slices of an Italian or French bread, not a regular sliced loaf.
-- Alternatively, try making Quick Peasant Bread.
+- Alternatively, try making [Quick Peasant Bread](/recipes/quick-peasant-bread/).
