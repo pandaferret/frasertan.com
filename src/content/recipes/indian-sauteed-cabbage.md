@@ -1,6 +1,6 @@
 ---
 title: "Indian Sauteed Cabbage"
-description: "We keep finding new and delicious ways to enjoy cabbage - this is a nice veggie to go with Dave's Instant Pot Butter Chicken with Cumin Rice."
+description: "We keep finding new and delicious ways to enjoy cabbage - this is a nice veggie to go with [Dave's Instant Pot Butter Chicken with Cumin Rice](/recipes/daves-instant-pot-butter-chicken-with-cumin-rice/)."
 yield: "Serves 8-10"
 categories:
   - Side Dishes

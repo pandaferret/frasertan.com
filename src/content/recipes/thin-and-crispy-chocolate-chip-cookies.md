@@ -1,6 +1,6 @@
 ---
 title: "Thin and Crispy Chocolate Chip Cookies"
-description: "While the Thick and Chewy Chocolate Chip Cookies are the household favorite, I'm the odd woman out because I actually prefer these! From Cook's Illustrated."
+description: "While the [Thick and Chewy Chocolate Chip Cookies](/recipes/thick-and-chewy-chocolate-chip-cookies/) are the household favorite, I'm the odd woman out because I actually prefer these! From Cook's Illustrated."
 categories:
   - Desserts
 subcategories:

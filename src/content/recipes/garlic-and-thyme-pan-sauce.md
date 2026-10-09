@@ -1,6 +1,6 @@
 ---
 title: "Garlic and Thyme Pan Sauce"
-description: "Goes well with Sauteed Chicken Breast Cutlets"
+description: "Goes well with [Sauteed Chicken Breast Cutlets](/recipes/sauteed-chicken-breast-cutlets/)"
 categories:
   - Sauces and Dips
 source:

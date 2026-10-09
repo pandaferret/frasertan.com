@@ -1,6 +1,6 @@
 ---
 title: "Egg Salad Sandwiches"
-description: "I'm a recent convert to egg salad. Bad ones are bad, but good ones are great! This is one of the good ones (especially when served on Vaughan bread). Thanks Joy the Baker!"
+description: "I'm a recent convert to egg salad. Bad ones are bad, but good ones are great! This is one of the good ones (especially when served on [Vaughan bread](/recipes/vaughan-bread/)). Thanks Joy the Baker!"
 categories:
   - Salads
 tags:
