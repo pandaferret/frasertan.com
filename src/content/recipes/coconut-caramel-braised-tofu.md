@@ -2,6 +2,7 @@
 title: "Coconut-Caramel Braised Tofu"
 description: "This came from a request for more tofu - and 'tis delicious! The original recipe calls for a cup of coconut milk, but then what do you do with the rest of the can?? I increased some (but not all) of the ingredients 1.5X to use the full can - not the soy sauce, because it was a little salty."
 yield: "Serves 4"
+added: 2025-04-02
 categories:
   - Main Dishes
 subcategories:

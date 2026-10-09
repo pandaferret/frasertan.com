@@ -1,6 +1,7 @@
 ---
 title: "Banana Pecan Muffins"
 description: "Modified from an excellent Cook's Illustrated recipe!"
+added: 2025-01-22
 categories:
   - Breads and Baked Goods
 dietary:

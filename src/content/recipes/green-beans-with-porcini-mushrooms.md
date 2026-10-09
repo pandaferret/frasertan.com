@@ -1,6 +1,7 @@
 ---
 title: "Green Beans with Porcini Mushrooms"
 description: "This is not your grandma's green bean casserole."
+added: 2025-12-07
 categories:
   - Side Dishes
 tags:

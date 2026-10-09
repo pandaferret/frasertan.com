@@ -1,6 +1,7 @@
 ---
 title: "Slow-Cooker Carnitas"
 description: "This is easy and delicious, and freezes well, so make a lot!"
+added: 2025-02-09
 categories:
   - Main Dishes
 subcategories:

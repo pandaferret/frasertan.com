@@ -2,6 +2,7 @@
 title: "Gingery Cranberry Sauce Galette"
 description: "Cranberry sauce goes from side to main event in this sweet-tart galette, with candied ginger folded in."
 yield: "Serves 6 to 8"
+added: 2025-10-14
 categories:
   - Desserts
 subcategories:

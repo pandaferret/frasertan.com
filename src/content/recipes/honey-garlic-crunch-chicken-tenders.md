@@ -1,6 +1,7 @@
 ---
 title: "Honey Garlic Crunch Chicken Tenders"
 description: "A great way to make fried chicken. We like the sauce served on the side rather than poured over the tenders."
+added: 2025-02-11
 categories:
   - Main Dishes
 subcategories:

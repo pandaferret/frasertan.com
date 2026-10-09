@@ -1,6 +1,7 @@
 ---
 title: "British-Style Currant Scones"
 description: "Makes 12 scones."
+added: 2025-01-23
 categories:
   - Breads and Baked Goods
 dietary:

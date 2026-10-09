@@ -6,6 +6,7 @@ tags:
 dietary:
   - EF
 yield: "Serves 4"
+added: 2025-02-03
 categories:
   - Main Dishes
 subcategories:

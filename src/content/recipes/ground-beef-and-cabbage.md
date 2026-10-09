@@ -2,6 +2,7 @@
 title: "Ground Beef and Cabbage"
 description: "Super simple but totally delicious."
 yield: "Serves lots"
+added: 2026-09-27
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,9 @@
 title: "Black Bean Soup"
 description: "This ended up being more delicious than I thought! Go heavy on the taco seasoning."
 yield: "Serves 5"
+prep: "10 min"
+cook: "20 min"
+added: 2026-03-02
 categories:
   - Soups and Stews
 subcategories:

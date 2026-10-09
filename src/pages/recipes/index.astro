@@ -1,6 +1,13 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Search from "../../components/Search.astro";
+import RecipeCard from "../../components/RecipeCard.astro";
+import { getCollection } from "astro:content";
+
+const recent = (await getCollection("recipes"))
+  .filter((r) => r.data.added)
+  .sort((a, b) => b.data.added!.getTime() - a.data.added!.getTime())
+  .slice(0, 6);
 
 const categories = [
   "Starters",
@@ -59,4 +66,22 @@ const tags = [
       })
     }
   </ul>
+
+  {
+    recent.length > 0 && (
+      <>
+        <h2>Recently Added</h2>
+        <div class="recent-row">
+          {recent.map((r) => (
+            <RecipeCard
+              title={r.data.title}
+              slug={r.id}
+              dietary={r.data.dietary}
+              cover={r.data.cover}
+            />
+          ))}
+        </div>
+      </>
+    )
+  }
 </BaseLayout>

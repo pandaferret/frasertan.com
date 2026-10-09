@@ -7,6 +7,7 @@ tags:
 dietary:
   - VEG
 yield: "Serves 3-4"
+added: 2026-09-12
 categories:
   - Breakfast
 source:

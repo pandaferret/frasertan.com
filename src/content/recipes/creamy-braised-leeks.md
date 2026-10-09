@@ -1,6 +1,7 @@
 ---
 title: "Creamy Braised Leeks"
 description: "A delicious find from Jeanne! This is a super forgiving recipe. It'll bake at whatever temp your oven needs to be at for other dishes (just add more or less time as needed) and isn't ruined if you, say, forget about it in the oven for a while."
+added: 2025-12-21
 categories:
   - Starters
   - Side Dishes

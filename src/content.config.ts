@@ -7,6 +7,14 @@ const recipes = defineCollection({
     title: z.string().min(1),
     description: z.string().optional(),
     yield: z.string().optional(),
+    // Rough times, e.g. "20 min" or "1 hr 15 min". "rest" is hands-off
+    // waiting with its own label, e.g. "Chill 2 hr" or "Marinate 4 hr".
+    prep: z.string().optional(),
+    cook: z.string().optional(),
+    rest: z.string().optional(),
+    // When the recipe joined the collection (its Notion created date), for
+    // the Recently added row on the Recipes page.
+    added: z.coerce.date().optional(),
     categories: z.array(z.string()).min(1),
     subcategories: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),

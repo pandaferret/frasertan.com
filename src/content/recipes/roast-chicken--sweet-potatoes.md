@@ -1,6 +1,7 @@
 ---
 title: "Roast Chicken & Sweet Potatoes (A sheet pan recipe)"
 description: "Made for us by Autumn! Very versatile - also had broccolini. Can play with the veggies and the sauce."
+added: 2025-02-11
 categories:
   - Main Dishes
 subcategories:

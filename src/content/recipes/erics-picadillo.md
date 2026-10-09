@@ -1,6 +1,7 @@
 ---
 title: "Eric's Picadillo"
 description: "Uncle Eric got this recipe from his grandmother, and graciously shared it with us!"
+added: 2025-05-12
 categories:
   - Main Dishes
 subcategories:

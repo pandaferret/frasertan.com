@@ -1,6 +1,7 @@
 ---
 title: "Peppermint Bark"
 description: "Why pay waaaay too much money at Williams Sonoma when you can make this easily at home?"
+added: 2025-12-27
 categories:
   - Desserts
 subcategories:

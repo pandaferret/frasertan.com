@@ -5,6 +5,10 @@ quote:
   author: "Deb, Smitten Kitchen"
   text: |
     I’m pretty sure these waffles can be described with a Zagat-style collection of every one of my dessert trigger words and phrases: caramelized, chewy, burnt sugar caramel, stretchy, buttery, reminiscent of a croissant, doughnut and brioche at once. But don’t let that convince you; try them for yourself. I did my best to streamline the ingredients and processes in a way that would make these doable but also uncompromised in flavor and texture, making them two ways: one with a countertop rise followed by a long nap in the fridge and one in the reverse, in hopes to accommodate all of our schedules. While the process could be sped up further by skipping the cold overnight rise, you will be absolutely bowled over by the depth of flavor (and aroma, swoon, of the steam releasing from your waffle maker alone) that comes from giving the yeast more time to develop. Finally, I did not try this with instant yeast, but have found in other recipes that you can replace one with the other, but that instant yeast takes a little longer. However, you do not need to warm the liquid. Makes 16 thick waffles, just about 4 inches across each.
+prep: "25 min"
+cook: "30 min"
+rest: "Rise 3 hr to overnight"
+yield: "Makes 16 waffles"
 categories:
   - Breakfast
 dietary:

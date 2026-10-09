@@ -1,6 +1,7 @@
 ---
 title: "Oatmeal Blueberry Muffins"
 description: "More yummy toddler muffins! Bonus: these are vegan!"
+added: 2025-01-23
 categories:
   - Breads and Baked Goods
 dietary:

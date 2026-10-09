@@ -2,6 +2,7 @@
 title: "Strawberry Tiramisu"
 description: "Like a classier Strawberry Shortcake."
 yield: "Serves 8-12"
+added: 2025-07-05
 categories:
   - Desserts
 subcategories:

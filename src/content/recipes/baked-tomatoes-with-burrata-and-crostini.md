@@ -2,6 +2,7 @@
 title: "Baked Tomatoes with Burrata and Crostini"
 description: "We had a dish like this at a lovely little wine bar, and it was so worth recreating at home!"
 yield: "Serves 4-6"
+added: 2026-08-10
 categories:
   - Starters
   - Main Dishes

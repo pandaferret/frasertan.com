@@ -1,7 +1,7 @@
 ---
 title: "Christmas Tree Meringues"
 description: "These are (a) so easy and (b) so adorable!"
-yield: "Yield: ~ 50 cookies"
+yield: "Makes about 50 cookies"
 categories:
   - Desserts
 subcategories:

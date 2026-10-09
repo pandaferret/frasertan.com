@@ -1,6 +1,7 @@
 ---
 title: "Teriyaki Sauce"
 description: "Teriyaki sauce makes everything better."
+added: 2025-08-25
 categories:
   - Sauces and Dips
 dietary:

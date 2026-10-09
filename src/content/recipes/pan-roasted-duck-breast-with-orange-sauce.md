@@ -2,6 +2,7 @@
 title: "Pan-Roasted Duck Breast with Orange Sauce"
 description: "Turns out cooking duck breast is easy if you know the know! Because the duck starts in a cold pan, it'll be a silent start, but you'll know you've hit the right pan temperature if, after about five minutes, you hear quiet bubbles of fat gently gurgling away - babbling-brook bubbles, more activity than a stagnant pond but far short of spraying waterfalls. Save the rendered fat for some of the best roast potatoes you'll ever eat."
 yield: "Serves 4"
+added: 2025-03-22
 categories:
   - Main Dishes
 subcategories:

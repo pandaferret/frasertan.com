@@ -2,6 +2,7 @@
 title: "Squash Casserole"
 description: "From Peggy."
 yield: "Serves 4-6"
+added: 2026-09-30
 categories:
   - Side Dishes
 dietary:

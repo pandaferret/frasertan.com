@@ -1,6 +1,7 @@
 ---
 title: "Garlic Parmesan Meatloaves"
 description: "Mini meatloaves made with ground chicken, garlic and parmesan, topped with marinara and melty mozzarella. On the table in under 45 minutes. Ground turkey or beef work well too."
+added: 2025-05-28
 categories:
   - Main Dishes
 subcategories:

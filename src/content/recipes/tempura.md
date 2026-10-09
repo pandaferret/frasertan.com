@@ -2,6 +2,7 @@
 title: "Tempura"
 description: "Mom found this recipe for our New Year's fondue and it turned out great!"
 yield: "Serves as many as you like"
+added: 2026-01-02
 categories:
   - Main Dishes
 subcategories:

@@ -2,6 +2,7 @@
 title: "Brown-Buttered Apples and Honey Galette"
 description: "Jess and I made this and it was AMAZING! An extra-large slab galette, perfect for a crowd."
 yield: "Serves 10 to 12"
+added: 2025-10-14
 categories:
   - Desserts
 subcategories:

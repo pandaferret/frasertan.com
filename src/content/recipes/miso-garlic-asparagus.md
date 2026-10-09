@@ -2,6 +2,7 @@
 title: "Miso-Garlic Asparagus"
 description: "I didn't have any parmesan when I made this, and it was delicious as is! Look for thicker asparagus that won't cook too quickly."
 yield: "Serves 3-4"
+added: 2025-05-16
 categories:
   - Side Dishes
 tags:

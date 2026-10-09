@@ -1,6 +1,7 @@
 ---
 title: "Corn Chowder"
 description: "from Cook's Illustrated. This chowder relies on a partial puree to lessen the amount of dairy, making it sweet and light. I've made a few minor modifications regarding the cooking of the bacon."
+added: 2025-03-04
 categories:
   - Soups and Stews
 subcategories:

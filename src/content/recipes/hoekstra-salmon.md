@@ -2,6 +2,7 @@
 title: "Hoekstra Salmon"
 description: 'This is less of a recipe and more of a "don''t forget this mom cause this is the BEST salmon ever!!!"'
 yield: "Serves 3-4"
+added: 2025-05-16
 categories:
   - Main Dishes
 subcategories:

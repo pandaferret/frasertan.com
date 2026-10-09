@@ -1,6 +1,7 @@
 ---
 title: "Overnight Chicken"
 description: "From the Washington Post comes an easy peasy method for making delicious chicken (and broth!) - where you decide to go from there is up to you!"
+added: 2026-08-20
 categories:
   - Main Dishes
 subcategories:

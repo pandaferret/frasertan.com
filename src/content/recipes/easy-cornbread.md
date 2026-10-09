@@ -1,6 +1,7 @@
 ---
 title: "Easy Cornbread"
 description: "from the Internet - thank you Google!"
+added: 2025-01-23
 categories:
   - Breads and Baked Goods
 dietary:

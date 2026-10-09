@@ -1,6 +1,7 @@
 ---
 title: "Tuna Ring Salad"
 description: "A beloved Seidel family tradition!"
+added: 2025-01-23
 categories:
   - Salads
 dietary:

@@ -1,6 +1,10 @@
 ---
 title: "Strawberry-Rhubarb Pie"
 description: "This is the Best. Pie. Ever. Of course, it comes from Cook's Illustrated. You should always always do what Cook's Illustrated says. The first time I made this pie, I tweaked a few things and it was brilliant. But a little watery. So, round two, I upped the thickener. Bad idea. Awesome, but not brilliant. Third time, I tweaked nothing and the pie was mind-blowing. Yes, yes, I made this pie three times in a row. It's that good. Now shoo, off to the kitchen with you! P.S. Transcribed word for word, with some of my own commentary inserted."
+prep: "1 hr"
+cook: "1 hr 10 min"
+rest: "Chill 1 hr, cool 2 1/2 hr"
+yield: "Serves 8"
 categories:
   - Desserts
 subcategories:

@@ -1,6 +1,7 @@
 ---
 title: "Banana Bread"
 description: "a very moist banana bread recipe."
+added: 2025-01-23
 categories:
   - Breads and Baked Goods
 dietary:

@@ -1,0 +1,77 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import RecipeCard from "./RecipeCard.astro";
+
+// A row of recipes similar to this one: a shared word in the title (like
+// "galette" or "rhubarb") or the same subcategory counts most, then the same
+// course, then each shared tag. Recipes with a cover photo get a small
+// nudge so the row has pictures where it can.
+
+interface Props {
+  recipe: CollectionEntry<"recipes">;
+}
+
+const { recipe } = Astro.props;
+const COUNT = 3;
+
+const shared = (a: string[] = [], b: string[] = []) =>
+  a.filter((x) => b.includes(x)).length;
+
+// Stable per-pair tiebreak, so equal scores don't always favor the start of
+// the alphabet but the page doesn't change from build to build.
+const tiebreak = (s: string) => {
+  let h = 0;
+  for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0;
+  return h;
+};
+
+// Words too common in titles to say two recipes are alike.
+const STOP = new Set(
+  "a an and the with of in on for to or my mom's moms easy best classic quick simple homemade style recipe sauce cake salad soup bread".split(
+    " ",
+  ),
+);
+const titleWords = (title: string) =>
+  title
+    .toLowerCase()
+    .split(/[^a-z']+/)
+    .map((w) => w.replace(/'s$|'/g, "").replace(/(?<=[^s])s$/, ""))
+    .filter((w) => w.length > 2 && !STOP.has(w));
+
+const { data } = recipe;
+const words = titleWords(data.title);
+const related = (await getCollection("recipes"))
+  .filter((other) => other.id !== recipe.id)
+  .map((other) => ({
+    other,
+    score:
+      4 * Math.min(shared(words, titleWords(other.data.title)), 1) +
+      4 * shared(data.subcategories, other.data.subcategories) +
+      2 * shared(data.categories, other.data.categories) +
+      shared(data.tags, other.data.tags) +
+      (other.data.cover ? 0.5 : 0),
+    tie: tiebreak(recipe.id + other.id),
+  }))
+  .filter(({ score }) => score >= 2)
+  .sort((a, b) => b.score - a.score || a.tie - b.tie)
+  .slice(0, COUNT)
+  .map(({ other }) => other);
+---
+
+{
+  related.length > 0 && (
+    <section class="more-like-this" data-pagefind-ignore>
+      <h2>More Like This</h2>
+      <div class="recipe-grid">
+        {related.map((r) => (
+          <RecipeCard
+            title={r.data.title}
+            slug={r.id}
+            dietary={r.data.dietary}
+            cover={r.data.cover}
+          />
+        ))}
+      </div>
+    </section>
+  )
+}

@@ -2,6 +2,7 @@
 title: "S'mores Bars"
 description: "A great discovery from Dan Schimpf!"
 yield: "Serves 16"
+added: 2026-06-10
 categories:
   - Desserts
 subcategories:

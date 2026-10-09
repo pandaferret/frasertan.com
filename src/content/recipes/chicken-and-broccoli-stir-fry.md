@@ -1,6 +1,7 @@
 ---
 title: "Chicken and Broccoli Stir-Fry"
 description: "Chicken keeps quite well in the freezer, so I usually just take out 2 breasts in the morning and let them defrost during the day. This is a good recipe for a weeknight - it's not too much work, it's yummy and it makes lots of leftovers for lunches."
+added: 2025-02-11
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,7 @@
 ---
 title: "Blue Smoke Deviled Eggs"
 description: "I inherited this recipe from my friend Alyssa, and it makes the best Deviled Eggs I've ever tasted!"
+added: 2026-09-27
 categories:
   - Starters
 dietary:

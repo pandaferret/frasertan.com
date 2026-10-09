@@ -1,6 +1,11 @@
 ---
 title: "Chicken Tikka Masala"
 description: "From our Sur la Table cooking class! Don't be intimidated by the list of ingredients; the recipe is actually quite quick and easy to make. Both the sauce and the marinated chicken can be prepared ahead of time and cooked at the last minute."
+prep: "20 min"
+cook: "45 min"
+rest: "Marinate 4 hr to overnight"
+yield: "Serves 4"
+added: 2026-08-20
 categories:
   - Main Dishes
 subcategories:

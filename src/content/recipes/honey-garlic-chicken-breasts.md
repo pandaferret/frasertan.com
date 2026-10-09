@@ -1,6 +1,7 @@
 ---
 title: "Honey Garlic Chicken Breasts"
 yield: "Serves 4"
+added: 2026-08-20
 categories:
   - Main Dishes
 subcategories:

@@ -1,6 +1,7 @@
 ---
 title: "Chicken Parmesan"
 description: "Another winner from Cook's Illustrated!"
+added: 2026-08-20
 categories:
   - Main Dishes
 subcategories:

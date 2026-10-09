@@ -1,7 +1,7 @@
 ---
 title: "French Market Soup"
 description: "This soup takes all day, but very little attention, and makes the house smell wonderful! It makes a lot, so freeze leftovers for later enjoyment."
-yield: "Serving Size: ~2 cups. Servings: 10ish. Calories per serving: 278"
+yield: "Serves about 10 (2 cups each)"
 categories:
   - Soups and Stews
 subcategories:
@@ -41,3 +41,7 @@ source:
 4. Add the sausage and chicken and cook for about 20 minutes until cooked. Remove from the soup; slice the sausage into coins and the chicken into bite sized pieces and add back to the soup.
 5. Remove the ham hock; tear the meat into pieces and add back to the soup. Discard the bones. Remove the bay leaves.
 6. Serve warm. This soup ages well; keep in the refrigerator and reheat, or freeze
+
+## Notes
+
+- About 278 calories per serving.

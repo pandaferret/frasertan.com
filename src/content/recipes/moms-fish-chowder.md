@@ -1,6 +1,7 @@
 ---
 title: "Mom's Fish Chowder"
 description: "Easy and simple! This is a great way to use up leftover cooked fish too."
+added: 2026-08-28
 categories:
   - Soups and Stews
 subcategories:

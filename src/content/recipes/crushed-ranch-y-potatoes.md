@@ -2,6 +2,7 @@
 title: "Crushed Ranch-y Potatoes"
 description: "A comforting, tangy side of boiled potatoes given a quick smash, then folded with a warm garlic-butter cream and sour cream mixture spiked with scallions and vinegar for a ranch-like tang. Meant to be served alongside a meatloaf, but good with almost any roast or grilled main."
 yield: "Serves 4"
+added: 2026-09-18
 categories:
   - Side Dishes
 tags:
