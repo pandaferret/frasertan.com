@@ -236,6 +236,7 @@ const tabs = [
     const input = root.querySelector<HTMLInputElement>(
       ".browser-search-input",
     )!;
+    const nav = root.querySelector<HTMLElement>(".browser-tabs");
     const tabs = [...root.querySelectorAll<HTMLAnchorElement>(".browser-tab")];
     const items = [...root.querySelectorAll<HTMLElement>(".recipe-item")];
     const count = root.querySelector<HTMLElement>(".browser-count")!;
@@ -260,6 +261,14 @@ const tabs = [
       for (const t of tabs) {
         t.classList.toggle("is-active", t.dataset.tab === tab);
         t.setAttribute("aria-current", String(t.dataset.tab === tab));
+      }
+      // On phones the tab row scrolls sideways; bring the selected tab into
+      // view (centered) so a tab picked from a link isn't hidden off-screen.
+      const active = tabs.find((t) => t.dataset.tab === tab);
+      if (nav && active) {
+        const n = nav.getBoundingClientRect();
+        const a = active.getBoundingClientRect();
+        nav.scrollLeft += a.left - n.left - (n.width - a.width) / 2;
       }
       for (const item of items) item.style.order = "";
       show(
