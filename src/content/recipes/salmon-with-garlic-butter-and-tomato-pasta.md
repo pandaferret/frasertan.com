@@ -12,6 +12,7 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Fish
+  - High Protein
 dietary:
   - EF
 source:

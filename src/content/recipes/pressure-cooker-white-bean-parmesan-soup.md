@@ -10,6 +10,8 @@ subcategories:
   - Soups
 source:
   url: "https://cooking.nytimes.com/recipes/1020097-pressure-cooker-white-bean-parmesan-soup"
+tags:
+  - High Protein
 dietary:
   - VEG*
   - EF

@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Make Ahead
   - Owen fav
+  - High Protein
 dietary:
   - V
   - GF*

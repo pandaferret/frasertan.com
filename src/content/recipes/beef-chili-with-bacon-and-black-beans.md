@@ -12,6 +12,8 @@ categories:
 subcategories:
   - Beef
   - Beans
+tags:
+  - High Protein
 dietary:
   - GF
   - DF

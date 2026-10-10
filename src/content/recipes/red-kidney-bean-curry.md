@@ -9,6 +9,8 @@ categories:
 subcategories:
   - Vegetarian
   - Beans
+tags:
+  - High Protein
 dietary:
   - V
   - EF

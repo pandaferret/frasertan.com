@@ -14,6 +14,7 @@ tags:
   - Make Ahead
   - Owen fav
   - Beef
+  - High Protein
 dietary:
   - EF
   - GF*

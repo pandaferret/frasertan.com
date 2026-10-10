@@ -9,6 +9,8 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+tags:
+  - High Protein
 dietary:
   - EF
   - DF

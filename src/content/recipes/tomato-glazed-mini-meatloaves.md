@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+tags:
+  - High Protein
 source:
   name: "The Smitten Kitchen Cookbook, p. 187"
 ---

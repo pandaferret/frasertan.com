@@ -7,6 +7,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+tags:
+  - High Protein
 dietary:
   - EF
   - DF

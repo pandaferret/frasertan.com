@@ -11,6 +11,7 @@ subcategories:
   - Pork
 tags:
   - Make Ahead
+  - High Protein
 dietary:
   - GF
   - EF

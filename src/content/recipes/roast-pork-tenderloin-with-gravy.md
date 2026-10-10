@@ -14,6 +14,7 @@ tags:
   - Fall
   - Winter
   - Pork
+  - High Protein
 dietary:
   - EF
 source:

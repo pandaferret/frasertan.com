@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Chicken
+  - High Protein
 dietary:
   - EF
   - DF

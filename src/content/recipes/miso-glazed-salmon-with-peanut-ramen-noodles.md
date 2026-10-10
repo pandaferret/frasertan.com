@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Fish
+tags:
+  - High Protein
 source:
   url: "https://www.yummly.com/recipe/Miso-Glazed-Salmon-with-Ramen-Noodles-1345631#directions"
 ---

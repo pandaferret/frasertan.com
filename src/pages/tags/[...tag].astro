@@ -1,10 +1,15 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import RecipeBrowser from "../../components/RecipeBrowser.astro";
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 
 export function getStaticPaths() {
-  const tagNames = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
+  const tagNames = [
+    "Weeknight Meals",
+    "Make Ahead",
+    "Seasonal Treats",
+    "High Protein",
+  ];
   return tagNames.map((tag) => ({
     params: { tag: tag.toLowerCase().replace(/ /g, "-") },
     props: { tagName: tag },
@@ -35,7 +40,16 @@ const subtags: Record<string, string[]> = {
     "Fall",
     "Winter",
   ],
+  "High Protein": ["Poultry", "Beef", "Pork", "Fish", "Vegetarian"],
 };
+
+// High Protein buttons go by each recipe's main protein, from its
+// subcategories or protein tags (Chicken counts as Poultry). Eggs, lamb and
+// a few others fit none of these and go under "Other".
+const proteinOf = (r: CollectionEntry<"recipes">) =>
+  [...(r.data.subcategories ?? []), ...(r.data.tags ?? [])].map((g) =>
+    g === "Chicken" ? "Poultry" : g,
+  );
 
 const { tagName } = Astro.props;
 const recipes = await getCollection("recipes");
@@ -56,8 +70,8 @@ const tagged = recipes
   <RecipeBrowser
     recipes={tagged}
     groups={subtags[tagName] ?? []}
-    groupsOf={(r) => r.data.tags ?? []}
-    showOther={false}
+    groupsOf={tagName === "High Protein" ? proteinOf : (r) => r.data.tags ?? []}
+    showOther={tagName === "High Protein"}
     filter={{ name: "tag", value: tagName }}
     searchLabel={`Search ${tagName.toLowerCase()}`}
   />

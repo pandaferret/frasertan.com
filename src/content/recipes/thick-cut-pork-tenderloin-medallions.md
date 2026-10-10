@@ -11,6 +11,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pork
+tags:
+  - High Protein
 dietary:
   - GF
   - DF

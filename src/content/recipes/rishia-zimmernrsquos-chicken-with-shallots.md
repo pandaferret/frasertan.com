@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+tags:
+  - High Protein
 dietary:
   - EF
 source:

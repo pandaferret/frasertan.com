@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - High Protein
 dietary:
   - V
   - DF

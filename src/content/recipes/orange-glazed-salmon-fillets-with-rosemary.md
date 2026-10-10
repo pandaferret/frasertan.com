@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Fish
+  - High Protein
 dietary:
   - GF
   - DF

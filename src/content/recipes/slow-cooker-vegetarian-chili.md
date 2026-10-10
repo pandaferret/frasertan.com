@@ -15,6 +15,7 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - High Protein
 dietary:
   - V
   - GF

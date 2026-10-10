@@ -7,6 +7,8 @@ cook: "15 min"
 yield: "Makes 24 halves"
 categories:
   - Starters
+tags:
+  - High Protein
 dietary:
   - VEG
   - GF

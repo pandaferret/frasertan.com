@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+  - High Protein
 ---
 
 ## Ingredients

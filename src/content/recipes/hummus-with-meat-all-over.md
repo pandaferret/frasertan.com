@@ -15,6 +15,7 @@ tags:
   - Eric-friendly
   - Owen fav
   - Beef
+  - High Protein
 dietary:
   - EF
   - DF

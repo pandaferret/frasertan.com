@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Vegetarian
+tags:
+  - High Protein
 dietary:
   - VEG
 source:

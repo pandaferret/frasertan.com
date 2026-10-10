@@ -10,6 +10,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Beef
+  - High Protein
 dietary:
   - GF
   - DF

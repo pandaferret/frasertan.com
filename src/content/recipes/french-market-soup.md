@@ -13,6 +13,7 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - High Protein
 dietary:
   - EF
   - DF

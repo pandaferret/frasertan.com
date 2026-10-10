@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Beef
+  - High Protein
 dietary:
   - EF
 source:
