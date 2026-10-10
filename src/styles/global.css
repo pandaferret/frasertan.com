@@ -564,6 +564,10 @@ main {
     grid-auto-rows: 1fr;
   }
 
+  .category-list--fours {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
   .category-list--fives li,
   .category-list--fives li a {
     height: 100%;
