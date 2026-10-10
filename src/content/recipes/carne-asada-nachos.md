@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Beef
+  - High Protein
 dietary:
   - EF
 cover: "/images/recipes/carne-asada-nachos.jpg"

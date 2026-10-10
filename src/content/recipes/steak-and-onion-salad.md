@@ -9,6 +9,7 @@ categories:
 tags:
   - Weeknight Meals
   - Beef
+  - High Protein
 dietary:
   - EF
 ---

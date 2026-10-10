@@ -14,6 +14,7 @@ tags:
   - Beans
   - Make Ahead
   - Vegetarian
+  - High Protein
 dietary:
   - V*
   - GF

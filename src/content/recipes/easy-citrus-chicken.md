@@ -13,6 +13,7 @@ tags:
   - Seasonal Treats
   - Winter
   - Chicken
+  - High Protein
 dietary:
   - EF
 source:

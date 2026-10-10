@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - High Protein
 dietary:
   - GF*
   - EF

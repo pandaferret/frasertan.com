@@ -8,6 +8,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - High Protein
 dietary:
   - EF
   - DF

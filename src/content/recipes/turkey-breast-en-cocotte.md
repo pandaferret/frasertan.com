@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - High Protein
 dietary:
   - GF
   - EF

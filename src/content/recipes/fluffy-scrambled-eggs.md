@@ -6,6 +6,8 @@ cook: "5 min"
 yield: "Serves 4"
 categories:
   - Breakfast
+tags:
+  - High Protein
 dietary:
   - VEG
   - GF

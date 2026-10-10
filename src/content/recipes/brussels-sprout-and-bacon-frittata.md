@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+  - High Protein
 dietary:
   - GF
 source:

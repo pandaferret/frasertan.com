@@ -9,6 +9,7 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
+  - High Protein
 dietary:
   - VEG
   - DF

@@ -13,6 +13,7 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+  - High Protein
 dietary:
   - GF
   - DF

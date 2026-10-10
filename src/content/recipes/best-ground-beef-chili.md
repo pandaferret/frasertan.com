@@ -11,6 +11,8 @@ categories:
   - Main Dishes
 subcategories:
   - Beef
+tags:
+  - High Protein
 dietary:
   - GF
   - EF

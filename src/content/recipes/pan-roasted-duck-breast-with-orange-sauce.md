@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Owen fav
+  - High Protein
 dietary:
   - GF
   - EF

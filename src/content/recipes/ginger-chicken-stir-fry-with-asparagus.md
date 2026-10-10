@@ -14,6 +14,7 @@ tags:
   - Eric-friendly
   - Owen fav
   - Chicken
+  - High Protein
 dietary:
   - GF
   - DF

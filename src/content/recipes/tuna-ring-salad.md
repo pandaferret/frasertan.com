@@ -8,6 +8,8 @@ rest: "Chill 1 hr"
 yield: "Serves 4-6"
 categories:
   - Salads
+tags:
+  - High Protein
 dietary:
   - DF
 ---

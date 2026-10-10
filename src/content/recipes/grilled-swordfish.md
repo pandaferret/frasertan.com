@@ -14,6 +14,7 @@ tags:
   - Weeknight Meals
   - Owen fav
   - Fish
+  - High Protein
 dietary:
   - GF*
   - EF

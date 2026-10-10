@@ -12,6 +12,7 @@ tags:
   - Seasonal Treats
   - Winter
   - Owen fav
+  - High Protein
 dietary:
   - EF
 ---

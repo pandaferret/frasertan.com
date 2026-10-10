@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Poultry
+tags:
+  - High Protein
 dietary:
   - DF
 cover: "/images/recipes/sweetfire-chicken-a-la-panda-express.jpg"

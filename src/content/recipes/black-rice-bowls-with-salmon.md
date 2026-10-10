@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Fish
+tags:
+  - High Protein
 dietary:
   - GF
   - DF

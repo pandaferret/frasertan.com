@@ -16,6 +16,7 @@ tags:
   - Fall
   - Winter
   - Fish
+  - High Protein
 dietary:
   - EF
 source:

@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Beans
   - Vegetarian
+  - High Protein
 dietary:
   - V
   - GF

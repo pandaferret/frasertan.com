@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Sundries
+tags:
+  - High Protein
 dietary:
   - GF
   - EF

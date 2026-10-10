@@ -9,6 +9,7 @@ subcategories:
   - Poultry
 tags:
   - Make Ahead
+  - High Protein
 dietary:
   - GF
   - EF

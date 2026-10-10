@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Seasonal Treats
   - Winter
+  - High Protein
 dietary:
   - GF
   - DF

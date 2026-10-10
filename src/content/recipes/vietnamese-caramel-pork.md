@@ -3,6 +3,7 @@ title: "Vietnamese Caramel Pork"
 description: "A lovely recipe introduced to me by my brother in law!"
 tags:
   - Owen fav
+  - High Protein
 dietary:
   - EF
 yield: "Serves 4"
