@@ -181,9 +181,6 @@ const tabs = [
     border-color: var(--color-heading);
     color: #fff;
   }
-  .recipe-browser.is-searching .browser-tab {
-    opacity: 0.5;
-  }
   .browser-count {
     margin: 0.75rem 0;
     font-size: 0.85rem;
@@ -256,7 +253,7 @@ const tabs = [
       empty.hidden = visible.length > 0;
     };
 
-    const showTab = () => {
+    const markTab = () => {
       const tab = currentTab();
       for (const t of tabs) {
         t.classList.toggle("is-active", t.dataset.tab === tab);
@@ -270,23 +267,29 @@ const tabs = [
         const a = active.getBoundingClientRect();
         nav.scrollLeft += a.left - n.left - (n.width - a.width) / 2;
       }
-      for (const item of items) item.style.order = "";
-      show(
-        tab === "all"
-          ? items
-          : items.filter((i) => i.dataset.groups!.split(" ").includes(tab)),
-        "recipes",
-      );
     };
 
-    // Searches every recipe on this page, whichever tab is selected, and
-    // lists matches in relevance order.
+    const inTab = () => {
+      const tab = currentTab();
+      return tab === "all"
+        ? items
+        : items.filter((i) => i.dataset.groups!.split(" ").includes(tab));
+    };
+
+    const showTab = () => {
+      markTab();
+      for (const item of items) item.style.order = "";
+      show(inTab(), "recipes");
+    };
+
+    // Searches the recipes in the selected tab ("All" covers every recipe on
+    // this page) and lists matches in relevance order.
     let searchId = 0;
     const runSearch = async () => {
       const query = input.value.trim();
       const id = ++searchId;
-      root.classList.toggle("is-searching", query !== "");
       if (!query) return showTab();
+      markTab();
 
       let urls: string[];
       const pagefind = await loadPagefind();
@@ -305,7 +308,7 @@ const tabs = [
       if (id !== searchId) return;
 
       const rank = new Map(urls.map((u, n) => [u, n]));
-      const matches = items.filter((i) => rank.has(i.dataset.url!));
+      const matches = inTab().filter((i) => rank.has(i.dataset.url!));
       for (const item of matches)
         item.style.order = String(rank.get(item.dataset.url!));
       show(matches, matches.length === 1 ? "result" : "results");
@@ -322,18 +325,19 @@ const tabs = [
       tab.addEventListener("click", (event) => {
         event.preventDefault();
         history.replaceState(null, "", tab.getAttribute("href"));
-        input.value = "";
-        root.classList.remove("is-searching");
-        showTab();
+        // Keep the query and narrow it to the newly selected tab.
+        runSearch();
       });
     }
     // Dropped when view transitions swap in the next page.
     const cleanup = new AbortController();
-    window.addEventListener("hashchange", showTab, { signal: cleanup.signal });
+    window.addEventListener("hashchange", runSearch, {
+      signal: cleanup.signal,
+    });
     document.addEventListener("astro:before-swap", () => cleanup.abort(), {
       once: true,
     });
 
-    showTab();
+    runSearch();
   });
 </script>
