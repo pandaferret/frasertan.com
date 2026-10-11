@@ -18,19 +18,24 @@ cover: "/images/recipes/big-apple-crumb-cake.jpg"
 
 ## Ingredients
 
-- APPLES
+Apples:
+
 - 1 pound apples (3 medium or 2 large), peeled if you wish, cored, cut into 1/2-inch wedges
 - Juice of half a lemon
 - 1 teaspoon ground cinnamon
 - 1 tablespoon granulated sugar
-- CRUMBS
+
+Crumbs:
+
 - 1/2 cup (4 ounces or 115 grams) unsalted butter, melted
 - 1/3 cup (65 grams) light or dark brown sugar
 - 1/3 cup (65 grams) granulated sugar
 - 1 teaspoon ground cinnamon
 - 1/4 teaspoon kosher salt
 - 1 1/3 cups (175 grams) all-purpose flour
-- CAKE
+
+Cake:
+
 - 6 tablespoons (85 grams) unsalted butter, softened
 - 1/2 cup (100 grams) granulated sugar
 - 1 large egg
@@ -39,7 +44,9 @@ cover: "/images/recipes/big-apple-crumb-cake.jpg"
 - 1 cup (130 grams) all-purpose flour
 - 1 1/4 teaspoon baking powder
 - 3/4 teaspoon kosher salt
-- FINISH
+
+Finish:
+
 - Powdered sugar, for dusting
 
 ## Directions

@@ -24,12 +24,15 @@ cover: "/images/recipes/rice-and-lentils-with-crispy-onions-mujaddara.jpg"
 
 ## Ingredients
 
-- YOGURT SAUCE
+Yogurt Sauce:
+
 - 1 cup plain whole-milk yogurt
 - 2 tablespoons lemon juice
 - ½ teaspoon minced garlic
 - ½ teaspoon salt
-- RICE AND LENTILS
+
+Rice and Lentils:
+
 - 8 ½ ounces (1 1/4 cups) green or brown lentils, picked over and rinsed
 - Salt and pepper
 - 1 ¼ cups basmati rice

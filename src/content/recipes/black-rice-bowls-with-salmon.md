@@ -21,7 +21,8 @@ cover: "/images/recipes/black-rice-bowls-with-salmon.jpg"
 
 ## Ingredients
 
-- RICE AND DRESSING
+Rice and Dressing:
+
 - 1½ cups black rice
 - Salt and pepper
 - ¼ cup rice vinegar
@@ -29,7 +30,9 @@ cover: "/images/recipes/black-rice-bowls-with-salmon.jpg"
 - 1 tablespoon white miso
 - 1 teaspoon grated fresh ginger
 - ½ teaspoon grated lime zest plus 2 tablespoons juice
-- SALMON AND VEGETABLES
+
+Salmon and Vegetables:
+
 - 4 (4- to 6-ounce) skin-on wild-caught salmon fillets, 1 inch thick
 - 1 teaspoon expeller-pressed canola oil (see page 35)
 - Salt and pepper
