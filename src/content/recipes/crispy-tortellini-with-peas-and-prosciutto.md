@@ -20,13 +20,16 @@ dietary:
 
 ## Ingredients
 
-- IN THE SKILLET
+In the Skillet:
+
 - 3 thin slices prosciutto (optional)
 - 1 to 2 tablespoons olive oil
 - 1 13-14 ounce package frozen cheese tortellini (about 3 cups)
 - 1/2 cup frozen peas, no need to defrost
 - 1/3 cup water
-- TO FINISH
+
+To Finish:
+
 - 3 tablespoons crème fraîche or mascarpone
 - Juice of half a lemon, more or less to taste
 - Salt and freshly ground black pepper

@@ -16,7 +16,7 @@ source:
 
 ## Ingredients
 
-GLAZE:
+Glaze:
 
 - 4 teaspoons vegetable oil
 - 1/4 cup (60 grams) tomato paste
@@ -25,7 +25,9 @@ GLAZE:
 - 2 teaspoons Worcestershire sauce
 - 2 teaspoons smooth dijon mustard
 - 1/4 teaspoon table salt
-- MEATLOAVES
+
+Meatloaves:
+
 - 2 slices sandwich bread
 - 1/2 medium onion, roughly chopped
 - 1 garlic clove, chopped
