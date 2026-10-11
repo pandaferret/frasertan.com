@@ -1,5 +1,8 @@
 // Wraps each "## Heading" block of a recipe in a <section> so the recipe
-// layout can place Ingredients beside Directions, with Notes below.
+// layout can place Ingredients beside Directions, with Notes below. The
+// standard headings are left out of the search index: every recipe has them,
+// so they only add "Ingredients", "Directions" and "Notes" lines to results
+// and make searching for those words match everything.
 const SECTION_CLASSES = {
   ingredients: "ingredients",
   equipment: "equipment",
@@ -30,6 +33,9 @@ export default function rehypeRecipeSections() {
     for (const node of tree.children) {
       if (node.type === "element" && node.tagName === "h2") {
         const name = textOf(node).trim().toLowerCase();
+        if (SECTION_CLASSES[name]) {
+          node.properties = { ...node.properties, dataPagefindIgnore: "" };
+        }
         section = {
           type: "element",
           tagName: "section",
