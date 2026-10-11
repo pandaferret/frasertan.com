@@ -63,3 +63,4 @@ Finish:
 ## Notes
 
 - I had some apple syrup (reduced apple cider) around (y'know, like you do), so I added 1/2 cup of that to the batter, along with perhaps a few more tbsp of flour to keep the batter to the right consistency. The cake was DELICIOUS but I'm not sure the syrup made any noticeable difference. I'll have to try again without it and see (oh, poor me....).
+- Try adding 2 cups chopped apples mixed into the batter to up the apple-ness of this dish.
