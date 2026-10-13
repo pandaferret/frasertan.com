@@ -9,7 +9,6 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
-  - Lettuce
 dietary:
   - EF
   - DF

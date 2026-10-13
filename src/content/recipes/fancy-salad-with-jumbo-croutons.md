@@ -7,7 +7,6 @@ yield: "Serves 4"
 categories:
   - Salads
 tags:
-  - Lettuce
   - Bread
 dietary:
   - VEG*

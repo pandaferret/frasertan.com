@@ -15,7 +15,6 @@ tags:
   - Salmon
   - Corn
   - Rice
-  - Lettuce
 dietary:
   - GF*
   - EF

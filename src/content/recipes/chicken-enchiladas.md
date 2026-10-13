@@ -12,7 +12,6 @@ subcategories:
 tags:
   - High Protein
   - Chicken
-  - Lettuce
 dietary:
   - EF
 source:

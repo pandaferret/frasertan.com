@@ -11,7 +11,6 @@ tags:
   - Beef
   - High Protein
   - Steak
-  - Lettuce
   - Bread
 source:
   name: "Cook's Illustrated"

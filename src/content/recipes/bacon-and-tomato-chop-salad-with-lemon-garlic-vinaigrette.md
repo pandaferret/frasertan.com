@@ -10,7 +10,6 @@ categories:
 tags:
   - Weeknight Meals
   - Pork
-  - Lettuce
 dietary:
   - EF
 ---

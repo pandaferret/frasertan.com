@@ -5,8 +5,6 @@ prep: "15 min"
 yield: "Serves 4-6"
 categories:
   - Salads
-tags:
-  - Lettuce
 dietary:
   - V*
   - EF

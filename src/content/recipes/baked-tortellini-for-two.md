@@ -9,7 +9,6 @@ categories:
 subcategories:
   - Pastas and Grains
 tags:
-  - Lettuce
   - Thyme
 dietary:
   - VEG*

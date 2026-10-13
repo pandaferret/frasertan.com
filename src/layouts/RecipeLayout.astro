@@ -90,24 +90,7 @@ const splitLabel = (text?: string) => {
 const restParts = splitLabel(rest);
 const yieldParts = splitLabel(recipeYield);
 
-// The page shows only ingredient tags plus Eric-friendly and Owen fav. The
-// other tags only decide which tag pages list the recipe, so they stay in the
-// frontmatter but aren't shown here.
-const pageOnlyTags = [
-  "Weeknight Meals",
-  "Make Ahead",
-  "Seasonal Treats",
-  "Christmas",
-  "Thanksgiving",
-  "New Year's Eve",
-  "Spring",
-  "Summer",
-  "Fall",
-  "Winter",
-  "High Protein",
-  "Vegetarian",
-];
-const shownTags = tags?.filter((tag) => !pageOnlyTags.includes(tag)) ?? [];
+const shownTags = tags ?? [];
 // Tags that are also tabs on the Weeknight Meals page link there, but only
 // when the recipe is a weeknight meal, since the tab lists only those.
 const weeknightTabs = [
