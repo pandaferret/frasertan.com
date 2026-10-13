@@ -12,8 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Winter
-  - Pie
   - Grapefruit
+  - Cream cheese
 dietary:
   - VEG
   - EF

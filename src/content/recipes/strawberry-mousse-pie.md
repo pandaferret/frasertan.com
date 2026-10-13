@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Pies and Tarts
 tags:
-  - Pie
   - Strawberries
 source:
   name: "The Marble Kitchen"

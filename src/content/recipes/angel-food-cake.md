@@ -13,7 +13,6 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
-  - Cake
 dietary:
   - VEG
   - DF

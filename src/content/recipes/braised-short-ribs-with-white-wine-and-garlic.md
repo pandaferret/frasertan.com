@@ -10,6 +10,7 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Thyme
 dietary:
   - EF
 source:

@@ -8,6 +8,8 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+tags:
+  - Rhubarb
 dietary:
   - VEG
   - EF

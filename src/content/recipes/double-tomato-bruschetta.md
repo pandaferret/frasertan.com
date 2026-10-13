@@ -9,6 +9,7 @@ categories:
 tags:
   - Seasonal Treats
   - Summer
+  - Bread
 dietary:
   - V*
   - EF

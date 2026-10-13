@@ -12,8 +12,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
-  - Cookies
   - Pumpkin
+  - Squash
+  - Cream cheese
 dietary:
   - VEG
 source:

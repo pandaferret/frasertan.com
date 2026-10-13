@@ -9,6 +9,7 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Bread
 dietary:
   - V
   - EF

@@ -8,6 +8,10 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Chicken
+  - Pasta
+  - Coconut milk
 dietary:
   - EF
 source:

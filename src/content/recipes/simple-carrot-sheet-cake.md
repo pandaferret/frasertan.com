@@ -10,8 +10,8 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Carrot
+  - Cream cheese
 dietary:
   - VEG
 source:

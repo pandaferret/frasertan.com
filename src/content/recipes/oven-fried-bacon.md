@@ -6,6 +6,9 @@ cook: "20 min"
 yield: "Serves 4-6"
 categories:
   - Breakfast
+tags:
+  - Pork
+  - Bacon
 dietary:
   - GF
   - DF

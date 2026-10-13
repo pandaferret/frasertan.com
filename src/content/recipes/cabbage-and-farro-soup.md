@@ -8,6 +8,11 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Farro
+  - Thyme
+  - Rosemary
+  - Cabbage
 dietary:
   - VEG*
   - EF

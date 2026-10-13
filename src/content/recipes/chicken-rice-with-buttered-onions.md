@@ -15,6 +15,7 @@ tags:
   - Owen fav
   - Chicken
   - High Protein
+  - Thyme
 dietary:
   - EF
 source:

@@ -8,6 +8,11 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+tags:
+  - Bread
+  - Thyme
+  - Onion
+  - Cheese
 dietary:
   - EF
 source:

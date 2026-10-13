@@ -6,6 +6,9 @@ cook: "15 min"
 yield: "Serves 6-8"
 categories:
   - Starters
+tags:
+  - Cream cheese
+  - Chicken
 dietary:
   - GF
 ---

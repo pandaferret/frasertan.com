@@ -8,7 +8,6 @@ yield: "Makes 12 buns"
 categories:
   - Breads and Baked Goods
 tags:
-  - Rolls
   - Chocolate
   - Tahini
 dietary:

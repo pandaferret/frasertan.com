@@ -8,6 +8,13 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Pumpkin
+  - Pork
+  - Bacon
+  - Rice
+  - Leeks
+  - Squash
 dietary:
   - GF
   - EF

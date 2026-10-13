@@ -8,6 +8,10 @@ categories:
   - Side Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Rice
+  - Pork
+  - Eggs
 dietary:
   - VEG*
   - EF

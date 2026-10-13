@@ -9,7 +9,6 @@ categories:
 subcategories:
   - Cookies
 tags:
-  - Cookies
   - Chocolate
   - Peanut butter
 dietary:

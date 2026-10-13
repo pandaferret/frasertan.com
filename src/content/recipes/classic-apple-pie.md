@@ -14,7 +14,6 @@ tags:
   - Christmas
   - Thanksgiving
   - Make Ahead
-  - Pie
   - Apple
 dietary:
   - VEG

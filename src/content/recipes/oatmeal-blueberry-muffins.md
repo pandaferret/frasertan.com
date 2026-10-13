@@ -8,7 +8,6 @@ yield: "Makes about 30 mini muffins"
 categories:
   - Breads and Baked Goods
 tags:
-  - Muffins
   - Blueberries
   - Oat flour
   - Applesauce

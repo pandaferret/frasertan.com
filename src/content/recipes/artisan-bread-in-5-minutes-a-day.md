@@ -8,7 +8,8 @@ yield: "Makes 4 loaves"
 categories:
   - Breads and Baked Goods
 tags:
-  - Bread
+  - Thyme
+  - Rosemary
 dietary:
   - V
   - EF

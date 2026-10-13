@@ -7,6 +7,9 @@ categories:
   - Side Dishes
 subcategories:
   - Squash and Zucchini
+tags:
+  - Spaghetti squash
+  - Squash
 dietary:
   - V
   - EF

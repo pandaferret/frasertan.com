@@ -6,6 +6,8 @@ cook: "2 hr 15 min"
 yield: "Serves 6-8"
 categories:
   - Sauces and Dips
+tags:
+  - Eggplant
 dietary:
   - V*
   - DF

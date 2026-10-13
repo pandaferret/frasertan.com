@@ -7,6 +7,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Rice
+  - Corn
 dietary:
   - VEG*
   - GF

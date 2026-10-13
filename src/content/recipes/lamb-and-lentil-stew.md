@@ -9,6 +9,8 @@ subcategories:
   - Slow Cooker Goodness
 tags:
   - High Protein
+  - Thyme
+  - Rosemary
 dietary:
   - EF
   - DF

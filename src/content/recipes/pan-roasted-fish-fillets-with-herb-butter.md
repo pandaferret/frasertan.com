@@ -9,6 +9,7 @@ subcategories:
   - Fish
 tags:
   - High Protein
+  - Thyme
 dietary:
   - GF
   - EF

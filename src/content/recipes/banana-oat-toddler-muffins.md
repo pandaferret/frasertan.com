@@ -6,8 +6,6 @@ cook: "15 min"
 yield: "Makes 48 mini muffins"
 categories:
   - Breads and Baked Goods
-tags:
-  - Muffins
 dietary:
   - VEG
 ---

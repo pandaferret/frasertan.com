@@ -8,8 +8,8 @@ rest: "Rise 4 hr"
 categories:
   - Breads and Baked Goods
 tags:
-  - Rolls
   - Cinnamon
+  - Cream cheese
 dietary:
   - VEG
 source:

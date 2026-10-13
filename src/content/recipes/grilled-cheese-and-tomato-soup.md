@@ -10,6 +10,7 @@ subcategories:
   - Vegetarian
 tags:
   - Weeknight Meals
+  - Bread
 dietary:
   - VEG*
   - EF

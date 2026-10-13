@@ -8,6 +8,10 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Sage
+  - Squash
+  - Beans
 source:
   name: "Cook's Illustrated, November & December 2016"
 dietary:

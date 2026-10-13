@@ -10,9 +10,9 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Chocolate
   - Raspberries
+  - Cream cheese
 dietary:
   - VEG
 source:

@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - Potatoes
+tags:
+  - Sweet potatoes
 dietary:
   - V
   - EF

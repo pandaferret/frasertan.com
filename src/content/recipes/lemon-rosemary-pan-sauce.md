@@ -5,6 +5,9 @@ cook: "10 min"
 yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
+tags:
+  - Rosemary
+  - Lemon
 dietary:
   - VEG*
   - EF

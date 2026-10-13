@@ -11,7 +11,6 @@ categories:
 subcategories:
   - Cookies
 tags:
-  - Cookies
   - Chocolate
   - Raspberries
 dietary:

@@ -8,7 +8,6 @@ yield: "Makes 12 scones"
 categories:
   - Breads and Baked Goods
 tags:
-  - Sundries
   - Dried currants
 dietary:
   - VEG

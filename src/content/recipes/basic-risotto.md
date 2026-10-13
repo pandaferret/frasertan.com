@@ -9,6 +9,8 @@ categories:
   - Side Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Rice
 dietary:
   - VEG*
   - GF

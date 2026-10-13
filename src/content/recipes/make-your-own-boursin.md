@@ -5,6 +5,10 @@ rest: "Chill 1 hr"
 yield: "Makes 3 cups"
 categories:
   - Starters
+tags:
+  - Cream cheese
+  - Thyme
+  - Oregano
 dietary:
   - VEG
   - EF

@@ -15,7 +15,6 @@ tags:
   - Thanksgiving
   - Apple
   - Honey
-  - Pie
 dietary:
   - VEG
 source:

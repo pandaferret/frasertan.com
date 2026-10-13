@@ -9,8 +9,6 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
-tags:
-  - Pie
 dietary:
   - VEG
   - EF

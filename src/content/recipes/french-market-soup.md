@@ -14,6 +14,7 @@ tags:
   - Fall
   - Winter
   - High Protein
+  - Thyme
 dietary:
   - EF
   - DF

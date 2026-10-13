@@ -14,7 +14,6 @@ tags:
   - Marshmallows
   - Chocolate
   - Graham crackers
-  - Bars
 dietary:
   - VEG
 source:

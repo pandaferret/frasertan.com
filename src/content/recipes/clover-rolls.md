@@ -11,7 +11,6 @@ tags:
   - Eric-friendly
   - Weeknight Meals
   - Vegetarian
-  - Rolls
 dietary:
   - VEG
 ---

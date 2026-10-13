@@ -7,8 +7,6 @@ rest: "Rise 2 1/2 hr"
 yield: "Makes about 12 rolls"
 categories:
   - Breads and Baked Goods
-tags:
-  - Rolls
 dietary:
   - V*
   - DF

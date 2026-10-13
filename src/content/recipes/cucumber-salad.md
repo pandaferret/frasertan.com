@@ -7,6 +7,8 @@ rest: "Chill 1 hr"
 yield: "Serves 6-8"
 categories:
   - Salads
+tags:
+  - Cucumber
 dietary:
   - V
   - EF

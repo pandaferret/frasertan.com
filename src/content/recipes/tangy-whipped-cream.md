@@ -7,8 +7,6 @@ categories:
   - Desserts
 subcategories:
   - Frostings and Sauces
-tags:
-  - Frosting
 dietary:
   - VEG
   - EF

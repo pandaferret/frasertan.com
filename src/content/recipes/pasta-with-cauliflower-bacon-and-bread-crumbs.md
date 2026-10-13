@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+  - Thyme
 dietary:
   - DF
   - EF

@@ -7,6 +7,10 @@ rest: "Soak 15 min to overnight"
 yield: "Serves 8"
 categories:
   - Breakfast
+tags:
+  - Bread
+  - Cinnamon
+  - Eggs
 dietary:
   - VEG
 source:

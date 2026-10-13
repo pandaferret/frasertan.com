@@ -12,7 +12,6 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
-  - Cake
   - Nectarines
 dietary:
   - VEG

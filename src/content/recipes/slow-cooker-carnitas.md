@@ -13,6 +13,8 @@ tags:
   - Make Ahead
   - High Protein
   - Pork
+  - Oranges
+  - Oregano
 dietary:
   - GF
   - EF

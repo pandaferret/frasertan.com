@@ -10,6 +10,7 @@ subcategories:
   - Sundries
 tags:
   - High Protein
+  - Thyme
 dietary:
   - GF
   - EF

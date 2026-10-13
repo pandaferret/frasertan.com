@@ -10,8 +10,8 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Lemon
+  - Oranges
 dietary:
   - VEG
 source:

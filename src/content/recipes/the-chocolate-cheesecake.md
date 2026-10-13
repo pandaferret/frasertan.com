@@ -10,8 +10,8 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Chocolate
+  - Cream cheese
 dietary:
   - VEG
 ---

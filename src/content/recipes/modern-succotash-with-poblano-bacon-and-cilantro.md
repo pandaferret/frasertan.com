@@ -7,6 +7,10 @@ categories:
   - Side Dishes
 subcategories:
   - Corn
+tags:
+  - Pork
+  - Bacon
+  - Beans
 dietary:
   - VEG*
   - EF

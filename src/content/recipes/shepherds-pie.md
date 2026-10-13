@@ -13,6 +13,8 @@ tags:
   - Fall
   - Winter
   - High Protein
+  - Thyme
+  - Rosemary
 dietary:
   - EF
 source:

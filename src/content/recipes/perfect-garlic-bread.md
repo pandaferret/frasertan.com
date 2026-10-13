@@ -7,7 +7,7 @@ yield: "Serves 6-8"
 categories:
   - Breads and Baked Goods
 tags:
-  - Bread
+  - Oregano
 dietary:
   - V*
   - EF

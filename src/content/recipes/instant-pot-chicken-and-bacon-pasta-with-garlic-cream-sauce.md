@@ -8,6 +8,12 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Chicken
+  - Pork
+  - Bacon
+  - Pasta
+  - Garlic
 dietary:
   - EF
 source:

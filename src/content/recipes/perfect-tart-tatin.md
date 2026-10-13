@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Pies and Tarts
 tags:
-  - Tart
   - Apple
 dietary:
   - VEG

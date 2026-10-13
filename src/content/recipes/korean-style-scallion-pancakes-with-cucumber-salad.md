@@ -5,6 +5,8 @@ cook: "15 min"
 yield: "Serves 2"
 categories:
   - Starters
+tags:
+  - Cucumber
 dietary:
   - V*
   - DF

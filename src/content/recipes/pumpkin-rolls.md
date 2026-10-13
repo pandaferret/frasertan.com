@@ -10,7 +10,6 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
-  - Rolls
 dietary:
   - VEG
   - EF

@@ -6,6 +6,9 @@ cook: "15 min"
 yield: "Serves 4"
 categories:
   - Breakfast
+tags:
+  - Bread
+  - Eggs
 dietary:
   - VEG
 source:

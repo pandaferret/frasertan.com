@@ -12,8 +12,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Cake
-  - Gingerbread
 dietary:
   - VEG
 source:

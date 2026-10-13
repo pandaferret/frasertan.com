@@ -12,7 +12,8 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
-  - Caramelized onions
+  - Onion
+  - Thyme
 dietary:
   - GF
   - EF

@@ -13,7 +13,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Bars
   - Chocolate
   - Peppermint
 dietary:

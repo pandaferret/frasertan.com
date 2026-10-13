@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Chocolate
   - Raspberries
 dietary:

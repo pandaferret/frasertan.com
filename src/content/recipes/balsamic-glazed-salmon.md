@@ -9,6 +9,7 @@ subcategories:
   - Fish
 tags:
   - High Protein
+  - Rosemary
 dietary:
   - GF
   - DF

@@ -6,6 +6,8 @@ rest: "Ferment 2 days, chill overnight"
 yield: "Makes 2 liters"
 categories:
   - Drinks
+tags:
+  - Ginger
 dietary:
   - V
   - EF

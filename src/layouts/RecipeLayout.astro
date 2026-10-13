@@ -90,36 +90,23 @@ const splitLabel = (text?: string) => {
 const restParts = splitLabel(rest);
 const yieldParts = splitLabel(recipeYield);
 
-// Tags link to the page that lists them: a tag page, or a tab on one. Sub-tags
-// like "Chicken" or "Christmas" only show on their parent tag's page, so they
-// link there only when the recipe has that parent tag too.
-const tagPages = ["Weeknight Meals", "Make Ahead", "Seasonal Treats"];
-const subtagParents: Record<string, string> = {
-  "Eric-friendly": "Weeknight Meals",
-  "Owen fav": "Weeknight Meals",
-  Beef: "Weeknight Meals",
-  Chicken: "Weeknight Meals",
-  Pork: "Weeknight Meals",
-  Fish: "Weeknight Meals",
-  Beans: "Weeknight Meals",
-  Christmas: "Seasonal Treats",
-  Thanksgiving: "Seasonal Treats",
-  "New Year's Eve": "Seasonal Treats",
-  Spring: "Seasonal Treats",
-  Summer: "Seasonal Treats",
-  Fall: "Seasonal Treats",
-  Winter: "Seasonal Treats",
-};
+const shownTags = tags ?? [];
+// Tags that are also tabs on the Weeknight Meals page link there, but only
+// when the recipe is a weeknight meal, since the tab lists only those.
+const weeknightTabs = [
+  "Eric-friendly",
+  "Owen fav",
+  "Beef",
+  "Chicken",
+  "Pork",
+  "Fish",
+  "Beans",
+];
 const slugify = (s: string) => s.toLowerCase().replace(/ /g, "-");
-const tagHref = (tag: string) => {
-  if (tagPages.includes(tag)) return `/tags/${slugify(tag)}/`;
-  if (tag === "Vegetarian" || tag === "High Protein")
-    return `/tags/special-diets/#sub-${slugify(tag)}`;
-  const parent = subtagParents[tag];
-  if (parent && tags?.includes(parent))
-    return `/tags/${slugify(parent)}/#sub-${slugify(tag)}`;
-  return undefined;
-};
+const tagHref = (tag: string) =>
+  weeknightTabs.includes(tag) && tags?.includes("Weeknight Meals")
+    ? `/tags/weeknight-meals/#sub-${slugify(tag)}`
+    : undefined;
 
 const category = categories[0];
 const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
@@ -228,9 +215,9 @@ const breadcrumbs = [
         }
       </div>
       {
-        tags && tags.length > 0 && (
+        shownTags.length > 0 && (
           <ul class="recipe-tags" aria-label="Tags">
-            {tags.map((tag) => {
+            {shownTags.map((tag) => {
               const href = tagHref(tag);
               return (
                 <li>

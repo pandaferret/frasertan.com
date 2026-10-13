@@ -15,7 +15,6 @@ tags:
   - Beef
   - High Protein
   - Steak
-  - Grilled
 dietary:
   - GF
   - DF

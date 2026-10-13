@@ -8,6 +8,10 @@ categories:
   - Side Dishes
 subcategories:
   - Green Vegetables
+tags:
+  - Thyme
+  - Chard
+  - Onion
 dietary:
   - V
   - EF

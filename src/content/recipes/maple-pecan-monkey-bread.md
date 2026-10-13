@@ -7,8 +7,6 @@ rest: "Rise 2 hr 15 min"
 yield: "Serves 10-12"
 categories:
   - Breads and Baked Goods
-tags:
-  - Sundries
 dietary:
   - VEG
 source:

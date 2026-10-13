@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - Corn
+tags:
+  - Corn
 dietary:
   - V
   - EF

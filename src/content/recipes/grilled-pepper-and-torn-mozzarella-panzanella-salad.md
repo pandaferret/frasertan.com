@@ -6,6 +6,9 @@ cook: "20 min"
 yield: "Serves 4"
 categories:
   - Salads
+tags:
+  - Bread
+  - Cheese
 dietary:
   - V*
   - EF

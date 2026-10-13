@@ -6,6 +6,8 @@ cook: "15 min"
 yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
+tags:
+  - Honey
 source:
   url: "http://www.cooksillustrated.com/recipes/305-honey-mustard-and-tarragon-pan-sauce-for-turkey-cutlets"
 cover: "/images/recipes/honey-mustard-and-tarragon-pan-sauce.jpg"

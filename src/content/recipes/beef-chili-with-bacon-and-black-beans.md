@@ -14,6 +14,7 @@ subcategories:
   - Beans
 tags:
   - High Protein
+  - Oregano
 dietary:
   - GF
   - DF

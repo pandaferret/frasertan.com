@@ -10,6 +10,12 @@ categories:
 subcategories:
   - Vegetarian
   - More Vegetables
+tags:
+  - Farro
+  - Oranges
+  - Thyme
+  - Brussels sprouts
+  - Sweet potatoes
 dietary:
   - V*
   - GF*

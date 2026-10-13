@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Peaches
+  - Stonefruit
 dietary:
   - VEG
 ---

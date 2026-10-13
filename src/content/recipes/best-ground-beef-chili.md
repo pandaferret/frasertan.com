@@ -13,6 +13,8 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Thyme
+  - Oregano
 dietary:
   - GF
   - EF

@@ -8,7 +8,7 @@ categories:
 subcategories:
   - Frostings and Sauces
 tags:
-  - Frosting
+  - Cream cheese
 dietary:
   - VEG
   - GF

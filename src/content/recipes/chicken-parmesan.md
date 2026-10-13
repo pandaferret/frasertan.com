@@ -12,6 +12,7 @@ subcategories:
 tags:
   - High Protein
   - Chicken
+  - Oregano
 ---
 
 ## Ingredients

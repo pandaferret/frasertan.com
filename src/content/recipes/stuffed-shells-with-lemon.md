@@ -7,6 +7,10 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Pasta
+  - Lemon
+  - Cheese
 dietary:
   - VEG
 cover: "/images/recipes/stuffed-shells-with-lemon.jpg"

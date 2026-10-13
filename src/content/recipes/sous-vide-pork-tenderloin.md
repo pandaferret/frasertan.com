@@ -10,6 +10,9 @@ subcategories:
   - Pork
 tags:
   - High Protein
+  - Thyme
+  - Rosemary
+  - Oregano
 dietary:
   - GF
   - EF

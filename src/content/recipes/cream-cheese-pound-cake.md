@@ -10,8 +10,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
-  - Pound cake
+  - Cream cheese
 dietary:
   - VEG
 source:

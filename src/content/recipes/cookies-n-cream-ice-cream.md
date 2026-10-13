@@ -10,7 +10,6 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
-  - Ice cream
 dietary:
   - VEG
   - EF

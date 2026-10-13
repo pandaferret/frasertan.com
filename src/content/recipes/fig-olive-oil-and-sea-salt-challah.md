@@ -7,6 +7,8 @@ rest: "Rise 2 hr, cool 1 hr"
 yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
+tags:
+  - Oranges
 dietary:
   - VEG
   - DF

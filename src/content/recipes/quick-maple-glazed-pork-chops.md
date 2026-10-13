@@ -10,6 +10,7 @@ subcategories:
   - Pork
 tags:
   - High Protein
+  - Rosemary
 dietary:
   - GF
   - EF

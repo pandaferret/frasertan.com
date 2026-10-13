@@ -15,6 +15,7 @@ tags:
   - Corn
   - Bacon
   - Potatoes
+  - Thyme
 dietary:
   - VEG*
   - EF

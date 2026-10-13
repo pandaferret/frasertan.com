@@ -15,6 +15,7 @@ tags:
   - Vegetarian
   - Sweet potatoes
   - Corn
+  - Cream cheese
 source:
   name: "EatingWell"
   url: "https://www.eatingwell.com/20-minute-black-bean-soup-11782626"

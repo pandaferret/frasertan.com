@@ -12,6 +12,8 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Thyme
+  - Oregano
 dietary:
   - EF
 source:

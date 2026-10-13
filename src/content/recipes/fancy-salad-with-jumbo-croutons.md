@@ -6,6 +6,10 @@ cook: "15 min"
 yield: "Serves 4"
 categories:
   - Salads
+tags:
+  - Bread
+  - Pork
+  - Bacon
 dietary:
   - VEG*
   - EF
