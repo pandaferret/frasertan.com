@@ -629,8 +629,8 @@ export const redirects = {
   "/thai-style-stir-fried-noodles-with-chicken-and-brocollini-pad-se-ew.html":
     "/recipes/thai-style-stir-fried-noodles-with-chicken-and-brocollini-pad-se-ew/",
   "/the-best-lemon-vinaigrette.html": "/recipes/the-best-lemon-vinaigrette/",
-  "/the-best-way-to-cook-broccoli.html":
-    "/recipes/the-best-way-to-cook-broccoli/",
+  "/the-best-way-to-cook-broccoli.html": "/recipes/sauteed-broccoli/",
+  "/recipes/the-best-way-to-cook-broccoli": "/recipes/sauteed-broccoli/",
   "/the-browniest-cookies.html": "/recipes/the-browniest-cookies/",
   "/the-chocolate-cheesecake.html": "/recipes/the-chocolate-cheesecake/",
   "/the-easiest-brownies.html": "/recipes/the-easiest-brownies/",
