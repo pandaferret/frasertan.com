@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+  - Pie
+  - Apple
 dietary:
   - VEG
   - EF

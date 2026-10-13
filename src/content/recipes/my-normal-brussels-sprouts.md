@@ -6,10 +6,13 @@ cook: "15 min"
 yield: "Serves 3-4"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Weeknight Meals
   - Eric-friendly
   - Vegetarian
+  - Brussels sprouts
 dietary:
   - V*
   - EF

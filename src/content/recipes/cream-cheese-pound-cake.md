@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Pound cake
 dietary:
   - VEG
 source:

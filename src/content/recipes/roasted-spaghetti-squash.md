@@ -6,6 +6,10 @@ prep: "10 min"
 cook: "40 min"
 categories:
   - Side Dishes
+subcategories:
+  - Squash and Zucchini
+tags:
+  - Spaghetti squash
 dietary:
   - V
   - GF

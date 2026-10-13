@@ -8,6 +8,11 @@ yield: "Serves 4-6"
 categories:
   - Starters
   - Side Dishes
+subcategories:
+  - Green Vegetables
+tags:
+  - Leeks
+  - Capers
 dietary:
   - V*
   - EF

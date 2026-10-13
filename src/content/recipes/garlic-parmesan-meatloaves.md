@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Ground chicken
 dietary:
   - GF*
 source:

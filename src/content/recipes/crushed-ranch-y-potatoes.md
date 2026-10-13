@@ -7,9 +7,12 @@ prep: "10 min"
 cook: "25 min"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Potatoes
 source:
   name: "Smitten Kitchen Keepers by Deb Perelman, p. 194"
 dietary:

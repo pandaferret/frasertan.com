@@ -13,6 +13,11 @@ tags:
   - Winter
   - Owen fav
   - High Protein
+  - Chicken
+  - Carrot
+  - Peas
+  - Celery
+  - Buttermilk
 dietary:
   - EF
 ---

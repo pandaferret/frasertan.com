@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Vegetarian
   - High Protein
+  - Tofu
 dietary:
   - V
   - EF

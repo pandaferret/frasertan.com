@@ -6,6 +6,8 @@ cook: "45 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 tags:
   - Seasonal Treats
   - Fall

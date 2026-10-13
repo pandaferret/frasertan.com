@@ -12,6 +12,9 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Apple
 dietary:
   - VEG
 source:

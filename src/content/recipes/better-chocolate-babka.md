@@ -7,6 +7,9 @@ rest: "Chill 12 hr to overnight, rise 1 1/2 hr"
 yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
+tags:
+  - Sundries
+  - Chocolate
 dietary:
   - VEG
 source:

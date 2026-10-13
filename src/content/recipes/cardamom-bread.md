@@ -11,6 +11,8 @@ tags:
   - Seasonal Treats
   - Christmas
   - Eric-friendly
+  - Bread
+  - Cardamom
 dietary:
   - VEG
 ---

@@ -6,6 +6,8 @@ cook: "15 min"
 yield: "Serves 6"
 categories:
   - Side Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Seasonal Treats
   - Spring

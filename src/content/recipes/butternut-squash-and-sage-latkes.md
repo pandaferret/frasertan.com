@@ -6,6 +6,8 @@ cook: "30 min"
 yield: "Makes 16 latkes"
 categories:
   - Side Dishes
+subcategories:
+  - Squash and Zucchini
 dietary:
   - VEG
 ---

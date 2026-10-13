@@ -13,6 +13,8 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Carrot
+  - Broccoli
 dietary:
   - GF*
   - EF

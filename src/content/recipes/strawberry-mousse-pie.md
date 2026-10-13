@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+tags:
+  - Pie
+  - Strawberries
 source:
   name: "The Marble Kitchen"
   url: "https://www.themarblekitchen.com/strawberry-mousse-pie/"

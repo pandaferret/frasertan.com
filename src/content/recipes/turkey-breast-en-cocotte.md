@@ -12,6 +12,7 @@ tags:
   - Seasonal Treats
   - Thanksgiving
   - High Protein
+  - Turkey
 dietary:
   - GF
   - EF

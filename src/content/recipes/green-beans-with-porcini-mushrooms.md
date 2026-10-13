@@ -7,9 +7,13 @@ cook: "45 min"
 yield: "Serves 8"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Green beans
+  - Mushrooms
 dietary:
   - VEG
   - GF*

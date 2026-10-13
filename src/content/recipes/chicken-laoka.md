@@ -13,6 +13,8 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Tomatoes
+  - Onion
 dietary:
   - EF
   - DF

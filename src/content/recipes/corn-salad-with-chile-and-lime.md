@@ -6,9 +6,13 @@ cook: "15 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Corn
+  - Mexican
 source:
   url: "https://smittenkitchen.com/2019/07/corn-salad-with-chile-and-lime/?fbclid=IwAR0F2hm2lJS5ygecmEphGnDNFDGejVhww9Sha5kj38OTd-XrC2zGVy1VZP0"
 cover: "/images/recipes/corn-salad-with-chile-and-lime.jpg"

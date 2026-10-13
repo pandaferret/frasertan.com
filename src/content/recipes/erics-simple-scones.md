@@ -13,6 +13,8 @@ tags:
   - Fall
   - Winter
   - Eric-friendly
+  - Sundries
+  - Scones
 dietary:
   - VEG
 ---

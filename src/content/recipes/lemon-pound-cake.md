@@ -9,6 +9,10 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Pound cake
+  - Lemon
 dietary:
   - VEG
 ---

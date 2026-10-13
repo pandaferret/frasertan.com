@@ -12,6 +12,7 @@ tags:
   - Weeknight Meals
   - Beef
   - High Protein
+  - Steak
 dietary:
   - EF
 cover: "/images/recipes/carne-asada-nachos.jpg"

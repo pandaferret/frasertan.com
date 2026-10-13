@@ -9,6 +9,8 @@ cook: "30 min"
 yield: "Serves 2"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 dietary:
   - V*
   - EF

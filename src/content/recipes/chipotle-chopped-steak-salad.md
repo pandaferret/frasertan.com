@@ -9,6 +9,7 @@ tags:
   - Weeknight Meals
   - Beef
   - High Protein
+  - Steak
 dietary:
   - EF
 source:

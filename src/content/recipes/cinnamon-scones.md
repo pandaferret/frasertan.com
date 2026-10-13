@@ -6,6 +6,9 @@ cook: "15 min"
 yield: "Makes 6 scones"
 categories:
   - Breads and Baked Goods
+tags:
+  - Sundries
+  - Scones
 dietary:
   - VEG
 source:

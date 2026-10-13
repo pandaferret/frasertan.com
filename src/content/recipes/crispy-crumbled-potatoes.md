@@ -7,6 +7,8 @@ cook: "1 hr 15 min"
 rest: "Chill 4 hr to overnight"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 dietary:
   - V
   - EF

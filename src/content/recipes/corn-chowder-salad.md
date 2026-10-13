@@ -6,6 +6,8 @@ cook: "25 min"
 yield: "Serves 6-8"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 source:
   url: "https://smittenkitchen.com/2015/08/corn-chowder-salad/"
 cover: "/images/recipes/corn-chowder-salad.jpg"

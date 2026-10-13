@@ -6,6 +6,8 @@ cook: "15 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 dietary:
   - V
   - EF

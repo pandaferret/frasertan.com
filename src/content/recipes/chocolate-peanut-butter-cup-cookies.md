@@ -8,6 +8,10 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Cookies
+  - Chocolate
+  - Peanut butter
 dietary:
   - VEG
 source:

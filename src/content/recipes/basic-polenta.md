@@ -9,9 +9,12 @@ cook: "40 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Polenta
 source:
   url: "https://www.cooksillustrated.com/recipes/1958-basic-polenta"
 dietary:

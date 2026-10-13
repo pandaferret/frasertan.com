@@ -7,6 +7,8 @@ cook: "30 min"
 rest: "Rise 2 1/2-3 1/2 hr"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
 dietary:
   - VEG
 source:

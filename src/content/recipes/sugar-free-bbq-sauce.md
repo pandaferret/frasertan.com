@@ -8,6 +8,7 @@ categories:
   - Sauces and Dips
 tags:
   - Make Ahead
+  - Liquid smoke
 dietary:
   - VEG*
   - EF

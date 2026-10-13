@@ -11,6 +11,7 @@ tags:
   - Eric-friendly
   - Weeknight Meals
   - Vegetarian
+  - Bread
 dietary:
   - V*
   - EF
