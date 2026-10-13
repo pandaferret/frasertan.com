@@ -10,6 +10,7 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Lettuce
 dietary:
   - EF
   - DF

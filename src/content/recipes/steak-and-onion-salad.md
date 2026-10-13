@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
   - Beef
   - High Protein
+  - Lettuce
 dietary:
   - EF
 ---

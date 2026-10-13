@@ -6,6 +6,8 @@ cook: "5 min"
 yield: "Serves 4"
 categories:
   - Salads
+tags:
+  - Lettuce
 dietary:
   - VEG
 ---

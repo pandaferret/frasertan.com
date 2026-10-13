@@ -12,6 +12,7 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Lettuce
 dietary:
   - GF
 cover: "/images/recipes/chicken-salad-lettuce-wraps.jpg"

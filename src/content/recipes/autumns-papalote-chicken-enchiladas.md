@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Owen fav
   - Chicken
+  - Lettuce
 dietary:
   - GF*
   - EF

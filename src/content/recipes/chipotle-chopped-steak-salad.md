@@ -10,6 +10,7 @@ tags:
   - Beef
   - High Protein
   - Steak
+  - Lettuce
 dietary:
   - EF
 source:

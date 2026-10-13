@@ -9,6 +9,8 @@ categories:
   - Main Dishes
 subcategories:
   - Vegetarian
+tags:
+  - Lettuce
 dietary:
   - V*
   - GF
