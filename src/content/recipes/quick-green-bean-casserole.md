@@ -6,6 +6,8 @@ prep: "20 min"
 cook: "25 min"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Seasonal Treats
   - Thanksgiving

@@ -7,6 +7,8 @@ prep: "15 min"
 cook: "45 min"
 categories:
   - Side Dishes
+subcategories:
+  - Squash and Zucchini
 dietary:
   - VEG
   - EF

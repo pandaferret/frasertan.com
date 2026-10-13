@@ -8,6 +8,8 @@ yield: "Serves 4-6"
 categories:
   - Starters
   - Side Dishes
+subcategories:
+  - Green Vegetables
 dietary:
   - V*
   - EF

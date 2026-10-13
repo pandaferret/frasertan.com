@@ -6,6 +6,8 @@ cook: "10 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 dietary:
   - V
   - EF

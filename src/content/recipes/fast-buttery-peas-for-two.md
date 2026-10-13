@@ -6,6 +6,8 @@ cook: "5 min"
 yield: "Serves 2"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Weeknight Meals
   - Vegetarian

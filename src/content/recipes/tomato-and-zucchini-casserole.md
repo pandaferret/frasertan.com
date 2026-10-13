@@ -6,6 +6,8 @@ cook: "45 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Squash and Zucchini
 dietary:
   - V*
   - EF

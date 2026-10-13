@@ -6,6 +6,8 @@ cook: "20 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 tags:
   - Weeknight Meals
   - Vegetarian

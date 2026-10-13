@@ -6,6 +6,8 @@ prep: "10 min"
 cook: "20 min"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Weeknight Meals
   - Vegetarian

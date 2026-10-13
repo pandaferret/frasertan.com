@@ -6,6 +6,8 @@ cook: "25 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 tags:
   - Seasonal Treats
   - Thanksgiving

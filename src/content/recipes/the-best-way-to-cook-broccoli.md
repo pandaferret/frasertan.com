@@ -6,6 +6,8 @@ cook: "10 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Eric-friendly
   - Weeknight Meals
