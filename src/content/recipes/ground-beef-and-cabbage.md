@@ -13,6 +13,8 @@ tags:
   - Weeknight Meals
   - Beef
   - High Protein
+  - Ground beef
+  - Cabbage
 dietary:
   - EF
   - DF

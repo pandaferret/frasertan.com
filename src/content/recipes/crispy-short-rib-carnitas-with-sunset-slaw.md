@@ -11,6 +11,8 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Beef
+  - Short ribs
 dietary:
   - DF*
   - EF

@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Cranberries
+  - Tart
 dietary:
   - VEG
   - GF

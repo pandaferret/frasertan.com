@@ -10,6 +10,9 @@ categories:
   - Salads
 tags:
   - High Protein
+  - Tuna
+  - Pasta
+  - Celery
 dietary:
   - DF
 ---

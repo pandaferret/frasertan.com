@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Cookies
+  - Coffee
 dietary:
   - VEG
 source:

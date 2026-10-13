@@ -8,6 +8,9 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Cookies
+  - Chocolate
 dietary:
   - VEG
 source:

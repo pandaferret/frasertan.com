@@ -10,6 +10,7 @@ subcategories:
   - Pork
 tags:
   - High Protein
+  - Pork
 dietary:
   - GF
   - EF

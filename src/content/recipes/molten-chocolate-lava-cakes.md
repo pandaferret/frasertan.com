@@ -10,6 +10,8 @@ subcategories:
   - Cakes and Cupcakes
 tags:
   - Make Ahead
+  - Cake
+  - Chocolate
 dietary:
   - VEG
 ---

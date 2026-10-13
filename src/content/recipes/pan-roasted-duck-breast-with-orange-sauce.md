@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Owen fav
   - High Protein
+  - Duck
 dietary:
   - GF
   - EF

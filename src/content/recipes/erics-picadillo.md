@@ -14,6 +14,10 @@ tags:
   - Owen fav
   - Beef
   - High Protein
+  - Steak
+  - Potatoes
+  - Peas
+  - Bell peppers
 dietary:
   - GF
   - EF

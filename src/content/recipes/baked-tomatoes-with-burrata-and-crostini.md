@@ -14,6 +14,8 @@ tags:
   - Weeknight Meals
   - Owen fav
   - Vegetarian
+  - Cherry tomatoes
+  - Burrata
 cover: "/images/recipes/baked-tomatoes-with-burrata-and-crostini.jpg"
 source:
   url: "https://www.twopeasandtheirpod.com/roasted-tomatoes-with-burrata/"

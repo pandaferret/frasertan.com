@@ -6,6 +6,10 @@ cook: "30 min"
 yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
+tags:
+  - Muffins
+  - Bananas
+  - Buttermilk
 dietary:
   - VEG
   - EF

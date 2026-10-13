@@ -15,6 +15,7 @@ tags:
   - Owen fav
   - Beef
   - High Protein
+  - Sweet potatoes
 dietary:
   - EF
   - GF*

@@ -13,6 +13,9 @@ categories:
   - Desserts
 subcategories:
   - Pies and Tarts
+tags:
+  - Pie
+  - Chocolate
 dietary:
   - VEG
 source:

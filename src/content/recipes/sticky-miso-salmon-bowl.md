@@ -13,6 +13,7 @@ tags:
   - Weeknight Meals
   - Fish
   - High Protein
+  - Salmon
 dietary:
   - GF
   - EF

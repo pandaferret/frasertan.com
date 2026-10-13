@@ -15,6 +15,7 @@ tags:
   - Beans
   - Vegetarian
   - High Protein
+  - Spinach
 dietary:
   - V*
   - GF

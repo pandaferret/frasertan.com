@@ -10,6 +10,9 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cardamom
+  - Cake
 dietary:
   - VEG
 source:

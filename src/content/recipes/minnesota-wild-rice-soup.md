@@ -12,6 +12,8 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Pork
+  - Bacon
+  - Wild rice
 dietary:
   - VEG*
   - EF

@@ -13,6 +13,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+  - Rice cakes
+  - Cabbage
 dietary:
   - GF*
   - EF

@@ -7,6 +7,9 @@ rest: "Rise 2-3 hr"
 yield: "Makes 15 buns"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
+  - Pineapple juice
 dietary:
   - VEG
 source:

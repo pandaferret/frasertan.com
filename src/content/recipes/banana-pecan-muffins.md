@@ -7,6 +7,10 @@ cook: "20 min"
 yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
+tags:
+  - Muffins
+  - Bananas
+  - Pecans
 dietary:
   - VEG
   - DF

@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Vegetarian
+  - Brussels sprouts
 dietary:
   - V*
   - EF

@@ -14,6 +14,8 @@ tags:
   - Eric-friendly
   - Beef
   - High Protein
+  - Steak
+  - Grilled
 dietary:
   - GF
   - DF

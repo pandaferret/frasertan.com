@@ -13,6 +13,8 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - Tart
+  - Apple
 dietary:
   - VEG
   - EF

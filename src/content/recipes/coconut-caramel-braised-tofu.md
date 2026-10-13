@@ -13,6 +13,9 @@ tags:
   - Weeknight Meals
   - Vegetarian
   - High Protein
+  - Green beans
+  - Coconut milk
+  - White miso
 dietary:
   - V
   - DF

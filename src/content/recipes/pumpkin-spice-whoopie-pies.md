@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+  - Cookies
+  - Pumpkin
 dietary:
   - VEG
 source:

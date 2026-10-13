@@ -13,6 +13,7 @@ tags:
   - Make Ahead
   - Owen fav
   - High Protein
+  - Beans
 dietary:
   - V
   - GF*

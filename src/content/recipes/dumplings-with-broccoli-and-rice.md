@@ -11,6 +11,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Eric-friendly
+  - Rice
+  - Broccoli
 ---
 
 ## Ingredients

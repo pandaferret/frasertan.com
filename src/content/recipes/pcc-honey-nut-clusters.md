@@ -11,6 +11,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
+  - Peanut butter
+  - Dates
 dietary:
   - V*
   - EF

@@ -7,6 +7,8 @@ rest: "Freeze 6 hr"
 yield: "Makes about 24 biscuits"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
 dietary:
   - VEG
   - EF
