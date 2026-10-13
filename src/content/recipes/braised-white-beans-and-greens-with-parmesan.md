@@ -15,6 +15,8 @@ tags:
   - Vegetarian
   - High Protein
   - Chard
+  - Thyme
+  - Rosemary
 dietary:
   - V*
   - GF

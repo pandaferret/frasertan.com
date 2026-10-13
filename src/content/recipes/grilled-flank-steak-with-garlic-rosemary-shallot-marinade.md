@@ -10,6 +10,7 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Rosemary
 dietary:
   - EF
   - DF

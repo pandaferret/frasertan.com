@@ -11,6 +11,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Summer
+  - Thyme
+  - Rosemary
 dietary:
   - V
   - EF

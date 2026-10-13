@@ -17,6 +17,7 @@ tags:
   - Beef
   - High Protein
   - Steak
+  - Oregano
 dietary:
   - EF
   - GF*

@@ -13,6 +13,7 @@ tags:
   - Beef
   - High Protein
   - Steak
+  - Oregano
 dietary:
   - EF
 cover: "/images/recipes/carne-asada-nachos.jpg"

@@ -14,6 +14,7 @@ tags:
   - Green beans
   - Mushrooms
   - Shallots
+  - Thyme
 dietary:
   - VEG*
   - EF

@@ -10,6 +10,8 @@ subcategories:
   - Soups
 tags:
   - Farro
+  - Thyme
+  - Rosemary
 dietary:
   - VEG*
   - EF

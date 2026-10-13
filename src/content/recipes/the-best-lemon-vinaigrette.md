@@ -5,6 +5,8 @@ prep: "5 min"
 yield: "Makes about 1 cup"
 categories:
   - Salads
+tags:
+  - Oregano
 dietary:
   - V
   - EF

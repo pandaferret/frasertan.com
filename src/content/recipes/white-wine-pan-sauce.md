@@ -9,6 +9,8 @@ cook: "10 min"
 yield: "Makes about 1/2 cup"
 categories:
   - Sauces and Dips
+tags:
+  - Thyme
 source:
   url: "http://www.cooksillustrated.com/recipes/7794-white-wine-pan-sauce"
 cover: "/images/recipes/white-wine-pan-sauce.jpg"

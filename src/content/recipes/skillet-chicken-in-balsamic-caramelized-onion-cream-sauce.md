@@ -13,6 +13,7 @@ tags:
   - Chicken
   - High Protein
   - Onion
+  - Thyme
 dietary:
   - GF
   - EF

@@ -8,6 +8,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+tags:
+  - Thyme
 dietary:
   - EF
   - DF

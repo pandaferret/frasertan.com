@@ -14,6 +14,7 @@ tags:
   - High Protein
   - Pork
   - Oranges
+  - Oregano
 dietary:
   - GF
   - EF

@@ -18,6 +18,7 @@ tags:
   - Peas
   - Celery
   - Buttermilk
+  - Thyme
 dietary:
   - EF
 ---

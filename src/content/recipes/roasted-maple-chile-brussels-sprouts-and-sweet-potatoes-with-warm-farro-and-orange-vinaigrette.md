@@ -13,6 +13,7 @@ subcategories:
 tags:
   - Farro
   - Oranges
+  - Thyme
 dietary:
   - V*
   - GF*

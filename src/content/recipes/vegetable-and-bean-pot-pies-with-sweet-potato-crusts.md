@@ -9,6 +9,8 @@ categories:
 subcategories:
   - Vegetarian
   - Beans
+tags:
+  - Rosemary
 dietary:
   - V
   - EF

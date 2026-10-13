@@ -5,6 +5,8 @@ prep: "10 min"
 yield: "Makes about 1 1/4 cups"
 categories:
   - Salads
+tags:
+  - Thyme
 dietary:
   - V*
   - EF

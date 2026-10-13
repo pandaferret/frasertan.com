@@ -11,6 +11,7 @@ subcategories:
 tags:
   - High Protein
   - Farro
+  - Thyme
 dietary:
   - VEG
   - EF

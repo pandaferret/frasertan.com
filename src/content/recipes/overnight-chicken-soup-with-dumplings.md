@@ -8,6 +8,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Thyme
+  - Rosemary
 dietary:
   - EF
 ---

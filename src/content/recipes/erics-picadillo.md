@@ -18,6 +18,7 @@ tags:
   - Potatoes
   - Peas
   - Bell peppers
+  - Oregano
 dietary:
   - GF
   - EF

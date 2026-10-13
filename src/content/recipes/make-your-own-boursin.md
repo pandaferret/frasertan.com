@@ -7,6 +7,8 @@ categories:
   - Starters
 tags:
   - Cream cheese
+  - Thyme
+  - Oregano
 dietary:
   - VEG
   - EF

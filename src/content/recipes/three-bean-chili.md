@@ -14,6 +14,7 @@ tags:
   - Owen fav
   - High Protein
   - Beans
+  - Oregano
 dietary:
   - V
   - GF*

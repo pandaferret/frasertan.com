@@ -10,6 +10,7 @@ tags:
   - Seasonal Treats
   - Summer
   - Vegetarian
+  - Oregano
 cover: "/images/recipes/the-mothership-tomato-salad.jpg"
 source:
   url: "http://www.foodnetwork.com/recipes/jamie-oliver/the-mothership-tomato-salad-recipe.html"

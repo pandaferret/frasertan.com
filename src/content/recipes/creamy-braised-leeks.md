@@ -13,6 +13,7 @@ subcategories:
 tags:
   - Leeks
   - Capers
+  - Thyme
 dietary:
   - V*
   - EF

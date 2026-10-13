@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Oregano
 dietary:
   - EF
 source:

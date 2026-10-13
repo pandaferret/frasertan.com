@@ -7,6 +7,8 @@ categories:
   - Side Dishes
 subcategories:
   - Potatoes
+tags:
+  - Rosemary
 dietary:
   - EF
   - DF

@@ -12,6 +12,7 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Thyme
 dietary:
   - GF
   - EF

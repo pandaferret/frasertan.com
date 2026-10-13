@@ -16,6 +16,7 @@ tags:
   - Fish
   - High Protein
   - Swordfish
+  - Thyme
 dietary:
   - GF*
   - EF

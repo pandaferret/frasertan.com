@@ -14,6 +14,7 @@ tags:
   - Chicken
   - High Protein
   - Ground chicken
+  - Oregano
 dietary:
   - GF*
 source:

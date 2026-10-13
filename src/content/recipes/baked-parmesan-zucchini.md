@@ -7,6 +7,9 @@ categories:
   - Side Dishes
 subcategories:
   - Squash and Zucchini
+tags:
+  - Thyme
+  - Oregano
 dietary:
   - V*
   - EF

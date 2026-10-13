@@ -7,6 +7,9 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+tags:
+  - Thyme
+  - Oregano
 dietary:
   - VEG*
   - EF

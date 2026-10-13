@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Thyme
 source:
   url: "https://cooking.nytimes.com/recipes/8175-french-lentils-with-garlic-and-thyme"
 dietary:

@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - Green Vegetables
+tags:
+  - Thyme
 dietary:
   - V
   - EF

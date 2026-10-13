@@ -7,6 +7,9 @@ rest: "Rise 2-4 hr, rest 30 min"
 yield: "Makes 4 loaves"
 categories:
   - Breads and Baked Goods
+tags:
+  - Thyme
+  - Rosemary
 dietary:
   - V
   - EF

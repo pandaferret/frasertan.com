@@ -16,6 +16,7 @@ tags:
   - High Protein
   - Beef
   - Short ribs
+  - Thyme
 dietary:
   - GF
   - DF

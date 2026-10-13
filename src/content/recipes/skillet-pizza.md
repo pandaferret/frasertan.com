@@ -9,6 +9,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pizzas
+tags:
+  - Oregano
 dietary:
   - V*
   - EF

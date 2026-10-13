@@ -9,6 +9,8 @@ cook: "20 min"
 yield: "Makes 1 1/4 cups"
 categories:
   - Sauces and Dips
+tags:
+  - Thyme
 source:
   url: "http://www.cooksillustrated.com/recipes/3144-apple-cider-sauce"
 cover: "/images/recipes/apple-cider-sauce.jpg"

@@ -11,6 +11,7 @@ tags:
   - Beef
   - High Protein
   - Lettuce
+  - Thyme
 dietary:
   - EF
 ---

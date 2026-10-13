@@ -13,6 +13,7 @@ tags:
   - Eric-friendly
   - Chicken
   - Orzo
+  - Thyme
 dietary:
   - EF
 source:

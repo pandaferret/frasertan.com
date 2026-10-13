@@ -6,6 +6,8 @@ cook: "5 min"
 yield: "Serves 6-8"
 categories:
   - Breads and Baked Goods
+tags:
+  - Oregano
 dietary:
   - V*
   - EF
