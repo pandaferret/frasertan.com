@@ -7,6 +7,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Sage
 dietary:
   - VEG*
   - GF

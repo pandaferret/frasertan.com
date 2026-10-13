@@ -14,7 +14,6 @@ tags:
   - Seasonal Treats
   - Thanksgiving
   - Cranberries
-  - Pie
 dietary:
   - VEG
 source:

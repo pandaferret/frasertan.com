@@ -9,7 +9,6 @@ categories:
 subcategories:
   - Cookies
 tags:
-  - Cookies
   - Lemon
 dietary:
   - VEG

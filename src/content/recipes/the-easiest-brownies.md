@@ -9,7 +9,6 @@ categories:
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
-  - Bars
   - Chocolate
 dietary:
   - VEG

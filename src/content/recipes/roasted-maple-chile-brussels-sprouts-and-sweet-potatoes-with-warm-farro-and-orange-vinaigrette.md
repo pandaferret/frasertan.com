@@ -10,6 +10,9 @@ categories:
 subcategories:
   - Vegetarian
   - More Vegetables
+tags:
+  - Farro
+  - Oranges
 dietary:
   - V*
   - GF*

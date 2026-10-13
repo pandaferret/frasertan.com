@@ -6,8 +6,6 @@ cook: "5 min"
 yield: "Serves 6-8"
 categories:
   - Breads and Baked Goods
-tags:
-  - Bread
 dietary:
   - V*
   - EF

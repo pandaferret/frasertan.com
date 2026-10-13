@@ -11,8 +11,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
-  - Cake
   - Pumpkin
+  - Squash
 dietary:
   - VEG
 ---

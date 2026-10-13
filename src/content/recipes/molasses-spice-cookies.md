@@ -11,7 +11,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
-  - Cookies
 dietary:
   - VEG
 source:

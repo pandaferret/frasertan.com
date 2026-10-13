@@ -10,6 +10,7 @@ subcategories:
   - Vegetarian
 tags:
   - High Protein
+  - Farro
 dietary:
   - VEG
   - EF

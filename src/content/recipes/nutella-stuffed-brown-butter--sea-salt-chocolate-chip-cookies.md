@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Cookies
 tags:
-  - Cookies
   - Chocolate
   - Nutella
 dietary:

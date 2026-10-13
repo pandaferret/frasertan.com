@@ -7,8 +7,6 @@ rest: "Ferment 1-12 hr, chill overnight, rise 2 hr"
 yield: "Makes 12 muffins"
 categories:
   - Breads and Baked Goods
-tags:
-  - Muffins
 dietary:
   - VEG
   - EF

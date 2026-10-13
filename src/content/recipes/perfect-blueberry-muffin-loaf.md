@@ -12,7 +12,6 @@ subcategories:
   - Cakes and Cupcakes
 tags:
   - Blueberries
-  - Muffins
 dietary:
   - VEG
 source:

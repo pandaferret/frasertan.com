@@ -7,8 +7,6 @@ cook: "10 min"
 rest: "Rise 30 min"
 categories:
   - Breads and Baked Goods
-tags:
-  - Sundries
 dietary:
   - V*
   - EF

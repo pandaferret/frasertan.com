@@ -4,6 +4,8 @@ yield: "Makes 1 drink"
 prep: "5 min"
 categories:
   - Drinks
+tags:
+  - Oranges
 dietary:
   - V
   - EF

@@ -12,7 +12,6 @@ tags:
   - Weeknight Meals
   - Vegetarian
   - Eggplant
-  - Asian
 dietary:
   - V
   - EF

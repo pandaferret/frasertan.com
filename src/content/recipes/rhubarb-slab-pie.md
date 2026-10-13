@@ -12,7 +12,6 @@ subcategories:
 tags:
   - Seasonal Treats
   - Spring
-  - Pie
   - Rhubarb
 dietary:
   - VEG

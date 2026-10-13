@@ -12,8 +12,6 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
-  - Instant Pot
-  - Indian
 dietary:
   - EF
 source:

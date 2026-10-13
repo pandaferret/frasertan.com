@@ -12,7 +12,6 @@ subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
   - Make Ahead
-  - Brownies
   - Chocolate
 dietary:
   - VEG

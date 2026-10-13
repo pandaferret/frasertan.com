@@ -6,6 +6,8 @@ cook: "10 min"
 yield: "Serves 4"
 categories:
   - Sauces and Dips
+tags:
+  - Sage
 source:
   name: "America's Test Kitchen"
   url: "http://www.cooksillustrated.com/recipes/39-pan-roasted-chicken-breasts-with-sage-vermouth-sauce"

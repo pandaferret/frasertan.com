@@ -9,6 +9,7 @@ categories:
 subcategories:
   - Squash and Zucchini
 tags:
+  - Squash
   - Spaghetti squash
 dietary:
   - V

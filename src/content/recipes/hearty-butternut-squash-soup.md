@@ -8,6 +8,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Sage
 source:
   name: "Cook's Illustrated, November & December 2016"
 dietary:

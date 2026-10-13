@@ -9,6 +9,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Oranges
 dietary:
   - VEG
   - GF

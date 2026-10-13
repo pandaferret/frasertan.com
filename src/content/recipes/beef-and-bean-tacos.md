@@ -17,7 +17,6 @@ tags:
   - Beef
   - High Protein
   - Steak
-  - Mexican
 dietary:
   - EF
   - GF*

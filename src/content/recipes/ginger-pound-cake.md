@@ -14,9 +14,7 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Ginger
-  - Pound cake
 dietary:
   - VEG
 ---

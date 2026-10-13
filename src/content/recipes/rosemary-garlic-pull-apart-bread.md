@@ -7,8 +7,6 @@ cook: "50 min"
 rest: "Rise 2 hr"
 categories:
   - Breads and Baked Goods
-tags:
-  - Bread
 dietary:
   - VEG
 cover: "/images/recipes/rosemary-garlic-pull-apart-bread.jpg"

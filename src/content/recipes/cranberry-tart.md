@@ -13,7 +13,7 @@ tags:
   - Seasonal Treats
   - Thanksgiving
   - Cranberries
-  - Tart
+  - Oranges
 dietary:
   - VEG
   - GF

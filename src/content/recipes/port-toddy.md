@@ -8,6 +8,7 @@ categories:
 tags:
   - Seasonal Treats
   - Winter
+  - Oranges
 dietary:
   - V
   - EF

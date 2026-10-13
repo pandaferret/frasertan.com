@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Apple
 dietary:
   - VEG

@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Cakes and Cupcakes
 tags:
-  - Cake
   - Strawberries
 dietary:
   - VEG

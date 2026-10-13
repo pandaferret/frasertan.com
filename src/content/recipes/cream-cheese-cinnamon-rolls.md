@@ -8,7 +8,6 @@ rest: "Rise 4 hr"
 categories:
   - Breads and Baked Goods
 tags:
-  - Rolls
   - Cinnamon
 dietary:
   - VEG

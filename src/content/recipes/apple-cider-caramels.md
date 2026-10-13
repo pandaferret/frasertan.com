@@ -13,7 +13,6 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
-  - Sundries
 dietary:
   - VEG
   - GF

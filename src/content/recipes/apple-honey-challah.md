@@ -12,8 +12,6 @@ tags:
   - Fall
   - Winter
   - Apple
-  - Challah
-  - Bread
 dietary:
   - VEG
   - DF

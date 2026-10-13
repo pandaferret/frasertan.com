@@ -8,7 +8,6 @@ yield: "Makes 2 loaves"
 categories:
   - Breads and Baked Goods
 tags:
-  - Sundries
   - Chocolate
 dietary:
   - VEG

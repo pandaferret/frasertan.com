@@ -13,6 +13,7 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - Sage
 dietary:
   - VEG
   - EF

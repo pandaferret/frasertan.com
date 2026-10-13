@@ -10,7 +10,6 @@ categories:
 subcategories:
   - Cookies
 tags:
-  - Cookies
   - Coffee
 dietary:
   - VEG

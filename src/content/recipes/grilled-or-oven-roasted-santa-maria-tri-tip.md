@@ -11,7 +11,6 @@ subcategories:
   - Beef
 tags:
   - High Protein
-  - Grilled
   - Steak
 dietary:
   - EF

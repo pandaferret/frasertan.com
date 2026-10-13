@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - Squash and Zucchini
+tags:
+  - Sage
 dietary:
   - VEG
 ---
