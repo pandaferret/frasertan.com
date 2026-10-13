@@ -8,6 +8,10 @@ categories:
   - Side Dishes
 subcategories:
   - Corn
+tags:
+  - Pork
+  - Bacon
+  - Corn
 source:
   url: "https://smittenkitchen.com/2015/08/corn-chowder-salad/"
 cover: "/images/recipes/corn-chowder-salad.jpg"

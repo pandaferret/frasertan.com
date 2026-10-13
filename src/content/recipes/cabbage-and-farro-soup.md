@@ -12,6 +12,7 @@ tags:
   - Farro
   - Thyme
   - Rosemary
+  - Cabbage
 dietary:
   - VEG*
   - EF

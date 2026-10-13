@@ -8,6 +8,9 @@ categories:
   - Side Dishes
 subcategories:
   - Squash and Zucchini
+tags:
+  - Tomatoes
+  - Squash
 dietary:
   - V*
   - EF

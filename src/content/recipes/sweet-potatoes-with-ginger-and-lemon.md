@@ -8,6 +8,10 @@ categories:
   - Side Dishes
 subcategories:
   - Potatoes
+tags:
+  - Sweet potatoes
+  - Ginger
+  - Lemon
 dietary:
   - V
   - EF

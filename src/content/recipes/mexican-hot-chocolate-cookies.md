@@ -8,6 +8,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Chocolate
 dietary:
   - VEG
 cover: "/images/recipes/mexican-hot-chocolate-cookies.jpg"

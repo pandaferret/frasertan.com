@@ -10,6 +10,8 @@ subcategories:
   - Squash and Zucchini
 tags:
   - Sage
+  - Squash
+  - Potatoes
 dietary:
   - VEG
 ---

@@ -8,6 +8,8 @@ categories:
   - Breads and Baked Goods
 tags:
   - Cream cheese
+  - Pork
+  - Bacon
 dietary:
   - EF
 ---

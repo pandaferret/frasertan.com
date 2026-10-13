@@ -11,6 +11,7 @@ categories:
   - Sauces and Dips
 tags:
   - Thyme
+  - Apple
 source:
   url: "http://www.cooksillustrated.com/recipes/3144-apple-cider-sauce"
 cover: "/images/recipes/apple-cider-sauce.jpg"

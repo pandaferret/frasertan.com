@@ -7,6 +7,7 @@ categories:
   - Sauces and Dips
 tags:
   - Rosemary
+  - Lemon
 dietary:
   - VEG*
   - EF

@@ -8,6 +8,10 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Pork
+  - Tofu
+  - Pasta
 dietary:
   - DF
 ---

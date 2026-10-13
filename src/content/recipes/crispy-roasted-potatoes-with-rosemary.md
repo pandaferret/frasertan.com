@@ -10,6 +10,7 @@ subcategories:
   - Potatoes
 tags:
   - Rosemary
+  - Potatoes
 dietary:
   - V*
   - EF

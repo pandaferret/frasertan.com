@@ -8,6 +8,7 @@ categories:
   - Salads
 tags:
   - Bread
+  - Garlic
 dietary:
   - VEG
 ---

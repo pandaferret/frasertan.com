@@ -8,6 +8,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Pork
+  - Pasta
 dietary:
   - EF
 ---

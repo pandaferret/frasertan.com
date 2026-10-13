@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Thyme
   - Rosemary
+  - Chicken
 dietary:
   - EF
 ---

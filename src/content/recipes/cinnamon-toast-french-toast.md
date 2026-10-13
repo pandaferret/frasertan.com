@@ -9,6 +9,8 @@ categories:
   - Breakfast
 tags:
   - Bread
+  - Cinnamon
+  - Eggs
 dietary:
   - VEG
 source:

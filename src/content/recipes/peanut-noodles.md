@@ -7,6 +7,9 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Pasta
+  - Peanut butter
 dietary:
   - V*
   - EF

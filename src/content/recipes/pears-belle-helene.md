@@ -11,6 +11,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Oranges
+  - Pears
+  - Chocolate
 dietary:
   - VEG
   - GF

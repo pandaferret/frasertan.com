@@ -10,6 +10,9 @@ subcategories:
   - Pastas and Grains
 tags:
   - Sage
+  - Pumpkin
+  - Pasta
+  - Squash
 dietary:
   - VEG
   - EF

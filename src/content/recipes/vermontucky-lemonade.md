@@ -5,6 +5,8 @@ prep: "15 min"
 yield: "Makes 6 drinks"
 categories:
   - Drinks
+tags:
+  - Lemon
 dietary:
   - V
   - EF

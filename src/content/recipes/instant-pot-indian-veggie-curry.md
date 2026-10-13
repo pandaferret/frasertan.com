@@ -10,6 +10,9 @@ categories:
 subcategories:
   - Vegetarian
   - More Vegetables
+tags:
+  - Chickpeas
+  - Green beans
 dietary:
   - V
   - GF

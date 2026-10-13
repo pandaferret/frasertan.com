@@ -8,6 +8,10 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Chicken
+  - Pasta
+  - Broccoli
 dietary:
   - DF
 source:

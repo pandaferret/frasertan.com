@@ -9,6 +9,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Corn
 dietary:
   - VEG
 ---

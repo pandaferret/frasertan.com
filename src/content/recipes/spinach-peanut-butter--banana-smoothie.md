@@ -4,6 +4,10 @@ yield: "Makes 16 oz"
 prep: "5 min"
 categories:
   - Drinks
+tags:
+  - Bananas
+  - Peanut butter
+  - Spinach
 dietary:
   - V*
   - EF

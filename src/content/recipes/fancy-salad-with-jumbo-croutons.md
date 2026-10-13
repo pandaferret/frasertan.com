@@ -8,6 +8,8 @@ categories:
   - Salads
 tags:
   - Bread
+  - Pork
+  - Bacon
 dietary:
   - VEG*
   - EF

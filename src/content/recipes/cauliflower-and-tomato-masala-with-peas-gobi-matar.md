@@ -7,6 +7,9 @@ categories:
   - Main Dishes
 subcategories:
   - Vegetarian
+tags:
+  - Tomatoes
+  - Peas
 dietary:
   - V
   - DF

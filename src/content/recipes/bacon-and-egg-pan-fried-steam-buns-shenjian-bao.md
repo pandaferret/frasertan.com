@@ -7,6 +7,10 @@ rest: "Rise 2 1/2 hr"
 yield: "Makes 16 buns"
 categories:
   - Starters
+tags:
+  - Pork
+  - Bacon
+  - Eggs
 source:
   url: "http://mynameisyeh.com/mynameisyeh/2014/5/bacon-and-egg-shengjian-bao-pan-fried-steamed-buns"
 ---

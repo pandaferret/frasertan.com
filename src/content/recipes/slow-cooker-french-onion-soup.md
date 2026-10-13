@@ -11,6 +11,8 @@ subcategories:
 tags:
   - Bread
   - Thyme
+  - Onion
+  - Cheese
 dietary:
   - EF
 source:

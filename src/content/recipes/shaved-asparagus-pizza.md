@@ -8,6 +8,8 @@ categories:
   - Main Dishes
 subcategories:
   - Pizzas
+tags:
+  - Asparagus
 dietary:
   - V*
 source:

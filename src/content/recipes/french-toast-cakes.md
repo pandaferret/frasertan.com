@@ -8,6 +8,7 @@ categories:
   - Breakfast
 tags:
   - Bread
+  - Eggs
 dietary:
   - VEG
 ---

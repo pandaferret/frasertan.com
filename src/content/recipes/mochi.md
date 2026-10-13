@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Rice flour
+  - Coconut milk
 dietary:
   - V
   - GF

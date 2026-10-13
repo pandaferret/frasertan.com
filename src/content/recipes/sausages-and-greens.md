@@ -8,6 +8,9 @@ categories:
   - Main Dishes
 subcategories:
   - Sundries
+tags:
+  - Pork
+  - Sausage
 dietary:
   - GF
   - EF

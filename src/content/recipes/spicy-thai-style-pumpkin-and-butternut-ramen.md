@@ -7,6 +7,11 @@ categories:
   - Soups and Stews
 subcategories:
   - Soups
+tags:
+  - Pumpkin
+  - Squash
+  - Chicken
+  - Pasta
 dietary:
   - EF
   - DF

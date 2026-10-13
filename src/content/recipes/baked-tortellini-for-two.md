@@ -10,6 +10,10 @@ subcategories:
   - Pastas and Grains
 tags:
   - Thyme
+  - Pasta
+  - Pork
+  - Bacon
+  - Cheese
 dietary:
   - VEG*
 ---

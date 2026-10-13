@@ -10,6 +10,8 @@ subcategories:
   - Pastas and Grains
 tags:
   - Rosemary
+  - Pasta
+  - Cheese
 dietary:
   - VEG
   - EF

@@ -11,6 +11,8 @@ subcategories:
   - Beans
 tags:
   - Rosemary
+  - Beans
+  - Sweet potatoes
 dietary:
   - V
   - EF

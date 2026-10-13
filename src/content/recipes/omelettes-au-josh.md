@@ -6,6 +6,11 @@ cook: "10 min"
 yield: "Serves 1"
 categories:
   - Breakfast
+tags:
+  - Eggs
+  - Bacon
+  - Pork
+  - Cheese
 dietary:
   - VEG*
   - GF

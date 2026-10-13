@@ -7,6 +7,7 @@ categories:
   - Salads
 tags:
   - Oregano
+  - Lemon
 dietary:
   - V
   - EF

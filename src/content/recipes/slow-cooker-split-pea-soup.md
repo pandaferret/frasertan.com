@@ -10,6 +10,8 @@ subcategories:
   - Slow Cooker Goodness
 tags:
   - Thyme
+  - Pork
+  - Peas
 dietary:
   - EF
   - DF

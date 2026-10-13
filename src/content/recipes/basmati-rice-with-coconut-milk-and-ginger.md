@@ -8,6 +8,10 @@ categories:
   - Side Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Rice
+  - Coconut milk
+  - Ginger
 source:
   url: "https://cooking.nytimes.com/recipes/8910-basmati-rice-with-coconut-milk-and-ginger"
 dietary:

@@ -7,6 +7,8 @@ categories:
   - Breads and Baked Goods
 tags:
   - Cream cheese
+  - Pork
+  - Bacon
 ---
 
 ## Ingredients

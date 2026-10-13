@@ -7,6 +7,9 @@ rest: "Rest dough 1 hr"
 yield: "Makes about 40 dumplings"
 categories:
   - Starters
+tags:
+  - Pork
+  - Cabbage
 dietary:
   - DF
 ---

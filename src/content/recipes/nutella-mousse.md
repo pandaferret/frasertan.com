@@ -10,6 +10,8 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Cream cheese
+  - Nutella
+  - Chocolate
 dietary:
   - VEG
   - EF

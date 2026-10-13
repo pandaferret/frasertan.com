@@ -8,6 +8,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Chocolate
 dietary:
   - VEG
 ---

@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - More Vegetables
+tags:
+  - Garlic
 dietary:
   - V
   - EF

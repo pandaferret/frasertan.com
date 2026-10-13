@@ -9,6 +9,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Apple
 dietary:
   - VEG
 source:

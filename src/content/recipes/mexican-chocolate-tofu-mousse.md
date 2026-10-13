@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Chocolate
+  - Tofu
 dietary:
   - V*
   - GF

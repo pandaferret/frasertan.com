@@ -6,6 +6,8 @@ prep: "15 min"
 cook: "30 min"
 categories:
   - Breakfast
+tags:
+  - Bananas
 dietary:
   - VEG
 source:

@@ -10,6 +10,8 @@ subcategories:
 tags:
   - Thyme
   - Oregano
+  - Squash
+  - Cheese
 dietary:
   - V*
   - EF

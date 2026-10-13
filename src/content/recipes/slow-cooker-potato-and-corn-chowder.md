@@ -10,6 +10,8 @@ subcategories:
 tags:
   - Thyme
   - Oregano
+  - Potatoes
+  - Corn
 dietary:
   - VEG*
   - EF

@@ -5,6 +5,8 @@ prep: "20 min"
 yield: "Serves 8"
 categories:
   - Salads
+tags:
+  - Strawberries
 dietary:
   - V*
   - EF

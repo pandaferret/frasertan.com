@@ -12,6 +12,8 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Chocolate
 dietary:
   - VEG
 source:
