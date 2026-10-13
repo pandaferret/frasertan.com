@@ -43,4 +43,4 @@ source:
 ## Notes
 
 - Try feta, Asiago or cotija instead of Parmesan, or add crushed red pepper flakes for a little heat.
-- See also: [The Best Way to Cook Broccoli](/recipes/the-best-way-to-cook-broccoli/)
+- See also: [Sauteed Broccoli](/recipes/sauteed-broccoli/)

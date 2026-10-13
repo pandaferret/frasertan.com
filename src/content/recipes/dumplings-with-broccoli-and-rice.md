@@ -24,6 +24,6 @@ tags:
 ## Directions
 
 1. Make the rice in the rice cooker.
-2. Cook the broccoli like so: [The Best Way to Cook Broccoli](/recipes/the-best-way-to-cook-broccoli/).
+2. Cook the broccoli like so: [Sauteed Broccoli](/recipes/sauteed-broccoli/).
 3. Pan fry the dumplings.
 4. Devour.
