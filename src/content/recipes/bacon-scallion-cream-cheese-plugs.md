@@ -6,6 +6,8 @@ rest: "Freeze 1-3 hr"
 yield: "Makes 8 plugs"
 categories:
   - Breads and Baked Goods
+tags:
+  - Cream cheese
 dietary:
   - EF
 ---

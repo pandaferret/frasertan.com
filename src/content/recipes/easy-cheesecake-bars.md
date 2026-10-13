@@ -9,6 +9,8 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+tags:
+  - Cream cheese
 dietary:
   - VEG
 source:

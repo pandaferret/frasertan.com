@@ -11,6 +11,7 @@ subcategories:
   - Cakes and Cupcakes
 tags:
   - Chocolate
+  - Cream cheese
 dietary:
   - VEG
 source:

@@ -11,6 +11,7 @@ subcategories:
   - Cakes and Cupcakes
 tags:
   - Carrot
+  - Cream cheese
 dietary:
   - VEG
 source:

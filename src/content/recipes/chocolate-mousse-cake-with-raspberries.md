@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Chocolate
   - Raspberries
+  - Cream cheese
 dietary:
   - VEG
 source:

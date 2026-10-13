@@ -14,6 +14,7 @@ tags:
   - Fall
   - Pumpkin
   - Squash
+  - Cream cheese
 dietary:
   - VEG
 source:

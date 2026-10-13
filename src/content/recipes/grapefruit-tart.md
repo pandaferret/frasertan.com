@@ -13,6 +13,7 @@ tags:
   - Seasonal Treats
   - Winter
   - Grapefruit
+  - Cream cheese
 dietary:
   - VEG
   - EF

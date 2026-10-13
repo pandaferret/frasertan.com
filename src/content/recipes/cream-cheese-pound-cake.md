@@ -9,6 +9,8 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cream cheese
 dietary:
   - VEG
 source:

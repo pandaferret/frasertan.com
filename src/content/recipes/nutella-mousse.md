@@ -8,6 +8,8 @@ categories:
   - Desserts
 subcategories:
   - Sweets and Sundries
+tags:
+  - Cream cheese
 dietary:
   - VEG
   - EF

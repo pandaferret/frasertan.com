@@ -9,6 +9,7 @@ categories:
   - Breads and Baked Goods
 tags:
   - Cinnamon
+  - Cream cheese
 dietary:
   - VEG
 source:

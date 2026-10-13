@@ -5,6 +5,8 @@ cook: "30 min"
 yield: "Makes 8 bagel bombs"
 categories:
   - Breads and Baked Goods
+tags:
+  - Cream cheese
 ---
 
 ## Ingredients
