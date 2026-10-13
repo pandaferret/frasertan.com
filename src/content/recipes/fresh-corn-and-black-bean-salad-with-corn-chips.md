@@ -8,6 +8,8 @@ categories:
   - Salads
 tags:
   - Make Ahead
+  - Corn
+  - Beans
 dietary:
   - V
   - DF

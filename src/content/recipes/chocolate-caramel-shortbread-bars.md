@@ -11,6 +11,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+  - Bars
+  - Caramel
 dietary:
   - VEG
   - EF

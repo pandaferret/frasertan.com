@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Broccoli
 dietary:
   - V*
   - GF

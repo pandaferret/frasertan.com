@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Asparagus
 dietary:
   - V*
   - GF

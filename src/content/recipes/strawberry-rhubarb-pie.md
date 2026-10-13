@@ -13,6 +13,7 @@ tags:
   - Seasonal Treats
   - Spring
   - Summer
+  - Pie
 dietary:
   - VEG
   - EF

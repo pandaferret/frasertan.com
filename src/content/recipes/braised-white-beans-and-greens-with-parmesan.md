@@ -14,6 +14,7 @@ tags:
   - Beans
   - Vegetarian
   - High Protein
+  - Chard
 dietary:
   - V*
   - GF

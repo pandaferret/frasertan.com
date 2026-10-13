@@ -12,6 +12,8 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Honey
+  - Garlic
 dietary:
   - EF
 source:

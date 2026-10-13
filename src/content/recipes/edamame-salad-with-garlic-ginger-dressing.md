@@ -8,6 +8,10 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Edamame
+  - Carrot
+  - Cherry tomatoes
+  - Cucumber
 dietary:
   - V
   - GF*

@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Green beans
+  - Mushrooms
 dietary:
   - VEG
   - GF*

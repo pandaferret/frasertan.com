@@ -13,6 +13,10 @@ tags:
   - Weeknight Meals
   - Fish
   - High Protein
+  - Salmon
+  - Swordfish
+  - Potatoes
+  - Onion
 dietary:
   - GF
   - EF

@@ -13,6 +13,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Apple
+  - Honey
+  - Pie
 dietary:
   - VEG
 source:

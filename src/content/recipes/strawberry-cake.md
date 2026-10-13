@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Strawberries
 dietary:
   - VEG
 cover: "/images/recipes/strawberry-cake.jpg"

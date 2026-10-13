@@ -8,6 +8,8 @@ categories:
   - Side Dishes
 subcategories:
   - Squash and Zucchini
+tags:
+  - Spaghetti squash
 dietary:
   - V
   - GF

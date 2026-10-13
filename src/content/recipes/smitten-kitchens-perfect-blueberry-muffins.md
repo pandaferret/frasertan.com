@@ -6,6 +6,8 @@ prep: "15 min"
 cook: "30 min"
 categories:
   - Breads and Baked Goods
+tags:
+  - Muffins
 dietary:
   - VEG
 source:

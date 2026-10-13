@@ -11,6 +11,9 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - Apple
+  - Challah
+  - Bread
 dietary:
   - VEG
   - DF

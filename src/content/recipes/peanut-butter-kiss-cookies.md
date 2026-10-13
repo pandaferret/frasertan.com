@@ -11,6 +11,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Christmas
+  - Cookies
+  - Chocolate
+  - Peanut butter
 dietary:
   - VEG
   - GF

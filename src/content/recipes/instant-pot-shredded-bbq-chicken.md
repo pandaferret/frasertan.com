@@ -10,6 +10,7 @@ subcategories:
 tags:
   - Make Ahead
   - High Protein
+  - Chicken
 dietary:
   - GF
   - EF

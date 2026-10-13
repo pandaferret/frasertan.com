@@ -10,6 +10,9 @@ categories:
   - Side Dishes
 subcategories:
   - Green Vegetables
+tags:
+  - Leeks
+  - Capers
 dietary:
   - V*
   - EF

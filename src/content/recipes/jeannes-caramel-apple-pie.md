@@ -13,6 +13,8 @@ tags:
   - Seasonal Treats
   - Christmas
   - Thanksgiving
+  - Pie
+  - Apple
 dietary:
   - VEG
 ---

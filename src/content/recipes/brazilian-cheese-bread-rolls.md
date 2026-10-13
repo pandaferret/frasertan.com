@@ -6,6 +6,8 @@ cook: "20 min"
 yield: "Makes 30-36 rolls"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
 dietary:
   - VEG
   - GF

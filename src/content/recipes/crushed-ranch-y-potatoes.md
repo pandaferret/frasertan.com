@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Potatoes
 source:
   name: "Smitten Kitchen Keepers by Deb Perelman, p. 194"
 dietary:

@@ -6,6 +6,8 @@ added: 2025-02-03
 prep: "15 min"
 categories:
   - Salads
+tags:
+  - Cabbage
 dietary:
   - V*
   - EF

@@ -11,6 +11,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Green beans
+  - Mushrooms
+  - Shallots
 dietary:
   - VEG*
   - EF

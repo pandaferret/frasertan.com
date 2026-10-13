@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Potatoes
+  - Cheese
 dietary:
   - V*
   - GF

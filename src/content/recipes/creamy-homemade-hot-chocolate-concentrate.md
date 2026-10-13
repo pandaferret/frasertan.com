@@ -9,6 +9,7 @@ categories:
 tags:
   - Seasonal Treats
   - Christmas
+  - Chocolate
 dietary:
   - VEG
   - EF

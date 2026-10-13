@@ -8,6 +8,9 @@ categories:
   - Desserts
 subcategories:
   - Frostings and Sauces
+tags:
+  - Sauce
+  - Strawberries
 dietary:
   - V
   - GF

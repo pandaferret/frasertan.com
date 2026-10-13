@@ -12,6 +12,7 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Chicken
+  - Orzo
 dietary:
   - EF
 source:

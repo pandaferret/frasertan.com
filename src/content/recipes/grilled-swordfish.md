@@ -15,6 +15,7 @@ tags:
   - Owen fav
   - Fish
   - High Protein
+  - Swordfish
 dietary:
   - GF*
   - EF

@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Fall
+  - Cake
+  - Apple
 dietary:
   - VEG
   - DF

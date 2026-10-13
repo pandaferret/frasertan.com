@@ -13,6 +13,9 @@ tags:
   - Weeknight Meals
   - Pork
   - High Protein
+  - Eggs
+  - Brussels sprouts
+  - Bacon
 dietary:
   - GF
 source:

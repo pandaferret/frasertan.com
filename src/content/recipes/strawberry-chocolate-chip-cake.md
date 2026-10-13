@@ -9,6 +9,10 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Strawberries
+  - Chocolate
 dietary:
   - VEG
 source:

@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Cakes and Cupcakes
+tags:
+  - Cake
+  - Chocolate
 dietary:
   - VEG
   - EF

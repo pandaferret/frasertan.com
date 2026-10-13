@@ -10,6 +10,11 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+tags:
+  - Marshmallows
+  - Chocolate
+  - Graham crackers
+  - Bars
 dietary:
   - VEG
 source:

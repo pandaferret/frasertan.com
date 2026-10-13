@@ -10,6 +10,10 @@ categories:
   - Desserts
 subcategories:
   - Cookies
+tags:
+  - Cookies
+  - Chocolate
+  - Raspberries
 dietary:
   - VEG
 source:

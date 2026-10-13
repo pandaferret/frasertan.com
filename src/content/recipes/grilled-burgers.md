@@ -14,6 +14,7 @@ tags:
   - Spring
   - Summer
   - High Protein
+  - Beef
 dietary:
   - GF
   - DF

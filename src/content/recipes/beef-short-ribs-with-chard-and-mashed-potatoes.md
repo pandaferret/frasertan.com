@@ -14,6 +14,8 @@ tags:
   - Seasonal Treats
   - Christmas
   - High Protein
+  - Beef
+  - Short ribs
 dietary:
   - GF
   - DF

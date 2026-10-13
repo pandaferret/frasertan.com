@@ -13,6 +13,8 @@ tags:
   - Seasonal Treats
   - Summer
   - Fall
+  - Stonefruit
+  - Tart
 dietary:
   - VEG
 source:

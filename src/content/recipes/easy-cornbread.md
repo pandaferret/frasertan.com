@@ -7,6 +7,10 @@ cook: "35 min"
 yield: "Serves 9"
 categories:
   - Breads and Baked Goods
+tags:
+  - Sundries
+  - Cornmeal
+  - Buttermilk
 dietary:
   - VEG
 ---

@@ -13,6 +13,9 @@ tags:
   - Eric-friendly
   - Fish
   - High Protein
+  - Salmon
+  - Pasta
+  - Tomatoes
 dietary:
   - EF
 source:
