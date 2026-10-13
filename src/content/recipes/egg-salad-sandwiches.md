@@ -10,6 +10,7 @@ tags:
   - Spring
   - Summer
   - High Protein
+  - Bread
 dietary:
   - VEG
   - DF

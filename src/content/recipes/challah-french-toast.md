@@ -5,6 +5,7 @@ Though thick-sliced challah is best for French Toast, you can substitute high qu
 tags:
   - Owen fav
   - Eggs
+  - Bread
 dietary:
   - VEG
 yield: "Serves 3-4"

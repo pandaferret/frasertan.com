@@ -8,6 +8,8 @@ categories:
   - Soups and Stews
 subcategories:
   - Slow Cooker Goodness
+tags:
+  - Bread
 dietary:
   - EF
 source:

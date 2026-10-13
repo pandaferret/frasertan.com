@@ -8,6 +8,7 @@ categories:
   - Salads
 tags:
   - Lettuce
+  - Bread
 dietary:
   - VEG*
   - EF

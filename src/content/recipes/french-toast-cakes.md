@@ -6,6 +6,8 @@ cook: "30 min"
 yield: "Serves 4"
 categories:
   - Breakfast
+tags:
+  - Bread
 dietary:
   - VEG
 ---

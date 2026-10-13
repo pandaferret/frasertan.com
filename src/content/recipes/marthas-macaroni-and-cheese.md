@@ -12,6 +12,7 @@ tags:
   - Seasonal Treats
   - Fall
   - Winter
+  - Bread
 dietary:
   - VEG
   - EF

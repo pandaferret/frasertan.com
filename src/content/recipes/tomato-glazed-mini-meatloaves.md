@@ -10,6 +10,7 @@ subcategories:
   - Beef
 tags:
   - High Protein
+  - Bread
 source:
   name: "The Smitten Kitchen Cookbook, p. 187"
 ---

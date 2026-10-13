@@ -12,6 +12,7 @@ tags:
   - High Protein
   - Steak
   - Lettuce
+  - Bread
 source:
   name: "Cook's Illustrated"
 cover: "/images/recipes/steak-caesar-salad.jpg"

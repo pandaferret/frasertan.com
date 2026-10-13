@@ -14,6 +14,7 @@ subcategories:
   - Soups
 tags:
   - Seasonal Treats
+  - Bread
 source:
   name: "Cook's Illustrated's Best International Recipes"
 dietary:
