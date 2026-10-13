@@ -12,6 +12,7 @@ subcategories:
   - Poultry
 tags:
   - High Protein
+  - Chicken
 dietary:
   - GF
   - EF

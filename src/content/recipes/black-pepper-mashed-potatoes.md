@@ -9,6 +9,7 @@ categories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Potatoes
 dietary:
   - V*
   - EF

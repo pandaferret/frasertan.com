@@ -14,6 +14,7 @@ subcategories:
   - Poultry
 tags:
   - High Protein
+  - Turkey
 dietary:
   - GF
   - EF

@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Thanksgiving
+  - Pie
+  - Pumpkin
 ---
 
 ## Ingredients

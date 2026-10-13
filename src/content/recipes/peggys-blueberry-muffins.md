@@ -7,6 +7,9 @@ cook: "25 min"
 added: 2025-01-22
 categories:
   - Breads and Baked Goods
+tags:
+  - Muffins
+  - Blueberries
 dietary:
   - VEG
 ---

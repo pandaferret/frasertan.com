@@ -6,6 +6,8 @@ cook: "15 min"
 yield: "Makes 4 flatbreads"
 categories:
   - Breads and Baked Goods
+tags:
+  - Bread
 dietary:
   - VEG
   - EF

@@ -13,6 +13,9 @@ tags:
   - Weeknight Meals
   - Chicken
   - High Protein
+  - Corn
+  - Ground turkey
+  - Chickpeas
 dietary:
   - GF*
 source:

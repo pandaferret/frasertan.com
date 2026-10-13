@@ -7,6 +7,8 @@ rest: "Rise 2 hr 15 min"
 yield: "Makes 8 rolls"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
 dietary:
   - VEG
 source:

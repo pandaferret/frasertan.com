@@ -7,6 +7,8 @@ rest: "Rise 1 hr 15 min"
 yield: "Makes 2 small loaves"
 categories:
   - Breads and Baked Goods
+tags:
+  - Bread
 source:
   url: "https://alexandracooks.com/2012/11/07/my-mothers-peasant-bread-the-best-easiest-bread-you-will-ever-make/"
 cover: "/images/recipes/quick-peasant-bread.jpg"

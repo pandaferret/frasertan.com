@@ -10,6 +10,7 @@ tags:
   - Weeknight Meals
   - Beef
   - High Protein
+  - Steak
 source:
   name: "Cook's Illustrated"
 cover: "/images/recipes/steak-caesar-salad.jpg"

@@ -11,6 +11,7 @@ subcategories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Pasta
 dietary:
   - V
   - EF

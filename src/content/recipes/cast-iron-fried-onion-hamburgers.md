@@ -14,6 +14,7 @@ tags:
   - Eric-friendly
   - Beef
   - High Protein
+  - Steak
 dietary:
   - EF
 source:

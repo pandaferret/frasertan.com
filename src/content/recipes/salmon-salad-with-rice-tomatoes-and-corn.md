@@ -12,6 +12,9 @@ tags:
   - Weeknight Meals
   - Eric-friendly
   - Fish
+  - Salmon
+  - Corn
+  - Rice
 dietary:
   - GF*
   - EF

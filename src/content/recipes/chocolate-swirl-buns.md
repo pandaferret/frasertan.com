@@ -7,6 +7,9 @@ rest: "Rise 1 1/2 hr"
 yield: "Makes 12 buns"
 categories:
   - Breads and Baked Goods
+tags:
+  - Rolls
+  - Chocolate
 dietary:
   - VEG
 source:

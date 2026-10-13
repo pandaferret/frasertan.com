@@ -9,6 +9,9 @@ categories:
   - Desserts
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
+tags:
+  - Rhubarb
+  - Pecans
 dietary:
   - VEG
   - EF

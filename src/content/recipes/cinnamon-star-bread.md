@@ -7,6 +7,8 @@ rest: "Rise 3 hr"
 yield: "Makes 1 loaf"
 categories:
   - Breads and Baked Goods
+tags:
+  - Bread
 dietary:
   - VEG
 source:

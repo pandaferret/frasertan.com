@@ -16,6 +16,8 @@ tags:
   - Owen fav
   - Beef
   - High Protein
+  - Steak
+  - Mexican
 dietary:
   - EF
   - GF*

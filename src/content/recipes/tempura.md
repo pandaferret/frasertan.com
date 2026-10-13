@@ -12,6 +12,7 @@ subcategories:
 tags:
   - Seasonal Treats
   - "New Year's Eve"
+  - Shrimp
 dietary:
   - VEG*
   - DF

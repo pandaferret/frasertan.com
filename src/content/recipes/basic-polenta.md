@@ -12,6 +12,7 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Polenta
 source:
   url: "https://www.cooksillustrated.com/recipes/1958-basic-polenta"
 dietary:

@@ -11,6 +11,7 @@ subcategories:
   - Poultry
 tags:
   - High Protein
+  - Chicken
 dietary:
   - DF
 source:

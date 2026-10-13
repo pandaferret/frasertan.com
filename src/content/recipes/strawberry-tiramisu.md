@@ -12,6 +12,7 @@ subcategories:
   - Sweets and Sundries
 tags:
   - Make Ahead
+  - Strawberries
 dietary:
   - VEG
 source:

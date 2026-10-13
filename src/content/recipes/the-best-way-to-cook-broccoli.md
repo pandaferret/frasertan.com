@@ -10,6 +10,7 @@ tags:
   - Eric-friendly
   - Weeknight Meals
   - Vegetarian
+  - Broccoli
 source:
   url: "http://www.cooksillustrated.com/how_tos/5536-the-best-way-to-cook-broccoli"
 dietary:

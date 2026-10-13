@@ -13,6 +13,9 @@ tags:
   - Seasonal Treats
   - Christmas
   - Make Ahead
+  - Cookies
+  - Chocolate
+  - Caramel
 dietary:
   - VEG
   - EF

@@ -8,6 +8,10 @@ categories:
   - Main Dishes
 subcategories:
   - Pastas and Grains
+tags:
+  - Orzo
+  - Asparagus
+  - Pasta
 dietary:
   - V*
   - EF

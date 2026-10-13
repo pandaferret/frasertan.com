@@ -8,6 +8,9 @@ yield: "Serves 4-6"
 categories:
   - Starters
   - Side Dishes
+tags:
+  - Leeks
+  - Capers
 dietary:
   - V*
   - EF

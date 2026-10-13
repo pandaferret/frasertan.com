@@ -10,6 +10,9 @@ subcategories:
 tags:
   - Weeknight Meals
   - Pork
+  - Pasta
+  - Sausage
+  - Spinach
 dietary:
   - EF
 source:

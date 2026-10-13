@@ -7,6 +7,8 @@ rest: "Rise 1 hr 15 min"
 yield: "Makes 16 large or 32 mini pretzels"
 categories:
   - Breads and Baked Goods
+tags:
+  - Sundries
 dietary:
   - V*
   - DF

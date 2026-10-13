@@ -12,6 +12,8 @@ subcategories:
 tags:
   - Seasonal Treats
   - Winter
+  - Pie
+  - Grapefruit
 dietary:
   - VEG
   - EF

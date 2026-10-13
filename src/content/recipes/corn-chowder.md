@@ -12,6 +12,9 @@ subcategories:
 tags:
   - Seasonal Treats
   - Summer
+  - Corn
+  - Bacon
+  - Potatoes
 dietary:
   - VEG*
   - EF

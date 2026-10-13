@@ -15,6 +15,8 @@ tags:
   - Winter
   - Eric-friendly
   - Vegetarian
+  - Chickpeas
+  - Broccoli
 source:
   url: "https://www.ambitiouskitchen.com/chickpea-apple-broccoli-salad-with-honey-dijon-dressing/"
 cover: "/images/recipes/chickpea-apple-broccoli-salad-with-honey-dijon-dressing.jpg"

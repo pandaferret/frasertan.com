@@ -7,6 +7,8 @@ rest: "Chill 24 hr, rest 2 hr"
 yield: "Serves 8-10"
 categories:
   - Breads and Baked Goods
+tags:
+  - Bread
 dietary:
   - V
   - EF

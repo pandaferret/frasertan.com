@@ -11,6 +11,8 @@ categories:
 tags:
   - Weeknight Meals
   - Vegetarian
+  - Cabbage
+  - Rosemary
 dietary:
   - V
   - GF

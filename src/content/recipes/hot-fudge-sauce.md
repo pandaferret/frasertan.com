@@ -14,6 +14,9 @@ categories:
   - Desserts
 subcategories:
   - Frostings and Sauces
+tags:
+  - Sauce
+  - Chocolate
 dietary:
   - VEG
   - GF

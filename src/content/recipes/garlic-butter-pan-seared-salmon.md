@@ -13,6 +13,7 @@ tags:
   - Eric-friendly
   - Fish
   - High Protein
+  - Salmon
 dietary:
   - GF
   - EF
