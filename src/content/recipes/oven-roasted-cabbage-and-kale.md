@@ -6,6 +6,8 @@ cook: "40 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Weeknight Meals
 source:

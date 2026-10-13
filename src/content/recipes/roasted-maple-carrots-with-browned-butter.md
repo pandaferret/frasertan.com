@@ -6,6 +6,8 @@ cook: "20 min"
 yield: "Serves 6"
 categories:
   - Side Dishes
+subcategories:
+  - More Vegetables
 dietary:
   - V*
   - EF

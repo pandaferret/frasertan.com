@@ -5,6 +5,8 @@ cook: "15 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 tags:
   - Weeknight Meals
   - Beans

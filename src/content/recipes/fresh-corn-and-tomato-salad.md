@@ -6,6 +6,8 @@ prep: "10 min"
 cook: "10 min"
 categories:
   - Side Dishes
+subcategories:
+  - Corn
 tags:
   - Seasonal Treats
   - Summer

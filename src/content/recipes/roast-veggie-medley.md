@@ -6,6 +6,8 @@ cook: "1 hr 15 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - More Vegetables
 dietary:
   - V
   - EF

@@ -7,6 +7,8 @@ prep: "10 min"
 cook: "45 min"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 tags:
   - Weeknight Meals
   - Vegetarian

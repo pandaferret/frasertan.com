@@ -6,6 +6,8 @@ yield: "Serves 4-6"
 categories:
   - Sauces and Dips
   - Side Dishes
+subcategories:
+  - More Vegetables
 tags:
   - Seasonal Treats
   - Summer

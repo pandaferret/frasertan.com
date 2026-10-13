@@ -6,6 +6,8 @@ cook: "1 hr"
 yield: "Serves 6-8"
 categories:
   - Side Dishes
+subcategories:
+  - Potatoes
 dietary:
   - V*
   - EF

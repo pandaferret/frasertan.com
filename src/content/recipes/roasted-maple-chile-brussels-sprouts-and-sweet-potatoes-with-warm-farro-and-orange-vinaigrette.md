@@ -9,6 +9,7 @@ categories:
   - Side Dishes
 subcategories:
   - Vegetarian
+  - More Vegetables
 dietary:
   - V*
   - GF*

@@ -9,6 +9,8 @@ cook: "40 min"
 yield: "Serves 4-6"
 categories:
   - Side Dishes
+subcategories:
+  - Pastas and Grains
 tags:
   - Weeknight Meals
   - Vegetarian

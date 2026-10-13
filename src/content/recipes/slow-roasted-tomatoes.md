@@ -6,6 +6,8 @@ cook: "3 hr"
 yield: "Makes about 2 cups"
 categories:
   - Side Dishes
+subcategories:
+  - More Vegetables
 tags:
   - Seasonal Treats
   - Summer

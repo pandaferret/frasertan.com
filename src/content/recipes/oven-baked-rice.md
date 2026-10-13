@@ -7,6 +7,8 @@ rest: "Stand 10 min"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Pastas and Grains
 dietary:
   - V*
   - EF

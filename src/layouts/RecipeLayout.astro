@@ -2,6 +2,7 @@
 import BaseLayout from "./BaseLayout.astro";
 import DietaryBadge from "../components/DietaryBadge.astro";
 import CookMode from "../components/CookMode.astro";
+import { SUBCATEGORIES } from "../subcategories";
 
 interface Props {
   title: string;
@@ -122,7 +123,11 @@ const tagHref = (tag: string) => {
 
 const category = categories[0];
 const categoryHref = `/categories/${category.toLowerCase().replace(/ /g, "-")}/`;
-const subcategory = subcategories?.[0];
+// Only a subcategory that shows as a chip on this category's page gets a
+// breadcrumb, so a salad that's also a side doesn't link to a missing chip.
+const subcategory = subcategories?.find((sub) =>
+  SUBCATEGORIES[category]?.includes(sub),
+);
 const breadcrumbs = [
   { label: "Home", href: "/" },
   { label: "Recipes", href: "/recipes/" },

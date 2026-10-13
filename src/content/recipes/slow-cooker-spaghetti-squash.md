@@ -5,6 +5,8 @@ cook: "5 hr"
 yield: "Serves 4"
 categories:
   - Side Dishes
+subcategories:
+  - Squash and Zucchini
 dietary:
   - V
   - EF

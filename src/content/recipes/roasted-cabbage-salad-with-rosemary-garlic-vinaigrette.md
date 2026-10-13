@@ -8,6 +8,8 @@ cook: "20 min"
 categories:
   - Salads
   - Side Dishes
+subcategories:
+  - Green Vegetables
 tags:
   - Weeknight Meals
   - Vegetarian
