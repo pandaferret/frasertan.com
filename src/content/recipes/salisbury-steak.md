@@ -56,3 +56,7 @@ For the gravy:
 4. Prepare the gravy: To the same skillet, add the onion and mushrooms, season with salt and raise the heat to medium-high. Cook, stirring occasionally until deeply browned but not burned, 8 to 10 minutes. The vegetables will release their water before starting to brown, so be patient. Add more oil if the pan looks dry.
 5. Sprinkle over the flour and cook, stirring, until you can no longer see streaks of white and the raw flour taste cooks out, about 30 seconds.
 6. Stir in the beef stock and milk. Season generously with salt and pepper and bring to a simmer over medium-high. Taste the sauce and season to taste with 1/2 to 1 teaspoon Worcestershire if you'd like more savoriness, 1 tablespoon ketchup for tanginess and a pinch of brown sugar for a little sweetness. Add the seared steaks to the gravy and reduce the heat to continue simmering, basting the steaks once or twice, until the gravy is thicker and reduced to your liking, 4 to 5 minutes. Serve immediately and sprinkle with chives, if you'd like.
+
+## Notes
+
+- I found the steaks just a smidge too sweet - next time I'll try halving the ketchup and see if that boosts the tang over the sweet.
