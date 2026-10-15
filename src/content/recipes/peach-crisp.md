@@ -9,6 +9,8 @@ categories:
 subcategories:
   - Crumbles, Cobblers, Buckles and Bars
 tags:
+  - Seasonal Treats
+  - Summer
   - Owen fav
   - Peaches
   - Stonefruit
