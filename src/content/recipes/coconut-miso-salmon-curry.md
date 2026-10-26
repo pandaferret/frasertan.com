@@ -25,7 +25,7 @@ cover: "/images/recipes/coconut-miso-salmon-curry.jpg"
 ## Ingredients
 
 - 2 tablespoons safflower or canola oil
-- 1 medium red onion, halved and sliced ½-inch thick (about 2 cups)
+- 1 medium sweet onion, halved and sliced ½-inch thick (about 2 cups)
 - 1 (1-inch) piece fresh ginger, minced (about 2 tablespoons)
 - 3 garlic cloves, thinly sliced
 - Kosher salt and black pepper
