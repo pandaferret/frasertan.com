@@ -5,8 +5,76 @@
 // or the term plus a simple ending: "pie" matches "pie", "pies" and "pie's";
 // "bake" matches "baked" and "baking". Both the recipe search page (through
 // PagefindUI's bundlePath) and the category and tag pages load this module.
+//
+// It also recovers from a redeploy. Pagefind loads its index once per page
+// session, and every deploy replaces the index files with new, differently
+// named ones. A tab opened (or a session kept alive by view transitions)
+// before a deploy would otherwise keep asking for files that no longer exist
+// and find nothing until the page is reloaded.
 export * from "../pagefind/pagefind.js";
 import * as pagefind from "../pagefind/pagefind.js";
+
+// Which index files the current deploy uses, as Pagefind's entry file lists
+// them. Fetched with a timestamp so no cache hands back an older copy.
+const ENTRY_URL = new URL("../pagefind/pagefind-entry.json", import.meta.url);
+const deployedIndex = async () => {
+  const response = await fetch(`${ENTRY_URL}?ts=${Date.now()}`);
+  return JSON.stringify((await response.json()).languages);
+};
+
+// The index this page loaded, checked again at most once a minute.
+let loadedIndex = deployedIndex().catch(() => undefined);
+let checkedAt = Date.now();
+let lastOptions;
+const CHECK_EVERY_MS = 60_000;
+
+// Drops Pagefind's loaded index so it starts over from the current deploy.
+const reload = async () => {
+  await pagefind.destroy();
+  if (lastOptions) await pagefind.options(lastOptions);
+};
+
+// Whether a new deploy has replaced the index this page loaded, and if so,
+// reloads it. Checked at most once a minute unless forced.
+const reloadIfRedeployed = async (force = false) => {
+  if (!force && Date.now() - checkedAt < CHECK_EVERY_MS) return false;
+  checkedAt = Date.now();
+  try {
+    const current = await deployedIndex();
+    const redeployed = (await loadedIndex) !== current;
+    loadedIndex = Promise.resolve(current);
+    if (redeployed) await reload();
+    return redeployed;
+  } catch {
+    return false; // Offline or the entry file failed: keep the loaded index.
+  }
+};
+
+// Pagefind reports a missing index file as no results, so an empty answer
+// also checks for a deploy that landed since the last check, and if there was
+// one, searches the new index instead.
+const rawSearch = async (query, options) => {
+  await reloadIfRedeployed();
+  let response;
+  try {
+    response = await pagefind.search(query, options);
+  } catch {
+    response = undefined;
+  }
+  if (response?.results?.length) return response;
+  if (await reloadIfRedeployed(true)) return pagefind.search(query, options);
+  return response ?? pagefind.search(query, options);
+};
+
+export const options = async (newOptions) => {
+  lastOptions = { ...lastOptions, ...newOptions };
+  return pagefind.options(newOptions);
+};
+
+export const preload = async (query, options) => {
+  await reloadIfRedeployed();
+  return pagefind.preload(query, options);
+};
 
 // Endings a word may add to a search term (or to its base, below).
 const ENDINGS = new Set(["", "s", "es", "e", "d", "ed", "ing"]);
@@ -75,7 +143,7 @@ const isWholeWordMatch = async (terms, result) => {
 const isKnownWord = async (query, terms, options) => {
   if (!options?.filters || Object.keys(options.filters).length === 0)
     return false; // The caller already searched every recipe.
-  const { results } = await pagefind.search(query);
+  const { results } = await rawSearch(query);
   for (let n = 0; n < results.length; n += 20) {
     const batch = results.slice(n, n + 20);
     const found = await Promise.all(
@@ -87,7 +155,7 @@ const isKnownWord = async (query, terms, options) => {
 };
 
 export const search = async (query, options) => {
-  const response = await pagefind.search(query, options);
+  const response = await rawSearch(query, options);
   if (!response?.results?.length) return response;
   const terms = searchTerms(query ?? "");
   if (terms.length === 0) return response;
