@@ -324,7 +324,10 @@ const tabs = [
     for (const tab of tabs) {
       tab.addEventListener("click", (event) => {
         event.preventDefault();
-        history.replaceState(null, "", tab.getAttribute("href"));
+        // Keep the router's history state: Astro's view transitions ignore
+        // back/forward to an entry whose state is null, so wiping it here
+        // left the back button changing the URL without loading the page.
+        history.replaceState(history.state, "", tab.getAttribute("href"));
         // Keep the query and narrow it to the newly selected tab.
         runSearch();
       });
