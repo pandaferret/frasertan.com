@@ -18,7 +18,8 @@ source:
 
 ## Ingredients
 
-- Cookies
+Cookies:
+
 - 2 cups (284 grams) all-purpose flour
 - 1 teaspoon baking powder
 - 1/4 teaspoon salt
@@ -29,7 +30,9 @@ source:
 - 1 large egg plus 1 large yolk
 - 1 1/2 teaspoons lemon extract
 - 1/2 teaspoon pure vanilla extract
-- Coating Sugar
+
+Coating Sugar:
+
 - 3/4 cup (150 grams) granulated sugar
 - 2 teaspoons lemon zest
 
