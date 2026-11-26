@@ -45,7 +45,6 @@ source:
 - ¼ tsp nutmeg
 - ⅛ tsp ground cloves
 - ⅔ cup chicken stock (⅓ to 1 cup)
-- 1 large egg, beaten (optional, makes it firmer)
 - ¾ cup extra chicken stock, for baking in a dish (½ to 1 cup)
 
 ## Directions
@@ -55,11 +54,11 @@ source:
 3. Add the apples and cook until tender, about 5 minutes.
 4. Add the butter, onions and celery and cook until tender, about 5 minutes.
 5. Take the pan off the heat and stir in the parsley, sage, thyme, salt, pepper, nutmeg and cloves.
-6. Toss the sausage mixture with the bread. Add the stock a little at a time until the stuffing is lightly moist but not packed. Stir in the egg, if using. Taste and adjust the seasoning.
-7. To bake in a dish, mix in the extra stock (or another beaten egg). Spread in a buttered shallow baking dish and bake at 350°F until crusty on top and hot through, 25 to 40 minutes. If you cover it with foil, dot the top with butter and uncover for the last 20 minutes.
+6. Toss the sausage mixture with the bread. Add the stock a little at a time until the stuffing is lightly moist but not packed. Taste and adjust the seasoning.
+7. To bake in a dish, mix in the extra stock. Spread in a buttered shallow baking dish and bake at 350°F until crusty on top and hot through, 25 to 40 minutes. If you cover it with foil, dot the top with butter and uncover for the last 20 minutes.
 
 ## Notes
 
 - To stuff a turkey, make the stuffing just before it goes in, use only enough stock that it holds together, and pack it loosely. It's safe to eat once the center reaches 160°F.
-- Make ahead: The stuffing keeps for up to 2 days in the fridge. Add the egg just before baking.
+- Make ahead: The stuffing keeps for up to 2 days in the fridge.
 - Sausage swap: For each pound of bulk sausage, use 12 oz brown-and-serve links, cut into pieces and sautéed along with the apples.
