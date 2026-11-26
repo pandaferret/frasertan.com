@@ -1,6 +1,10 @@
 ---
 title: "Sausage and Apple Stuffing"
-description: "This is the only dressing recipe that I like, and of course it comes from Autumn! For the best possible deliciousness, use sausage from Root Down Farms. Toasted sourdough cubes tossed with browned pork sausage, tart green apples, onion, celery and warm spices, then baked until crusty on top. It keeps for up to 2 days in the fridge, so you can make it ahead of the big day."
+description: "This is the only dressing recipe that I like, and of course it comes from Autumn! For the best possible deliciousness, use sausage from Root Down Farms."
+quote:
+  author: "The Joy of Cooking"
+  text: |
+    Toasted sourdough cubes tossed with browned pork sausage, tart green apples, onion, celery and warm spices, then baked until crusty on top. It keeps for up to 2 days in the fridge, so you can make it ahead of the big day.
 yield: "Serves 18 (about 14 to 16 cups)"
 added: 2026-11-26
 prep: "25 min"
