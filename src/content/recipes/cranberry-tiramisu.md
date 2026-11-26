@@ -16,7 +16,6 @@ tags:
   - Eric-friendly
   - Make Ahead
   - Cranberries
-  - Strawberries
 dietary:
   - VEG
 source:
