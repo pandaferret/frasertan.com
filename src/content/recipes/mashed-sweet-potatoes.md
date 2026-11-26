@@ -10,6 +10,7 @@ subcategories:
   - Potatoes
 tags:
   - Seasonal Treats
+  - Thanksgiving
   - Fall
   - Winter
 dietary:
